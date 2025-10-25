@@ -1,0 +1,323 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB267",
+  "title": "relative to the penalty for engaging in prostitution as a patron.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/09/2025 and Referred to Judiciary;  SJ 3",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Hearing: 02/20/2025, Room 100, SH, 01:00 pm;  SC 10",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass, 03/06/2025, Vote 4-0;  SC 11",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Sen. Abbas Floor Amendment # 2025-0713s, AA, VV; 03/06/2025;  SJ 6",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-0713s, MA, VV; OT3rdg; 03/06/2025;  SJ 6",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Introduced (in recess of) 03/27/2025 and referred to Criminal Justice and Public Safety  HJ 11  P. 113",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 04/11/2025 01:30 pm LOB 202-204",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "==RECESSED== Executive Session: 04/23/2025 11:00 am LOB 202-204",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "==CANCELLED== Executive Session: 04/25/2025 10:00 am LOB 202-204",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass  04/30/2025 (Vote 14-2; RC)",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Lay SB267 on Table (Rep. Harrington): MF RC 110-253 05/22/2025  HJ 15  P. 12",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "FLAM # 2025-2330h  (Rep. Rhodes): AA VV 05/22/2025  HJ 15  P. 15",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-2330h: MA RC 292-72 05/22/2025  HJ 15  P. 15",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Sen. Gannon Moved to Concur with the House Amendment, MA, VV; 06/12/2025;  SJ 16",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2913e: AA VV (in recess of) 06/26/2025  HJ 18  P. 60",
+      "date": "2025-07-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2913e Adopted, VV, (In recess of 06/26/2025);  SJ 17",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-07-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 64",
+      "date": "2025-07-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 07/29/2025; Chapter 260; Effective 01/01/2026",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nancy A Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy A Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne M. Prentiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne M. Prentiss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan Fenton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donovan Fenton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Long",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Long\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2913e",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2913e&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-0713s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-0713s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=1117&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1117&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB461",
+  "title": "relative to department of safety and department of motor vehicle training and testing materials.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Transportation  HJ 3  P. 11",
+      "date": "2025-01-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/11/2025 11:00 am LOB 203",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/04/2025 10:00 am LOB 203",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-0471h   03/04/2025 (Vote 9-7; RC)  HC 17  P. 45",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-0471h: AA VV 03/26/2025  HJ 10  P. 95",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-0471h: MA RC 187-159 03/26/2025  HJ 10  P. 95",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Introduced 03/27/2025 and Referred to Transportation;  SJ 10",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Hearing: 04/08/2025, Room 101, LOB, 01:45 pm;  SC 16",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 05/15/2025;  SC 21",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 05/15/2025;  SJ 13",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steven D Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven D Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas C Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas C Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory G. Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory G. Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Gorski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Gorski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-0471h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0471h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0891&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0891&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "1041"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

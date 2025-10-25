@@ -1,0 +1,301 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB358",
+  "title": "relative to exemption from immunization requirements on the basis of religious belief.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Health, Human Services and Elderly Affairs  HJ 2  P. 16",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 03/05/2025 11:30 am LOB 201",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/05/2025 11:30 am LOB 201",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass  03/12/2025 (Vote 10-8; RC)  HC 17  P. 57",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: MA RC 206-169 03/27/2025  HJ 11  P. 33",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Introduced 03/27/2025 and Referred to Health and Human Services;  SJ 10",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "==ROOM CHANGE== Hearing: 04/09/2025, Room 100, SH, 10:30 am;  SC 16",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-1753s, 05/08/2025; Vote 5-0; CC;  SC 20",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-1753s, MA, VV; OT3rdg; 05/08/2025;  SJ 12",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-1753s, AA, VV; 05/08/2025;  SJ 12",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "House Concurs with Senate Amendment 2025-1753s (Rep. W. MacDonald): MA RC 194-153 06/12/2025  HJ 17  P. 10",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 59",
+      "date": "2025-07-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor Ayotte 07/15/2025",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin A. Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Comtois",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Comtois\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel E. Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim A Kofalt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erica J Layon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erica J Layon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert J Wherry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert J Wherry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonah Orion Wheeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonah Orion Wheeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sayra Lynn DeVito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sayra Lynn DeVito\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-1753s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-1753s&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-1753s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-1753s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0441&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0441&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "3019"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

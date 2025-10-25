@@ -1,0 +1,271 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB297",
+  "title": "relative to pooled risk management programs.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 02/13/2025 and Referred to Finance;  SJ 6",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Hearing: 03/04/2025, Room 103, SH, 01:00 pm;  SC 11",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-0951s, 03/20/2025; Vote 6-0; CC;  SC 13",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-0951s, AA, VV; 03/20/2025;  SJ 8",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-0951s, MA, VV; OT3rdg; 03/20/2025;  SJ 8",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Introduced (in recess of) 03/27/2025 and referred to Commerce and Consumer Affairs  HJ 11  P. 113",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 04/23/2025 01:30 pm LOB 302-304",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 05/07/2025 10:00 am LOB 302-304",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 05/20/2025 10:00 am LOB 302-304",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 05/21/2025 10:00 am LOB 302-304",
+      "date": "2025-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Executive Session: 05/27/2025 01:15 pm LOB 302-304",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 05/27/2025 10:00 am LOB 302-304",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-2473h   05/27/2025 (Vote 16-0; CC)  HC 27  P. 8",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-2473h: AA VV 06/05/2025  HJ 16  P. 143",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-2473h: MA VV 06/05/2025  HJ 16  P. 149",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Removed from Consent (Reps. Polozov, DeRoy, Morton, McFarlane, Tom Mannion, Perez, Sabourin, Panek, Comtois, Mehegan) 06/03/2025  HJ 16  P. 2",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Special Order to next order of business (Rep. Hunt): MA VV 06/05/2025  HJ 16  P. 142",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Sen. Gray Moved Nonconcur with the House Amendment, MA, VV; 06/12/2025;  SJ 16",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sharon M. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sharon M. Carson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2473h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2473h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-0951s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-0951s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=1168&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1168&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

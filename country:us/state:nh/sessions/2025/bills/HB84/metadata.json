@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB84",
+  "title": "allowing municipalities to collect fees for certain recreational vehicles located on campground properties.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Municipal and County Government  HJ 2  P. 5",
+      "date": "2024-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 01/13/2025 10:30 am LOB 301-303",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 01/23/2025 01:40 pm LOB 301-303",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate  01/23/2025 (Vote 18-0; CC)  HC 10  P. 4",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Inexpedient to Legislate: MA VV 02/06/2025  HJ 4  P. 6",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barry Faulkner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Barry Faulkner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan Fenton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donovan Fenton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0113&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0113&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

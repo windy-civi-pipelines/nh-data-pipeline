@@ -1,0 +1,276 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB33",
+  "title": "relative to the regulation of public school materials.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and Referred to Education;  SJ 2",
+      "date": "2025-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Hearing: 02/18/2025, Room 101, LOB, 10:30 am;  SC 10",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Committee Report: Rereferred to Committee, 03/13/2025, Vote 4-1, CC  SC 12",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "SB 33-FN was Removed from the Consent Calendar; 03/13/2025;  SJ 7",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Rereferred to Committee, RC 8Y-16N, MF; 03/13/2025;  SJ 7",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: RC 16Y-8N, MA; OT3rdg; 03/13/2025;  SJ 7",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Sen. Ward Moved Ought to Pass; 03/13/2025;  SJ 7",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Without Objection, Sen. Avard Moved the Question, MA; 03/13/2025;  SJ 7",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Introduced (in recess of) 03/27/2025 and referred to Education Policy and Administration  HJ 11  P. 109",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "==CANCELLED== Public Hearing: 04/09/2025 10:00 am LOB 205-207",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 04/23/2025 11:00 am LOB 205-207",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 05/20/2025 09:30 am LOB 206-208",
+      "date": "2025-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Retained in Committee",
+      "date": "2025-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 11/05/2025 02:00 pm GP 232",
+      "date": "2025-10-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Glenn Cordelli",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Cordelli\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin A. Avard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill M. Gannon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim A Kofalt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Pauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diane Pauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy Lang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Howard Pearl",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Howard Pearl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shane A Sirois",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shane A Sirois\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith R. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim McGough",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim McGough\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0212&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0212&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

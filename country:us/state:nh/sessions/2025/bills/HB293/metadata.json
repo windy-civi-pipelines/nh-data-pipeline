@@ -1,0 +1,206 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB293",
+  "title": "preventing minors from accessing obscenity on certain electronic devices with internet access.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Judiciary  HJ 2  P. 13",
+      "date": "2025-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/05/2025 11:00 am LOB 206-208",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/03/2025 10:00 am LOB 206-208",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Retained in Committee",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 09/10/2025 10:00 am GP 230",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/15/2025 10:00 am GP 230",
+      "date": "2025-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 11/12/2025 10:00 am GP 230",
+      "date": "2025-09-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "==CANCELLED==  Subcommittee Work Session: 10/27/2025 11:00 am GP 230",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael I Moffett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael I Moffett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret M Drye",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Margaret M Drye\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy F. Aron",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy F. Aron\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juliet Harvey-Bolia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katy Peternel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katy Peternel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin Noble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin Noble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa R Mazur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa R Mazur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R Thibault",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R Thibault\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Louise Bjelobrk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marie Louise Bjelobrk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Aron",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Aron\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0598&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0598&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "2051"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

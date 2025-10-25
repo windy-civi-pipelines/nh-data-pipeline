@@ -1,0 +1,186 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB159",
+  "title": "authorizing the state to report mental health data for firearms background check purposes and providing for processes for voluntary surrender of firearms following certain mental health-related court proceedings and for relief from mental health-related firearms disabilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Criminal Justice and Public Safety  HJ 2  P. 8",
+      "date": "2025-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/07/2025 03:15 pm LOB 202-204",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "==RECESSED== Executive Session: 02/21/2025 10:00 am LOB 202-204",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "==CONTINUED== Executive Session: 02/26/2025 10:00 am LOB 202-204",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-0487h (NT)  02/26/2025 (Vote 10-6; RC)",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-0487h (NT): AA VV 03/13/2025  HJ 8  P. 24",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-0930h (NT): AA VV 03/13/2025  HJ 8  P. 26",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Lay HB159 on Table (Rep. Osborne): MA DV 193-187 03/13/2025  HJ 8  P. 28",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Remove from Table (Rep. Lascelles): MF DV 174-198 03/13/2025  HJ 8  P. 47",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Richard W. Lascelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard W. Lascelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry W Roy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Terry W Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Mandelbaum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Mandelbaum\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-0930h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0930h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0701&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0701&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "3071"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

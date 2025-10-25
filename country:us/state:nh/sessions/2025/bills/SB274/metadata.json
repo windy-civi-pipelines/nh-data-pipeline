@@ -1,0 +1,218 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB274",
+  "title": "establishing a 4-year pilot program to improve rail trails in New Hampshire, including the establishment of 2 funds, the rail trails program fund and the emergency trail repair fund, and making appropriations therefor.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/09/2025 and Referred to Transportation;  SJ 3",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Hearing: 02/11/2025, Room 101, LOB, 02:00 pm;  SC 9",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-0490s, 03/06/2025; Vote 5-0; CC;  SC 11",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-0490s, AA, VV; 03/06/2025;  SJ 6",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-0490s, MA, VV; Refer to Finance Rule 4-5; 03/06/2025;  SJ 6",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass, 03/20/2025, Vote 6-0;  SC 13",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: MA, VV; 03/20/2025;  SJ 8",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Sen. Pearl Moved Laid on Table, MA, VV; 03/20/2025;  SJ 8",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Pending Motion OT3rdg; 03/20/2025;  SJ 8",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mary Jane Wallner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Jane Wallner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Perkins Kwoka",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan Fenton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Donovan Fenton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra Altschiller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra Altschiller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip M Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip M Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tara Reardon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tara Reardon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-0490s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0490s&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-0490s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-0490s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0905&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0905&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB772",
+  "title": "establishing a foundation opportunity budget program for funding public education.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 27",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/04/2025 02:15 pm LOB 205-207",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 02/12/2025 10:00 am LOB 210-211",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 02/25/2025 10:00 am LOB 205-207",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Retained in Committee",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/16/2025 10:00 am GP 232",
+      "date": "2025-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 09/30/2025 10:00 am GP 232",
+      "date": "2025-09-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "==RESCHEDULED== Executive Session: 11/04/2025 02:00 pm GP 232",
+      "date": "2025-10-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dick Ames",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dick Ames\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David J. Luneau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David J. Luneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hope E Damon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hope E Damon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0791&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0791&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "5019"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

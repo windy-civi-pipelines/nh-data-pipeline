@@ -1,0 +1,178 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB330",
+  "title": "relative to establishing penalties for violations of the confidentiality of motor vehicle records.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Criminal Justice and Public Safety  HJ 2  P. 15",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/05/2025 02:30 pm LOB 202-204",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/05/2025 10:00 am LOB 202-204",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Retained in Committee",
+      "date": "2025-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "==RESCHEDULED== Executive Session: 10/22/2025 01:00 pm GP 230",
+      "date": "2025-10-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "==RESCHEDULED==  Full Committee Work Session: 10/22/2025 10:00 am GP 230",
+      "date": "2025-10-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jordan G. Ulery",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jordan G. Ulery\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carol M McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol M McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill H Ohm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill H Ohm\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry W Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry W Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyril Nicholas Aures",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Slottje",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Slottje\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan G DeRoy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan G DeRoy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim McGough",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim McGough\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Victoria Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Victoria Sullivan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0538&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0538&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:38Z"
+  }
+}

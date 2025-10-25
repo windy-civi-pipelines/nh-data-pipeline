@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB450",
+  "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Science, Technology and Energy  HJ 3  P. 10",
+      "date": "2025-01-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 01/28/2025 02:00 pm LOB 302-304",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/10/2025 01:00 pm LOB 302-304",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Full Committee Work Session: 03/10/2025 09:00 am LOB 302-304",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate  03/10/2025 (Vote 18-0; CC)  HC 17  P. 24",
+      "date": "2025-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 43",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John B. Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John B. Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kenneth L Weyler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kenneth L Weyler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherman A. Packard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sherman A. Packard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexis H Simpson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alexis H Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Vose",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Vose\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Rochefort",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Rochefort\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0866&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0866&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB54 on Table (Rep. McFarlane): MA DV 256-106 06/05/2025  HJ 16  P. 65",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB54"
+}

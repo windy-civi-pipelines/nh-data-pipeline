@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB408",
+  "title": "moving the date of the state primary to the fourth Tuesday in August.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Election Law  HJ 3  P. 8",
+      "date": "2025-01-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/25/2025 11:20 am LOB 306-308",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/04/2025 01:00 pm LOB 306-308",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Inexpedient to Legislate  03/04/2025 (Vote 10-8; RC)  HC 17  P. 29",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Ought to Pass",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Lay HB 408 on Table (Rep. Berry): MA DV 190-147 03/26/2025  HJ 10  P. 55",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Timothy O. Horrigan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Timothy O. Horrigan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kris Schultz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kris Schultz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0856&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0856&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "4021"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

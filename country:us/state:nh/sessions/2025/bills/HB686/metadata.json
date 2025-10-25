@@ -1,0 +1,242 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB686",
+  "title": "requiring a voter to provide identification when requesting an absentee ballot.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Election Law  HJ 3  P. 23",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/04/2025 02:30 pm LOB 306-308",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 02/11/2025 10:10 am LOB 306-308",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 02/14/2025 09:30 am LOB 306-308",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 02/21/2025 09:30 am LOB 302-304",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 03/07/2025 01:00 pm LOB 306-308",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/18/2025 10:00 am LOB 306-308",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 03/14/2025 09:00 am LOB 306-308",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Work Session: 03/18/2025 09:00 am LOB 307",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Retained in Committee",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 09/16/2025 10:15 am GP 158",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing on non-germane Amendment # 2025-2935h: 09/16/2025 10:00 am GP 158",
+      "date": "2025-09-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Len P Turcotte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Len P Turcotte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ross Berry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ross Berry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aidan Ankarberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aidan Ankarberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert J Wherry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert J Wherry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katelyn T Kuttab",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katelyn T Kuttab\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claudine R Burnham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudine R Burnham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelley L Potenza",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kelley L Potenza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan G DeRoy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan G DeRoy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2935h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2935h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0502&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0502&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "1030"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

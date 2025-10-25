@@ -1,0 +1,307 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB127",
+  "title": "extending the closing date of the OHRV trails on the Connecticut Lakes headwaters working forest property.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Resources, Recreation and Development  HJ 2  P. 7",
+      "date": "2025-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 01/15/2025 10:30 am LOB 305",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 01/29/2025 10:15 am LOB 305",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass  01/29/2025 (Vote 11-5; RC)  HC 11  P. 10",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: MA DV 198-180 02/13/2025  HJ 5  P. 19",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Introduced 03/06/2025 and Referred to Energy and Natural Resources;  SJ 7",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Hearing: 03/18/2025, Room 103, SH, 09:20 am;  SC 13",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-1103s, 03/27/2025; Vote 5-0; CC;  SC 14",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-1103s, MA, VV; OT3rdg; 03/27/2025;  SJ 9",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-1103s, AA, VV; 03/27/2025;  SJ 9",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "House Concurs with Senate Amendment 2025-1103s (Rep. Harb): MA VV 05/08/2025  HJ 14  P. 4",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2722e Adopted, VV, (In recess of 06/12/2025);  SJ 17",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2722e: AA VV (in recess of) 06/12/2025  HJ 17  P. 25",
+      "date": "2025-06-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 58",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Signed by Governor Ayotte 07/31/2025; Chapter 261; eff. 07/31/2025",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James W Tierney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James W Tierney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard W. Lascelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard W. Lascelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Ouellet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Ouellet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori E Korzen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori E Korzen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean C Durkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean C Durkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Rochefort",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Rochefort\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2722e",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2722e&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-1103s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-1103s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0161&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0161&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

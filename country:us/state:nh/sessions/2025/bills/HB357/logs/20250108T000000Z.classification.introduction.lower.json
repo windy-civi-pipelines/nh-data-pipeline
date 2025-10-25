@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/08/2025 and referred to Health, Human Services and Elderly Affairs  HJ 2  P. 16",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB357"
+}

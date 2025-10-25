@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Full Committee Work Session: 05/06/2025 10:00 am LOBO 202-204",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB291"
+}

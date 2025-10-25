@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee Work Session: 03/14/2025 09:00 am LOB 306-308",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB289"
+}

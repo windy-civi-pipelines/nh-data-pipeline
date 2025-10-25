@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB537 on Table (Rep. Sweeney): MA DV 212-140 03/27/2025  HJ 11  P. 98",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB537"
+}

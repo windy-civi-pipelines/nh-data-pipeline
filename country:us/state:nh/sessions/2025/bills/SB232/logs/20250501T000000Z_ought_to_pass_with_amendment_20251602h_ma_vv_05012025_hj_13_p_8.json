@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment 2025-1602h: MA VV 05/01/2025  HJ 13  P. 8",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB232"
+}

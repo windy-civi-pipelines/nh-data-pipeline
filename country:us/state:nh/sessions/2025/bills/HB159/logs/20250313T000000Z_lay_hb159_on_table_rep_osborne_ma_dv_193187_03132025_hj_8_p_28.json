@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB159 on Table (Rep. Osborne): MA DV 193-187 03/13/2025  HJ 8  P. 28",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB159"
+}

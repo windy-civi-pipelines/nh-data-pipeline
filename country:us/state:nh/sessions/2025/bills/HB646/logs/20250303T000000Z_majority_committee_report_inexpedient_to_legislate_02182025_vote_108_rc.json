@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Inexpedient to Legislate  02/18/2025 (Vote 10-8; RC)",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB646"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED==  Subcommittee Work Session: 02/17/2025 11:00 am LOB 206-208",
+    "date": "2025-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB553"
+}

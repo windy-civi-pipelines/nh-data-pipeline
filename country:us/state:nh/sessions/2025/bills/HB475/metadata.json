@@ -1,0 +1,305 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB475",
+  "title": "relative to the reductions from the default budget for official ballot town meetings.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Municipal and County Government  HJ 3  P. 12",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 02/27/2025 01:45 pm LOB 301-303",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/10/2025 09:30 am LOB 301-303",
+      "date": "2025-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-0600h   03/10/2025 (Vote 10-8; RC)  HC 17  P. 65",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-0600h: AA VV 03/27/2025  HJ 11  P. 91",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-0600h: MA RC 195-159 03/27/2025  HJ 11  P. 91",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Introduced 03/27/2025 and Referred to Election Law and Municipal Affairs;  SJ 10",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Hearing: 05/13/2025, Room 103, LOB, 09:40 am;  SC 21",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass, 05/22/2025; Vote 3-2; CC;  SC 22",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "HB 475 was Removed from the Consent Calendar; 05/22/2025;  SJ 14",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: MA, VV; OT3rdg; 05/22/2025;  SJ 14",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 58",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor Ayotte 07/15/2025",
+      "date": "2025-07-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joe H. Alexander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe H. Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juliet Harvey-Bolia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juliet Harvey-Bolia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Pauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diane Pauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aidan Ankarberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aidan Ankarberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rich\u00e9 Colcombe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rich\\u00e9 Colcombe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyril Nicholas Aures",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyril Nicholas Aures\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clayton D Wood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clayton D Wood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron C Dunn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ron C Dunn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristine Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristine Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan G DeRoy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan G DeRoy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-0600h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0600h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0738&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0738&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "1030"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

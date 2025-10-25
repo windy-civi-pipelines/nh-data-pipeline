@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB 280 on Table (Rep. B. Sullivan): MF RC 172-192 03/20/2025  HJ 9  P. 71",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB280"
+}

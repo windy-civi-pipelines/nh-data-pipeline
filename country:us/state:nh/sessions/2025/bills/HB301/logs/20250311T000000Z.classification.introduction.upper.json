@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 03/06/2025 and Referred to Judiciary;  SJ 7",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB301"
+}

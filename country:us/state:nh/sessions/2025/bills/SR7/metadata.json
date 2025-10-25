@@ -1,0 +1,68 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SR7",
+  "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of hearing the report of the Joint Committee appointed to compare and count the votes for Governor and Executive Council, for the Inauguration of the Governor, the Honorable Kelly Ayotte, and for the taking of the oath by the Executive Council.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and Adopted, VV; 01/09/2025;  SJ 3",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:36Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "latest version",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=186&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=186&txtFormat=pdf&v=current",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0179&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0179&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:36Z"
+  }
+}

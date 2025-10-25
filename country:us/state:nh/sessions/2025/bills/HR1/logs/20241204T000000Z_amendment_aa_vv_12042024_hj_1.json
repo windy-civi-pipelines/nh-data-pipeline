@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Amendment: AA VV 12/04/2024  HJ 1",
+    "date": "2024-12-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR1"
+}

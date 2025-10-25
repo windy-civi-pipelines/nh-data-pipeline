@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==RECONVENE== Committee of Conference Meeting: 06/18/2025, 09:01 am, Room 103, SH",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB213"
+}

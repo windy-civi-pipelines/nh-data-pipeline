@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/08/2025 and referred to Resources, Recreation and Development  HJ 2  P. 15",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB332"
+}

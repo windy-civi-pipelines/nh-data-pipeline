@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate: MA VV 03/06/2025  HJ 7  P. 22",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB540"
+}

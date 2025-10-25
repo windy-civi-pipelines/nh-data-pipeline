@@ -1,0 +1,152 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB352",
+  "title": "prohibiting possession of a firearm at a polling place.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Criminal Justice and Public Safety  HJ 2  P. 16",
+      "date": "2025-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 01/30/2025 12:00 pm LOB 202-204",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Executive Session: 01/30/2025 10:30 am LOB 202-204",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Inexpedient to Legislate  01/30/2025 (Vote 8-7; RC)  HC 12  P. 15",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Ought to Pass",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    },
+    {
+      "description": "Inexpedient to Legislate: MA RC 211-161 02/20/2025  HJ 6  P. 34",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Timothy O. Horrigan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Timothy O. Horrigan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne M. Vail",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne M. Vail\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David James Meuse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David James Meuse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi K Newell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi K Newell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Loren Selig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Loren Selig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0360&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0360&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "5028"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

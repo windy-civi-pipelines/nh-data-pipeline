@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA VV 05/22/2025  HJ 15  P. 6",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB281"
+}

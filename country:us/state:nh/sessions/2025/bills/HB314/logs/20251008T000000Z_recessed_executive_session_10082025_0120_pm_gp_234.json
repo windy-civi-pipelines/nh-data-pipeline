@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==RECESSED== Executive Session: 10/08/2025 01:20 pm GP 234",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB314"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee Work Session: 09/16/2025 10:00 am GP 232",
+    "date": "2025-08-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB491"
+}

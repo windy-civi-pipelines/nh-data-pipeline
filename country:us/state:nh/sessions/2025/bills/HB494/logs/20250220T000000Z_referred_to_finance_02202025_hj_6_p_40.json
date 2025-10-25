@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Finance 02/20/2025  HJ 6  P. 40",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB494"
+}

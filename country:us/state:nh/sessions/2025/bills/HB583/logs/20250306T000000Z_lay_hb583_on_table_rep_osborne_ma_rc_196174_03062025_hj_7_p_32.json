@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB583 on Table (Rep. Osborne): MA RC 196-174 03/06/2025  HJ 7  P. 32",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB583"
+}

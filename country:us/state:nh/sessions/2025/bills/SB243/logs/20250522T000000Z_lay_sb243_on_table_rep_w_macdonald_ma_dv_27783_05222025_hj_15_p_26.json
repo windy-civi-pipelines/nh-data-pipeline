@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB243 on Table (Rep. W. MacDonald): MA DV 277-83 05/22/2025  HJ 15  P. 26",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB243"
+}

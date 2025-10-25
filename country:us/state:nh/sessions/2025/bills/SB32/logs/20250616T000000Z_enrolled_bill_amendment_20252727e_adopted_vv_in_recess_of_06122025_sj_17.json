@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled Bill Amendment # 2025-2727e Adopted, VV, (In recess of 06/12/2025);  SJ 17",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB32"
+}

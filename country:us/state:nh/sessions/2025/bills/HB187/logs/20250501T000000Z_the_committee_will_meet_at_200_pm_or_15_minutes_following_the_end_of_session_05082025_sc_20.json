@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The Committee will meet at 2:00 p.m. or 15 minutes following the end of Session, 05/08/2025;  SC 20",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB187"
+}

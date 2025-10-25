@@ -1,0 +1,523 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB14",
+  "title": "relative to the penalty for certain fentanyl-related offenses; relative to establishing a mandatory minimum sentence for the crime of distribution of a controlled drug with death resulting; and relative to amending the penalties for the possession and use of a quantity of psilocybin for persons 18 years of age or older.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and Referred to Judiciary;  SJ 2",
+      "date": "2024-12-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Hearing: 01/14/2025, Room 100, SH, 01:00 pm;  SC 5",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-0140s, 01/30/2025, Vote 3-2;  SC 7A",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-0140s, RC 15Y-8N, MA; OT3rdg; 01/30/2025;  SJ 4",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-0140s, AA, VV; 01/30/2025;  SJ 4",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Introduced (in recess of) 03/27/2025 and referred to Criminal Justice and Public Safety  HJ 11  P. 109",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 04/09/2025 10:00 am LOB 202-204",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==RECESSED== Executive Session: 04/23/2025 11:00 am LOB 202-204",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==CANCELLED== Executive Session: 04/25/2025 10:00 am LOB 202-204",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==RECESSED== Executive Session: 05/09/2025 11:01 am LOB 202-204",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==CONTINUED== Executive Session: 05/23/2025 01:00 pm LOB 202-204",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-2372h (NT)  05/23/2025 (Vote 9-7; RC)  HC 27  P. 13",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Lay SB 14 on Table (Rep. Newell): MF RC 176-203 06/05/2025  HJ 16  P. 51",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-2372h: AA RC 217-164 06/05/2025  HJ 16  P. 55",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "FLAM # 2025-2636h (Rep. Scherr): AF RC 169-211 06/05/2025  HJ 16  P. 55",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "FLAM # 2025-2641h  (Rep. Polozov): AF DV 181-202 06/05/2025  HJ 16  P. 57",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-2372h: MA RC 214-167 06/05/2025  HJ 16  P. 58",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Sen. Gannon Moved Nonconcur with the House Amendment; Requests C of C, MA, VV; (In Recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "President Appoints: Senators Gannon, Birdsell, Reardon; (In Recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "House Accedes to Senate Request for CofC (Rep. Kofalt): MA VV 06/05/2025  HJ 16  P. 172",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Speaker Appoints: Reps. Roy, Rhodes, Verville, N. Murphy 06/05/2025  HJ 16  P. 172",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee of Conference Meeting: 06/16/2025, 12:00 pm, Room 100, SH",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee of Conference Meeting: 06/16/2025, 03:30 pm, Room 100, SH",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator Abbas Replaces Senator Gannon;  SJ 17",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==RECONVENE== Committee of Conference Meeting: 06/18/2025, 03:00 pm, Room 100, SH",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conferee Change: Rep. S. Smith Replaces Rep. Murphy 06/17/2025  HJ 17  P. 24",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator Lang Replaces Senator Reardon;  SJ 17",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report # 2025-2850c Filed 06/19/2025; House Amendment + New Amendment  HJ 17  P. 24",
+      "date": "2025-06-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report 2025-2850c: Failed, RC 183-186 06/26/2025  HJ 18  P. 15",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Removed from Consent (Reps. Newell, Meuse, W. Thomas, N. Murphy, Scherr, M. Pearson, Muns, Sorensen, Schmidt, Harriott-Gathright) 06/23/2025  HJ 18  P. 2",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Reconsider adopt cofc report (Rep. Litchfield): MA RC 184-182 06/26/2025  HJ 18  P. 18",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report 2025-2850c: Adopted, RC 185-182 06/26/2025  HJ 18  P. 22",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Sen. Gannon Moved Laid on Table, MA, VV; 06/26/2025;  SJ 17",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Pending Motion Committee of Conference Report # 2025-2850c; 06/26/2025;  SJ 17",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kenneth L Weyler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kenneth L Weyler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Birdsell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Birdsell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin A. Avard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill M. Gannon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bill M. Gannon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel E. Innis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark A Pearson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark A Pearson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "JD Bernardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"JD Bernardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy Lang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Abbas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Abbas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith R. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Rochefort",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Rochefort\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2372h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2372h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-0140s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-0140s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0228&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0228&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

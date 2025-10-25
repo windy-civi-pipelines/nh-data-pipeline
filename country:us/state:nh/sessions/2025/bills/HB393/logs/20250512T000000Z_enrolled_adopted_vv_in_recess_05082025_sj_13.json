@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled Adopted, VV, (In recess 05/08/2025);  SJ 13",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB393"
+}

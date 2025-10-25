@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled Bill Amendment # 2025-0804e Adopted, VV, (In recess of 03/06/2025);  SJ 7",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB399"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/09/2025 and Referred to Executive Departments and Administration;  SJ 3",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB201"
+}

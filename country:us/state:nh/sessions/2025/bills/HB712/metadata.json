@@ -1,0 +1,525 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB712",
+  "title": "limiting breast surgeries for minors, relative to residential care and health facility licensing, and relative to the collection and reporting of abortion statistics by health care providers and medical facilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced (in recess of) 01/09/2025 and referred to Health, Human Services and Elderly Affairs  HJ 3  P. 24",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 03/03/2025 01:00 pm LOB 306-308",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Executive Session: 03/19/2025 09:30 am LOB 201",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-1138h   03/19/2025 (Vote 10-8; RC)  HC 17  P. 59",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Amendment # 2025-1138h: AA VV 03/27/2025  HJ 11  P. 58",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment 2025-1138h: MA RC 200-165 03/27/2025  HJ 11  P. 58",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Introduced 03/27/2025 and Referred to Health and Human Services;  SJ 10",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Hearing: 04/23/2025, Room 101, LOB, 10:15 am;  SC 18",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "==ROOM CHANGE== Hearing: 04/23/2025, Room 103, SH, 09:30 am;  SC 18",
+      "date": "2025-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Special Order to 06/05/2025, Without Objection, MA; 05/15/2025  SJ 13",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-1987s, 05/15/2025, Vote 3-2;  SC 21",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-1987s, 06/05/2025, Vote 3-2;",
+      "date": "2025-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-1987s, AA, VV; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Sen. Birdsell Floor Amendment # 2025-2506s, AA, VV; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Sen. Avard Floor Amendment # 2025-2508s, AA, VV; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendments #2025-1987s, and #2025-2506s #2025-2508s, RC 16Y-7N, MA; OT3rdg; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "House Non-Concurs with Senate Amendment 2025-1987s 2025-2506s and 2025-2508s and Requests CofC (Rep. Kofalt): MA VV 06/05/2025  HJ 16  P. 168",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Speaker Appoints: Reps. W. MacDonald, Kesselring, Kofalt, Drew 06/05/2025  HJ 16  P. 169",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Sen. Rochefort Accedes to House Request for Committee of Conference, MA, VV; (In recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "President Appoints: Senators Rochefort, Avard, Prentiss; (In Recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator Birdsell Replaces Senator Avard;  SJ 17",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting: 06/16/2025 03:00 pm LOB 202-204",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting: 06/17/2025 04:00 pm LOB 305",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator Abbas Replaces Senator Prentiss;  SJ 17",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report Filed, # 2025-2862c; 06/26/2025",
+      "date": "2025-06-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report 2025-2862c: Adopted, RC 191-163 06/26/2025  HJ 18  P. 49",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Removed from Consent (Reps. Weber, Lucas, Woods, Tellez, Roesener, Palmer, Schultz, LaMontagne, Hartnett, Beauchemin) 06/25/2025  HJ 18  P. 18",
+      "date": "2025-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report # 2025-2862c; RC 16Y-8N, Adopted; 06/26/2025;  SJ 17",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, MA; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2926e Adopted, VV, (In recess of 06/26/2025);  SJ 17",
+      "date": "2025-07-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Amendment # 2025-2926e: AA VV (in recess of) 06/26/2025  HJ 18  P. 62",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-07-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 64",
+      "date": "2025-07-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Signed by Governor Ayotte 08/01/2025; Chapter 287; eff. I. Sec 10 11 12 13 eff. 07/01/2025 II. Sec 1 6 7 8 9 eff 01/01/2025 III. Sec 14 eff 01/01/2027 IV. Rem eff 01/01/2026",
+      "date": "2025-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeanine M Notter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanine M Notter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim A Kofalt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim A Kofalt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erica J Layon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erica J Layon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa A. Litchfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melissa A. Litchfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rich\u00e9 Colcombe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rich\\u00e9 Colcombe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin Noble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin Noble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheila C Seidel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa R Mazur",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa R Mazur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith R. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sherri L Reinfurt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sherri L Reinfurt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sayra Lynn DeVito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sayra Lynn DeVito\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Victoria Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Victoria Sullivan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2926e",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2926e&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0438&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0438&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": ""
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:37Z"
+  }
+}

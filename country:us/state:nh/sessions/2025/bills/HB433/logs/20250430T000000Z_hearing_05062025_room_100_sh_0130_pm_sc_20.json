@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing: 05/06/2025, Room 100, SH, 01:30 pm;  SC 20",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB433"
+}

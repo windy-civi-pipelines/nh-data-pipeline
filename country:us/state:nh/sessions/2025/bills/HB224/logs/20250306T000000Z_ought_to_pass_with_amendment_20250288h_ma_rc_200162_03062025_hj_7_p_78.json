@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment 2025-0288h: MA RC 200-162 03/06/2025  HJ 7  P. 78",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB224"
+}

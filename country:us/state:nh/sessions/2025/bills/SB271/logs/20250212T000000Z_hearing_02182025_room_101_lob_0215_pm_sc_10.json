@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing: 02/18/2025, Room 101, LOB, 02:15 pm;  SC 10",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB271"
+}

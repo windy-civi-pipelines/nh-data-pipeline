@@ -1,0 +1,178 @@
+{
+  "identifier": "",
+  "motion_text": "Ought to Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-06T00:00:00-05:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "ff38edd2-b14f-11f0-9c56-4ecc530ad4e0",
+  "bill_action": null,
+  "bill_identifier": "SB34",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sharon M. Carson",
+      "voter_id": "~{\"name\": \"Sharon M. Carson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "David H. Watters",
+      "voter_id": "~{\"name\": \"David H. Watters\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin A. Avard",
+      "voter_id": "~{\"name\": \"Kevin A. Avard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina Birdsell",
+      "voter_id": "~{\"name\": \"Regina Birdsell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cindy Rosenwald",
+      "voter_id": "~{\"name\": \"Cindy Rosenwald\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James P. Gray",
+      "voter_id": "~{\"name\": \"James P. Gray\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ruth Ward",
+      "voter_id": "~{\"name\": \"Ruth Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill M. Gannon",
+      "voter_id": "~{\"name\": \"Bill M. Gannon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel E. Innis",
+      "voter_id": "~{\"name\": \"Daniel E. Innis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Suzanne M. Prentiss",
+      "voter_id": "~{\"name\": \"Suzanne M. Prentiss\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Denise Ricciardi",
+      "voter_id": "~{\"name\": \"Denise Ricciardi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rebecca Perkins Kwoka",
+      "voter_id": "~{\"name\": \"Rebecca Perkins Kwoka\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy Lang",
+      "voter_id": "~{\"name\": \"Timothy Lang\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Donovan Fenton",
+      "voter_id": "~{\"name\": \"Donovan Fenton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keith R. Murphy",
+      "voter_id": "~{\"name\": \"Keith R. Murphy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard Pearl",
+      "voter_id": "~{\"name\": \"Howard Pearl\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daryl Abbas",
+      "voter_id": "~{\"name\": \"Daryl Abbas\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Debra Altschiller",
+      "voter_id": "~{\"name\": \"Debra Altschiller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Rochefort",
+      "voter_id": "~{\"name\": \"David Rochefort\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark McConkey",
+      "voter_id": "~{\"name\": \"Mark McConkey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim McGough",
+      "voter_id": "~{\"name\": \"Tim McGough\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tara Reardon",
+      "voter_id": "~{\"name\": \"Tara Reardon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Victoria Sullivan",
+      "voter_id": "~{\"name\": \"Victoria Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pat Long",
+      "voter_id": "~{\"name\": \"Pat Long\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 8
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/dynamicdatadump/RollCallSummary.txt?x=2025252503031761361750",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2025S12"
+}

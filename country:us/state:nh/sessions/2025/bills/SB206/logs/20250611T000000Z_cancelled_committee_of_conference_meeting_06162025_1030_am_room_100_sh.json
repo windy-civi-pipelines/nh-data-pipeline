@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED== Committee of Conference Meeting: 06/16/2025, 10:30 am, Room 100, SH",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB206"
+}

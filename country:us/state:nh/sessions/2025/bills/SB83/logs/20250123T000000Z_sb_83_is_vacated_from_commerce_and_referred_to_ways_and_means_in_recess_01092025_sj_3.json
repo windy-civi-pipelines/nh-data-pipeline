@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SB 83 is vacated from Commerce and referred to Ways and Means; (In recess 01/09/2025);  SJ 3",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB83"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate: MA RC 190-151 05/01/2025  HJ 13  P. 13",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB228"
+}

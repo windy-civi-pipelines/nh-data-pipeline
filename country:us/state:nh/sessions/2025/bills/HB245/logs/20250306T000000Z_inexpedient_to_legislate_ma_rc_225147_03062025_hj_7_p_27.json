@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate: MA RC 225-147 03/06/2025  HJ 7  P. 27",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB245"
+}

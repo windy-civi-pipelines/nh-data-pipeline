@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "President Appoints: Senators Ward, Sullivan, Fenton; 06/12/2025;  SJ 16",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB210"
+}

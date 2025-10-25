@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB400 on Table (Rep. Alexander Jr.): MF DV 163-180 03/26/2025  HJ 10  P. 72",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB400"
+}

@@ -1,0 +1,68 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SR3",
+  "title": "RESOLVED, that the return of votes from the several Senatorial Districts be referred to a Select Committee of three with instructions to examine and count the same and report to the Senate where any vacancies or contest exists and if so, in what Senatorial District.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and Adopted, VV; 12/04/2024;  SJ 1",
+      "date": "2024-12-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:35Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "latest version",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=182&txtFormat=html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=182&txtFormat=pdf&v=current",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0175&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0175&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:35Z"
+  }
+}

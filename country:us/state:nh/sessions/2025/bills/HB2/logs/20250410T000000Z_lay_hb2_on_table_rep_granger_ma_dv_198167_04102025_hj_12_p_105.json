@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB2 on Table (Rep. Granger): MA DV 198-167 04/10/2025  HJ 12  P. 105",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==RECESSED== Committee of Conference Meeting: 06/16/2025, 11:00 am, Room 103, SH",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB118"
+}

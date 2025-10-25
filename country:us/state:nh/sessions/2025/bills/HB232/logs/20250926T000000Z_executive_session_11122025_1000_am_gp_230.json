@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session: 11/12/2025 10:00 am GP 230",
+    "date": "2025-09-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB232"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate: MA DV 179-144 06/05/2025  HJ 16",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB198"
+}

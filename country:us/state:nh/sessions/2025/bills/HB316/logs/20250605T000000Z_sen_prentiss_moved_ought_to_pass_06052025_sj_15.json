@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sen. Prentiss Moved Ought to Pass; 06/05/2025;  SJ 15",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB316"
+}

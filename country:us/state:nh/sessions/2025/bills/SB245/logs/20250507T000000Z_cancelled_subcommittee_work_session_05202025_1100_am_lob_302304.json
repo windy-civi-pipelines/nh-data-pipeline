@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED==  Subcommittee Work Session: 05/20/2025 11:00 am LOB 302-304",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB245"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Meeting: 06/19/2025 10:00 am LOB 210-211",
+    "date": "2025-06-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rereferred to Committee, MF, VV; 05/22/2025;  SJ 14",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB566"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA RC 200-155 03/27/2025  HJ 11  P. 98",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB690"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass with Amendment 2025-1488h 2025-1529h 2025-1559h 2025-1526h 2025-1560h 2025-1499h 2025-1523h 2025-1569h 2025-1566h and 2025-1513h: MA RC 185-175 04/10/2025  HJ 12  P. 133",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2"
+}

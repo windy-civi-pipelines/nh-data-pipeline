@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HCR5 on Table (Rep. Moffett): MA DV 176-168 03/26/2025  HJ 10  P. 92",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR5"
+}

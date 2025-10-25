@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB263 on Table (Rep. Cormen): MF RC 179-193 06/05/2025  HJ 16  P. 66",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB263"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Finance (Rep. C. McGuire): MA VV 01/08/2025  HJ 2",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB197"
+}

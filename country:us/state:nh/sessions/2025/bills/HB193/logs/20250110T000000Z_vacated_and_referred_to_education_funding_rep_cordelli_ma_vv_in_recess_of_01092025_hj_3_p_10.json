@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Education Funding  (Rep. Cordelli): MA VV (in recess of) 01/09/2025  HJ 3  P. 10",
+    "date": "2025-01-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB193"
+}

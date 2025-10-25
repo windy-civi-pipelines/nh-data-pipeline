@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass  04/30/2025 (Vote 18-0; CC)",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB202"
+}

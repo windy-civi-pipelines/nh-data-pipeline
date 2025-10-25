@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Education Funding (Rep. Weyler): MA VV (in recess of) 03/27/2025  HJ 11  P. 114",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB292"
+}

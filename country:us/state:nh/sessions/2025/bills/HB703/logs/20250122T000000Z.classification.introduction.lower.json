@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 23",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB703"
+}

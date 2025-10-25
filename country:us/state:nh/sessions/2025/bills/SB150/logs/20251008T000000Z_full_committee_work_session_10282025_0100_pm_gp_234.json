@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Full Committee Work Session: 10/28/2025 01:00 pm GP 234",
+    "date": "2025-10-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB150"
+}

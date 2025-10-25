@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB66 on Table (Rep. Maggiore): MF RC 179-191 04/10/2025  HJ 12  P. 23",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB66"
+}

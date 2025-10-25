@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB251 on Table (Rep. J. Aron): MA RC 226-115 03/27/2025  HJ 11  P. 105",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB251"
+}

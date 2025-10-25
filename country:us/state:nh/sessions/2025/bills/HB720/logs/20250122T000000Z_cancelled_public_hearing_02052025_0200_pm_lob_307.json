@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED== Public Hearing: 02/05/2025 02:00 pm LOB 307",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB720"
+}

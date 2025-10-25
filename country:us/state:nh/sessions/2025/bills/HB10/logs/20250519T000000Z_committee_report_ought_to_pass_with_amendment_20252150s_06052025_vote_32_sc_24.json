@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2025-2150s, 06/05/2025, Vote 3-2;  SC 24",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB10"
+}

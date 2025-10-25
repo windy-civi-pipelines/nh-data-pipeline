@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Full Committee Work Session: 02/25/2025 10:00 am LOB 205-207",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB527"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA, VV; Refer to Finance Rule 4-5; 03/06/2025;  SJ 6",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB128"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB171 on Table (Rep. Soucy): MA DV 170-165 05/01/2025  HJ 13  P. 11",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB171"
+}

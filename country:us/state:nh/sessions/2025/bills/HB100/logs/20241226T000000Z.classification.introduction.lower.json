@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/08/2025 and referred to Public Works and Highways  HJ 2  P. 5",
+    "date": "2024-12-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB100"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 03/13/2025 and Referred to Judiciary;  SJ 8",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB59"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB2 on Table (Rep. Osborne): MA VV 06/26/2025  HJ 18  P. 32",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2"
+}

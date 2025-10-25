@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB 764 on Table (Rep. Weber): MA DV 205-158 03/13/2025  HJ 8  P. 88",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB764"
+}

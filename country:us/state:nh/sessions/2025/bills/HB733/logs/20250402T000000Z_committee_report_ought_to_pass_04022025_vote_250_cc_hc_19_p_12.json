@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass  04/02/2025 (Vote 25-0; CC)  HC 19  P. 12",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB733"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB402 on Table (Rep. Sweeney): MA DV 202-149 03/27/2025  HJ 11  P. 101",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB402"
+}

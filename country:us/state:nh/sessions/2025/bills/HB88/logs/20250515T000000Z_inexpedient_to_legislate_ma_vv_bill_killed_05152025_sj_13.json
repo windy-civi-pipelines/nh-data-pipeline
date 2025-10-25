@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 05/15/2025;  SJ 13",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB88"
+}

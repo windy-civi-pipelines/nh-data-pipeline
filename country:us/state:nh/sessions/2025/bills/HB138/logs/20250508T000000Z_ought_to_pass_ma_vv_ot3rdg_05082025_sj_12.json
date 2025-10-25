@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass: MA, VV; OT3rdg; 05/08/2025;  SJ 12",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB138"
+}

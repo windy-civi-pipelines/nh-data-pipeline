@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB726 on Table (Rep. Creighton): MA RC 197-159 03/20/2025  HJ 9  P. 80",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB726"
+}

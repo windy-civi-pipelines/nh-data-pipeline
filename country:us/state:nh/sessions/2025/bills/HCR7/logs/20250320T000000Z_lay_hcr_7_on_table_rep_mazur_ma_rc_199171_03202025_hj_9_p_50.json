@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HCR 7 on Table (Rep. Mazur): MA RC 199-171 03/20/2025  HJ 9  P. 50",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR7"
+}

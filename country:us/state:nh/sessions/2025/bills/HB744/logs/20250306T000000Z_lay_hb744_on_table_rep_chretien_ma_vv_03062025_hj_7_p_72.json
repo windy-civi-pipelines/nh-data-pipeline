@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB744 on Table (Rep. Chretien): MA VV 03/06/2025  HJ 7  P. 72",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB744"
+}

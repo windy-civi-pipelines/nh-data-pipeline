@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate, RC 8Y-16N, MF; 05/22/2025;  SJ 14",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB446"
+}

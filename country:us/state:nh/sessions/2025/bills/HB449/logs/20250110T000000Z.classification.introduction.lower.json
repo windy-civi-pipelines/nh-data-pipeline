@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced (in recess of) 01/09/2025 and referred to Resources, Recreation and Development  HJ 3  P. 10",
+    "date": "2025-01-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB449"
+}

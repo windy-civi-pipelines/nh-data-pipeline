@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB 14 on Table (Rep. Newell): MF RC 176-203 06/05/2025  HJ 16  P. 51",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB14"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Ought to Pass with Amendment # 2025-0142s, 01/30/2025, Vote 3-2;  SC 7A",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB15"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session: 02/04/2025 02:30 pm LOB 302-304",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB504"
+}

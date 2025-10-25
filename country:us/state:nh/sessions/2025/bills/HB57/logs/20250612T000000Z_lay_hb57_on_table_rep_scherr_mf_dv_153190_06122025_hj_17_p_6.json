@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB57 on Table (Rep. Scherr): MF DV 153-190 06/12/2025  HJ 17  P. 6",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Special Order to 05/08/2025, Without Objection, MA; 05/01/2025  SJ 11",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB107"
+}

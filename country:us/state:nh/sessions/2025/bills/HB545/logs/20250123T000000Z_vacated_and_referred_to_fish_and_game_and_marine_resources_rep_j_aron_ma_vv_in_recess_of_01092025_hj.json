@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Fish and Game and Marine Resources (Rep. J. Aron): MA VV (in recess of) 01/09/2025  HJ 3  P. 27",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB545"
+}

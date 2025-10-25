@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB306 on Table (Rep. Osborne): MA VV 02/06/2025  HJ 4  P. 42",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB306"
+}

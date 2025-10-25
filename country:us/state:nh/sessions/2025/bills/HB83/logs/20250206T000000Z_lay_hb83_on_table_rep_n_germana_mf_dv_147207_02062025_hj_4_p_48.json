@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB83 on Table (Rep. N. Germana): MF DV 147-207 02/06/2025  HJ 4  P. 48",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB83"
+}

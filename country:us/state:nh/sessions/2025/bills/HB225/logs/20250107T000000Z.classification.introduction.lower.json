@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/08/2025 and referred to Labor, Industrial and Rehabilitative Services  HJ 2  P. 11",
+    "date": "2025-01-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB225"
+}

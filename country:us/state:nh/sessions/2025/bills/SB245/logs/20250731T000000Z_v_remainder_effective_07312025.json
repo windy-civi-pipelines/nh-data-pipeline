@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "V. Remainder Effective 07/31/2025",
+    "date": "2025-07-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB245"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==RECESSED== Hearing: 04/01/2025, Room 100, SH, 09:50 am;  SC 15",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB649"
+}

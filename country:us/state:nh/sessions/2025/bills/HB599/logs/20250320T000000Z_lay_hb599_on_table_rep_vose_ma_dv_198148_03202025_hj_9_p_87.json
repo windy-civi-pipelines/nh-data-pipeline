@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB599 on Table (Rep. Vose): MA DV 198-148 03/20/2025  HJ 9  P. 87",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB599"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB67 on Table (Rep. Creighton): MA VV 05/01/2025  HJ 13  P. 10",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB67"
+}

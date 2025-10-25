@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED== Hearing: 03/25/2025, Room 100, SH, 09:30 am;  SC 13",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB77"
+}

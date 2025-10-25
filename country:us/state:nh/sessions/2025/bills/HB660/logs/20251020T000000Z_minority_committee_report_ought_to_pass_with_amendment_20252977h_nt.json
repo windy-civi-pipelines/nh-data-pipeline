@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Minority Committee Report: Ought to Pass with Amendment # 2025-2977h (NT)",
+    "date": "2025-10-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB660"
+}

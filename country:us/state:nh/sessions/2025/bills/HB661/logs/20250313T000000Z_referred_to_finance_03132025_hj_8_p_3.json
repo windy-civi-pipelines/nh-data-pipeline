@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Finance 03/13/2025  HJ 8  P. 3",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB661"
+}

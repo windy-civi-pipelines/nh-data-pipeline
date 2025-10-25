@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Ought to Pass  01/29/2025 (Vote 9-7; RC)  HC 11  P. 11",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB174"
+}

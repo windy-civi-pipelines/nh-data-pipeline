@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB620 on Table (Rep. Guzofski): MA DV 290-72 03/27/2025  HJ 11  P. 72",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB620"
+}

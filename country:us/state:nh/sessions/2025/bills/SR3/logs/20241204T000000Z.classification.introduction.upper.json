@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced and Adopted, VV; 12/04/2024;  SJ 1",
+    "date": "2024-12-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR3"
+}

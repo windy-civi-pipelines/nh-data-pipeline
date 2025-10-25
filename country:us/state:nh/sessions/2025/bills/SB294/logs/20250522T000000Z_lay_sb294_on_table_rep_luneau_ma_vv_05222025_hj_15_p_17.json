@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB294 on Table (Rep. Luneau): MA VV 05/22/2025  HJ 15  P. 17",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB294"
+}

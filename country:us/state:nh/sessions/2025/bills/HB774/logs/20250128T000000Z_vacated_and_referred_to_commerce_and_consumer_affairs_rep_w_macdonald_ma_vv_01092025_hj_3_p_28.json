@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Commerce and Consumer Affairs (Rep. W. MacDonald): MA VV 01/09/2025  HJ 3  P. 28",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB774"
+}

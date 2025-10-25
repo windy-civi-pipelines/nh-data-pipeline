@@ -1,0 +1,435 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB60",
+  "title": "relative to the termination of tenancy at the expiration of the tenancy or lease term.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced 01/08/2025 and referred to Housing  HJ 2  P. 4",
+      "date": "2024-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Public Hearing: 01/21/2025 10:00 am LOB 210-211",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Executive Session: 01/21/2025 10:00 am LOB 210-211",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass  01/28/2025 (Vote 10-7; RC)  HC 10  P. 8",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "FLAM # 2025-0254h (Rep. Read): AF RC 140-217 02/06/2025  HJ 4  P. 17",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "FLAM # 2025-0251h (Rep. D. Paige): AF RC 145-212 02/06/2025  HJ 4  P. 20",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Ought to Pass: MA RC 217-139 02/06/2025  HJ 4  P. 22",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Introduced 03/06/2025 and Referred to Commerce;  SJ 7",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "==RECESSED== Hearing: 05/06/2025, Room 100, SH, 10:40 am;  SC 20",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Hearing: 05/13/2025, Room 100, SH, 09:30 am;  SC 21",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-2153s, 05/22/2025; Vote 4-2; CC;  SC 22",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "HB 60 was Removed from the Consent Calendar; 05/22/2025;  SJ 14",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Special Order to 06/05/2025, Without Objection, MA; 05/22/2025  SJ 14",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-2153s, 06/05/2025, Vote 4-2;  SC 24",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Committee Amendment # 2025-2153s, AF, VV; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Sen. Murphy Floor Amendment # 2025-2711s, AA, VV; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Ought to Pass with Amendment #2025-2711s, MA, VV; OT3rdg; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "House Non-Concurs with Senate Amendment 2025-2711s and Requests CofC (Rep. Kofalt): MA VV 06/05/2025  HJ 16  P. 169",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Speaker Appoints: Reps. Alexander Jr., Lynn, Beaulier, DiSilvestro 06/05/2025  HJ 16  P. 169",
+      "date": "2025-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Sen. Innis Accedes to House Request for Committee of Conference, MA, VV; (In recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "President Appoints: Senators Innis, Ricciardi, Reardon; (In Recess 06/05/2025);  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator McConkey Replaces Senator Ricciardi;  SJ 16",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conference Committee Meeting: 06/17/2025 01:30 pm LOB 302-304",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conferee Change: Rep. S. Smith Replaces Rep. Disilvestro 06/17/2025  HJ 17  P. 24",
+      "date": "2025-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conferee Change; Senator Ricciardi Replaces Senator Reardon;  SJ 17",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report Filed, # 2025-2801c; 06/26/2025",
+      "date": "2025-06-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report 2025-2801c: Adopted, VV 06/26/2025  HJ 18  P. 60",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report # 2025-2801c; RC 16Y-8N, Adopted; 06/26/2025;  SJ 17",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, MA; 06/05/2025;  SJ 15",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 17",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 63",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    },
+    {
+      "description": "Signed by Governor Ayotte 08/01/2025; Chapter 263; eff.07/01/2026",
+      "date": "2025-08-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:10:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bob J. Lynn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bob J. Lynn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheila C Seidel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2711s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2711s&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "amendment 2025-2711s",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/legislation/amendments/2025-2711s.html",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_docket.aspx?lsr=0033&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    },
+    {
+      "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=0033&sy=2025&sortoption=&txtsessionyear=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "_code": "3017"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nh/government",
+    "name": "New Hampshire",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:10:38Z"
+  }
+}

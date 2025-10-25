@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate  02/18/2025 (Vote 14-0; CC)  HC 14  P. 3",
+    "date": "2025-02-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB350"
+}

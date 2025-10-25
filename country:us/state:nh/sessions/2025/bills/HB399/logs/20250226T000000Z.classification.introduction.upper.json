@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 02/13/2025 and Referred to Commerce;  SJ 6",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB399"
+}

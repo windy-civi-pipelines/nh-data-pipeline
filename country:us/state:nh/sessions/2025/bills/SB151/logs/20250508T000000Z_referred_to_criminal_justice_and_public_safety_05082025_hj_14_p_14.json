@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Criminal Justice and Public Safety 05/08/2025  HJ 14  P. 14",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB151"
+}

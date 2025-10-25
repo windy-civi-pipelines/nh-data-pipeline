@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced 01/08/2025 and referred to Finance  HJ 2  P. 5",
+    "date": "2024-12-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB97"
+}

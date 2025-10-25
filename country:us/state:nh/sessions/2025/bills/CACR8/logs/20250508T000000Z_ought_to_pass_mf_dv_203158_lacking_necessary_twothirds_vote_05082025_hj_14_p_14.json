@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ought to Pass: MF DV 203-158 Lacking Necessary Two-Thirds Vote 05/08/2025  HJ 14  P. 14",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "CACR8"
+}

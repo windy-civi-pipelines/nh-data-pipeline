@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay HB 675 on Table (Rep. N. Germana): MF DV 187-189 03/13/2025  HJ 8  P. 56",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB675"
+}

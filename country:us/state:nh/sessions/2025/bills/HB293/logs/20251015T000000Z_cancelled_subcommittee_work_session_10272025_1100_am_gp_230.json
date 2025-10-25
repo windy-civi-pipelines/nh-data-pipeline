@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "==CANCELLED==  Subcommittee Work Session: 10/27/2025 11:00 am GP 230",
+    "date": "2025-10-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB293"
+}

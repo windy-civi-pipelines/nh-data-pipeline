@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Public Hearing: 02/04/2025 11:30 am LOB 307",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB426"
+}

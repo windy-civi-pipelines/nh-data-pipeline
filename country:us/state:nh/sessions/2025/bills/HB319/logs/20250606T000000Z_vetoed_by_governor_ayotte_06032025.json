@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by Governor Ayotte 06/03/2025",
+    "date": "2025-06-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB319"
+}

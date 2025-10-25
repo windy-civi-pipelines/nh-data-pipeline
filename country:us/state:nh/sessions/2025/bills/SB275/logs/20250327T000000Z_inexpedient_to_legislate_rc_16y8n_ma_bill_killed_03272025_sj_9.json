@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Inexpedient to Legislate, RC 16Y-8N, MA === BILL KILLED ===; 03/27/2025;  SJ 9",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB275"
+}

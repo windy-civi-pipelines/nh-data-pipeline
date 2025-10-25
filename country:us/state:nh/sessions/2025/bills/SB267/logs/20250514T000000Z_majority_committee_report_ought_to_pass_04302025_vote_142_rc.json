@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Majority Committee Report: Ought to Pass  04/30/2025 (Vote 14-2; RC)",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB267"
+}

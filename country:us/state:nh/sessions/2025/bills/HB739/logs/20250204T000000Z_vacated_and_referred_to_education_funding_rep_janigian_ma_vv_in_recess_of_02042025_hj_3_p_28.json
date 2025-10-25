@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vacated and Referred to Education Funding  (Rep. Janigian): MA VV (in recess of) 02/04/2025  HJ 3  P. 28",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB739"
+}

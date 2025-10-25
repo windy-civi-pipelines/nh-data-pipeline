@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Lay SB222 on Table (Rep. Berry): MA VV 06/05/2025  HJ 16  P. 132",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB222"
+}

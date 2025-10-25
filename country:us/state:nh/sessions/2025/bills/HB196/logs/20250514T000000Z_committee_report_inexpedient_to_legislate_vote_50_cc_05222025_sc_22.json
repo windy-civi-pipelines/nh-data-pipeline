@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 05/22/2025;  SC 22",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB196"
+}

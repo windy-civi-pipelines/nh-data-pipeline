@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Minority Committee Report: Refer for Interim Study",
+    "date": "2025-10-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB652"
+}
