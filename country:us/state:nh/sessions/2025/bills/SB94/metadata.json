@@ -101,6 +101,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 11/05/2025 10:00 am GP 231",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:21:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-10-29T03:21:29Z",
     "text_extraction_latest_update": "2025-10-28T08:23:50.578720Z"
   }
 }

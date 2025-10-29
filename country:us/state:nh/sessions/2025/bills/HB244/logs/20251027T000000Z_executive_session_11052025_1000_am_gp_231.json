@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Executive Session: 11/05/2025 10:00 am GP 231",
+    "date": "2025-10-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB244"
+}
