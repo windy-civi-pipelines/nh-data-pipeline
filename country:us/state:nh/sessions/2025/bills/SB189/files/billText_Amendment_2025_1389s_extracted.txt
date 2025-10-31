@@ -1,0 +1,409 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1389s
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Sen.Rosenwald,Dist13
+Sen.Prentiss,Dist5
+March26,2025
+2025-1389s
+05/08
+FloorAmendmenttoSB189
+2
+3 1 Fetal Death Record; Reporting Required. RSA 5-C:74, I is repealed and reenacted to read as
+4 follows:
+5 I. For every fetal death, as defined in RSA 5-C:1, XII, which occurs in the state of New
+6 Hampshire, a fetal death worksheet shall be prepared and a fetal death report filed within 5 days,
+7 pursuanttoRSA290:1-aandRSA5-C:75.
+8 (a) When a fetal death occurs in a New Hampshire facility that regularly prepares birth
+9 records,afetaldeathreportshallbefiledelectronicallybythefacility.
+10 (b) When a fetal death occurs in a New Hampshire facility that does not prepare birth
+11 records,apaperfetal deathworksheetshall becompletedand forwarded tothedivisionimmediately
+12 by the person in charge of the hospital or institution where the fetal death occurred. The division
+13 shallfilethefetaldeathreportelectronically.
+14 (c) When a fetal death occurs in New Hampshire outside a hospital or institution, a
+15 paper fetal death worksheet shall be completed and forwarded to the division immediately by the
+16 physician, APRN, or physician assistant in attendance at or after delivery. The division will file the
+17 fetaldeathreportelectronically.
+18 2 DeathReportForms. RSA5-C:75isrepealedandreenactedtoreadasfollows:
+19 5-C:75 ReportingFetalDeaths.
+20 Acompletedfetaldeathreportshallconsistofthefollowing:
+21 I. Informationregardingthefetusanddelivery:
+22 (a) Thenameofthefetus,iftheparentschoosetoprovideaname.
+23 (b) Iftheparentsdonotchoosetoprovideaname,thefirstnameshallbelistedas"baby
+24 girl,""babyboy,"or“babyunknown.”
+25 (c) The name of the hospital or institution or the street and number of the location of
+26 delivery.
+27 (d) The place where delivery occurred: hospital, freestandingbirth center, home delivery
+28 andwhetherahomedeliverywasplanned,clinic/doctor’sofficeorotherlocation.
+29 (e) Thecity,town,orlocation,county,andzipcode,ofdelivery.
+30 (f) Thedateandtimeofdelivery.
+31 (g) Thesexofthefetus: male,female,orunknown.
+AmendmenttoSB189
+-Page2-
+1 II. Informationregardingthemotherincludingher:
+2 (a) Currentfulllegalname.
+3 (b) Fullnamepriortofirstmarriageorcivilunion.
+4 (c) Dateofbirth.
+5 (d) Birthplace.
+6 (e) Residence.
+7 III. Ifavailable,informationregardingthefather/parentincluding:
+8 (a) Currentfulllegalname.
+9 (b) Fullnamepriortofirstmarriageorcivilunion.
+10 (c) Dateofbirth.
+11 (d) Birthplace.
+12 IV. Method of disposition: burial, cremation, hospital disposition, donation, removal from
+13 stateorother.
+14 (a) Ifahospitaldisposition, thesignatureof thehospital administrator,or designee, and
+15 thedatesigned.
+16 (b) If not a hospital disposition, the name of the cemetery or crematory and location by
+17 city or town and state. The name and address of the funeral home, next of kin, or designated agent
+18 and the signature of the funeral director, next of kin, or designated agent, the license number of the
+19 funeraldirector,ifapplicable,andthedatesigned.
+20 V. Attendantandregistrationinformation.
+21 (a) Thedeliveryattendant'snameandtitle.
+22 (b) Thenameandtitleoftheindividualcompletingthereport.
+23 (c) Datereportcompleted.
+24 (d) Datereportreceivedbyregistrar,whichwillalsobeknownasthedatefiled.
+25 VI. Informationregardingthefetaldeath,including:
+26 (a) Thefetalormaternalconditiondirectlycausingdeath.
+27 (b) Any condition of which death was a consequence or to which it was due, either fetal
+28 ormaternal.
+29 (c) Theconditionsgivingrisetotheimmediatecauseofdeath.
+30 (d) Anyothersignificantconditionsoffetusormothercontributingtofetaldeathbutnot
+31 relatedtoimmediatecause.
+32 (e) Theweightofthefetus,ingrams.
+33 (f) Theclinicalestimateofgestation,inweeks.
+34 (g) Estimated time of fetal death: whether dead at time of first assessment, no labor
+35 ongoing; dead at time of first assessment, labor ongoing; died during labor, after first assessment; or
+36 unknown.
+37 (h) Whetheranautopsywasperformed.
+AmendmenttoSB189
+-Page3-
+1 (i) Whetherahistologicalplacentalexaminationwasperformed.
+2 (j) Whether autopsy findings or histological placental examination results were
+3 consideredindeterminingthecauseofdeath.
+4 VII. Statisticalinformationregardingthemotherandpregnancyincluding:
+5 (a) Mother’s demographic information including education, race and if she is of Hispanic
+6 origin.
+7 (b) Thenumberoflivebirthsofchildrennowlivingandnowdead.
+8 (c) Thedateofthelastlivebirthbymonthandyear.
+9 (d) The number of other pregnancy outcomes, spontaneous or induced, at any time after
+10 conception.
+11 (e) Thedateofthelastotherpregnancyoutcomebymonthandyear.
+12 (f) Whether the mother was married at the time of delivery, conception, or any time
+13 between.
+14 (g) Themother’sheightinfeet/inches.
+15 (h) Thedatethatthelastnormalmensesbeganbymonth,day,andyear.
+16 (i) Thedateoffirstandlastprenatalcarevisit.
+17 (j) Thetotalnumberofprenatalvisits.
+18 (k) Whetherthefetuswassingle,twin,tripletormore.
+19 (l) Thebirthorder,ifnotasinglebirth.
+20 (m) WhethermotherobtainedWICfoodforherselfduringthispregnancy.
+21 (n) If the mother was transferred for maternal medical or fetal indications for delivery.
+22 Iftransferred,thenameofthefacilitytransferredto.
+23 VIII. Medicalandhealthinformationregardingthepregnancyincluding:
+24 (a) Medicalriskfactorsforthepregnancy.
+25 (b) Infectionspresentand/ortreatedduringthepregnancy.
+26 (c) Methodofdelivery,includingobstetricalproceduresemployed.
+27 (d) Complicationsassociatedwithlaborordelivery.
+28 (e) Anycongenitalanomalies.
+29 3 PaternityAffidavitContent. RSA5-C:76isrepealedandreenactedtoreadasfollows:
+30 5-C:76 FetalDeathPaternityAffidavit.
+31 The information and signature requirements for a fetal death paternity affidavit shall be as
+32 follows:
+33 I. Informationregardingthefetusanddelivery:
+34 (a) Thenameofthefetusasitappearsonthereportoffetaldeath.
+35 (b) Thedateandplaceofdeliveryofthefetus.
+36 II. Informationregardingthefather:
+37 (a) Currentfulllegalname.
+AmendmenttoSB189
+-Page4-
+1 (b) Fullnamepriortofirstmarriageorcivilunion.
+2 (c) Residenceaddressincludingstreetaddress,cityortown,stateandzipcode.
+3 (d) Dateofbirth.
+4 (e) Stateofbirth.
+5 (f) Father’ssignatureanddatesigned,unlessthenaturalfatherisaminorinwhichcase
+6 hisparentorguardian’ssignatureanddatesigned,shallbeobtained.
+7 III. Informationregardingthemother:
+8 (a) Currentfulllegalname.
+9 (b) Fullnamepriortofirstmarriageorcivilunion.
+10 (c) Residenceaddressincludingstreetaddress,cityortown,stateandzipcode.
+11 (d) Dateofbirth.
+12 (e) Stateofbirth.
+13 (f) Mother’s signature and date signed, unless the mother is a minor in which case her
+14 parentorguardian’ssignatureanddatesigned,shallbeobtained.
+15 IV. Informationregardingthemother’spartner,whentheyagreethattheyarenotanatural
+16 parentofthefetus:
+17 (a) Currentfulllegalname.
+18 (b) Partner’s signature and date signed, unless the partner is a minor in which case
+19 theirparentorguardian’ssignatureanddatesigned,shallbeobtained.
+20 V. The signatures of the natural father, mother and if applicable, partner, shall be
+21 notarized.
+22 4 FetalDeathRecords;PaternityAffidavitProcedures. RSA5-C:77isrepealedandreenactedto
+23 readasfollows:
+24 5-C:77 ProceduresforCompletionoftheFetalDeathPaternityAffidavit.
+25 In the case of an unwed mother, a fetal death paternity affidavit, as described in RSA 5-C:76,
+26 shallberequiredtoaddthefather’snameandinformationtothereportoffetaldeath.
+27 I. The hospital or institution's designated staff shall assist the parents in the preparation of
+28 thefetaldeathpaternityaffidavit.
+29 II. When a report of fetal death is filed electronically by a New Hampshire facility and a
+30 fetal death paternity affidavit is executed, the father’s information shall be entered electronically as
+31 part of the report of fetal death. The paper copy of the fetal death paternity affidavit shall be
+32 forwardedtothedivision.
+33 III. When a report of fetal death is filed on paper, the fetal death affidavit shall be prepared
+34 and attached to the report of fetal death that is forwarded to the division. Upon receipt of the fetal
+35 death paternity affidavit, the information concerning the father shall be added by the division to the
+36 reportoffetaldeath.
+AmendmenttoSB189
+-Page5-
+1 IV. The fetal death paternity affidavit form shall be retained by the division in accordance
+2 withtherecordretentionschedulelistedinRSA5-C:96.
+3 5 Burial Permit; Disposition of Remains. RSA 5-C:78 is repealed and reenacted to read as
+4 follows:
+5 5-C:78 Burial Permit for Disposition of Fetal Remains. Other than hospital dispositions,
+6 disposition information for fetal deaths reported as directed in RSA 5-C:71, I(a) shall be filed
+7 electronicallyby a licensed New Hampshire funeral director or townor city clerk. The burial permit
+8 for the disposition of fetal remains shall be generated electronically upon the completed filing of a
+9 reportoffetaldeathandwillconsistofthefollowinginformation:
+10 I. Informationaboutthefetus,includingthename;sex,ifknown;dateofdelivery;city,town
+11 orlocationofdelivery;countyofdelivery.
+12 II. The manner of disposition; the date of disposition: the name of the cemetery or
+13 crematory;thenameoftheplacewherethecemeteryorcrematoryislocated.
+14 III. Information about the funeral director, next of kin or designated agent including the
+15 nameofthefuneralhome,completeaddressandtheNHlicensenumberofthefuneraldirector.
+16 IV. If stored, the name of the storage vault; the date of storage; the location of the vault, by
+17 city or town and state; the signature of the cemetery sexton or person in charge of the storage vault
+18 or,ifnone,thefuneraldirector;andthedatethatthebodyorcremainsarereleasedfromthestorage
+19 vault.
+20 V. Upon disposition, the cemetery or crematory authority shall complete the following
+21 information: type of disposition; date of disposition; name and location of cemetery, crematory or
+22 vault; section and grave number; signature of the cemetery sexton or person in charge of the
+23 cemeteryorcrematoryor,ifnone,thefuneraldirector.
+24 6 FetalDeathRecords:DispositionProcedure. AmendRSA5-C:79toreadasfollows:
+25 5-C:79 Procedures for the Disposition of Fetal Death Remains. Prior to disposition, the funeral
+26 director, next of kin, or designated agent, hospital administrator or his or her designated
+27 representative, or whomever assumes responsibility for the disposition shall request a written
+28 authorization from the parent regarding the manner of disposition such as burial, cremation,
+29 temporary entombment, donation, mausoleum, or other. When disposition takes place outside the
+30 hospital or institution, a burial permit shall be completed as described in RSA 5-C:78. In the case
+31 where fetal death remains are to be cremated other than in a hospital, authorization shall first be
+32 obtained from the medical examiner pursuant to RSA 611-B:11. The burial permit shall be
+33 submitted to the clerk of the town or city within 6 calendar days of the disposition and retained in
+34 accordancewiththerecordretentionschedulesetforthinRSA5-C:96.
+35 7 EffectiveDate. Thisactshalltakeeffect120daysafteritspassage
+[DELETED: .R,Dt1.P,Dth2,2rAttoSB1Adteblbyrgalarteegcewhtef1FlDhR;RgR.RA5,IisrdadrdtordafI.Freyfld,asddinRA5,X,whosinteseofNH,afldhwtslbepdadafldhrtfdwn5dpttoRA2aadRA5()WnafldhosinaNwHefyttrypsbr,afldhrtslbefdeybytef0()WnafldhosinaNwHefyttdsntpeb1r,aprfldhwtslbecdadfdtotedni2bytepninceoftehlorinwetefldho.Ted3slfetefldhrte4()WnafldhosinNwHeoeahlori,5prfldhwtslbecdadfdtotedniybyt6p,A,orpnatinaeatorard.Tednwlfet7fldhrte82DhRtF.RA55isrdadrdtordasf955RgFlD0Acdfldhrtslctoftef1I.Inrgtefsadd2()Teneoftef,iftepscetopean3()Iftepsdontcetopean,teftneslbeldas"4g""yb"or“yu5()Teneoftehlorinortestadnroftelno6d7()Tepewedyo:h,fgbhc,hed8adwrahedywsp,csoeororl9()Tec,t,orl,c,adzpc,ofd0()Tedeadteofd1()Tesxoftef:m,f,oru]
+[DELETED: ttoSB1Pe2I.Inrgtemrigh()Ctfllln()Flneprtoftmeorclu()Deofb()B()RI.Ifa,inrgtefti()Ctfllln()Flneprtoftmeorclu0()Deofb1()B2I.Mdofd:b,c,hld,d,rlf3seoro4()Ifahld,teseoftehla,ord,a5tedes6()Ifntahld,teneoftecyorcyadlnb7cyortnads.Teneadasofteflh,ntofk,ordda8adteseoftefld,ntofk,ordda,telenroft9fld,ifa,adtedes0V.Atadrni1()Tedyasneadt2()Teneadteofteilcgter3()Dertc4()Dertrdbyr,whwlaobeknastedef5V.Inrgtefld,i6()Teflormlcndycgd7()Aycnofwhdhwsaceortowhitwsd,erf8orm9()Tecsggretoteieceofd0()Ayorstcsoffsormrcgtofldhbtn1rdtoiec2()Tewtoftef,ing3()Tecleeofg,inw4()Edteoffld:wrddatteoffta,nol5o;ddatteoffta,lro;dddgl,arfta;o6u7()Wranaywsp]
+[DELETED: ttoSB1Pe3()Wrahlplenwsp()WrayfsorhlplenrswcdindgteceofdV.Slinrgtemradpyi()Msdcinige,readifseisofHo()Tenroflebsofcnnwlgadnwd()Tedeofteltlebhbymhady()Tenroforpyo,ssori,ataytea0c1()Tedeofteltorpyoebymhady2()Wrtemrwsmdatteteofd,c,orayt3b4()Temshtinf5()Tedettteltnlmsbnbym,d,ady6()Tedeofftadltplcev7()Tetlnrofplv8()Wrtefswss,t,ttorm9()Tebho,ifntaseb0()WrmrodWCfdfrhfdgtsp1()Iftemrwstdfrmlmlorflisfrd2Ift,teneoftefytdt3V.Mladhhinrgtepyi4()Mlrkfsfrtep5()Isptartddgtep6()Mdofd,igolpse7()Csadwhlrord8()Aycla93PyAtC.RA56isrdadrdtordasf056FlDhPyA1Teinadsersfrafldhpyatslbea2f3I.Inrgtefsadd4()Teneoftefsasitasontertoffld5()Tedeadpeofdyoftef6I.Inrgtef7()Ctfllln]
+[DELETED: ttoSB1Pe4()Flneprtoftmeorclu()Reasigsta,cyort,seadzpc()Deofb()Seofb()Fsseaddes,ustenlfrisamrinwhchsptorgsseaddes,slbeoI.Inrgtem()Ctfllln()Flneprtoftmeorclu0()Reasigsta,cyort,seadzpc1()Deofb2()Seofb3()Msseaddes,ustemrisamrinwhceh4ptorgsseaddes,slbeo5I.Inrgtemsp,wntyaetttyaentan6ptoftef7()Ctfllln8()Psseaddes,usteprisamrinwhc9trptorgsseaddes,slbeo0V.Tessoftenlf,mradifa,p,slb1n24FlDhR;PyAtP.RA57isrdadrdt3rdasf457PsfrCnofteFlDhPyA5Inteceofanudm,afldhpya,asddinRA56slberdtoadtefsneadintotertoffld7I.Tehlorisddsfslattepsintepno8tefldhpya9I.WnartoffldhisfdeybyaNwHefyad0fldhpyatise,tefsinslbeedeya1ptoftertoffld.Teprcyoftefldhpyatslb2fdtoted3I.Wnartoffldhisfdonp,tefldhatslbep4adadtotertoffldhttisfdtoted.Unrtoftef5dhpya,teincgtefrslbeadbytedntot6rtoffld]
+[DELETED: ttoSB1Pe5I.TefldhpyatfmslberdbytedninawhterdrnseldinRA55BlP;DnofR.RA58isrdadrdtordaf58BlPtfrDnofFlR.OrtnhlddninfrfldsrdasddinRA5,I)slbefeybyaldNwHefldrortnorcyc.Teblpfrtednofflrsslbegdeyuntecdfgofrtoffldhadwlctoftefgi0I.Inattef,igten;s,ifk;deofd;c,t1orlnofd;cyofd2I.Temrofd;tedeofd:teneoftecyo3c;teneoftepewetecyorcyisl4I.Inattefld,ntofknorddatigt5neofteflh,ceasadteNHlenroftefld6I.Ifs,teneoftesev;tedeofs;telnoftev,b7cyortnads;teseoftecysnorpninceoftesev8o,ifn,tefld;adtedetttebyorcsaerdfmtes9v0V.Und,tecyorcyayslcetef1i:teofd;deofd;neadlnofc,cyo2v;snadgen;seoftecysnorpninceoft3cyorcyo,ifn,tefld46FlDhR:DnP.AdRA59tordasf559PsfrteDnofFlDhR.Prtod,tef6d,ntofk,ordda,hlarorhsorhrd7r,orwrasryfrtednslrtaw8anfmteptrgtemrofdnshasb,c9tye,d,m,oro.Wndntspeoet0hlori,ablptslbecdasddinRA5.Intec1wefldhrsaetobecdortninah,anslftb2odfmtemlerpttoRA6.Teblptslb3sdtoteckoftetnorcywn6crdsoftednadrdi4aewhterdrnsestfhinRA557EeD.Tsatslteet10dsarisp]
+
+
+================================================================================
+
+Raw Text:
+Sen.Rosenwald,Dist13
+Sen.Prentiss,Dist5
+March26,2025
+2025-1389s
+05/08
+FloorAmendmenttoSB189
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 Fetal Death Record; Reporting Required. RSA 5-C:74, I is repealed and reenacted to read as
+4 follows:
+5 I. For every fetal death, as defined in RSA 5-C:1, XII, which occurs in the state of New
+6 Hampshire, a fetal death worksheet shall be prepared and a fetal death report filed within 5 days,
+7 pursuanttoRSA290:1-aandRSA5-C:75.
+8 (a) When a fetal death occurs in a New Hampshire facility that regularly prepares birth
+9 records,afetaldeathreportshallbefiledelectronicallybythefacility.
+10 (b) When a fetal death occurs in a New Hampshire facility that does not prepare birth
+11 records,apaperfetal deathworksheetshall becompletedand forwarded tothedivisionimmediately
+12 by the person in charge of the hospital or institution where the fetal death occurred. The division
+13 shallfilethefetaldeathreportelectronically.
+14 (c) When a fetal death occurs in New Hampshire outside a hospital or institution, a
+15 paper fetal death worksheet shall be completed and forwarded to the division immediately by the
+16 physician, APRN, or physician assistant in attendance at or after delivery. The division will file the
+17 fetaldeathreportelectronically.
+18 2 DeathReportForms. RSA5-C:75isrepealedandreenactedtoreadasfollows:
+19 5-C:75 ReportingFetalDeaths.
+20 Acompletedfetaldeathreportshallconsistofthefollowing:
+21 I. Informationregardingthefetusanddelivery:
+22 (a) Thenameofthefetus,iftheparentschoosetoprovideaname.
+23 (b) Iftheparentsdonotchoosetoprovideaname,thefirstnameshallbelistedas"baby
+24 girl,""babyboy,"or“babyunknown.”
+25 (c) The name of the hospital or institution or the street and number of the location of
+26 delivery.
+27 (d) The place where delivery occurred: hospital, freestandingbirth center, home delivery
+28 andwhetherahomedeliverywasplanned,clinic/doctor’sofficeorotherlocation.
+29 (e) Thecity,town,orlocation,county,andzipcode,ofdelivery.
+30 (f) Thedateandtimeofdelivery.
+31 (g) Thesexofthefetus: male,female,orunknown.
+
+AmendmenttoSB189
+-Page2-
+1 II. Informationregardingthemotherincludingher:
+2 (a) Currentfulllegalname.
+3 (b) Fullnamepriortofirstmarriageorcivilunion.
+4 (c) Dateofbirth.
+5 (d) Birthplace.
+6 (e) Residence.
+7 III. Ifavailable,informationregardingthefather/parentincluding:
+8 (a) Currentfulllegalname.
+9 (b) Fullnamepriortofirstmarriageorcivilunion.
+10 (c) Dateofbirth.
+11 (d) Birthplace.
+12 IV. Method of disposition: burial, cremation, hospital disposition, donation, removal from
+13 stateorother.
+14 (a) Ifahospitaldisposition, thesignatureof thehospital administrator,or designee, and
+15 thedatesigned.
+16 (b) If not a hospital disposition, the name of the cemetery or crematory and location by
+17 city or town and state. The name and address of the funeral home, next of kin, or designated agent
+18 and the signature of the funeral director, next of kin, or designated agent, the license number of the
+19 funeraldirector,ifapplicable,andthedatesigned.
+20 V. Attendantandregistrationinformation.
+21 (a) Thedeliveryattendant'snameandtitle.
+22 (b) Thenameandtitleoftheindividualcompletingthereport.
+23 (c) Datereportcompleted.
+24 (d) Datereportreceivedbyregistrar,whichwillalsobeknownasthedatefiled.
+25 VI. Informationregardingthefetaldeath,including:
+26 (a) Thefetalormaternalconditiondirectlycausingdeath.
+27 (b) Any condition of which death was a consequence or to which it was due, either fetal
+28 ormaternal.
+29 (c) Theconditionsgivingrisetotheimmediatecauseofdeath.
+30 (d) Anyothersignificantconditionsoffetusormothercontributingtofetaldeathbutnot
+31 relatedtoimmediatecause.
+32 (e) Theweightofthefetus,ingrams.
+33 (f) Theclinicalestimateofgestation,inweeks.
+34 (g) Estimated time of fetal death: whether dead at time of first assessment, no labor
+35 ongoing; dead at time of first assessment, labor ongoing; died during labor, after first assessment; or
+36 unknown.
+37 (h) Whetheranautopsywasperformed.
+
+AmendmenttoSB189
+-Page3-
+1 (i) Whetherahistologicalplacentalexaminationwasperformed.
+2 (j) Whether autopsy findings or histological placental examination results were
+3 consideredindeterminingthecauseofdeath.
+4 VII. Statisticalinformationregardingthemotherandpregnancyincluding:
+5 (a) Mother’s demographic information including education, race and if she is of Hispanic
+6 origin.
+7 (b) Thenumberoflivebirthsofchildrennowlivingandnowdead.
+8 (c) Thedateofthelastlivebirthbymonthandyear.
+9 (d) The number of other pregnancy outcomes, spontaneous or induced, at any time after
+10 conception.
+11 (e) Thedateofthelastotherpregnancyoutcomebymonthandyear.
+12 (f) Whether the mother was married at the time of delivery, conception, or any time
+13 between.
+14 (g) Themother’sheightinfeet/inches.
+15 (h) Thedatethatthelastnormalmensesbeganbymonth,day,andyear.
+16 (i) Thedateoffirstandlastprenatalcarevisit.
+17 (j) Thetotalnumberofprenatalvisits.
+18 (k) Whetherthefetuswassingle,twin,tripletormore.
+19 (l) Thebirthorder,ifnotasinglebirth.
+20 (m) WhethermotherobtainedWICfoodforherselfduringthispregnancy.
+21 (n) If the mother was transferred for maternal medical or fetal indications for delivery.
+22 Iftransferred,thenameofthefacilitytransferredto.
+23 VIII. Medicalandhealthinformationregardingthepregnancyincluding:
+24 (a) Medicalriskfactorsforthepregnancy.
+25 (b) Infectionspresentand/ortreatedduringthepregnancy.
+26 (c) Methodofdelivery,includingobstetricalproceduresemployed.
+27 (d) Complicationsassociatedwithlaborordelivery.
+28 (e) Anycongenitalanomalies.
+29 3 PaternityAffidavitContent. RSA5-C:76isrepealedandreenactedtoreadasfollows:
+30 5-C:76 FetalDeathPaternityAffidavit.
+31 The information and signature requirements for a fetal death paternity affidavit shall be as
+32 follows:
+33 I. Informationregardingthefetusanddelivery:
+34 (a) Thenameofthefetusasitappearsonthereportoffetaldeath.
+35 (b) Thedateandplaceofdeliveryofthefetus.
+36 II. Informationregardingthefather:
+37 (a) Currentfulllegalname.
+
+AmendmenttoSB189
+-Page4-
+1 (b) Fullnamepriortofirstmarriageorcivilunion.
+2 (c) Residenceaddressincludingstreetaddress,cityortown,stateandzipcode.
+3 (d) Dateofbirth.
+4 (e) Stateofbirth.
+5 (f) Father’ssignatureanddatesigned,unlessthenaturalfatherisaminorinwhichcase
+6 hisparentorguardian’ssignatureanddatesigned,shallbeobtained.
+7 III. Informationregardingthemother:
+8 (a) Currentfulllegalname.
+9 (b) Fullnamepriortofirstmarriageorcivilunion.
+10 (c) Residenceaddressincludingstreetaddress,cityortown,stateandzipcode.
+11 (d) Dateofbirth.
+12 (e) Stateofbirth.
+13 (f) Mother’s signature and date signed, unless the mother is a minor in which case her
+14 parentorguardian’ssignatureanddatesigned,shallbeobtained.
+15 IV. Informationregardingthemother’spartner,whentheyagreethattheyarenotanatural
+16 parentofthefetus:
+17 (a) Currentfulllegalname.
+18 (b) Partner’s signature and date signed, unless the partner is a minor in which case
+19 theirparentorguardian’ssignatureanddatesigned,shallbeobtained.
+20 V. The signatures of the natural father, mother and if applicable, partner, shall be
+21 notarized.
+22 4 FetalDeathRecords;PaternityAffidavitProcedures. RSA5-C:77isrepealedandreenactedto
+23 readasfollows:
+24 5-C:77 ProceduresforCompletionoftheFetalDeathPaternityAffidavit.
+25 In the case of an unwed mother, a fetal death paternity affidavit, as described in RSA 5-C:76,
+26 shallberequiredtoaddthefather’snameandinformationtothereportoffetaldeath.
+27 I. The hospital or institution's designated staff shall assist the parents in the preparation of
+28 thefetaldeathpaternityaffidavit.
+29 II. When a report of fetal death is filed electronically by a New Hampshire facility and a
+30 fetal death paternity affidavit is executed, the father’s information shall be entered electronically as
+31 part of the report of fetal death. The paper copy of the fetal death paternity affidavit shall be
+32 forwardedtothedivision.
+33 III. When a report of fetal death is filed on paper, the fetal death affidavit shall be prepared
+34 and attached to the report of fetal death that is forwarded to the division. Upon receipt of the fetal
+35 death paternity affidavit, the information concerning the father shall be added by the division to the
+36 reportoffetaldeath.
+
+AmendmenttoSB189
+-Page5-
+1 IV. The fetal death paternity affidavit form shall be retained by the division in accordance
+2 withtherecordretentionschedulelistedinRSA5-C:96.
+3 5 Burial Permit; Disposition of Remains. RSA 5-C:78 is repealed and reenacted to read as
+4 follows:
+5 5-C:78 Burial Permit for Disposition of Fetal Remains. Other than hospital dispositions,
+6 disposition information for fetal deaths reported as directed in RSA 5-C:71, I(a) shall be filed
+7 electronicallyby a licensed New Hampshire funeral director or townor city clerk. The burial permit
+8 for the disposition of fetal remains shall be generated electronically upon the completed filing of a
+9 reportoffetaldeathandwillconsistofthefollowinginformation:
+10 I. Informationaboutthefetus,includingthename;sex,ifknown;dateofdelivery;city,town
+11 orlocationofdelivery;countyofdelivery.
+12 II. The manner of disposition; the date of disposition: the name of the cemetery or
+13 crematory;thenameoftheplacewherethecemeteryorcrematoryislocated.
+14 III. Information about the funeral director, next of kin or designated agent including the
+15 nameofthefuneralhome,completeaddressandtheNHlicensenumberofthefuneraldirector.
+16 IV. If stored, the name of the storage vault; the date of storage; the location of the vault, by
+17 city or town and state; the signature of the cemetery sexton or person in charge of the storage vault
+18 or,ifnone,thefuneraldirector;andthedatethatthebodyorcremainsarereleasedfromthestorage
+19 vault.
+20 V. Upon disposition, the cemetery or crematory authority shall complete the following
+21 information: type of disposition; date of disposition; name and location of cemetery, crematory or
+22 vault; section and grave number; signature of the cemetery sexton or person in charge of the
+23 cemeteryorcrematoryor,ifnone,thefuneraldirector.
+24 6 FetalDeathRecords:DispositionProcedure. AmendRSA5-C:79toreadasfollows:
+25 5-C:79 Procedures for the Disposition of Fetal Death Remains. Prior to disposition, the funeral
+26 director, next of kin, or designated agent, hospital administrator or his or her designated
+27 representative, or whomever assumes responsibility for the disposition shall request a written
+28 authorization from the parent regarding the manner of disposition such as burial, cremation,
+29 temporary entombment, donation, mausoleum, or other. When disposition takes place outside the
+30 hospital or institution, a burial permit shall be completed as described in RSA 5-C:78. In the case
+31 where fetal death remains are to be cremated other than in a hospital, authorization shall first be
+32 obtained from the medical examiner pursuant to RSA 611-B:11. The burial permit shall be
+33 submitted to the clerk of the town or city within 6 calendar days of the disposition and retained in
+34 accordancewiththerecordretentionschedulesetforthinRSA5-C:96.
+35 7 EffectiveDate. Thisactshalltakeeffect120daysafteritspassage
+
+[DELETED: .R,Dt1.P,Dth2,2rAttoSB1Adteblbyrgalarteegcewhtef1FlDhR;RgR.RA5,IisrdadrdtordafI.Freyfld,asddinRA5,X,whosinteseofNH,afldhwtslbepdadafldhrtfdwn5dpttoRA2aadRA5()WnafldhosinaNwHefyttrypsbr,afldhrtslbefdeybytef0()WnafldhosinaNwHefyttdsntpeb1r,aprfldhwtslbecdadfdtotedni2bytepninceoftehlorinwetefldho.Ted3slfetefldhrte4()WnafldhosinNwHeoeahlori,5prfldhwtslbecdadfdtotedniybyt6p,A,orpnatinaeatorard.Tednwlfet7fldhrte82DhRtF.RA55isrdadrdtordasf955RgFlD0Acdfldhrtslctoftef1I.Inrgtefsadd2()Teneoftef,iftepscetopean3()Iftepsdontcetopean,teftneslbeldas"4g""yb"or“yu5()Teneoftehlorinortestadnroftelno6d7()Tepewedyo:h,fgbhc,hed8adwrahedywsp,csoeororl9()Tec,t,orl,c,adzpc,ofd0()Tedeadteofd1()Tesxoftef:m,f,oru]
+[DELETED: ttoSB1Pe2I.Inrgtemrigh()Ctfllln()Flneprtoftmeorclu()Deofb()B()RI.Ifa,inrgtefti()Ctfllln()Flneprtoftmeorclu0()Deofb1()B2I.Mdofd:b,c,hld,d,rlf3seoro4()Ifahld,teseoftehla,ord,a5tedes6()Ifntahld,teneoftecyorcyadlnb7cyortnads.Teneadasofteflh,ntofk,ordda8adteseoftefld,ntofk,ordda,telenroft9fld,ifa,adtedes0V.Atadrni1()Tedyasneadt2()Teneadteofteilcgter3()Dertc4()Dertrdbyr,whwlaobeknastedef5V.Inrgtefld,i6()Teflormlcndycgd7()Aycnofwhdhwsaceortowhitwsd,erf8orm9()Tecsggretoteieceofd0()Ayorstcsoffsormrcgtofldhbtn1rdtoiec2()Tewtoftef,ing3()Tecleeofg,inw4()Edteoffld:wrddatteoffta,nol5o;ddatteoffta,lro;dddgl,arfta;o6u7()Wranaywsp]
+[DELETED: ttoSB1Pe3()Wrahlplenwsp()WrayfsorhlplenrswcdindgteceofdV.Slinrgtemradpyi()Msdcinige,readifseisofHo()Tenroflebsofcnnwlgadnwd()Tedeofteltlebhbymhady()Tenroforpyo,ssori,ataytea0c1()Tedeofteltorpyoebymhady2()Wrtemrwsmdatteteofd,c,orayt3b4()Temshtinf5()Tedettteltnlmsbnbym,d,ady6()Tedeofftadltplcev7()Tetlnrofplv8()Wrtefswss,t,ttorm9()Tebho,ifntaseb0()WrmrodWCfdfrhfdgtsp1()Iftemrwstdfrmlmlorflisfrd2Ift,teneoftefytdt3V.Mladhhinrgtepyi4()Mlrkfsfrtep5()Isptartddgtep6()Mdofd,igolpse7()Csadwhlrord8()Aycla93PyAtC.RA56isrdadrdtordasf056FlDhPyA1Teinadsersfrafldhpyatslbea2f3I.Inrgtefsadd4()Teneoftefsasitasontertoffld5()Tedeadpeofdyoftef6I.Inrgtef7()Ctfllln]
+[DELETED: ttoSB1Pe4()Flneprtoftmeorclu()Reasigsta,cyort,seadzpc()Deofb()Seofb()Fsseaddes,ustenlfrisamrinwhchsptorgsseaddes,slbeoI.Inrgtem()Ctfllln()Flneprtoftmeorclu0()Reasigsta,cyort,seadzpc1()Deofb2()Seofb3()Msseaddes,ustemrisamrinwhceh4ptorgsseaddes,slbeo5I.Inrgtemsp,wntyaetttyaentan6ptoftef7()Ctfllln8()Psseaddes,usteprisamrinwhc9trptorgsseaddes,slbeo0V.Tessoftenlf,mradifa,p,slb1n24FlDhR;PyAtP.RA57isrdadrdt3rdasf457PsfrCnofteFlDhPyA5Inteceofanudm,afldhpya,asddinRA56slberdtoadtefsneadintotertoffld7I.Tehlorisddsfslattepsintepno8tefldhpya9I.WnartoffldhisfdeybyaNwHefyad0fldhpyatise,tefsinslbeedeya1ptoftertoffld.Teprcyoftefldhpyatslb2fdtoted3I.Wnartoffldhisfdonp,tefldhatslbep4adadtotertoffldhttisfdtoted.Unrtoftef5dhpya,teincgtefrslbeadbytedntot6rtoffld]
+[DELETED: ttoSB1Pe5I.TefldhpyatfmslberdbytedninawhterdrnseldinRA55BlP;DnofR.RA58isrdadrdtordaf58BlPtfrDnofFlR.OrtnhlddninfrfldsrdasddinRA5,I)slbefeybyaldNwHefldrortnorcyc.Teblpfrtednofflrsslbegdeyuntecdfgofrtoffldhadwlctoftefgi0I.Inattef,igten;s,ifk;deofd;c,t1orlnofd;cyofd2I.Temrofd;tedeofd:teneoftecyo3c;teneoftepewetecyorcyisl4I.Inattefld,ntofknorddatigt5neofteflh,ceasadteNHlenroftefld6I.Ifs,teneoftesev;tedeofs;telnoftev,b7cyortnads;teseoftecysnorpninceoftesev8o,ifn,tefld;adtedetttebyorcsaerdfmtes9v0V.Und,tecyorcyayslcetef1i:teofd;deofd;neadlnofc,cyo2v;snadgen;seoftecysnorpninceoft3cyorcyo,ifn,tefld46FlDhR:DnP.AdRA59tordasf559PsfrteDnofFlDhR.Prtod,tef6d,ntofk,ordda,hlarorhsorhrd7r,orwrasryfrtednslrtaw8anfmteptrgtemrofdnshasb,c9tye,d,m,oro.Wndntspeoet0hlori,ablptslbecdasddinRA5.Intec1wefldhrsaetobecdortninah,anslftb2odfmtemlerpttoRA6.Teblptslb3sdtoteckoftetnorcywn6crdsoftednadrdi4aewhterdrnsestfhinRA557EeD.Tsatslteet10dsarisp]

@@ -1,0 +1,45 @@
+Title: 1 AmendRSA21-M:8-k,II(i)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA21-M:8-k,II(i)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1711s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateJudiciary
+April23,2025
+2025-1711s
+07/09
+AmendmenttoHB218-FN
+2
+3 (i) [The right to be informed] After the initial contact between a victim and a law
+4 enforcement agency responsible for investigating a crime, the agency shall promptly
+5 inform the victim about available resources, financial assistance, and social services[.], and the
+6 right of a victim to request a copy of the law enforcement report and other documents
+7 related to the case, including the right to receive a free copy of the initial incident report.
+8 The release of any documents associated with the investigation shall be at the discretion of
+9 thelawenforcementagencybasedonthestatusofthecase.
+[DELETED: eJl2,2ttoHB2AdRA2,I)asidbysn1ofteblbyrgitwhtef()[erttobei]Arteilctbnavmadaletayrefrigac,teayslpimtevmataer,fla,adsls,adtrtofavmtortacyoftelwetrtadordrdtotec,igterttoreafecyofteilitrTereofaydsadwhteinslbeattednotelwetaybdontessoftec]
+
+
+================================================================================
+
+Raw Text:
+SenateJudiciary
+April23,2025
+2025-1711s
+07/09
+AmendmenttoHB218-FN
+1 AmendRSA21-M:8-k,II(i)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+2
+3 (i) [The right to be informed] After the initial contact between a victim and a law
+4 enforcement agency responsible for investigating a crime, the agency shall promptly
+5 inform the victim about available resources, financial assistance, and social services[.], and the
+6 right of a victim to request a copy of the law enforcement report and other documents
+7 related to the case, including the right to receive a free copy of the initial incident report.
+8 The release of any documents associated with the investigation shall be at the discretion of
+9 thelawenforcementagencybasedonthestatusofthecase.
+
+[DELETED: eJl2,2ttoHB2AdRA2,I)asidbysn1ofteblbyrgitwhtef()[erttobei]Arteilctbnavmadaletayrefrigac,teayslpimtevmataer,fla,adsls,adtrtofavmtortacyoftelwetrtadordrdtotec,igterttoreafecyofteilitrTereofaydsadwhteinslbeattednotelwetaybdontessoftec]

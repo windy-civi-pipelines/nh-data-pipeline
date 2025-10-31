@@ -1,0 +1,392 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0930h
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Rep.Roy,Rock.31
+March11,2025
+2025-0930h
+09/05
+FloorAmendmenttoHB159-FN
+2
+3 ANACT authorizing the state to report mental health data for firearms background check
+4 purposes and providing for processes for voluntary surrender of firearms following
+5 certain mental health-related court proceedings and for relief from mental health-
+6 relatedfirearmsdisabilities.
+7
+8 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+9
+10 1 Short Title. This bill shall be known as "The Chief Bradley Haas Mental Health Firearms
+11 ReportingAct".
+12 2 Sale of Firearms; Criminal History Record Check, Mental Health Record Check, and
+13 ProtectiveOrderCheck. AmendRSA159-D:1toreadasfollows:
+14 159-D:1 SaleofFirearms;CriminalHistoryRecordCheck,MentalHealthRecordCheck,and
+15 Protective Order Check. The department of safety may become the point of contact for the federal
+16 governmentforthepurposesoftheNationalInstantCriminalBackgroundCheckSystem(NICS).
+17 3 New Chapter; Mental Health Reporting for Firearm Background Checks. Amend RSA by
+18 insertingafterchapter159-Fthefollowingnewchapter:
+19 CHAPTER159-G
+20 MENTALHEALTHREPORTINGFORFIREARMBACKGROUNDCHECKS
+21 159-G:1 Short Title. This chapter shall be known as “Bradley’s Law” in honor of retired Police
+22 Chief Bradley Haas who was shot and killed while defending the lives and safety of the patients and
+23 staffoftheNewHampshireHospital.
+24 159-G:2 Mental Health Reporting Authorized. In compliance with the federal NICS
+25 Improvement Amendments Act of 2007, Public Law 110-180 and the Brady Handgun Violence
+26 Prevention Act of 1993, Public Law 103-159, the New Hampshire judicial branch and the
+27 department of safety are authorized to report to the National Instant Criminal Background Check
+28 System(NICS)recordsconcerningpersonswhohavebeendisqualifiedfrompossessingorreceivinga
+29 firearmunder18U.S.C.section922(g)(4)becausetheyhavebeen:
+30 I. Adjudicatedasnotguiltyofacrimebyreasonofinsanity;
+31 II. Adjudicated as incompetent to stand trial and found by the court to be a danger to
+32 themselvesorotherspursuanttoRSA171-B:2,135-E:5or135:17-a;or
+33 III. InvoluntarilycommittedtoamentalhealthfacilitypursuanttoRSA135-C:34-54.
+FloorAmendmenttoHB159-FN
+-Page2-
+1 159-G:3 EntryIntotheNationalInstantCriminalBackgroundCheckSystem.
+2 I. Notwithstandinganyotherprovisionof law,includingtherequirementofaclosed hearing
+3 and file under RSA 135-C:43, when a judge orders a nonemergency involuntary admission pursuant
+4 to RSA 135-C:34-54 or a commitment pursuant to RSA 171-B:2, and the order is one that qualifies
+5 under 18 U.S.C. section 922(g)(4), the court shall retain a record of the court order and promptly
+6 causethedispositiontobeenteredintheNICSIndices. Whenapersonisfoundnotguiltybyreason
+7 of insanity, or incompetent to stand trial and found by the court to be a danger to himself or herself
+8 or others pursuant to RSA 135-E or 135:17-a, as provided in this section, the department of safety
+9 shall promptly cause that disposition to be entered in the NICS Indices, in accordance with
+10 paragraphII.
+11 II. The court or the department of safety shall report only the person’s name, an identifier
+12 signifying the applicable prohibition under 18 U.S.C. section 922(g), the person’s social security
+13 number,anddateofbirth.
+14 III. If a court determines that a person is not competent to stand trial and finds that the
+15 person is also a danger to themselves or others, but, after 90 days, the person is not committed
+16 pursuant to RSA 171-B:2, 135-C:34-54, or 135-E:5, upon the motion of any party or sua sponte, the
+17 courtmaytransmitthatfindingtothedepartmentofsafetyforentryintotheNICSIndices.
+18 159-G:4 Notifications;SurrenderofFirearms.
+19 I. On the conclusion of a proceeding under RSA 135:17-a establishing dangerousness under
+20 RSA159-G:3,oronanorderofcommitmentunderRSA135-C:34-54,135-E:5,or171-B:2,oruponthe
+21 entry of a judgment of not guilty by reason of insanity, the court shall notify the person that such
+22 person is prohibited under federal law from purchasing, possessing, carrying, or transporting a
+23 firearm unless a petition for relief from disability is subsequently granted pursuant to RSA 159-H.
+24 Noadditionalinquiryintofirearmownershipordangerousnessbeyondthecommitmentfindingshall
+25 berequired.
+26 II. The individual may, through counsel at the hearing, request to voluntarily surrender
+27 firearmstoatrustedthirdparty,suchasafamilymemberorfriend.
+28 III. Lawenforcementshallnotconfiscatefirearmsunderthissectionunlesstheindividualis
+29 separatelyconvictedofadisqualifyingcriminaloffense.
+30 IV. Firearms voluntarily relinquished may be transferred to a federally licensed firearms
+31 dealer, at the person’s own expense, for further disposition at the request of the owner and upon
+32 orderofthecourt.
+33 159-G:5 Exclusions.
+34 I. Neither the court nor the department of safety shall transmit information on persons
+35 seekingvoluntarytreatmentoronpersonsinvoluntarilyhospitalizedforassessmentorevaluation.
+36 II. Information the court or the department of safety causes to be transmitted to NICS
+37 pursuanttothischaptershallnotbeconsideredaspublicrecordspursuanttoRSA91-A.
+FloorAmendmenttoHB159-FN
+-Page3-
+1 III. The records entered into the NICS Indices pursuant to this chapter shall only be used
+2 for purposes of determining eligibility to purchase, possess, carry, or transfer a firearm or
+3 ammunition. Information furnished shall not include confidential medical or treatment records,
+4 confidentialtaxorfinancialdata,orlibraryrecords.
+5 IV. Neither the court nor the department of safety shall submit the name of any person to
+6 NICS signifying a prohibition under 18 U.S.C. section 922(g) except pursuant to the processes
+7 outlined in this chapter. Only persons prohibited from possessing firearms by federal law pursuant
+8 to18U.S.Csection922(g)maybetransmittedtoNICS.
+9 159-G:6 Appointment of Attorney. Unless otherwise provided in statute, a person may be
+10 appointedanattorneybythecourtforthepurposesofanyhearingreferredtointhischapter.
+11 4 NewParagraph;AccesstoGovernmentalRecordsandMeetings;Exemptions. AmendRSA91-
+12 A:5byinsertingafterparagraphI-athefollowingnewparagraph:
+13 I-b. Information caused to be transmitted by the court to the National Instant Criminal
+14 BackgroundCheckSystempursuanttoRSA159-G:5,II.
+15 5 New Chapter; Relief from Disabilities. Amend RSA by inserting after chapter 159-G the
+16 followingnewchapter:
+17 CHAPTER159-H
+18 RELIEFFROMDISABILITIES
+19 159-H:1 Relief from Disabilities Petition. Any person who has a non-emergency involuntary
+20 commitment under RSA 135-C:34-54 or has been found not guilty by reason of insanity or
+21 incompetent to stand trial and found by the court to be a danger to himself or herself or others
+22 pursuant to RSA 171-B:2, 135-E:5 or 135:17-a, as outlined in RSA 159-G, and who is subject to the
+23 firearm disabilities of 18 U.S.C. section 922(g)(4), may petition for a review of the person’s mental
+24 capacity to possess or purchase a firearm no sooner than the following time frames. Individuals
+25 found not guilty by reason of insanity may file for relief with the court 6 months after the finding of
+26 not guilty by reason of insanity status, unless the person was committed to an institution pursuant
+27 to RSA 651:8-b, in which case the person may file for relief 15 days after absolute discharge.
+28 Individuals found incompetent to stand trial and found by the court to be a danger to themselves or
+29 others under RSA 135:17-a, as outlined in RSA 159-G, may file for relief with the court 6 months
+30 after the finding of incompetency, unless the person was committed to an institution pursuant to
+31 RSA 171-B:2 or RSA 135-C:34-54, in which case the person may file for relief 15 days from when an
+32 absolutedischarge order has beenfiled with the probatecourt. A personcommitted under RSA 135-
+33 E:5maypetitionforrelief15daysafterabsolutedischarge. Thereshallbearebuttablepresumption
+34 that any petitioner filing for relief from disability within 90 days of their absolute discharge is not a
+35 dangertothemselvesorothersandnopsychiatricexaminationisrequired.
+36 159-H:2 PsychiatricExamination. Uponreceiptofapetitionforrelief,thecourtshallschedulea
+37 hearing no later than 60 days after the date the petition was filed. Simultaneously, if it has been
+FloorAmendmenttoHB159-FN
+-Page4-
+1 longer than 90 days since the date of absolute discharge, the court shall order an independent
+2 psychiatric examination be completed no more than 45 days from the date of the court’s order. The
+3 independentpsychiatristshallprovidethecourtwithanopinionastowhetherthepersonisdisabled
+4 byamentalillnessandislikelytoactinamannerdangeroustopublicsafety.
+5 159-H:3 Hearing;Order;Appeals.
+6 I. The petitioner may present evidence and call witnesses at the hearing on the petition.
+7 The court shall make written findings of fact and conclusions of law on the issues before it and issue
+8 a final order. The court may only consider applications for relief due to mental health adjudications
+9 or commitments that occurred in New Hampshire. The court shall review the circumstances
+10 regarding the firearms disabilities imposed by 18 U.S.C. section 922(g)(4), and records consisting of
+11 at minimum mental health and any criminal record, if applicable, and the person’s reputation
+12 developedthroughcharacterwitnesstestimony,witnessstatements,orothercharacterevidence.
+13 II. The court shall grant the relief requested in the petition if the judge finds by a
+14 preponderance of the evidence that the petitioner will not be likely to act in a manner that is
+15 dangerous to public safety and that granting the relief would not be contrary to the public interest.
+16 The burden of proof shall be on the state to rebut such a finding and prove by clear and convincing
+17 evidence that the petitioner remains a prohibited person. If the final order grants relief, the court
+18 shall,assoonaspossible,requestthattheNICSentryberedactedandshallnotifytheUnitedStates
+19 Attorney General that the basis for the record being made available no longer applies. The
+20 petitioner may appeal a final order denying relief within 30 days of the order to the New Hampshire
+21 supreme court. The supreme court shall review the case de novo and has discretion to review
+22 additionalevidence.
+23 III. If the motion for relief is denied, unless a court finds good cause for considering a
+24 petition for relief sooner, the person may petition the court for relief again after 2 years have
+25 elapsed.
+26 6 ApplicationRequired. The attorneygeneralshallmakeapplicationforapprovalofsection5of
+27 this act to the United States Bureau of Alcohol, Tobacco, Firearms, and Explosives, or other such
+28 agency as may be required by federal law in order to ensure New Hampshire citizens are provided
+29 with the ability to have their rights restored. RSA 159-G shall not take effect until the attorney
+30 generalreceivesfederalapprovaloftherestorationofrightsprocess.
+31 7 Directive; Department of Justice. Should the attorney general at any time become aware of
+32 the failure to remove a record of mental health disability after a petitioner’s rights have been
+33 restored pursuant to this chapter, the attorney general shall immediately investigate the matter by
+34 making an inquiry to NICS. If the investigation does not result in the timely removal of the record,
+35 theattorneygeneralshallnotifythedepartmentofsafetytoceasesubmittingnewrecordsuntilsuch
+36 time as the record in question is removed. The attorney general shall report any such incidents to
+37 the governor, the president of the senate, and the speaker of the house of representatives. The
+FloorAmendmenttoHB159-FN
+-Page5-
+1 attorney general shall bring suit in federal court on behalf of any New Hampshire citizen whose
+2 rights have been restored pursuant to this chapter if NICS refuses to remove said record. The
+3 obligation to bring suit shall extend to the appellate level if necessary to restore the rights of any
+4 NewHampshirecitizensoaggrieved.
+5 8 Contingency. Sections 2 - 5 of this act shall take effect on the date the attorney general
+6 certifies to the secretary of state and director of the office of legislative services that the state has
+7 received approval from the United States Bureau of Alcohol, Tobacco, Firearms, and Explosives,
+8 pursuant to section 6 of this act. If the attorney general does not receive such approval, sections 2 -
+9 5ofthisactshallnottakeeffect.
+10 9 Appropriation; New Hampshire Judicial Branch. The sum of $1 for the fiscal year ending
+11 June 30, 2025, is hereby appropriated to the New Hampshire judicial branch for the cost of
+12 independent psychiatrist evaluations. The governor is authorized to draw a warrant for said sum
+13 outofanymoneyinthetreasurynototherwiseappropriated.
+14 10 Repeal. RSA126-AA:2,VI,relativetosubmissionofinformationtoNICS,isrepealed.
+15 11 EffectiveDate.
+16 I. Sections2-5ofthisactshalltakeeffectasprovidedinsection8ofthisact.
+17 II. Theremainderofthisactshalltakeeffect60daysafterpassage.
+FloorAmendmenttoHB159-FN
+-Page6-
+2025-0930h
+AMENDEDANALYSIS
+This bill authorizes the state to report mental health data for firearms background check
+purposes,andprovidesprocessesforrelieffrommentalhealth-relatedfirearmsdisabilities.
+[DELETED: .R,R.3h1,2rAttoHB1AdteteofteblbyrgitwhtefANATagtesetortmlhhdafrfsbdcpsadpgfrpsfrvysroffsfcnmlhdctpsadfrrffmmlhrdfsdAdteblbyrgalarteegcewhtef01StT.Tsblslbeknas"eCfByHsMlHhF1RgA22SeofF;ClHyRdC,MlHhRdC,a3PeOrC.AdRA11tordasf411SeofF;ClHyRdC,MlHhRdC,a5PeOrC.Tedtofsymybeteptofctfrtef6gtfrtepsofteNlItClBdCkSm(73NwC;MlHhRgfrFmBdC.AdRAb8igarcr1Ftefgnwc9CR10MLHHRGFRFMBDC111StT.Tscrslbeknas“sL”inhrofrdP2CfByHswowsstadkdwedgtelsadsyoftepsa3sfofteNwHeH412MlHhRgA.IncewhteflN5ItAsAtof2,PcLw10adteByHnV6PnAtof1,PcLw1,teNwHejlbhadt7dtofsyaeadtorttoteNlItClBdC8Sm()rscgpswohebnddfmpgorrg9fmur18U.sn9)betyheb0I.Adasntgyofacebyrnofi1I.Adasittosdtladfdbytecttobeadrt2tsorospttoRA1,15or1;o3I.IycdtoamlhhfypttoRA1]
+[DELETED: rAttoHB1Pe213EyIoteNlItClBdCkSI.Ngayorpnofl,igtertofacdhadfeurRA1,wnajeosanyiyanptoRA14oractpttoRA1,adteorisoettqur18U.sn9,tectslrnardoftectoradpcetedntobeedinteNSI.Wnapnisfdntgybyrofi,orittosdtladfdbytecttobeadrtohforhorospttoRA1Eor1,aspdintss,tedtofsslpycettdntobeedinteNSI,inaew0phI1I.Tectortedtofsyslrtoytepsn,ani2sgteaepnur18U.sn9,tepssls3n,addeofb4I.Ifactdsttapnisntcttosdtladfsttt5pnisaoadrtotsoro,b,ar90d,tepnisntc6pttoRA1,1,or1,untemnofaypyorsas,t7ctmyttttfgtotedtofsyfreyioteNSI814N;SrofF9I.OntecnofapgurRA1aegdsu0RA1,oronanorofcturRA1,1,or1,orunt1eyofajtofntgybyrnofi,tectslnytepntts2pnispdurfllwfmp,p,c,ortg3fmusapnfrrffmdyissygdpttoRA14Noaliyiofmopordsbdtectfgs5ber6I.Teilm,thclatteh,rttovys7fstoatdtdp,shasafymrorf8I.Lwetslntcefsurtssnusteili9sycdofadgclo0I.Fsvyrdmybetdtoafyldf1d,attepsone,frfrdnattertofteoradu2oroftec315E4I.Nrtectnrtedtofsyslttinonp5sgvyttoronpsiyhdfratore6I.IntectortedtofsycstobetdtoN7pttotscrslntbecdaspcrspttoRA9]
+[DELETED: rAttoHB1Pe3I.TersedioteNSIspttotscrsloybeufrpsofdgeytop,p,c,ortrafmoa.Infdslntieclmlorttrcltxorfld,orlyrI.NrtectnrtedtofsyslstteneofaypntNSsgapnur18U.sn9)etpttotepodintsc.Oypspdfmpgfsbyfllwpto18UCsn9)mybetdtoN16AtofA.Usoepdins,apnmyb0adanaybytectfrtepsofayhgrdtointsc14NwP;AstoGlRsadM;E.AdRA92A5byigarphIatefgnwp3I.IncdtobetdbytecttoteNlItC4BdCkSmpttoRA1,I55NwC;RffmD.AdRAbyigarcr1Gt6fgnwc7CR18RFFMD911RffmDsP.Aypnwohsanyi0cturRA14orhsbnfdntgybyrnofiyo1ittosdtladfdbytecttobeadrtohforhforo2pttoRA1,15or1,asodinRA1,adwoissttot3fmdsof18U.sn9,mypnfrarwoftepsm4cytopsorpeafmnosrtntefgtef.I5fdntgybyrnofiymyfefrrfwhtect6msartefgo6ntgybyrnofiys,ustepnwscdtoaninp7toRA6,inwhcetepnmyfefrrf15dsaraed8Isfdittosdtladfdbytecttobeadrtotso9osurRA1,asodinRA1,myfefrrfwhtect6m0artefgofi,ustepnwscdtoaninptt1RA12orRA1,inwhcetepnmyfefrrf15dsfmwna2aedeorhsbnfdwhtepec.ApncdurRA13E5mypnfrrf15dsaraed.Teslbearep4ttayprfgfrrffmdywn90dsoftraedeisnt5drtotsorosadnopcenisr612PcE.Unrtofapnfrr,tectslse7hgnolrtn60dsartedetepnwsf.S,ifithsb]
+[DELETED: rAttoHB1Pe4lrtn90dssetedeofaed,tectsloranipcenbecdnometn45dsfmtedeoftecso.Titptslpetectwhanonastowrtepnisdbyamlisadislytoatinamrdstopcs13H;O;AI.TeprmypteeadclwsattehgontepTectslmewnfsofftadcsoflwonteisbeitadiaflo.TectmyoycrasfrrfdetomlhhaorcsttodinNwH.Tectslrwtec0rgtefsdsidby18U.sn9,adrscgo1atmmmlhhadayclr,ifa,adtepsr2ddthcrwst,wss,ororcre3I.Tectslgtterfrdintepniftejefsby4peofteeettteprwlntbelytoatinamrtti5dstopcsyadttggterfwdntbecytotepci6Tebnofpfslbeontesetortshafgadpebycradc7eettteprrsapdp.Ifteflorgsr,tec8s,assnasp,rtttteNSeyberdadslnyteUdS9AyGltttebsfrterdbgmeaenolra.T0prmyalaflordgrfwn30dsofteortoteNwH1sec.Tesectslrwtecedenoadhsdntor2ale3I.Iftemnfrrfisd,usactfsgdcefrcg4pnfrrfs,tepnmypntectfrrfanar2ysh5e66AnR.Teayglslmeanfralofsn5o7tsattoteUdSsBuofA,T,F,adE,orors8ayasmyberdbyfllwinortoeeNwHecsaep9whteaytohetrrsr.RA1Gslntteetultea0glrsflalofternofrsp17D;DtofJ.Sdteayglataytebeaeo2tefetoreardofmlhhdyarapsrsheb3rdpttotsc,teayglsliyietemrb4mganiytoN.Ifteindsntrtintetyrlofter5teayglslnytedtofsytocesgnwrsuls6teasterdinqnisr.Teayglslrtayshist7teg,teptoftes,adtesrofteheofr.T]
+[DELETED: rAttoHB1Pe5ayglslbgstinflctonbfofayNwHecnwrshebnrdpttotscrifNSrstoresdr.TontobgstsledtoteaellifnytoretersofaNwHecnsoa8C.Ss2-5oftsatslteetontedeteaygcstotesyofseaddrofteoeoflesstttesehrdalfmteUdSsBuofA,T,F,adEpttosn6oftsa.Ifteaygldsntresha,ss25oftsatslnttee09A;NwHeJlB.Tesmof$1frteflyre1Je3,2,ishyadtoteNwHejlbhfrtecto2itpte.Tegrisadtodwawtfrsds3otofaymyintetyntoea410R.RA1,V,retosnofintoN,isr511EeD6I.Ss2-5oftsatslteetaspdinsn8oftsa7I.Terroftsatslteet60dsarp]
+[DELETED: rAttoHB1Pe6DAsblastesetortmlhhdafrfsbdc,adpspsfrrffmmlhdfsd]
+
+
+================================================================================
+
+Raw Text:
+Rep.Roy,Rock.31
+March11,2025
+2025-0930h
+09/05
+FloorAmendmenttoHB159-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT authorizing the state to report mental health data for firearms background check
+4 purposes and providing for processes for voluntary surrender of firearms following
+5 certain mental health-related court proceedings and for relief from mental health-
+6 relatedfirearmsdisabilities.
+7
+8 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+9
+10 1 Short Title. This bill shall be known as "The Chief Bradley Haas Mental Health Firearms
+11 ReportingAct".
+12 2 Sale of Firearms; Criminal History Record Check, Mental Health Record Check, and
+13 ProtectiveOrderCheck. AmendRSA159-D:1toreadasfollows:
+14 159-D:1 SaleofFirearms;CriminalHistoryRecordCheck,MentalHealthRecordCheck,and
+15 Protective Order Check. The department of safety may become the point of contact for the federal
+16 governmentforthepurposesoftheNationalInstantCriminalBackgroundCheckSystem(NICS).
+17 3 New Chapter; Mental Health Reporting for Firearm Background Checks. Amend RSA by
+18 insertingafterchapter159-Fthefollowingnewchapter:
+19 CHAPTER159-G
+20 MENTALHEALTHREPORTINGFORFIREARMBACKGROUNDCHECKS
+21 159-G:1 Short Title. This chapter shall be known as “Bradley’s Law” in honor of retired Police
+22 Chief Bradley Haas who was shot and killed while defending the lives and safety of the patients and
+23 staffoftheNewHampshireHospital.
+24 159-G:2 Mental Health Reporting Authorized. In compliance with the federal NICS
+25 Improvement Amendments Act of 2007, Public Law 110-180 and the Brady Handgun Violence
+26 Prevention Act of 1993, Public Law 103-159, the New Hampshire judicial branch and the
+27 department of safety are authorized to report to the National Instant Criminal Background Check
+28 System(NICS)recordsconcerningpersonswhohavebeendisqualifiedfrompossessingorreceivinga
+29 firearmunder18U.S.C.section922(g)(4)becausetheyhavebeen:
+30 I. Adjudicatedasnotguiltyofacrimebyreasonofinsanity;
+31 II. Adjudicated as incompetent to stand trial and found by the court to be a danger to
+32 themselvesorotherspursuanttoRSA171-B:2,135-E:5or135:17-a;or
+33 III. InvoluntarilycommittedtoamentalhealthfacilitypursuanttoRSA135-C:34-54.
+
+FloorAmendmenttoHB159-FN
+-Page2-
+1 159-G:3 EntryIntotheNationalInstantCriminalBackgroundCheckSystem.
+2 I. Notwithstandinganyotherprovisionof law,includingtherequirementofaclosed hearing
+3 and file under RSA 135-C:43, when a judge orders a nonemergency involuntary admission pursuant
+4 to RSA 135-C:34-54 or a commitment pursuant to RSA 171-B:2, and the order is one that qualifies
+5 under 18 U.S.C. section 922(g)(4), the court shall retain a record of the court order and promptly
+6 causethedispositiontobeenteredintheNICSIndices. Whenapersonisfoundnotguiltybyreason
+7 of insanity, or incompetent to stand trial and found by the court to be a danger to himself or herself
+8 or others pursuant to RSA 135-E or 135:17-a, as provided in this section, the department of safety
+9 shall promptly cause that disposition to be entered in the NICS Indices, in accordance with
+10 paragraphII.
+11 II. The court or the department of safety shall report only the person’s name, an identifier
+12 signifying the applicable prohibition under 18 U.S.C. section 922(g), the person’s social security
+13 number,anddateofbirth.
+14 III. If a court determines that a person is not competent to stand trial and finds that the
+15 person is also a danger to themselves or others, but, after 90 days, the person is not committed
+16 pursuant to RSA 171-B:2, 135-C:34-54, or 135-E:5, upon the motion of any party or sua sponte, the
+17 courtmaytransmitthatfindingtothedepartmentofsafetyforentryintotheNICSIndices.
+18 159-G:4 Notifications;SurrenderofFirearms.
+19 I. On the conclusion of a proceeding under RSA 135:17-a establishing dangerousness under
+20 RSA159-G:3,oronanorderofcommitmentunderRSA135-C:34-54,135-E:5,or171-B:2,oruponthe
+21 entry of a judgment of not guilty by reason of insanity, the court shall notify the person that such
+22 person is prohibited under federal law from purchasing, possessing, carrying, or transporting a
+23 firearm unless a petition for relief from disability is subsequently granted pursuant to RSA 159-H.
+24 Noadditionalinquiryintofirearmownershipordangerousnessbeyondthecommitmentfindingshall
+25 berequired.
+26 II. The individual may, through counsel at the hearing, request to voluntarily surrender
+27 firearmstoatrustedthirdparty,suchasafamilymemberorfriend.
+28 III. Lawenforcementshallnotconfiscatefirearmsunderthissectionunlesstheindividualis
+29 separatelyconvictedofadisqualifyingcriminaloffense.
+30 IV. Firearms voluntarily relinquished may be transferred to a federally licensed firearms
+31 dealer, at the person’s own expense, for further disposition at the request of the owner and upon
+32 orderofthecourt.
+33 159-G:5 Exclusions.
+34 I. Neither the court nor the department of safety shall transmit information on persons
+35 seekingvoluntarytreatmentoronpersonsinvoluntarilyhospitalizedforassessmentorevaluation.
+36 II. Information the court or the department of safety causes to be transmitted to NICS
+37 pursuanttothischaptershallnotbeconsideredaspublicrecordspursuanttoRSA91-A.
+
+FloorAmendmenttoHB159-FN
+-Page3-
+1 III. The records entered into the NICS Indices pursuant to this chapter shall only be used
+2 for purposes of determining eligibility to purchase, possess, carry, or transfer a firearm or
+3 ammunition. Information furnished shall not include confidential medical or treatment records,
+4 confidentialtaxorfinancialdata,orlibraryrecords.
+5 IV. Neither the court nor the department of safety shall submit the name of any person to
+6 NICS signifying a prohibition under 18 U.S.C. section 922(g) except pursuant to the processes
+7 outlined in this chapter. Only persons prohibited from possessing firearms by federal law pursuant
+8 to18U.S.Csection922(g)maybetransmittedtoNICS.
+9 159-G:6 Appointment of Attorney. Unless otherwise provided in statute, a person may be
+10 appointedanattorneybythecourtforthepurposesofanyhearingreferredtointhischapter.
+11 4 NewParagraph;AccesstoGovernmentalRecordsandMeetings;Exemptions. AmendRSA91-
+12 A:5byinsertingafterparagraphI-athefollowingnewparagraph:
+13 I-b. Information caused to be transmitted by the court to the National Instant Criminal
+14 BackgroundCheckSystempursuanttoRSA159-G:5,II.
+15 5 New Chapter; Relief from Disabilities. Amend RSA by inserting after chapter 159-G the
+16 followingnewchapter:
+17 CHAPTER159-H
+18 RELIEFFROMDISABILITIES
+19 159-H:1 Relief from Disabilities Petition. Any person who has a non-emergency involuntary
+20 commitment under RSA 135-C:34-54 or has been found not guilty by reason of insanity or
+21 incompetent to stand trial and found by the court to be a danger to himself or herself or others
+22 pursuant to RSA 171-B:2, 135-E:5 or 135:17-a, as outlined in RSA 159-G, and who is subject to the
+23 firearm disabilities of 18 U.S.C. section 922(g)(4), may petition for a review of the person’s mental
+24 capacity to possess or purchase a firearm no sooner than the following time frames. Individuals
+25 found not guilty by reason of insanity may file for relief with the court 6 months after the finding of
+26 not guilty by reason of insanity status, unless the person was committed to an institution pursuant
+27 to RSA 651:8-b, in which case the person may file for relief 15 days after absolute discharge.
+28 Individuals found incompetent to stand trial and found by the court to be a danger to themselves or
+29 others under RSA 135:17-a, as outlined in RSA 159-G, may file for relief with the court 6 months
+30 after the finding of incompetency, unless the person was committed to an institution pursuant to
+31 RSA 171-B:2 or RSA 135-C:34-54, in which case the person may file for relief 15 days from when an
+32 absolutedischarge order has beenfiled with the probatecourt. A personcommitted under RSA 135-
+33 E:5maypetitionforrelief15daysafterabsolutedischarge. Thereshallbearebuttablepresumption
+34 that any petitioner filing for relief from disability within 90 days of their absolute discharge is not a
+35 dangertothemselvesorothersandnopsychiatricexaminationisrequired.
+36 159-H:2 PsychiatricExamination. Uponreceiptofapetitionforrelief,thecourtshallschedulea
+37 hearing no later than 60 days after the date the petition was filed. Simultaneously, if it has been
+
+FloorAmendmenttoHB159-FN
+-Page4-
+1 longer than 90 days since the date of absolute discharge, the court shall order an independent
+2 psychiatric examination be completed no more than 45 days from the date of the court’s order. The
+3 independentpsychiatristshallprovidethecourtwithanopinionastowhetherthepersonisdisabled
+4 byamentalillnessandislikelytoactinamannerdangeroustopublicsafety.
+5 159-H:3 Hearing;Order;Appeals.
+6 I. The petitioner may present evidence and call witnesses at the hearing on the petition.
+7 The court shall make written findings of fact and conclusions of law on the issues before it and issue
+8 a final order. The court may only consider applications for relief due to mental health adjudications
+9 or commitments that occurred in New Hampshire. The court shall review the circumstances
+10 regarding the firearms disabilities imposed by 18 U.S.C. section 922(g)(4), and records consisting of
+11 at minimum mental health and any criminal record, if applicable, and the person’s reputation
+12 developedthroughcharacterwitnesstestimony,witnessstatements,orothercharacterevidence.
+13 II. The court shall grant the relief requested in the petition if the judge finds by a
+14 preponderance of the evidence that the petitioner will not be likely to act in a manner that is
+15 dangerous to public safety and that granting the relief would not be contrary to the public interest.
+16 The burden of proof shall be on the state to rebut such a finding and prove by clear and convincing
+17 evidence that the petitioner remains a prohibited person. If the final order grants relief, the court
+18 shall,assoonaspossible,requestthattheNICSentryberedactedandshallnotifytheUnitedStates
+19 Attorney General that the basis for the record being made available no longer applies. The
+20 petitioner may appeal a final order denying relief within 30 days of the order to the New Hampshire
+21 supreme court. The supreme court shall review the case de novo and has discretion to review
+22 additionalevidence.
+23 III. If the motion for relief is denied, unless a court finds good cause for considering a
+24 petition for relief sooner, the person may petition the court for relief again after 2 years have
+25 elapsed.
+26 6 ApplicationRequired. The attorneygeneralshallmakeapplicationforapprovalofsection5of
+27 this act to the United States Bureau of Alcohol, Tobacco, Firearms, and Explosives, or other such
+28 agency as may be required by federal law in order to ensure New Hampshire citizens are provided
+29 with the ability to have their rights restored. RSA 159-G shall not take effect until the attorney
+30 generalreceivesfederalapprovaloftherestorationofrightsprocess.
+31 7 Directive; Department of Justice. Should the attorney general at any time become aware of
+32 the failure to remove a record of mental health disability after a petitioner’s rights have been
+33 restored pursuant to this chapter, the attorney general shall immediately investigate the matter by
+34 making an inquiry to NICS. If the investigation does not result in the timely removal of the record,
+35 theattorneygeneralshallnotifythedepartmentofsafetytoceasesubmittingnewrecordsuntilsuch
+36 time as the record in question is removed. The attorney general shall report any such incidents to
+37 the governor, the president of the senate, and the speaker of the house of representatives. The
+
+FloorAmendmenttoHB159-FN
+-Page5-
+1 attorney general shall bring suit in federal court on behalf of any New Hampshire citizen whose
+2 rights have been restored pursuant to this chapter if NICS refuses to remove said record. The
+3 obligation to bring suit shall extend to the appellate level if necessary to restore the rights of any
+4 NewHampshirecitizensoaggrieved.
+5 8 Contingency. Sections 2 - 5 of this act shall take effect on the date the attorney general
+6 certifies to the secretary of state and director of the office of legislative services that the state has
+7 received approval from the United States Bureau of Alcohol, Tobacco, Firearms, and Explosives,
+8 pursuant to section 6 of this act. If the attorney general does not receive such approval, sections 2 -
+9 5ofthisactshallnottakeeffect.
+10 9 Appropriation; New Hampshire Judicial Branch. The sum of $1 for the fiscal year ending
+11 June 30, 2025, is hereby appropriated to the New Hampshire judicial branch for the cost of
+12 independent psychiatrist evaluations. The governor is authorized to draw a warrant for said sum
+13 outofanymoneyinthetreasurynototherwiseappropriated.
+14 10 Repeal. RSA126-AA:2,VI,relativetosubmissionofinformationtoNICS,isrepealed.
+15 11 EffectiveDate.
+16 I. Sections2-5ofthisactshalltakeeffectasprovidedinsection8ofthisact.
+17 II. Theremainderofthisactshalltakeeffect60daysafterpassage.
+
+FloorAmendmenttoHB159-FN
+-Page6-
+2025-0930h
+AMENDEDANALYSIS
+This bill authorizes the state to report mental health data for firearms background check
+purposes,andprovidesprocessesforrelieffrommentalhealth-relatedfirearmsdisabilities.
+
+[DELETED: .R,R.3h1,2rAttoHB1AdteteofteblbyrgitwhtefANATagtesetortmlhhdafrfsbdcpsadpgfrpsfrvysroffsfcnmlhdctpsadfrrffmmlhrdfsdAdteblbyrgalarteegcewhtef01StT.Tsblslbeknas"eCfByHsMlHhF1RgA22SeofF;ClHyRdC,MlHhRdC,a3PeOrC.AdRA11tordasf411SeofF;ClHyRdC,MlHhRdC,a5PeOrC.Tedtofsymybeteptofctfrtef6gtfrtepsofteNlItClBdCkSm(73NwC;MlHhRgfrFmBdC.AdRAb8igarcr1Ftefgnwc9CR10MLHHRGFRFMBDC111StT.Tscrslbeknas“sL”inhrofrdP2CfByHswowsstadkdwedgtelsadsyoftepsa3sfofteNwHeH412MlHhRgA.IncewhteflN5ItAsAtof2,PcLw10adteByHnV6PnAtof1,PcLw1,teNwHejlbhadt7dtofsyaeadtorttoteNlItClBdC8Sm()rscgpswohebnddfmpgorrg9fmur18U.sn9)betyheb0I.Adasntgyofacebyrnofi1I.Adasittosdtladfdbytecttobeadrt2tsorospttoRA1,15or1;o3I.IycdtoamlhhfypttoRA1]
+[DELETED: rAttoHB1Pe213EyIoteNlItClBdCkSI.Ngayorpnofl,igtertofacdhadfeurRA1,wnajeosanyiyanptoRA14oractpttoRA1,adteorisoettqur18U.sn9,tectslrnardoftectoradpcetedntobeedinteNSI.Wnapnisfdntgybyrofi,orittosdtladfdbytecttobeadrtohforhorospttoRA1Eor1,aspdintss,tedtofsslpycettdntobeedinteNSI,inaew0phI1I.Tectortedtofsyslrtoytepsn,ani2sgteaepnur18U.sn9,tepssls3n,addeofb4I.Ifactdsttapnisntcttosdtladfsttt5pnisaoadrtotsoro,b,ar90d,tepnisntc6pttoRA1,1,or1,untemnofaypyorsas,t7ctmyttttfgtotedtofsyfreyioteNSI814N;SrofF9I.OntecnofapgurRA1aegdsu0RA1,oronanorofcturRA1,1,or1,orunt1eyofajtofntgybyrnofi,tectslnytepntts2pnispdurfllwfmp,p,c,ortg3fmusapnfrrffmdyissygdpttoRA14Noaliyiofmopordsbdtectfgs5ber6I.Teilm,thclatteh,rttovys7fstoatdtdp,shasafymrorf8I.Lwetslntcefsurtssnusteili9sycdofadgclo0I.Fsvyrdmybetdtoafyldf1d,attepsone,frfrdnattertofteoradu2oroftec315E4I.Nrtectnrtedtofsyslttinonp5sgvyttoronpsiyhdfratore6I.IntectortedtofsycstobetdtoN7pttotscrslntbecdaspcrspttoRA9]
+[DELETED: rAttoHB1Pe3I.TersedioteNSIspttotscrsloybeufrpsofdgeytop,p,c,ortrafmoa.Infdslntieclmlorttrcltxorfld,orlyrI.NrtectnrtedtofsyslstteneofaypntNSsgapnur18U.sn9)etpttotepodintsc.Oypspdfmpgfsbyfllwpto18UCsn9)mybetdtoN16AtofA.Usoepdins,apnmyb0adanaybytectfrtepsofayhgrdtointsc14NwP;AstoGlRsadM;E.AdRA92A5byigarphIatefgnwp3I.IncdtobetdbytecttoteNlItC4BdCkSmpttoRA1,I55NwC;RffmD.AdRAbyigarcr1Gt6fgnwc7CR18RFFMD911RffmDsP.Aypnwohsanyi0cturRA14orhsbnfdntgybyrnofiyo1ittosdtladfdbytecttobeadrtohforhforo2pttoRA1,15or1,asodinRA1,adwoissttot3fmdsof18U.sn9,mypnfrarwoftepsm4cytopsorpeafmnosrtntefgtef.I5fdntgybyrnofiymyfefrrfwhtect6msartefgo6ntgybyrnofiys,ustepnwscdtoaninp7toRA6,inwhcetepnmyfefrrf15dsaraed8Isfdittosdtladfdbytecttobeadrtotso9osurRA1,asodinRA1,myfefrrfwhtect6m0artefgofi,ustepnwscdtoaninptt1RA12orRA1,inwhcetepnmyfefrrf15dsfmwna2aedeorhsbnfdwhtepec.ApncdurRA13E5mypnfrrf15dsaraed.Teslbearep4ttayprfgfrrffmdywn90dsoftraedeisnt5drtotsorosadnopcenisr612PcE.Unrtofapnfrr,tectslse7hgnolrtn60dsartedetepnwsf.S,ifithsb]
+[DELETED: rAttoHB1Pe4lrtn90dssetedeofaed,tectsloranipcenbecdnometn45dsfmtedeoftecso.Titptslpetectwhanonastowrtepnisdbyamlisadislytoatinamrdstopcs13H;O;AI.TeprmypteeadclwsattehgontepTectslmewnfsofftadcsoflwonteisbeitadiaflo.TectmyoycrasfrrfdetomlhhaorcsttodinNwH.Tectslrwtec0rgtefsdsidby18U.sn9,adrscgo1atmmmlhhadayclr,ifa,adtepsr2ddthcrwst,wss,ororcre3I.Tectslgtterfrdintepniftejefsby4peofteeettteprwlntbelytoatinamrtti5dstopcsyadttggterfwdntbecytotepci6Tebnofpfslbeontesetortshafgadpebycradc7eettteprrsapdp.Ifteflorgsr,tec8s,assnasp,rtttteNSeyberdadslnyteUdS9AyGltttebsfrterdbgmeaenolra.T0prmyalaflordgrfwn30dsofteortoteNwH1sec.Tesectslrwtecedenoadhsdntor2ale3I.Iftemnfrrfisd,usactfsgdcefrcg4pnfrrfs,tepnmypntectfrrfanar2ysh5e66AnR.Teayglslmeanfralofsn5o7tsattoteUdSsBuofA,T,F,adE,orors8ayasmyberdbyfllwinortoeeNwHecsaep9whteaytohetrrsr.RA1Gslntteetultea0glrsflalofternofrsp17D;DtofJ.Sdteayglataytebeaeo2tefetoreardofmlhhdyarapsrsheb3rdpttotsc,teayglsliyietemrb4mganiytoN.Ifteindsntrtintetyrlofter5teayglslnytedtofsytocesgnwrsuls6teasterdinqnisr.Teayglslrtayshist7teg,teptoftes,adtesrofteheofr.T]
+[DELETED: rAttoHB1Pe5ayglslbgstinflctonbfofayNwHecnwrshebnrdpttotscrifNSrstoresdr.TontobgstsledtoteaellifnytoretersofaNwHecnsoa8C.Ss2-5oftsatslteetontedeteaygcstotesyofseaddrofteoeoflesstttesehrdalfmteUdSsBuofA,T,F,adEpttosn6oftsa.Ifteaygldsntresha,ss25oftsatslnttee09A;NwHeJlB.Tesmof$1frteflyre1Je3,2,ishyadtoteNwHejlbhfrtecto2itpte.Tegrisadtodwawtfrsds3otofaymyintetyntoea410R.RA1,V,retosnofintoN,isr511EeD6I.Ss2-5oftsatslteetaspdinsn8oftsa7I.Terroftsatslteet60dsarp]
+[DELETED: rAttoHB1Pe6DAsblastesetortmlhhdafrfsbdc,adpspsfrrffmmlhdfsd]

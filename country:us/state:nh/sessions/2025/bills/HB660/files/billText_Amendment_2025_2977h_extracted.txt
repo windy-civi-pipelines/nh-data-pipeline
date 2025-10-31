@@ -1,0 +1,129 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2977h
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Rep.Ohm,Hills.10
+Rep.Manohar,Hills.9
+Rep.Almy,Graf.17
+October2,2025
+2025-2977h
+09/08
+AmendmenttoHB660-FN-LOCAL
+2
+3 ANACT requiring historic horse racing facilities and video lottery terminal licensees to
+4 compensatetheirhostcommunitieswithapercentageoftherevenuegenerated.
+5
+6 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+7
+8 1 VideoLotteryTerminals;RevenueShare. AmendRSA287-J:6,III(a)toreadasfollows:
+9 (a) Eachlicenseeshalldistribute35percentoftheamountcollectedunderparagraphIII
+10 asfollows:
+11 (1) 50 percent tocharitableorganizationswithwhomthelicenseecontracts oneach
+12 licensed game date. Each VLT licensee must contract with 2 licensed charitable organizations for
+13 eachgamedate.
+14 (2) 30percenttothemunicipalityinwhichthelicenseeoperates.
+15 (3) 10percenttothecountyinwhichthelicenseeoperates.
+16 (4) 10 percent equally divided between any city or town that abuts the
+17 municipalityinwhichthelicenseeoperates.
+18 2 Pari-MutuelPools;Tax. AmendRSA284:23,I(d)toreadasfollows:
+19 (d)(1) Each person, association, or corporation licensed to conduct historic horse race
+20 wagering shall collect a sum equal to 25 percent of revenues generated from historic horse race pari-
+21 mutuel pools after breakage and payment of winnings to patrons. Each licensee that conducts
+22 wagering on historic horse races shall distribute 35 percent of the amount collected under this
+23 paragraphasfollows:
+24 (A) 50 percent to charitable organizations with whom the licensee contracts on
+25 each licensed game date. Charitable organizations from within the executive council district where
+26 the licensee is located shall be given preference, and no charitable organization shall be eligible for
+27 morethan10datesofrevenueunderthissection,withina12monthperiod. Eachlicenseeoperating
+28 historic horse racing machines must contract with 2 licensed charitable organizations for each game
+29 date.
+30 (B) 30percenttothemunicipalityinwhichthelicenseeoperates.
+31 (C) 10percenttothecountyinwhichthelicenseeoperates.
+AmendmenttoHB660-FN-LOCAL
+-Page2-
+1 (D) 10 percent equally divided between any city or town that abuts the
+2 municipalityinwhichthelicenseeoperates.
+3 (2) Theremainderofthetotalamountcollectedbythelicenseeunderthisparagraph
+4 shall be paid to the lottery commission for use according to the special fund established under RSA
+5 284:21-j.
+6 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+AmendmenttoHB660-FN-LOCAL
+-Page3-
+2025-2977h
+AMENDEDANALYSIS
+Thisbill requires historic horseracingfacilities and videolotteryterminal licensees totransfer a
+percentage of the revenue generated, after breakage and payment of winnings, to host
+municipalities.
+[DELETED: .O,H.1.M,H..A,G.1r2,2ttoHB6AdteteofteblbyrgitwhtefANATrghchergfsadvolytllstcetrhtcswhapeofteregAdteblbyrgalarteegcewhtef1VoLyT;ReS.AdRA2,I)tordasf()Ehleslde35ptofteatcdurphI0asf1()50pttoceoswhwmtelecsone2ldged.EhVTlemtctwh2ldceosf3ehged4()30pttotemyinwhteleo5()10pttotecyinwhteleo6()10pteyddbnaycyortnttast7myinwhteleo82PlP;T.AdRA2,I)tordasf9()Ehp,a,orcnldtocthcher0wgslctasmelto25ptofrsgdfmhcherep1mlpsarbeadptofwstop.Ehlettc2wgonhchersslde35ptofteatcdurt3phasf4()50pttoceoswhwmtelecso5ehldged.Ceosfmwnteeecldtw6teleisldslbegnp,adnoceonslbeeef7metn10dsofreurtss,wna12mhp.Ehleo8hchergmsmtctwh2ldceosfrehg9d0()30pttotemyinwhteleo1()10pttotecyinwhteleo]
+[DELETED: ttoHB6Pe2()10pteyddbnaycyortnttastmyinwhteleo()TerroftetlatcdbyteleurtspslbepdtotelycnfrueagtoteslfdedurR23EeD.TsatslteetJy1,2]
+[DELETED: ttoHB6Pe3DAsblrshchergfsadvolytllstotreoftereg,arbeadptofw,toh]
+
+
+================================================================================
+
+Raw Text:
+Rep.Ohm,Hills.10
+Rep.Manohar,Hills.9
+Rep.Almy,Graf.17
+October2,2025
+2025-2977h
+09/08
+AmendmenttoHB660-FN-LOCAL
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT requiring historic horse racing facilities and video lottery terminal licensees to
+4 compensatetheirhostcommunitieswithapercentageoftherevenuegenerated.
+5
+6 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+7
+8 1 VideoLotteryTerminals;RevenueShare. AmendRSA287-J:6,III(a)toreadasfollows:
+9 (a) Eachlicenseeshalldistribute35percentoftheamountcollectedunderparagraphIII
+10 asfollows:
+11 (1) 50 percent tocharitableorganizationswithwhomthelicenseecontracts oneach
+12 licensed game date. Each VLT licensee must contract with 2 licensed charitable organizations for
+13 eachgamedate.
+14 (2) 30percenttothemunicipalityinwhichthelicenseeoperates.
+15 (3) 10percenttothecountyinwhichthelicenseeoperates.
+16 (4) 10 percent equally divided between any city or town that abuts the
+17 municipalityinwhichthelicenseeoperates.
+18 2 Pari-MutuelPools;Tax. AmendRSA284:23,I(d)toreadasfollows:
+19 (d)(1) Each person, association, or corporation licensed to conduct historic horse race
+20 wagering shall collect a sum equal to 25 percent of revenues generated from historic horse race pari-
+21 mutuel pools after breakage and payment of winnings to patrons. Each licensee that conducts
+22 wagering on historic horse races shall distribute 35 percent of the amount collected under this
+23 paragraphasfollows:
+24 (A) 50 percent to charitable organizations with whom the licensee contracts on
+25 each licensed game date. Charitable organizations from within the executive council district where
+26 the licensee is located shall be given preference, and no charitable organization shall be eligible for
+27 morethan10datesofrevenueunderthissection,withina12monthperiod. Eachlicenseeoperating
+28 historic horse racing machines must contract with 2 licensed charitable organizations for each game
+29 date.
+30 (B) 30percenttothemunicipalityinwhichthelicenseeoperates.
+31 (C) 10percenttothecountyinwhichthelicenseeoperates.
+
+AmendmenttoHB660-FN-LOCAL
+-Page2-
+1 (D) 10 percent equally divided between any city or town that abuts the
+2 municipalityinwhichthelicenseeoperates.
+3 (2) Theremainderofthetotalamountcollectedbythelicenseeunderthisparagraph
+4 shall be paid to the lottery commission for use according to the special fund established under RSA
+5 284:21-j.
+6 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+AmendmenttoHB660-FN-LOCAL
+-Page3-
+2025-2977h
+AMENDEDANALYSIS
+Thisbill requires historic horseracingfacilities and videolotteryterminal licensees totransfer a
+percentage of the revenue generated, after breakage and payment of winnings, to host
+municipalities.
+
+[DELETED: .O,H.1.M,H..A,G.1r2,2ttoHB6AdteteofteblbyrgitwhtefANATrghchergfsadvolytllstcetrhtcswhapeofteregAdteblbyrgalarteegcewhtef1VoLyT;ReS.AdRA2,I)tordasf()Ehleslde35ptofteatcdurphI0asf1()50pttoceoswhwmtelecsone2ldged.EhVTlemtctwh2ldceosf3ehged4()30pttotemyinwhteleo5()10pttotecyinwhteleo6()10pteyddbnaycyortnttast7myinwhteleo82PlP;T.AdRA2,I)tordasf9()Ehp,a,orcnldtocthcher0wgslctasmelto25ptofrsgdfmhcherep1mlpsarbeadptofwstop.Ehlettc2wgonhchersslde35ptofteatcdurt3phasf4()50pttoceoswhwmtelecso5ehldged.Ceosfmwnteeecldtw6teleisldslbegnp,adnoceonslbeeef7metn10dsofreurtss,wna12mhp.Ehleo8hchergmsmtctwh2ldceosfrehg9d0()30pttotemyinwhteleo1()10pttotecyinwhteleo]
+[DELETED: ttoHB6Pe2()10pteyddbnaycyortnttastmyinwhteleo()TerroftetlatcdbyteleurtspslbepdtotelycnfrueagtoteslfdedurR23EeD.TsatslteetJy1,2]
+[DELETED: ttoHB6Pe3DAsblrshchergfsadvolytllstotreoftereg,arbeadptofw,toh]

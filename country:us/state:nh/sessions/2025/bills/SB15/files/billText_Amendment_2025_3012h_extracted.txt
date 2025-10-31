@@ -1,0 +1,434 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3012h
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Rep.Roy,Rock.31
+Rep.Rhodes,Ches.17
+Rep.Lynn,Rock.17
+Rep.D.Mannion,Rock.25
+Rep.Proulx,Hills.15
+Rep.Devoid,Merr.1
+Rep.Paquette,Hills.25
+Rep.Sabourin,Rock.30
+October15,2025
+2025-3012h
+09/05
+AmendmenttoSB15-FN
+2
+3 ANACT relative to incorporating hard labor as a sentencing option for certain offenses;
+4 establishing medical exemptions and penalties for abuse thereof; providing
+5 alternative punitive measures for legitimate medical exemptions; and establishing a
+6 sentencingappealspanelforprosecutionappealsrelatedtohardlaborsentences.
+7
+8 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+UNAPPROVED
+9
+10 1 New Paragraph; Hard Labor for Certain Offenses. Amend RSA 651:2 by inserting after
+11 paragraphII-hthefollowingnewparagraph:
+1
+12 II-i.(a) For any person convicted of a serious offense, including capital murder under RSA
+13 630:1, first degree murder under RSA 630:1-a, second degree murder under RSA 630:1-b,
+14 manslaughter under RSA 630:2, first degree assault under RSA 631:1 (including on a current or
+15 former law enforcement officer, firefighter, emergency medical services worker, or public official),
+16 second degree assault under RSA 631:2 (including on a current or former law enforcement officer,
+17 firefighter, emergency medical services worker, or public official), simple assault under RSA 631:2-a
+18 (including on a current or former law enforcement officer, firefighter, emergency medical services
+19 worker, or public official), assault or harm to a current or former public official or their immediate
+20 family member under RSA 631:4-a, kidnapping under RSA 633:1, aggravated felonious sexual
+21 assault under RSA 632-A:2, felonious sexual assault under RSA 632-A:3, robbery under RSA 636:1,
+22 possession of child sexual abuse images under RSA 649-A:3, or trafficking in persons under RSA
+23 633:7, the defendant may elect, in writing and prior to sentencing, to serve any sentence of
+24 imprisonment at hard labor as defined in RSA 622:7. If the defendant does not elect hard labor, the
+25 courtshallimposeanadditionalminimummandatorytermequalto50percentofthebaseminimum
+26 term imposed, rounded up to the nearest whole year, which shall not be suspended, deferred, or
+27 reduced for good conduct or earned time credits under RSA 651-A:22 or RSA 651-A:22-a, and which
+AmendmenttoSB15-FN
+-Page2-
+1 shall be served consecutively to the original sentence imposed by the court. The total sentence shall
+2 notexceedthestatutorymaximumfortheoffense.
+3 (b) Notwithstanding subparagraph II-i(a), the court may, in the interest of justice,
+4 depart from the hard labor requirement or the additional mandatory term upon making written
+5 findings explaining the departure and after hearing from the victim or victim’s representative, if
+6 any. For purposes of this subparagraph, “in the interest of justice” means a departure based on
+7 objective, case-specific factors including, but not limited to, the defendant’s age, physical, or mental
+8 health, short of qualifying for amedical exemptionunder RSA 622:7-c, lack of prior criminal history,
+9 evidence of rehabilitation potential, or extraordinary mitigating circumstances not adequately
+10 accountedforinthesentencingguidelines,providedsuchfactorsareappliedconsistentlytosimilarly
+11 situated defendants to ensure equal protection under the law. Such departures shall be appealable
+12 by the prosecution to the sentencing appeals panel established under RSA 651:72, with a de novo
+13 resentencinghearing.
+14 2 DutiesoftheCommissioner. AmendRSA622:7,IXtoreadasfollows:
+15 IX. To [conduct and manage the industries at the prisons.] establish and operate an
+16 industries program to aid in the rehabilitation of inmates of the state prisons, which may
+U1N7 includeAa hard laPbor compPonent forRsentencesOdesignatedVunder RSAE651:2 orDother
+18 applicablestatutes.
+19 (a) As used in this paragraph, “hard labor” means the mandatory performance
+1 20 of physically intensive manual labor tasks assigned by the commissioner of corrections,
+21 designed to serve as punishment, deterrence, and, where appropriate, rehabilitation for
+22 convicted offenders. Such labor shall include, but not be limited to, activities such as
+23 agricultural fieldwork (such as planting, harvesting, or soil preparation), construction or
+24 infrastructure maintenance (such as road repair, building upkeep, or excavation),
+25 sanitation and waste management (such as cleaning facilities or handling refuse),
+26 manufacturing or assembly work requiring significant physical exertion (such as
+27 furniture production or metalworking), or other comparable tasks that demand prolonged
+28 physical effort under supervised conditions. No hard labor assignment shall pose an
+29 unreasonable risk of serious injury or be conducted without regard to the offender’s health
+30 andsafety.
+31 (b) Hard labor assignments shall require no less than 8 hours per day, 5 days
+32 per week, unless adjusted for documented medical, age-related, or security reasons, and
+33 shall be performed in compliance with basic health and safety standards to prevent injury
+34 or undue hardship. Compensation, if any, shall be at the prevailing prison wage rate but
+35 shall not exceed rates for non-hard labor assignments. The commissioner may incorporate
+36 rehabilitative components, such as vocational training, but the primary purpose for
+37 designated offenses shall be punitive retribution and societal deterrence. Refusal to
+AmendmenttoSB15-FN
+-Page3-
+1 participate without valid exemption may result in disciplinary measures, including loss of
+2 goodtimecreditsunderRSA651-A:22orextendedconfinement.
+3 (c) For convictions of capital murder under RSA 630:1, including the murder of
+4 a law enforcement officer in the line of duty, the sentence shall be life imprisonment at
+5 hard labor without the possibility of parole or reduction. The offender shall be required to
+6 perform hard labor as defined herein for the duration of their natural life, subject only to
+7 exemptions for permanent medical incapacity as determined under RSA 622:7-c. No
+8 election or alternative sentencing option shall be available, and the punitive nature of the
+9 laborshalltakeprecedenceoverrehabilitativegoals.
+10 (d) The commissioner shall ensure that all staff involved in assigning or
+11 supervising hard labor receive training on compliance with the Eighth Amendment to the
+12 United States Constitution and part I, article 18 of the New Hampshire constitution to
+13 preventcruelandunusualpunishment.
+14 3 New Sections; Medical Exemption from Hard Labor and Prevention of Abuse. Amend RSA
+15 622byinsertingaftersection7-bthefollowingnewsections:
+16 622:7-c MedicalExemptionsfromHardLabor;PreventionofAbuse.
+U1N7 IA. An offendPer may bePexemptedRfrom hard lOabor only upVon a determEination of mDedical
+18 inability by a qualified physician employed by or contracted with the department of corrections.
+19 “Medical inability” means a documented physical or mental condition that substantially impairs the
+1 20 offender’s capacity to perform the essential functions of assigned hard labor tasks, even with
+21 reasonableaccommodations,ascertifiedinwritingwithreferencetospecificdiagnosticcriteria, such
+22 asbasedonstandardsfromtheAmericanMedicalAssociationorequivalent.
+23 II. Thedeterminationshall bebasedonanin-personevaluation,includingreviewof medical
+24 records, and may incorporate standardized assessments for malingering, such as the Structured
+25 InventoryofMalingeredSymptomatology(SIMS)orsimilarvalidatedtools.
+26 III. If the initial evaluation supports an exemption, a second opinion from an independent
+27 physician or medical review board appointed by the commissioner may be required at the discretion
+28 ofthedepartmentoruponchallengebycorrectionalstaff.
+29 IV. Exemptions shall be reviewed at least every 6 months, or sooner if the offender’s
+30 conditionimprovesornewevidencesuggestsabuse.Failuretocooperatewithevaluationsmayresult
+31 inrevocationoftheexemptionanddisciplinaryaction.
+32 V. An offender who knowingly submits a false or exaggerated claim of medical inability, or
+33 whomalingerstoavoidhardlabor,commitsadisciplinaryoffensepunishableby:
+34 (a) Lossofgoodtimecredits(upto90daysperincident)underRSA651-A:22;
+35 (b) Extensionoftheminimumsentencebyupto6monthsforrepeatedoffenses;
+36 (c) Confinementinrestrictivehousing;or
+37 (d) Othersanctionsasdeterminedbydepartmentpolicy,consistentwithdueprocess.
+AmendmenttoSB15-FN
+-Page4-
+1 VI. The department shall maintain records of all exemption requests, determinations, and
+2 reviews, and submit an annual report to the legislature on exemption rates, patterns, and any
+3 detectedinstancesofabuse,includingrecommendationsforimprovements.
+4 622:7-d AlternativePunitiveMeasuresforMedicalExemptions.
+5 I. If an offender sentenced to hard labor under RSA 651:2 or other applicable statutes
+6 receives a legitimate medical exemption under RSA 622:7-c, the commissioner shall impose
+7 alternative punitive measures to ensure the sentence maintains a retributive component, including
+8 butnotlimitedto:
+9 (a) Placement in a restrictive housing unit (RHU) or special housing unit (SHU),
+10 involving up to 23 hours per day of isolation with minimal privileges, subject to periodic reviews
+11 every6months;
+12 (b) Suspension or denial of privileges, including but not limited to non-contact visits
+13 only,limitedtelephoneaccess,norecreationtimebeyondbasicexercise,nocanteenpurchasesexcept
+14 essentials,andnoentertainmentelectronics;
+15 (c) Automatic loss of good conduct credits under RSA 651-A:22 or earned time credits
+16 underRSA651-A:22-a,uptothemaximumallowable,toextendtheeffectivetermofconfinement;
+U1N7 A(d) HigPher securitPy classificaRtion, such aOs C-4 or C-5V, with enhEanced superDvision,
+18 reducedyardtime,andlimitedproperty;
+19 (e) Mandatory participation in non-physical burdensome requirements, such as victim-
+1 20 impactprograms,administrativedutiesiffeasible,orrestitutiondeductionsfrominmatefunds.
+21 II. These measures shall be tailored to the severity of the offense and the offender’s
+22 classification, ensuring compliance with constitutional standards, and shall prioritize retribution
+23 anddeterrenceinlieuofhardlabor.
+24 4 New Subdivision; Review of State Prison Sentences Related to Hard Labor. Amend RSA 651
+25 byinsertingaftersection70thefollowingnewsubdivision:
+26 ReviewofStatePrisonSentencesRelatedtoHardLabor
+27 651:71 Purpose of Sentencing Appeals Panel. The purpose of this subdivision is to provide a
+28 structured appellate review process for prosecution appeals challenging sentences deemed outside
+29 sentencing norms, to promote judicial efficiency by reducing caseload congestion before the New
+30 Hampshire supreme court while preserving the court’s ultimate appellate authority. This review
+31 panel will serve as an alternative to the appeal panel in RSA 651:57-61, and hear cases related to
+32 theimplementationofthehardlaborsentencesauthorizedbyRSA651:2.
+33 651:72 SuperiorCourtSentencingAppealsPanel.
+34 I. The New Hampshire supreme court is authorized to designate a panel of superior court
+35 judges (“sentencing appeals panel”) to hear appeals filed by the prosecution contesting sentencing
+36 decisions made by trial courts in criminal cases related to the crimes listed in RSA 651:2, II-i as
+AmendmenttoSB15-FN
+-Page5-
+1 beingeligibleforhardlabor,wheretheprosecutionclaimsthesentenceisnotsufficientlypunitiveor
+2 isotherwiseoutsidelocalsentencingnorms.
+3 II. The panel shall be composed of not fewer than 3 superior court judges designated by the
+4 supremecourt,withappropriateappellatetrainingandexperience.
+5 651:73 ProcedureforProsecutionAppealsonSentencing.
+6 I. The prosecution may file an appeal of a sentence eligible under RSA 651:72 with the
+7 sentencing appeals panel within 30 calendar days of sentencing. The appeal shall specify grounds
+8 for contending the sentence was inappropriate, including clear abuse of discretion in departures.
+9 Electing to file an appeal under this subdivision shall act as a waiver of the prosecution's right to
+10 seekreviewunderRSA651:57-61.
+11 II. The sentencing appeals panel shall have jurisdiction to review sentencing decisions de
+12 novo, including conducting a resentencing hearing, considering statutory guidelines, sentencing
+13 norms, and mitigating/aggravating factors. The panel may modify the sentence to increase its
+14 punitiveness if necessary to conform with statutory requirements, provided such modifications are
+15 basedsolelyontherecordandshallnotbepresumedvindictive.
+16 III. The panel may affirm, modify, or remand the sentence to the trial court consistent with
+U1N7 applicabAlelaw. PPROVED
+18 651:74 SupremeCourtReview.
+19 I. Decisions of the sentencing appeals panel are subject to review by the supreme court
+1 20 uponpetitionfordiscretionaryreviewfiledwithin14daysofthepanel’sdecision.
+21 II. The supreme court may grant or deny review and shall provide written reasons when
+22 reviewisdenied.
+23 651:75 ImplementationandRules.
+24 I. The supreme court shall promulgate procedural rules necessary to implement this act,
+25 includingfiling,briefing,oralargumentprocedures,andstandardsofreview.
+26 II. The supreme court shall report annually to the legislature on the number, nature, and
+27 outcomesofcaseshandledbythesentencingappealspanel.
+28 5 Severability. If any provision of this act or the application thereof to any person or
+29 circumstance is held invalid, such invalidity shall not affect other provisions or applications of the
+30 act which can be given effect without the invalid provision or application, and to this end the
+31 provisionsofthisactaredeclaredtobeseverable.
+32 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+AmendmenttoSB15-FN
+-Page6-
+2025-3012h
+AMENDEDANALYSIS
+This bill incorporates hard labor as a sentencing option for certain offenses; establishes medical
+exemptions and penalties for abuse thereof; provides alternative punitive measures for legitimate
+medical exemptions; and establishes a sentencing appeals panel for prosecution appeals related to
+hardlaborsentences.
+UNAPPROVED
+1
+[DELETED: .R,R.3.R,C.1.L,R.1.D.M,R.2.P,H.1.D,M..P,H.2.S,R.3r1,2ttoSB1AdteteofteblbyrgitwhtefANATretoighdlrasasgonfrcnoegmlesadpsfraet;paepemsfrlemle;adegsgasplfrpnasrdtohdlrsAdteblbyrgalarteegcewhtef01NwP;HdLrfrCnO.AdRA62byiga1phIhtefgnwp2I)Fraypncdofasso,igclmrurR36,ftdemrurRA6,sddemrurRA64mrurRA6,ftdeaturRA61(gonacto5frlweto,f,eymlssw,orpco6sddeaturRA62(gonactorfrlweto7f,eymlssw,orpco,seaturRA68(gonactorfrlweto,f,eymls9w,orpco,atorhmtoactorfrpcolortri0fymrurRA6,kgurRA6,adfss1aturRA6,fsslaturRA6,ryurRA62pnofcdslaeisurRA6,ortginpsurR36,tedtmye,inwgadprtos,toseayseo4itathdlrasddinRA6.Iftedtdsntethdl,t5ctslieanalmmmytmelto50ptoftebem6tmi,rduptotentwey,whslntbes,d,o7rdfrgdctoredtecsurRA62orRA6,adw]
+[DELETED: ttoSB1Pe2slbesdcytoteolseidbytec.Tetlsesntedtesymmfrteo()NgshI,tectm,inteitofjdtfmtehdlrrtortealmytmunmgwfsegtedeadarhgfmtevmorvsr,ia.Frpsoftss,“nteitofj”msadebdoo,ccfsi,btntldt,tedsa,p,ormh,stofqgframlenurRA6,lkofprclheeofrnp,oreymgcsnta0adfrintesgg,pdshfsaeadcytos1sddstoeeelpnurtel.Shdsslbea2bytepntotesgaspledurRA6,whaden3rgh42DsofteC.AdRA6,IXtordasf5I.To[tadmeteisattep]ehadoea6ispmtoadinternofisoftesep,whm7ieahdlrctfrssddurRA62oro8aes9()Asudintsp,“dl”mstemyp0ofpyiemllrtsadbytecrofc1ddtoseasp,d,a,wea,rnf2cdo.Shlrsli,btntbeldt,assha3alfk(hasp,h,orslp,cno4ieme(hasrdr,bgu,ore5snadwemt(hascgfsorhgr6mgoraywkrgstplen(ha7fepnorm,ororcetsttddp8pletursdc.Nohdlratslpea9uerkofssiyorbecdwtrdtoteosh0ads1()Hdlrasslrenolstn8hsprd,5d2prw,usadfrddm,a,orsyr,a3slbepdincewhbchhadsysstopti4orueh.C,ifa,slbeattepgpnwereb5slntedrsfrndlra.Tecrmyi6rec,shasvlt,bttepypef7ddosslbepernadsld.Rlt]
+[DELETED: ttoSB1Pe3pewtvdenmyrtindym,iglsogdtecsurRA62oredc()FrcsofclmrurRA6,igtemroalwetorinteleofd,teseslbeleitahdlrwttepyofpeorr.Teorslberdtpmhdlrasddhnfrtednoftrnll,stoytesfrptmliyasddurRA6.Nenoraesgonslbea,adtepeneoftlrsltepeorreg0()Tecrsleettalsfidinago1sghdlrretgoncewhteEhAttot2UdSsCnadptI,ae18ofteNwHecnt3ptcladulp43NwS;MlEnfmHdLradPnofA.AdR562byigarsn7btefgnws66cMlEsfmHdL;PnofA7I.Anormybeedfmhdlroyunadnofm8iybyaqdpnedbyorcdwhtedtofc9“li”msaddplormlcnttsyist0oscytopmteelfsofadhdlrt,enw1rea,ascdinwgwhretoscdcc,s2asbdonssfmteAnMlAnore3I.Tednslbebdonanine,igrwofm4r,admyiesdasfrm,shasteS5IyofMdSy()orsrvdt6I.Ifteilenssane,asdonfmani7pnormlrwbdadbytecrmyberdatted8oftedtoruncebycls9I.Esslberdatltey6m,orsrifteo0cnisornweessa.Fetocewhesmyr1inrnofteenaddya2V.Anorwokyssafeoredcmofmli,o3womstoadhdl,csadyoepeb4()Lsofgdtecs(pto90dspri)urRA65()Enoftemmsebyupto6msfrrdo6()Ctinreh;o7()Orssasddbydtp,ctwhdep]
+[DELETED: ttoSB1Pe4V.Tedtslmnrsofalenr,d,ar,adstanalrttoteleonenr,p,adaddisofa,igrsfri6dAePeMsfrMlEI.IfanorsdtohdlrurRA62ororaesrsalemlenurRA6,tecrsliaepemstoeetesemsarec,ibtntldt()Ptinarehgut()orslhgut(0igupto23hsprdyofinwhmlp,sttopcr1ey6m2()Snordlofp,igbtntldtontv3o,ldtea,norntebdbce,nocnpse4e,adnoete5()AclsofgdctcsurRA62oredtec6urRA6,uptotemma,toedteeetmofc7()Hrsyc,shasC4orC,wheds8rdydt,adldp9()Mypninnlber,shasv0itp,aedsiff,orrndsfmief1I.Temsslbetdtotesyofteoeadteo2c,egcewhcls,adslper3addeinluofhdl44NwS;RwofSePnSsRdtoHdL.AdRA65byigarsn70tefgnws6RwofSePnSsRdtoHdL761PeofSgAsP.Tepeoftssnistope8sdaerwpsfrpnascgssddo9sgn,topejleybyrgcdcnbeteN0Hesectwepgtecsueaea.Tsr1plwlseasanaetotealplinRA6,adhrcsrdt2teinoftehdlrssadbyRA6362SrCtSgAsP4I.TeNwHesectisadtodeaplofsrc5js(gasp)tohrasfdbytepncgs6dsmebytlcsinclcsrdtotecsldinRA6,Iia]
+[DELETED: ttoSB1Pe5bgeefrhdl,wetepncsteseisntsypeoisoeoellsgnI.Teplslbecdofntfrtn3srctjsddbytsec,whaeaetgade63PefrPnAsonSI.TepnmyfeanalofaseeeurRA62whtsgasplwn30crdsofs.Tealslsygfrcgtesewsi,igcraeofdnindEgtofeanalurtssnslatasawroftepsrtt0skrwurRA61I.Tesgasplslhejntorwsgdsd2n,igcgargh,cgsyg,s3n,admgf.Teplmymytesetoiei4psifnytocmwhsyr,pdshmsa5bdsyonterdadslntbepdv6I.Teplmya,m,orrdtesetotetlctctw7ael864SeCtR9I.Dsoftesgasplaesttorwbytesec0unpnfrdyrwfdwn14dsoftepsd1I.Tesectmygtordyrwadslpewnrsw2rwisd365InadR4I.Tesectslpeplrsnytoittsa5igf,b,olatp,adssofr6I.Tesectslrtaytoteleonten,n,a7osofcshdbytesgasp85S.Ifaypnoftsatorteantftoaypno9ceishdi,shiyslntatorpsorasoft0atwhcnbegnetwtteidpnora,adtotsedt1psoftsataeddtobes26EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB1Pe6DAsblishdlrasasgonfrcno;esmsadpsfraet;psaepemsfrlle;adesasgasplfrpnasrdtdlrs]
+
+
+================================================================================
+
+Raw Text:
+Rep.Roy,Rock.31
+Rep.Rhodes,Ches.17
+Rep.Lynn,Rock.17
+Rep.D.Mannion,Rock.25
+Rep.Proulx,Hills.15
+Rep.Devoid,Merr.1
+Rep.Paquette,Hills.25
+Rep.Sabourin,Rock.30
+October15,2025
+2025-3012h
+09/05
+AmendmenttoSB15-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relative to incorporating hard labor as a sentencing option for certain offenses;
+4 establishing medical exemptions and penalties for abuse thereof; providing
+5 alternative punitive measures for legitimate medical exemptions; and establishing a
+6 sentencingappealspanelforprosecutionappealsrelatedtohardlaborsentences.
+7
+8 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+UNAPPROVED
+9
+10 1 New Paragraph; Hard Labor for Certain Offenses. Amend RSA 651:2 by inserting after
+11 paragraphII-hthefollowingnewparagraph:
+1
+12 II-i.(a) For any person convicted of a serious offense, including capital murder under RSA
+13 630:1, first degree murder under RSA 630:1-a, second degree murder under RSA 630:1-b,
+14 manslaughter under RSA 630:2, first degree assault under RSA 631:1 (including on a current or
+15 former law enforcement officer, firefighter, emergency medical services worker, or public official),
+16 second degree assault under RSA 631:2 (including on a current or former law enforcement officer,
+17 firefighter, emergency medical services worker, or public official), simple assault under RSA 631:2-a
+18 (including on a current or former law enforcement officer, firefighter, emergency medical services
+19 worker, or public official), assault or harm to a current or former public official or their immediate
+20 family member under RSA 631:4-a, kidnapping under RSA 633:1, aggravated felonious sexual
+21 assault under RSA 632-A:2, felonious sexual assault under RSA 632-A:3, robbery under RSA 636:1,
+22 possession of child sexual abuse images under RSA 649-A:3, or trafficking in persons under RSA
+23 633:7, the defendant may elect, in writing and prior to sentencing, to serve any sentence of
+24 imprisonment at hard labor as defined in RSA 622:7. If the defendant does not elect hard labor, the
+25 courtshallimposeanadditionalminimummandatorytermequalto50percentofthebaseminimum
+26 term imposed, rounded up to the nearest whole year, which shall not be suspended, deferred, or
+27 reduced for good conduct or earned time credits under RSA 651-A:22 or RSA 651-A:22-a, and which
+
+AmendmenttoSB15-FN
+-Page2-
+1 shall be served consecutively to the original sentence imposed by the court. The total sentence shall
+2 notexceedthestatutorymaximumfortheoffense.
+3 (b) Notwithstanding subparagraph II-i(a), the court may, in the interest of justice,
+4 depart from the hard labor requirement or the additional mandatory term upon making written
+5 findings explaining the departure and after hearing from the victim or victim’s representative, if
+6 any. For purposes of this subparagraph, “in the interest of justice” means a departure based on
+7 objective, case-specific factors including, but not limited to, the defendant’s age, physical, or mental
+8 health, short of qualifying for amedical exemptionunder RSA 622:7-c, lack of prior criminal history,
+9 evidence of rehabilitation potential, or extraordinary mitigating circumstances not adequately
+10 accountedforinthesentencingguidelines,providedsuchfactorsareappliedconsistentlytosimilarly
+11 situated defendants to ensure equal protection under the law. Such departures shall be appealable
+12 by the prosecution to the sentencing appeals panel established under RSA 651:72, with a de novo
+13 resentencinghearing.
+14 2 DutiesoftheCommissioner. AmendRSA622:7,IXtoreadasfollows:
+15 IX. To [conduct and manage the industries at the prisons.] establish and operate an
+16 industries program to aid in the rehabilitation of inmates of the state prisons, which may
+U1N7 includeAa hard laPbor compPonent forRsentencesOdesignatedVunder RSAE651:2 orDother
+18 applicablestatutes.
+19 (a) As used in this paragraph, “hard labor” means the mandatory performance
+1 20 of physically intensive manual labor tasks assigned by the commissioner of corrections,
+21 designed to serve as punishment, deterrence, and, where appropriate, rehabilitation for
+22 convicted offenders. Such labor shall include, but not be limited to, activities such as
+23 agricultural fieldwork (such as planting, harvesting, or soil preparation), construction or
+24 infrastructure maintenance (such as road repair, building upkeep, or excavation),
+25 sanitation and waste management (such as cleaning facilities or handling refuse),
+26 manufacturing or assembly work requiring significant physical exertion (such as
+27 furniture production or metalworking), or other comparable tasks that demand prolonged
+28 physical effort under supervised conditions. No hard labor assignment shall pose an
+29 unreasonable risk of serious injury or be conducted without regard to the offender’s health
+30 andsafety.
+31 (b) Hard labor assignments shall require no less than 8 hours per day, 5 days
+32 per week, unless adjusted for documented medical, age-related, or security reasons, and
+33 shall be performed in compliance with basic health and safety standards to prevent injury
+34 or undue hardship. Compensation, if any, shall be at the prevailing prison wage rate but
+35 shall not exceed rates for non-hard labor assignments. The commissioner may incorporate
+36 rehabilitative components, such as vocational training, but the primary purpose for
+37 designated offenses shall be punitive retribution and societal deterrence. Refusal to
+
+AmendmenttoSB15-FN
+-Page3-
+1 participate without valid exemption may result in disciplinary measures, including loss of
+2 goodtimecreditsunderRSA651-A:22orextendedconfinement.
+3 (c) For convictions of capital murder under RSA 630:1, including the murder of
+4 a law enforcement officer in the line of duty, the sentence shall be life imprisonment at
+5 hard labor without the possibility of parole or reduction. The offender shall be required to
+6 perform hard labor as defined herein for the duration of their natural life, subject only to
+7 exemptions for permanent medical incapacity as determined under RSA 622:7-c. No
+8 election or alternative sentencing option shall be available, and the punitive nature of the
+9 laborshalltakeprecedenceoverrehabilitativegoals.
+10 (d) The commissioner shall ensure that all staff involved in assigning or
+11 supervising hard labor receive training on compliance with the Eighth Amendment to the
+12 United States Constitution and part I, article 18 of the New Hampshire constitution to
+13 preventcruelandunusualpunishment.
+14 3 New Sections; Medical Exemption from Hard Labor and Prevention of Abuse. Amend RSA
+15 622byinsertingaftersection7-bthefollowingnewsections:
+16 622:7-c MedicalExemptionsfromHardLabor;PreventionofAbuse.
+U1N7 IA. An offendPer may bePexemptedRfrom hard lOabor only upVon a determEination of mDedical
+18 inability by a qualified physician employed by or contracted with the department of corrections.
+19 “Medical inability” means a documented physical or mental condition that substantially impairs the
+1 20 offender’s capacity to perform the essential functions of assigned hard labor tasks, even with
+21 reasonableaccommodations,ascertifiedinwritingwithreferencetospecificdiagnosticcriteria, such
+22 asbasedonstandardsfromtheAmericanMedicalAssociationorequivalent.
+23 II. Thedeterminationshall bebasedonanin-personevaluation,includingreviewof medical
+24 records, and may incorporate standardized assessments for malingering, such as the Structured
+25 InventoryofMalingeredSymptomatology(SIMS)orsimilarvalidatedtools.
+26 III. If the initial evaluation supports an exemption, a second opinion from an independent
+27 physician or medical review board appointed by the commissioner may be required at the discretion
+28 ofthedepartmentoruponchallengebycorrectionalstaff.
+29 IV. Exemptions shall be reviewed at least every 6 months, or sooner if the offender’s
+30 conditionimprovesornewevidencesuggestsabuse.Failuretocooperatewithevaluationsmayresult
+31 inrevocationoftheexemptionanddisciplinaryaction.
+32 V. An offender who knowingly submits a false or exaggerated claim of medical inability, or
+33 whomalingerstoavoidhardlabor,commitsadisciplinaryoffensepunishableby:
+34 (a) Lossofgoodtimecredits(upto90daysperincident)underRSA651-A:22;
+35 (b) Extensionoftheminimumsentencebyupto6monthsforrepeatedoffenses;
+36 (c) Confinementinrestrictivehousing;or
+37 (d) Othersanctionsasdeterminedbydepartmentpolicy,consistentwithdueprocess.
+
+AmendmenttoSB15-FN
+-Page4-
+1 VI. The department shall maintain records of all exemption requests, determinations, and
+2 reviews, and submit an annual report to the legislature on exemption rates, patterns, and any
+3 detectedinstancesofabuse,includingrecommendationsforimprovements.
+4 622:7-d AlternativePunitiveMeasuresforMedicalExemptions.
+5 I. If an offender sentenced to hard labor under RSA 651:2 or other applicable statutes
+6 receives a legitimate medical exemption under RSA 622:7-c, the commissioner shall impose
+7 alternative punitive measures to ensure the sentence maintains a retributive component, including
+8 butnotlimitedto:
+9 (a) Placement in a restrictive housing unit (RHU) or special housing unit (SHU),
+10 involving up to 23 hours per day of isolation with minimal privileges, subject to periodic reviews
+11 every6months;
+12 (b) Suspension or denial of privileges, including but not limited to non-contact visits
+13 only,limitedtelephoneaccess,norecreationtimebeyondbasicexercise,nocanteenpurchasesexcept
+14 essentials,andnoentertainmentelectronics;
+15 (c) Automatic loss of good conduct credits under RSA 651-A:22 or earned time credits
+16 underRSA651-A:22-a,uptothemaximumallowable,toextendtheeffectivetermofconfinement;
+U1N7 A(d) HigPher securitPy classificaRtion, such aOs C-4 or C-5V, with enhEanced superDvision,
+18 reducedyardtime,andlimitedproperty;
+19 (e) Mandatory participation in non-physical burdensome requirements, such as victim-
+1 20 impactprograms,administrativedutiesiffeasible,orrestitutiondeductionsfrominmatefunds.
+21 II. These measures shall be tailored to the severity of the offense and the offender’s
+22 classification, ensuring compliance with constitutional standards, and shall prioritize retribution
+23 anddeterrenceinlieuofhardlabor.
+24 4 New Subdivision; Review of State Prison Sentences Related to Hard Labor. Amend RSA 651
+25 byinsertingaftersection70thefollowingnewsubdivision:
+26 ReviewofStatePrisonSentencesRelatedtoHardLabor
+27 651:71 Purpose of Sentencing Appeals Panel. The purpose of this subdivision is to provide a
+28 structured appellate review process for prosecution appeals challenging sentences deemed outside
+29 sentencing norms, to promote judicial efficiency by reducing caseload congestion before the New
+30 Hampshire supreme court while preserving the court’s ultimate appellate authority. This review
+31 panel will serve as an alternative to the appeal panel in RSA 651:57-61, and hear cases related to
+32 theimplementationofthehardlaborsentencesauthorizedbyRSA651:2.
+33 651:72 SuperiorCourtSentencingAppealsPanel.
+34 I. The New Hampshire supreme court is authorized to designate a panel of superior court
+35 judges (“sentencing appeals panel”) to hear appeals filed by the prosecution contesting sentencing
+36 decisions made by trial courts in criminal cases related to the crimes listed in RSA 651:2, II-i as
+
+AmendmenttoSB15-FN
+-Page5-
+1 beingeligibleforhardlabor,wheretheprosecutionclaimsthesentenceisnotsufficientlypunitiveor
+2 isotherwiseoutsidelocalsentencingnorms.
+3 II. The panel shall be composed of not fewer than 3 superior court judges designated by the
+4 supremecourt,withappropriateappellatetrainingandexperience.
+5 651:73 ProcedureforProsecutionAppealsonSentencing.
+6 I. The prosecution may file an appeal of a sentence eligible under RSA 651:72 with the
+7 sentencing appeals panel within 30 calendar days of sentencing. The appeal shall specify grounds
+8 for contending the sentence was inappropriate, including clear abuse of discretion in departures.
+9 Electing to file an appeal under this subdivision shall act as a waiver of the prosecution's right to
+10 seekreviewunderRSA651:57-61.
+11 II. The sentencing appeals panel shall have jurisdiction to review sentencing decisions de
+12 novo, including conducting a resentencing hearing, considering statutory guidelines, sentencing
+13 norms, and mitigating/aggravating factors. The panel may modify the sentence to increase its
+14 punitiveness if necessary to conform with statutory requirements, provided such modifications are
+15 basedsolelyontherecordandshallnotbepresumedvindictive.
+16 III. The panel may affirm, modify, or remand the sentence to the trial court consistent with
+U1N7 applicabAlelaw. PPROVED
+18 651:74 SupremeCourtReview.
+19 I. Decisions of the sentencing appeals panel are subject to review by the supreme court
+1 20 uponpetitionfordiscretionaryreviewfiledwithin14daysofthepanel’sdecision.
+21 II. The supreme court may grant or deny review and shall provide written reasons when
+22 reviewisdenied.
+23 651:75 ImplementationandRules.
+24 I. The supreme court shall promulgate procedural rules necessary to implement this act,
+25 includingfiling,briefing,oralargumentprocedures,andstandardsofreview.
+26 II. The supreme court shall report annually to the legislature on the number, nature, and
+27 outcomesofcaseshandledbythesentencingappealspanel.
+28 5 Severability. If any provision of this act or the application thereof to any person or
+29 circumstance is held invalid, such invalidity shall not affect other provisions or applications of the
+30 act which can be given effect without the invalid provision or application, and to this end the
+31 provisionsofthisactaredeclaredtobeseverable.
+32 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+AmendmenttoSB15-FN
+-Page6-
+2025-3012h
+AMENDEDANALYSIS
+This bill incorporates hard labor as a sentencing option for certain offenses; establishes medical
+exemptions and penalties for abuse thereof; provides alternative punitive measures for legitimate
+medical exemptions; and establishes a sentencing appeals panel for prosecution appeals related to
+hardlaborsentences.
+UNAPPROVED
+1
+
+[DELETED: .R,R.3.R,C.1.L,R.1.D.M,R.2.P,H.1.D,M..P,H.2.S,R.3r1,2ttoSB1AdteteofteblbyrgitwhtefANATretoighdlrasasgonfrcnoegmlesadpsfraet;paepemsfrlemle;adegsgasplfrpnasrdtohdlrsAdteblbyrgalarteegcewhtef01NwP;HdLrfrCnO.AdRA62byiga1phIhtefgnwp2I)Fraypncdofasso,igclmrurR36,ftdemrurRA6,sddemrurRA64mrurRA6,ftdeaturRA61(gonacto5frlweto,f,eymlssw,orpco6sddeaturRA62(gonactorfrlweto7f,eymlssw,orpco,seaturRA68(gonactorfrlweto,f,eymls9w,orpco,atorhmtoactorfrpcolortri0fymrurRA6,kgurRA6,adfss1aturRA6,fsslaturRA6,ryurRA62pnofcdslaeisurRA6,ortginpsurR36,tedtmye,inwgadprtos,toseayseo4itathdlrasddinRA6.Iftedtdsntethdl,t5ctslieanalmmmytmelto50ptoftebem6tmi,rduptotentwey,whslntbes,d,o7rdfrgdctoredtecsurRA62orRA6,adw]
+[DELETED: ttoSB1Pe2slbesdcytoteolseidbytec.Tetlsesntedtesymmfrteo()NgshI,tectm,inteitofjdtfmtehdlrrtortealmytmunmgwfsegtedeadarhgfmtevmorvsr,ia.Frpsoftss,“nteitofj”msadebdoo,ccfsi,btntldt,tedsa,p,ormh,stofqgframlenurRA6,lkofprclheeofrnp,oreymgcsnta0adfrintesgg,pdshfsaeadcytos1sddstoeeelpnurtel.Shdsslbea2bytepntotesgaspledurRA6,whaden3rgh42DsofteC.AdRA6,IXtordasf5I.To[tadmeteisattep]ehadoea6ispmtoadinternofisoftesep,whm7ieahdlrctfrssddurRA62oro8aes9()Asudintsp,“dl”mstemyp0ofpyiemllrtsadbytecrofc1ddtoseasp,d,a,wea,rnf2cdo.Shlrsli,btntbeldt,assha3alfk(hasp,h,orslp,cno4ieme(hasrdr,bgu,ore5snadwemt(hascgfsorhgr6mgoraywkrgstplen(ha7fepnorm,ororcetsttddp8pletursdc.Nohdlratslpea9uerkofssiyorbecdwtrdtoteosh0ads1()Hdlrasslrenolstn8hsprd,5d2prw,usadfrddm,a,orsyr,a3slbepdincewhbchhadsysstopti4orueh.C,ifa,slbeattepgpnwereb5slntedrsfrndlra.Tecrmyi6rec,shasvlt,bttepypef7ddosslbepernadsld.Rlt]
+[DELETED: ttoSB1Pe3pewtvdenmyrtindym,iglsogdtecsurRA62oredc()FrcsofclmrurRA6,igtemroalwetorinteleofd,teseslbeleitahdlrwttepyofpeorr.Teorslberdtpmhdlrasddhnfrtednoftrnll,stoytesfrptmliyasddurRA6.Nenoraesgonslbea,adtepeneoftlrsltepeorreg0()Tecrsleettalsfidinago1sghdlrretgoncewhteEhAttot2UdSsCnadptI,ae18ofteNwHecnt3ptcladulp43NwS;MlEnfmHdLradPnofA.AdR562byigarsn7btefgnws66cMlEsfmHdL;PnofA7I.Anormybeedfmhdlroyunadnofm8iybyaqdpnedbyorcdwhtedtofc9“li”msaddplormlcnttsyist0oscytopmteelfsofadhdlrt,enw1rea,ascdinwgwhretoscdcc,s2asbdonssfmteAnMlAnore3I.Tednslbebdonanine,igrwofm4r,admyiesdasfrm,shasteS5IyofMdSy()orsrvdt6I.Ifteilenssane,asdonfmani7pnormlrwbdadbytecrmyberdatted8oftedtoruncebycls9I.Esslberdatltey6m,orsrifteo0cnisornweessa.Fetocewhesmyr1inrnofteenaddya2V.Anorwokyssafeoredcmofmli,o3womstoadhdl,csadyoepeb4()Lsofgdtecs(pto90dspri)urRA65()Enoftemmsebyupto6msfrrdo6()Ctinreh;o7()Orssasddbydtp,ctwhdep]
+[DELETED: ttoSB1Pe4V.Tedtslmnrsofalenr,d,ar,adstanalrttoteleonenr,p,adaddisofa,igrsfri6dAePeMsfrMlEI.IfanorsdtohdlrurRA62ororaesrsalemlenurRA6,tecrsliaepemstoeetesemsarec,ibtntldt()Ptinarehgut()orslhgut(0igupto23hsprdyofinwhmlp,sttopcr1ey6m2()Snordlofp,igbtntldtontv3o,ldtea,norntebdbce,nocnpse4e,adnoete5()AclsofgdctcsurRA62oredtec6urRA6,uptotemma,toedteeetmofc7()Hrsyc,shasC4orC,wheds8rdydt,adldp9()Mypninnlber,shasv0itp,aedsiff,orrndsfmief1I.Temsslbetdtotesyofteoeadteo2c,egcewhcls,adslper3addeinluofhdl44NwS;RwofSePnSsRdtoHdL.AdRA65byigarsn70tefgnws6RwofSePnSsRdtoHdL761PeofSgAsP.Tepeoftssnistope8sdaerwpsfrpnascgssddo9sgn,topejleybyrgcdcnbeteN0Hesectwepgtecsueaea.Tsr1plwlseasanaetotealplinRA6,adhrcsrdt2teinoftehdlrssadbyRA6362SrCtSgAsP4I.TeNwHesectisadtodeaplofsrc5js(gasp)tohrasfdbytepncgs6dsmebytlcsinclcsrdtotecsldinRA6,Iia]
+[DELETED: ttoSB1Pe5bgeefrhdl,wetepncsteseisntsypeoisoeoellsgnI.Teplslbecdofntfrtn3srctjsddbytsec,whaeaetgade63PefrPnAsonSI.TepnmyfeanalofaseeeurRA62whtsgasplwn30crdsofs.Tealslsygfrcgtesewsi,igcraeofdnindEgtofeanalurtssnslatasawroftepsrtt0skrwurRA61I.Tesgasplslhejntorwsgdsd2n,igcgargh,cgsyg,s3n,admgf.Teplmymytesetoiei4psifnytocmwhsyr,pdshmsa5bdsyonterdadslntbepdv6I.Teplmya,m,orrdtesetotetlctctw7ael864SeCtR9I.Dsoftesgasplaesttorwbytesec0unpnfrdyrwfdwn14dsoftepsd1I.Tesectmygtordyrwadslpewnrsw2rwisd365InadR4I.Tesectslpeplrsnytoittsa5igf,b,olatp,adssofr6I.Tesectslrtaytoteleonten,n,a7osofcshdbytesgasp85S.Ifaypnoftsatorteantftoaypno9ceishdi,shiyslntatorpsorasoft0atwhcnbegnetwtteidpnora,adtotsedt1psoftsataeddtobes26EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB1Pe6DAsblishdlrasasgonfrcno;esmsadpsfraet;psaepemsfrlle;adesasgasplfrpnasrdtdlrs]

@@ -1,0 +1,68 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1721h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Scherr,Rock.26
+April23,2025
+2025-1721h
+09/11
+AmendmenttoSB58-FN
+2
+3 ANACT relative to criminal prosecutions of distribution of a controlled drug with death
+4 resulting.
+5
+6 Amendthebillbyreplacingsection1withthefollowing:
+7
+8 1 New Paragraph; Distribution of a Controlled Drug with Death Resulting; Venue. Amend RSA
+9 318-B:26byinsertingafterparagraphIX-athefollowingnewparagraph:
+10 IX-b. If any act performed in furtherance of the offenses prohibited by RSA 318-B:26, IX
+11 occurs in this state or if any victim of the offenses prohibited by RSA 318-B:26, IX resides in this
+12 state,theoffenseshallbedeemedtohaveoccurredinthisstate.
+AmendmenttoSB58-FN
+-Page2-
+2025-1721h
+AMENDEDANALYSIS
+Thisbilladdstothecontrolleddrugactthatifanyactisperformedinfurtheranceoftheoffenses
+prohibited by RSA 318-B:26, IX in this state or if any victim of the offenses prohibited by RSA 318-
+B:26,IXresidesinthisstate,theoffenseshallbedeemedtohaveoccurredinthisstate.
+[DELETED: .S,R.2l2,2ttoSB5AdteteofteblbyrgitwhtefANATretoclpsofdnofacddgwhdrAdteblbyrgsn1whtef1NwP;DnofaCdDgwhDhR;V.AdR36byigarphIatefgnwp0I.IfayatpdinfeofteospdbyRA3,I1osintsseorifayvmofteospdbyRA3,IXrsint2s,teoeslbeddtoheodintss]
+[DELETED: ttoSB5Pe2DAsblastotecddgatttifayatispdinfeofteodbyRA3,IXintsseorifayvmofteospdbyRA3,IXrsintss,teoeslbeddtoheodintss]
+
+
+================================================================================
+
+Raw Text:
+Rep.Scherr,Rock.26
+April23,2025
+2025-1721h
+09/11
+AmendmenttoSB58-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relative to criminal prosecutions of distribution of a controlled drug with death
+4 resulting.
+5
+6 Amendthebillbyreplacingsection1withthefollowing:
+7
+8 1 New Paragraph; Distribution of a Controlled Drug with Death Resulting; Venue. Amend RSA
+9 318-B:26byinsertingafterparagraphIX-athefollowingnewparagraph:
+10 IX-b. If any act performed in furtherance of the offenses prohibited by RSA 318-B:26, IX
+11 occurs in this state or if any victim of the offenses prohibited by RSA 318-B:26, IX resides in this
+12 state,theoffenseshallbedeemedtohaveoccurredinthisstate.
+
+AmendmenttoSB58-FN
+-Page2-
+2025-1721h
+AMENDEDANALYSIS
+Thisbilladdstothecontrolleddrugactthatifanyactisperformedinfurtheranceoftheoffenses
+prohibited by RSA 318-B:26, IX in this state or if any victim of the offenses prohibited by RSA 318-
+B:26,IXresidesinthisstate,theoffenseshallbedeemedtohaveoccurredinthisstate.
+
+[DELETED: .S,R.2l2,2ttoSB5AdteteofteblbyrgitwhtefANATretoclpsofdnofacddgwhdrAdteblbyrgsn1whtef1NwP;DnofaCdDgwhDhR;V.AdR36byigarphIatefgnwp0I.IfayatpdinfeofteospdbyRA3,I1osintsseorifayvmofteospdbyRA3,IXrsint2s,teoeslbeddtoheodintss]
+[DELETED: ttoSB5Pe2DAsblastotecddgatttifayatispdinfeofteodbyRA3,IXintsseorifayvmofteospdbyRA3,IXrsintss,teoeslbeddtoheodintss]

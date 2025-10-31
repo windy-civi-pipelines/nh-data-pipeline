@@ -1,0 +1,84 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0390s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SenateWaysandMeans
+February12,2025
+2025-0390s
+02/05
+AmendmenttoSB168-FN-LOCAL
+2
+3 ANACT regulating online gambling and directing net proceeds to the education trust fund,
+4 the general fund, charitable organizations, and to reimburse municipalities for
+5 elderly,disabled,blind,anddeaftaxexemptions.
+6
+7 AmendRSA287-J:7asinsertedbysection3ofthebillbyreplacingitwiththefollowing:
+8
+9 287-J:7 RevenueShare.
+10 I. Each licensee under this chapter shall collect a sum equal to 45 percent of gross online
+11 gamingrevenuefordistributionunderparagraphII.
+12 II.(a) Each licensee shall distribute 35 percent of the amount collected under paragraph I to
+13 charitableorganizationswithwhomthelicenseecontractsoneachlicensedgamedate.
+14 (b) Each licensee shall pay 65 percent of the amount collected under paragraph I to the
+15 commissionfordistributionasfollows:
+16 (1) Twenty-fivepercenttothespecialfundestablishedunderRSA284:21-jforuseas
+17 providedinthatsection.
+18 (2) Twenty-five percent to the elderly, disabled, blind, and deaf exemption
+19 reimbursementfundestablishedpursuanttoRSA72:42-a.
+20 (3) Fiftypercenttothegeneralfund.
+AmendmenttoSB168-FN-LOCAL
+-Page2-
+2025-0390s
+AMENDEDANALYSIS
+This bill regulates online gambling and directs proceeds to charitable organizations, the
+educationtrust fund, thegeneral fund, and anewlyestablished elderly, disabled, blind, and deaf tax
+exemptionfundforreimbursementtomunicipalities.
+[DELETED: eWsadMy1,2ttoSB1AdteteofteblbyrgitwhtefANATrgoeggaddgntpstoteenttfteglf,ceo,adtoremsfe,d,b,addftxeAdRA27asidbysn3ofteblbyrgitwhtef27ReS0I.Ehleurtscrslctasmelto45ptofgso1ggrefrdnurphI2I)Ehleslde35ptofteatcdurphIt3ceoswhwmtelecsonehldged4()Ehleslpy65ptofteatcdurphItot5cnfrdnasf6()TepttoteslfdedurRA2jfruea7pdintts8()Tepttotee,d,b,addfe9rtfdedpttoRA70()Fypttoteglf]
+[DELETED: ttoSB1Pe2DAsblrsoeggaddspstoceo,tnttf,teglf,adanyede,d,b,addftnfdfrrttom]
+
+
+================================================================================
+
+Raw Text:
+SenateWaysandMeans
+February12,2025
+2025-0390s
+02/05
+AmendmenttoSB168-FN-LOCAL
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT regulating online gambling and directing net proceeds to the education trust fund,
+4 the general fund, charitable organizations, and to reimburse municipalities for
+5 elderly,disabled,blind,anddeaftaxexemptions.
+6
+7 AmendRSA287-J:7asinsertedbysection3ofthebillbyreplacingitwiththefollowing:
+8
+9 287-J:7 RevenueShare.
+10 I. Each licensee under this chapter shall collect a sum equal to 45 percent of gross online
+11 gamingrevenuefordistributionunderparagraphII.
+12 II.(a) Each licensee shall distribute 35 percent of the amount collected under paragraph I to
+13 charitableorganizationswithwhomthelicenseecontractsoneachlicensedgamedate.
+14 (b) Each licensee shall pay 65 percent of the amount collected under paragraph I to the
+15 commissionfordistributionasfollows:
+16 (1) Twenty-fivepercenttothespecialfundestablishedunderRSA284:21-jforuseas
+17 providedinthatsection.
+18 (2) Twenty-five percent to the elderly, disabled, blind, and deaf exemption
+19 reimbursementfundestablishedpursuanttoRSA72:42-a.
+20 (3) Fiftypercenttothegeneralfund.
+
+AmendmenttoSB168-FN-LOCAL
+-Page2-
+2025-0390s
+AMENDEDANALYSIS
+This bill regulates online gambling and directs proceeds to charitable organizations, the
+educationtrust fund, thegeneral fund, and anewlyestablished elderly, disabled, blind, and deaf tax
+exemptionfundforreimbursementtomunicipalities.
+
+[DELETED: eWsadMy1,2ttoSB1AdteteofteblbyrgitwhtefANATrgoeggaddgntpstoteenttfteglf,ceo,adtoremsfe,d,b,addftxeAdRA27asidbysn3ofteblbyrgitwhtef27ReS0I.Ehleurtscrslctasmelto45ptofgso1ggrefrdnurphI2I)Ehleslde35ptofteatcdurphIt3ceoswhwmtelecsonehldged4()Ehleslpy65ptofteatcdurphItot5cnfrdnasf6()TepttoteslfdedurRA2jfruea7pdintts8()Tepttotee,d,b,addfe9rtfdedpttoRA70()Fypttoteglf]
+[DELETED: ttoSB1Pe2DAsblrsoeggaddspstoceo,tnttf,teglf,adanyede,d,b,addftnfdfrrttom]

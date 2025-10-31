@@ -1,0 +1,84 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1696s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SenateElectionLawandMunicipalAffairs
+April22,2025
+2025-1696s
+07/09
+AmendmenttoHB626
+2
+3 1 Secretary of State; Chief Election Officer; Duty to Investigate System Vulnerabilities. Amend
+4 RSA652:23toreadasfollows:
+5 652:23 ChiefElectionOfficer.
+6 I. The secretary of state shall be the chief election officer for the state. The secretary of
+7 state shall provide information regarding voter registration procedures and absentee ballot
+8 procedures for all voters, including absent uniformed services voters, absent voters temporarily
+9 residing outside the United States, and federal ballot only voters domiciled outside the United
+10 States. Instructional and informational materials published by the secretary of state for clerks to
+11 provide such voters shall include information on how to communicate electronically with election
+12 officials.
+13 II. Within 180 days of the effective date of this paragraph, the secretary of state
+14 shall implement and operate a public vulnerability disclosure program which
+15 substantially meets or exceeds the recommendations contained within the publication
+16 "Guide to Vulnerability Reporting for America's Election Administrators" published by the
+17 Cybersecurity and Infrastructure Security Agency of the United States Department of
+18 Homeland Security, to make it easier for security researchers and the general public to
+19 report security vulnerabilities appropriately. The secretary shall work with the
+20 cybersecurityadvisorycommitteeestablishedinRSA21-R:16.
+21 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+AmendmenttoHB626
+-Page2-
+2025-1696s
+AMENDEDANALYSIS
+This bill directs the secretary of state to implement a vulnerability disclosure program for
+certainelectionsystems.
+[DELETED: eEnLwadMlAl2,2ttoHB6Adteblbyrgalarteegcewhtef1SyofS;CfEnO;DytoIeSmV.ARA63tordasf63CfEnOI.Tesyofseslbetecfenorfrtes.Tesyoseslpeinrgvrrnpsadaebpsfralv,igatudssv,atvstrgoeteUdS,adflbtoyvsddoeteU0S.Iladilmspdbytesyofsefrcst1peshvsslieinonhwtoceeywhe2o3I.Wn10dsofteeedeoftsp,tesyofs4slitadoeapcvydepmw5symsoresterscdwntep6"etoVyRgfrAsEnA"pdbyt7CyadIeSyAyofteUdSsDto8HdS,tomeiterfrsyrsadteglpct9rtsyvsa.Tesyslwkwht0cyayceedinRA212EeD.Tsatslteetunisp]
+[DELETED: ttoHB6Pe2DAsbldstesyofsetoitavydepmfnens]
+
+
+================================================================================
+
+Raw Text:
+SenateElectionLawandMunicipalAffairs
+April22,2025
+2025-1696s
+07/09
+AmendmenttoHB626
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 Secretary of State; Chief Election Officer; Duty to Investigate System Vulnerabilities. Amend
+4 RSA652:23toreadasfollows:
+5 652:23 ChiefElectionOfficer.
+6 I. The secretary of state shall be the chief election officer for the state. The secretary of
+7 state shall provide information regarding voter registration procedures and absentee ballot
+8 procedures for all voters, including absent uniformed services voters, absent voters temporarily
+9 residing outside the United States, and federal ballot only voters domiciled outside the United
+10 States. Instructional and informational materials published by the secretary of state for clerks to
+11 provide such voters shall include information on how to communicate electronically with election
+12 officials.
+13 II. Within 180 days of the effective date of this paragraph, the secretary of state
+14 shall implement and operate a public vulnerability disclosure program which
+15 substantially meets or exceeds the recommendations contained within the publication
+16 "Guide to Vulnerability Reporting for America's Election Administrators" published by the
+17 Cybersecurity and Infrastructure Security Agency of the United States Department of
+18 Homeland Security, to make it easier for security researchers and the general public to
+19 report security vulnerabilities appropriately. The secretary shall work with the
+20 cybersecurityadvisorycommitteeestablishedinRSA21-R:16.
+21 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+AmendmenttoHB626
+-Page2-
+2025-1696s
+AMENDEDANALYSIS
+This bill directs the secretary of state to implement a vulnerability disclosure program for
+certainelectionsystems.
+
+[DELETED: eEnLwadMlAl2,2ttoHB6Adteblbyrgalarteegcewhtef1SyofS;CfEnO;DytoIeSmV.ARA63tordasf63CfEnOI.Tesyofseslbetecfenorfrtes.Tesyoseslpeinrgvrrnpsadaebpsfralv,igatudssv,atvstrgoeteUdS,adflbtoyvsddoeteU0S.Iladilmspdbytesyofsefrcst1peshvsslieinonhwtoceeywhe2o3I.Wn10dsofteeedeoftsp,tesyofs4slitadoeapcvydepmw5symsoresterscdwntep6"etoVyRgfrAsEnA"pdbyt7CyadIeSyAyofteUdSsDto8HdS,tomeiterfrsyrsadteglpct9rtsyvsa.Tesyslwkwht0cyayceedinRA212EeD.Tsatslteetunisp]
+[DELETED: ttoHB6Pe2DAsbldstesyofsetoitavydepmfnens]

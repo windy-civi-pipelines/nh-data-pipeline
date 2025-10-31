@@ -1,0 +1,33 @@
+Title: 1 Amendthebillbyreplacingsection2withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection2withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0366s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateCommerce
+February11,2025
+2025-0366s
+06/02
+AmendmenttoSB84-FN
+2
+3 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+[DELETED: eCy1,2ttoSB8Adteblbyrgsn2whtef2EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SenateCommerce
+February11,2025
+2025-0366s
+06/02
+AmendmenttoSB84-FN
+1 Amendthebillbyreplacingsection2withthefollowing:
+2
+3 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+[DELETED: eCy1,2ttoSB8Adteblbyrgsn2whtef2EeD.TsatslteetJy1,2]

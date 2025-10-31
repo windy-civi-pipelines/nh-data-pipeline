@@ -1,0 +1,197 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3010h
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Rep.Janigian,Rock.25
+October15,2025
+2025-3010h
+08/05
+AmendmenttoSB83-FN
+2
+3 ANACT relativetolicensesforprimaryandsecondarygameoperators.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 GrossVideoLotteryRevenue;Definition. AmendRSA287-J:1,IIItoreadasfollows:
+8 III. "Gross video lottery revenue" means the total of all sums actually received by a VLT
+9 licensee from operation of video lottery terminals, minus the total of all sums actually paid out as
+10 winningstopatrons,lessanyfreeplaypaidtopatrons. [The maximumamountoffreeplaythat any
+11 onelicenseecandeductfromgrossvideolotteryrevenueshallbe12.5percentinanycalendaryear.]
+12 2 Pari-MutuelPoolsonHistoricHorseRaces. AmendRSA287:22-b,Vtoreadasfollows:
+UNAPPROVED
+13 V. The licensee commission on all historic horse race pari-mutuel pools shall be at a rate of
+14 not greater than 12 percent. In addition to the above commission, 100 percent of the odd cents of all
+15 redistributionbased oneach dollar wagered exceeding asum equal tothenext lowest multipleof 10,
+1
+16 known as breakage, shall be paid to [the lottery commission and used as payment for problem
+17 gaming services] the governor's commission on addiction, treatment, and prevention. Any
+18 fundsaccrued by the lottery commission under this sectionas paymentfor problem gaming
+19 services shall also be directed to the governor's commission on addiction, treatment, and
+20 prevention.
+21 3 GameOperatorEmployer;Definition. AmendRSA287-D:1,VIII-XItoreadasfollows:
+22 VIII. "Game operator employer" means [a business entity or individual who employs,
+23 supervises, and controls game operators and who is hired by a charitable organization to operate
+24 games of chance on its behalf. The owner of 10 percent or more of the entity, partner, managing
+25 member, or chief executive of a business entity who serves as a game operator employer must be
+26 listed as a part of the game operator license application] a person or business entity holding a
+27 license to operate games of chance activities and, if eligible, may obtain a license to also
+28 offer video lottery terminals pursuant to RSA 287-J and historic horse racing pursuant to
+29 RSA284:22.
+30 IX. "Gaming equipment" means a collective reference to table game devices and their
+31 associatedequipment.
+AmendmenttoSB83-FN
+-Page2-
+1 X. "Primary game operator" means [any person other than a bona fide member of the
+2 charitable organization, involved in conducting, managing, supervising, directing, or running games
+3 of chance; including, but not limited to, gambling operation managers and assistant managers,
+4 managers and supervisors of security employees, pit bosses, shift bosses, credit executive, and
+5 cashier operations supervisors] an individual licensed by the commission and eligible for
+6 employment by a game operator employer to act in a supervisory capacity, access restricted
+7 areas, or make discretionary decisions relative to the operation of games of chance, video
+8 lotterterminalsorhistorichorseracingdevices.
+9 XI. "Secondary game operator" means [any person other than a bona fide member of the
+10 charitable organization, involved in dealing, running a roulette wheel, handling chips, or providing
+11 accounting services or security functions; including any person with job functions or responsibilities
+12 that require the person to watch over, protect, handle, use, maintain, or otherwise hold
+13 responsibility over gaming cash, revenue, supplies or devices. This includes individuals in the back
+14 office and anyone that has access to gaming systems, chips, tokens, or playing cards, or who has the
+15 ability to access or make changes to the gaming operations accounting system, player tracking
+16 system, gaming system records, or cash and accounting records] an individual licensed by the
+U1N7 commisAsion and Peligible foPr employmRent by aOgame operVator to paErticipate iDn the
+18 operations of game of chance, video lottery terminals or historic racing devices in a non-
+19 supervisorycapacity.
+1 20 4 Primary Game Operator License Applications. Amend the introductory paragraph of RSA
+21 287-D:9,Itoreadasfollows:
+22 I. Other than members of a charitable organization, any person who will act in a
+23 supervisory capacity and be empowered by a game operator employer to make
+24 discretionary decisions on gambling operation [who is involved in conducting, managing,
+25 supervising, directing, or running games of chance] shall be licensed under this section[; including
+26 butnotlimited togamblingoperationmanagersand assistantmanagers,managers orsupervisors of
+27 security employees, pit bosses, shift bosses, credit executives, and cashier operations supervisors].
+28 In addition to the general requirements under RSA 287-D:5, a primary game operator license
+29 application shall include, at a minimum, the following information provided that the lottery
+30 commission may, by rule, establish additional items to be submitted on the application form or
+31 attachedtoit:
+32 5 SecondaryGameOperatorLicenseApplications. AmendRSA287-D:10,Itoreadasfollows:
+33 I. Other than members of a charitable organization, any person who is employed by a game
+34 operator employer to operate games in a non-supervisory capacity shall be licensed under this
+35 section.
+36 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+AmendmenttoSB83-FN
+-Page3-
+2025-3010h
+AMENDEDANALYSIS
+Thisbill:
+I. Removes the maximum amount of free play that may be deduced from gross video lottery
+revenue.
+II. Directscertainfundstothegovernor'scommissiononaddiction,treatment,andprevention.
+III. Clarifiesthedefinitionsofprimaryandsecondarygameoperators.
+UNAPPROVED
+1
+[DELETED: .J,R.2r1,2ttoSB8AdteteofteblbyrgitwhtefANATretolsfrpyadsygeoAdteblbyrgalarteegcewhtef1GsVoLyR;D.AdRA2,IItordasfI."svolyr"mstetlofalssayrdbyaVlefmonofvolyt,mstetlofalssaypdota0wstop,lsayfepypdtop.[emmatoffepytta1oelecndtfmgsvolyreslbe15ptinaycry22PlPsonHcHeR.AdRA2,Vtordasf3V.Telecnonalhchereplpsslbeatareo4ntgrtn12p.Inantoteaec,10ptofteodcsofa5rnbdonehdrwdegasmeltotentltmeof16knasb,slbepdto[elycnadudasptfrp7ggs]tegscnona,t,adp.A8fsadbytelycnurtssnasptfrpmg9ssslaobeddtotegscnona,t,a0p13GeOrE;D.AdRA2,VI-XItordasf2V."eore"ms[abseyorilwoe3s,adcsgeosadwoishdbyaceontoo4gsofceonisb.Teorof10ptormeoftee,p,m5m,orcfeeofabseywossasageorermtb6ldasaptoftegeorlea]apnorbseyhg7letooegsofceasa,ife,myonaletoa8orvolytspttoRA2Jadhchergptt9RA20I."ge"msaceretotegedsadt1ade]
+[DELETED: ttB8Pe2X."ygeo"ms[ypnortnabafemroftceo,idinc,m,s,d,orrggofc;i,btntldt,ggonmsadatmmsadssofsye,ptb,stb,cte,across]anilldbytecnadeefetbyageorertoatinasyc,asra,ormedydsretoteonofgsofc,vlrtsorhchergdX."ygeo"ms[ypnortnabafemroft0ceo,idind,rgarew,hgc,orp1agssorsyf;igaypnwhjbfsorr2ttretepntowho,p,h,u,m,oroeh3ryorggc,r,ssord.Tsisisinteb4oeadaetthsastoggs,c,t,orpgc,orwohst5aytoasormecstoteggosags,prt6s,ggsmr,orchadagr]anilldbyt7cnadeefretbyageortopeint8osofgeofc,volytsorhcrgdsinan9syc04PyGeOrLeA.AdteiyphofR12,Itordasf2I.Ortnmsofaceo,aypnwowlatin3sycyadbeedbyageorertom4dydsonggon[oisidinc,m5s,d,orrggsofc]slbeldurtss;i6btntldtoggonmsadatm,msorsso7sye,ptb,stb,cte,adcross8InantoteglrsurRA2,apygeorl9ansli,atam,tefginpdtttel0cnm,byr,ehalistobesdonteanfmo1adtoi25SyGeOrLeA.AdRA2,Itordasf3I.Ortnmsofaceo,aypnwoisedbyag4orertooegsinanycyslbeldurt5s66EeD.Tsatslteet60dsarisp]
+[DELETED: ttB8Pe3DAsb.Rstemmatoffepyttmybeddfmgsvol.Dscnfstotegscnona,t,adp.Cstedsofpyadsygeo]
+
+
+================================================================================
+
+Raw Text:
+Rep.Janigian,Rock.25
+October15,2025
+2025-3010h
+08/05
+AmendmenttoSB83-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetolicensesforprimaryandsecondarygameoperators.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 GrossVideoLotteryRevenue;Definition. AmendRSA287-J:1,IIItoreadasfollows:
+8 III. "Gross video lottery revenue" means the total of all sums actually received by a VLT
+9 licensee from operation of video lottery terminals, minus the total of all sums actually paid out as
+10 winningstopatrons,lessanyfreeplaypaidtopatrons. [The maximumamountoffreeplaythat any
+11 onelicenseecandeductfromgrossvideolotteryrevenueshallbe12.5percentinanycalendaryear.]
+12 2 Pari-MutuelPoolsonHistoricHorseRaces. AmendRSA287:22-b,Vtoreadasfollows:
+UNAPPROVED
+13 V. The licensee commission on all historic horse race pari-mutuel pools shall be at a rate of
+14 not greater than 12 percent. In addition to the above commission, 100 percent of the odd cents of all
+15 redistributionbased oneach dollar wagered exceeding asum equal tothenext lowest multipleof 10,
+1
+16 known as breakage, shall be paid to [the lottery commission and used as payment for problem
+17 gaming services] the governor's commission on addiction, treatment, and prevention. Any
+18 fundsaccrued by the lottery commission under this sectionas paymentfor problem gaming
+19 services shall also be directed to the governor's commission on addiction, treatment, and
+20 prevention.
+21 3 GameOperatorEmployer;Definition. AmendRSA287-D:1,VIII-XItoreadasfollows:
+22 VIII. "Game operator employer" means [a business entity or individual who employs,
+23 supervises, and controls game operators and who is hired by a charitable organization to operate
+24 games of chance on its behalf. The owner of 10 percent or more of the entity, partner, managing
+25 member, or chief executive of a business entity who serves as a game operator employer must be
+26 listed as a part of the game operator license application] a person or business entity holding a
+27 license to operate games of chance activities and, if eligible, may obtain a license to also
+28 offer video lottery terminals pursuant to RSA 287-J and historic horse racing pursuant to
+29 RSA284:22.
+30 IX. "Gaming equipment" means a collective reference to table game devices and their
+31 associatedequipment.
+
+AmendmenttoSB83-FN
+-Page2-
+1 X. "Primary game operator" means [any person other than a bona fide member of the
+2 charitable organization, involved in conducting, managing, supervising, directing, or running games
+3 of chance; including, but not limited to, gambling operation managers and assistant managers,
+4 managers and supervisors of security employees, pit bosses, shift bosses, credit executive, and
+5 cashier operations supervisors] an individual licensed by the commission and eligible for
+6 employment by a game operator employer to act in a supervisory capacity, access restricted
+7 areas, or make discretionary decisions relative to the operation of games of chance, video
+8 lotterterminalsorhistorichorseracingdevices.
+9 XI. "Secondary game operator" means [any person other than a bona fide member of the
+10 charitable organization, involved in dealing, running a roulette wheel, handling chips, or providing
+11 accounting services or security functions; including any person with job functions or responsibilities
+12 that require the person to watch over, protect, handle, use, maintain, or otherwise hold
+13 responsibility over gaming cash, revenue, supplies or devices. This includes individuals in the back
+14 office and anyone that has access to gaming systems, chips, tokens, or playing cards, or who has the
+15 ability to access or make changes to the gaming operations accounting system, player tracking
+16 system, gaming system records, or cash and accounting records] an individual licensed by the
+U1N7 commisAsion and Peligible foPr employmRent by aOgame operVator to paErticipate iDn the
+18 operations of game of chance, video lottery terminals or historic racing devices in a non-
+19 supervisorycapacity.
+1 20 4 Primary Game Operator License Applications. Amend the introductory paragraph of RSA
+21 287-D:9,Itoreadasfollows:
+22 I. Other than members of a charitable organization, any person who will act in a
+23 supervisory capacity and be empowered by a game operator employer to make
+24 discretionary decisions on gambling operation [who is involved in conducting, managing,
+25 supervising, directing, or running games of chance] shall be licensed under this section[; including
+26 butnotlimited togamblingoperationmanagersand assistantmanagers,managers orsupervisors of
+27 security employees, pit bosses, shift bosses, credit executives, and cashier operations supervisors].
+28 In addition to the general requirements under RSA 287-D:5, a primary game operator license
+29 application shall include, at a minimum, the following information provided that the lottery
+30 commission may, by rule, establish additional items to be submitted on the application form or
+31 attachedtoit:
+32 5 SecondaryGameOperatorLicenseApplications. AmendRSA287-D:10,Itoreadasfollows:
+33 I. Other than members of a charitable organization, any person who is employed by a game
+34 operator employer to operate games in a non-supervisory capacity shall be licensed under this
+35 section.
+36 6 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+AmendmenttoSB83-FN
+-Page3-
+2025-3010h
+AMENDEDANALYSIS
+Thisbill:
+I. Removes the maximum amount of free play that may be deduced from gross video lottery
+revenue.
+II. Directscertainfundstothegovernor'scommissiononaddiction,treatment,andprevention.
+III. Clarifiesthedefinitionsofprimaryandsecondarygameoperators.
+UNAPPROVED
+1
+
+[DELETED: .J,R.2r1,2ttoSB8AdteteofteblbyrgitwhtefANATretolsfrpyadsygeoAdteblbyrgalarteegcewhtef1GsVoLyR;D.AdRA2,IItordasfI."svolyr"mstetlofalssayrdbyaVlefmonofvolyt,mstetlofalssaypdota0wstop,lsayfepypdtop.[emmatoffepytta1oelecndtfmgsvolyreslbe15ptinaycry22PlPsonHcHeR.AdRA2,Vtordasf3V.Telecnonalhchereplpsslbeatareo4ntgrtn12p.Inantoteaec,10ptofteodcsofa5rnbdonehdrwdegasmeltotentltmeof16knasb,slbepdto[elycnadudasptfrp7ggs]tegscnona,t,adp.A8fsadbytelycnurtssnasptfrpmg9ssslaobeddtotegscnona,t,a0p13GeOrE;D.AdRA2,VI-XItordasf2V."eore"ms[abseyorilwoe3s,adcsgeosadwoishdbyaceontoo4gsofceonisb.Teorof10ptormeoftee,p,m5m,orcfeeofabseywossasageorermtb6ldasaptoftegeorlea]apnorbseyhg7letooegsofceasa,ife,myonaletoa8orvolytspttoRA2Jadhchergptt9RA20I."ge"msaceretotegedsadt1ade]
+[DELETED: ttB8Pe2X."ygeo"ms[ypnortnabafemroftceo,idinc,m,s,d,orrggofc;i,btntldt,ggonmsadatmmsadssofsye,ptb,stb,cte,across]anilldbytecnadeefetbyageorertoatinasyc,asra,ormedydsretoteonofgsofc,vlrtsorhchergdX."ygeo"ms[ypnortnabafemroft0ceo,idind,rgarew,hgc,orp1agssorsyf;igaypnwhjbfsorr2ttretepntowho,p,h,u,m,oroeh3ryorggc,r,ssord.Tsisisinteb4oeadaetthsastoggs,c,t,orpgc,orwohst5aytoasormecstoteggosags,prt6s,ggsmr,orchadagr]anilldbyt7cnadeefretbyageortopeint8osofgeofc,volytsorhcrgdsinan9syc04PyGeOrLeA.AdteiyphofR12,Itordasf2I.Ortnmsofaceo,aypnwowlatin3sycyadbeedbyageorertom4dydsonggon[oisidinc,m5s,d,orrggsofc]slbeldurtss;i6btntldtoggonmsadatm,msorsso7sye,ptb,stb,cte,adcross8InantoteglrsurRA2,apygeorl9ansli,atam,tefginpdtttel0cnm,byr,ehalistobesdonteanfmo1adtoi25SyGeOrLeA.AdRA2,Itordasf3I.Ortnmsofaceo,aypnwoisedbyag4orertooegsinanycyslbeldurt5s66EeD.Tsatslteet60dsarisp]
+[DELETED: ttB8Pe3DAsb.Rstemmatoffepyttmybeddfmgsvol.Dscnfstotegscnona,t,adp.Cstedsofpyadsygeo]

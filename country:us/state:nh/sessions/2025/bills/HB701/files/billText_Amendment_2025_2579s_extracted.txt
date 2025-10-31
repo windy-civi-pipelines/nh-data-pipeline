@@ -1,0 +1,386 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2579s
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Sen.Birdsell,Dist19
+Sen.Rochefort,Dist1
+Sen.Lang,Dist2
+Sen.McConkey,Dist3
+Sen.Watters,Dist4
+Sen.Prentiss,Dist5
+Sen.Gray,Dist6
+Sen.Innis,Dist7
+Sen.Ward,Dist8
+Sen.Ricciardi,Dist9
+Sen.Fenton,Dist10
+Sen.McGough,Dist11
+Sen.Avard,Dist12
+Sen.Rosenwald,Dist13
+Sen.Carson,Dist14
+Sen.Reardon,Dist15
+Sen.Murphy,Dist16
+Sen.Pearl,Dist17
+Sen.Sullivan,Dist18
+Sen.Long,Dist20
+Sen.PerkinsKwoka,Dist21
+Sen.Abbas,Dist22
+Sen.Gannon,Dist23
+Sen.Altschiller,Dist24
+May30,2025
+2025-2579s
+05/08
+FloorAmendmenttoHB701-FN
+2
+3 ANACT relativetotheterminalpatients'righttotryact.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 TerminalPatients'RighttoTryAct;Definitions. AmendRSA126-Z:1toreadasfollows:
+8 126-Z:1 Definitions.
+9 Inthischapter:
+10 I. "Eligiblepatient"meansapersontowhomallofthefollowingapply:
+11 (a) The person has been diagnosed by the person's physician with a [life-threatening
+12 diseaseorcondition]terminalillness.
+13 (b) ThepersonhasalreadytriedorisnotacandidateforeligibleUnitedStatesFoodand
+14 DrugAdministration(FDA)approvedtreatmentoptionsfortheirdiseaseorcondition.
+15 (c) The person is unable to participate in a clinical trial involving the eligible
+16 investigationaldrug,biologicordevice.
+FloorAmendmenttoHB701-FN
+-Page2-
+1 (d) The person has given written informed consent for the use of the investigational
+2 drug,biologicalproduct,or deviceor,ifthepatientisaminororlacksthementalcapacitytoprovide
+3 informed consent, a parent or legal guardian has given written informed consent on the patient's
+4 behalf.
+5 (e) The physician providing access to an investigational drug, biologic, or device will not
+6 becompensateddirectlybythemanufacturerforprovidingaccesstothistherapy.
+7 II. "Investigational drug, biologic, or device" means a drug, biologic, or device that has
+8 successfully completed phase one of a clinical trial, but has not been approved for general use by the
+9 FDAandremainsunderinvestigationinaclinicaltrial.
+10 II-a. ["Life-threateningdisease"means:
+11 (a) Diseases or conditions where the likelihood of death is high unless the course of the
+12 diseaseisinterrupted;and
+13 (b) Diseasesorconditionswithpotentiallyfataloutcomes,wheretheendpointofclinical
+14 trialanalysisfornewdrugs,biologics,ordevicesforthatdiseaseorconditionissurvival.
+15 II-b.] "Otherprotectedaccess"includes:
+16 (a) "Expanded access" whereby the treating physician requests access to an
+17 investigational drug, biologic, or device from the FDA and is subject to oversight from an
+18 InstitutionalReviewBoard;and
+19 (b) "Off-label use" means prescribing anFDA approved drug, biologic, or devicefor a use
+20 notapprovedforthatspecificindicationconsistentwithRSA329:17,VI-b.
+21 III. "Physician" means the licensed allopathic or osteopathic physician who is providing
+22 medicalcareortreatmenttotheeligiblepatientfortheterminalillness.
+23 IV. “Telehealth prescreening” means any remote, real-time discussion intended, in
+24 part,todeterminewhetherapersonwithaterminalillnessmaybe:
+25 (a) Ineligibleforornotselectedtoparticipateinaclinicaltrial;or
+26 (b) Ineligibletoreceiveornotbeofferedadrug,biologic,ordevice.
+27 V. "Terminal illness" means a disease that, without life-sustaining procedures, will
+28 result in death in the near future or a state of permanent unconsciousness from which
+29 recoveryisunlikely.
+30 VI. “Remote signing” means the signing of any form, witnessed by a notary public
+31 or a licensed health care provider, providing written informed consent for a person
+32 diagnosedbyaphysicianwithaterminalillnesstoparticipateinaclinicaltrialorreceive
+33 a drug, biologic, or device, by the patient or, if the patient is a minor or lacks the mental
+34 capacitytoprovideconsent,byaparentorlegalguardianonthepatient'sbehalf.
+35 VII. “Individualized investigational treatment” means drugs, biologics, or devices
+36 unique to and produced exclusively for use for an individual patient, based on their own
+37 genetic profile, including but not limited to individualized gene therapy antisense
+FloorAmendmenttoHB701-FN
+-Page3-
+1 oligonucleotides (ASO), individualized neoantigen vaccines, and any other individualized
+2 treatment.
+3 VIII. “Eligible facility” means an institution that is operating under a Federalwide
+4 Assurance (“FWA”) for the Protection of Human Subjects under 42 U.S.C. section 289(a)
+5 and45 C.F.R. part 46. Any eligible facility is subject to the FWA laws, regulations, policies,
+6 andguidelinesincludingrenewalsorupdates.
+7 2 New Paragraph; Terminal Patients' Right to Try Act; Liability of Physician. Amend RSA 126-
+8 Z:3byinsertingafterparagraphIIthefollowingnewparagraph:
+9 III. Notwithstanding any provision of law to the contrary, a manufacturer of a drug,
+10 biologic, or device, a pharmacist, a health care facility, a health care provider, or a person or entity
+11 involved in the care of a patient using a drug, biologic, or device is immune from suit for any harm
+12 donetoapatientresultingfromthedrug,biologic,ordeviceif:
+13 (a) The person has a terminal illness as determined by the person's physician and a
+14 consultingphysician;
+15 (b) The person's physician has determined that the person has no comparable or
+16 satisfactory United States Food and Drug Administration (FDA) approved treatment options
+17 availabletotreatthediseaseorconditioninvolved;
+18 (c) The patient has given written informed consent for the use of the drug, biologic, or
+19 deviceor,ifthepatientisaminororlacksthementalcapacitytoprovideinformedconsent,aparent
+20 or legal guardian has given written informed consent on the patient's behalf and, if the patient is a
+21 legaladult,theconsentisnotcontrarytothepriordocumentedwishesofthepatient;
+22 (d) The manufacturer, pharmacist, facility, provider, or other person or entity has not
+23 engaged in willful misconduct or other bad faith conduct. "Willful misconduct" shall include, but is
+24 notlimitedto,anyconductintendedtohastenthedeathofthepatient;and
+25 (e) If the drug, biologic, or device is an individualized investigational treatment, it is
+26 administeredbyahealthcareproviderincooperationwithaneligiblefacility.
+27 3 PrivateCauseofAction. AmendRSA126-Z:4toreadasfollows:
+28 126-Z:4 PrivateCauseofAction.
+29 I. Nothing in this chapter shall be construed to create a private cause of action against [a
+30 manufacturer of an investigational drug, biologic, or device or against any other person or entity
+31 involved in the care of an eligible patient using the investigational drug, biologic, or device for any
+32 harm done to the eligible patient resulting from the investigational drug, biologic, or device, if the
+33 manufacturer or other person or entity is complying in good faith with the terms of this chapter and
+34 hasexercisedreasonablecare]anypersonorentityexceptasspecifiedinparagraphII.
+35 II. Notwithstanding any provision of law to the contrary, any patient diagnosed by
+36 a physician with a terminal illness, and who has been treated, is being treated, or
+37 otherwise could be treated in New Hampshire with a drug, biologic, or device, and is
+FloorAmendmenttoHB701-FN
+-Page4-
+1 affected by a violation of this chapter, or a health care facility or a health care provider
+2 involved in the treatment of the patient, shall be entitled to petition the superior court for
+3 injunctive relief and reasonable attorney’s fees against any regulatory or law enforcement
+4 authoritythatviolatesthischapter.
+5 4 New Sections; Telehealth Prescreening and Remote Signing. Amend RSA 126-Z by inserting
+6 aftersection5thefollowingnewsections:
+7 126-Z:6 TelehealthPrescreening.
+8 I. Notwithstanding any regulation or provision of law to the contrary, any health care
+9 provider, while physically located in New Hampshire, may conduct a telehealth prescreening with
+10 any patient, in any state or jurisdiction, who has been diagnosed by a physician with a terminal
+11 illness.
+12 II. No regulatory or law enforcement agency or subdivision shall take action against a
+13 health care facility, a health care provider, or a person or entity involved in the care of a patient for
+14 conductingatelehealthprescreeningasdefinedinthischapterandpursuanttoparagraphI.
+15 III. Ahealthcarefacility,ahealthcareprovider,orapersonorentityinvolvedinthecareof
+16 a patient shall be immune from suit to the extent that the suit is based upon a telehealth
+17 prescreening.
+18 126-Z:7 RemoteSigning.
+19 I. Notwithstanding any regulation or provision of law to the contrary, a manufacturer of a
+20 drug, biologic, or device, a pharmacist, a health care facility, a health care provider, or a person or
+21 entity involved in the care of a patient using a drug, biologic, or device may obtain consent to treat a
+22 patientusingremotesigningasdefinedinthischapter,providedthatthemanufacturer,pharmacist,
+23 facility, provider, or other person or entity has an office in the state of New Hampshire and has
+24 conducted atelehealthprescreeningpursuant toRSA126-Z:1, IV. The remotesigningshall amount
+25 tofullandeffectiveconsentfortreatmentunderallapplicablelawsandregulations.
+26 II. No regulatory or law enforcement agency or subdivision shall take action against a
+27 health care facility, a health care provider, or a person or entity involved in the care of a patient for
+28 obtaining patient consent through remote signing, as defined in this chapter, if the provider or
+29 facilityhascompliedwithparagraphI.
+30 III. Ahealthcarefacility,ahealthcareprovider,orapersonorentityinvolvedinthecareof
+31 a patient shall be immune from suit to the extent that the suit challenges the validity of a remote
+32 signing to effect lawful consent, provided that the person or entity is complying in good faith with
+33 thetermsofthischapterandhasnotengagedinwillfulmisconduct.
+34 126-Z:8 Statutory Construction. The general court enacts this chapter to promote maximum
+35 access by removing barriers in state law and indemnifying those involved in providing potentially
+36 life-saving treatments and treatments to improve the quality of patients’ remaining life, to
+37 incentivize health care facilities, health care providers, manufacturers of drugs, biologics and/or
+FloorAmendmenttoHB701-FN
+-Page5-
+1 devices, and other persons and entities involved in the care of patients, to treat terminal illness,
+2 whether through company-sponsored clinical trial, single-patient protocol, compassionate use
+3 protocol, or any other means of access to drugs, biologics, and/or devices which gathers information
+4 on patient outcomes, and to make New Hampshire a jurisdiction that attracts and fosters clinical
+5 trials and the development of drugs, biologics, and devices intended to treat terminal illness. This
+6 chaptershallbeconstruedconsistentlywiththegeneralcourt'sstatedpurpose.
+7 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+FloorAmendmenttoHB701-FN
+-Page6-
+2025-2579s
+AMENDEDANALYSIS
+This bill allows for telehealth screening and remote signing in order to facilitate participation
+under the right to try act. The bill also narrows the scope of the act to terminal illness rather than
+life-threateningconditions.
+[DELETED: .B,Dt1.R,Dt.L,Dt.M,Dt.W,Dt.P,Dt.G,Dt.I,Dt.W,Dt.R,Dt.F,Dt1.M,Dt1.A,Dt1.R,Dt1.C,Dt1.R,Dt1.M,Dt1.P,Dt1.S,Dt1.L,Dt2.PsK,Dt2.A,Dt2.G,Dt2.A,Dt2y3,2rAttoHB7AdteteofteblbyrgitwhtefANATretotetlp'rttotyaAdteblbyrgalarteegcewhtef1TlP'RttoTyA;D.AdRA11tordasf11DIntsc0I."ep"msapntowmaloftefga1()Tepnhsbnddbytepspnwha[2deorc]tli3()TepnhsaytdorisntacefreeUdSsFda4DgAn()adttosfrtrdeorc5()Tepnisuetopeinacltligtee6ild,bcord]
+[DELETED: rAttoHB7Pe2()Tepnhsgnwnidctfrteueofteid,blp,ordeo,ifteptisamrorlstemlcytopidc,aptorllgnhsgnwnidctontepb()Tepnpgastoanild,b,ordewlnbecddybytemrfrpgastotstI."ld,b,ord"msad,b,ordetthsycdpeoeofaclt,bthsntbnadfrgluebytFAadrsurininaclt0I.[gd"m1()Dsorcsweteldofdhishhusteceoft2deisi;a3()Dsorcswhpyflo,weteedptofc4tlasfrnwd,b,ordsfrttdeorcniss5I]"rpda"i6()"da"wytetgpnrsastoa7ild,b,ordefmteFAadissttootfma8IlRwB;a9()"lu"mspganFAadd,b,ordefrau0ntadfrttscinctwhRA3,V1I.""msteldacorocpnwoisp2mlceortttoteeeptfrtetli3I.“hp”msayr,redni,i4p,todewrapnwhatlismyb5()Iefrorntsdtopeinaclt;o6()Ietoreorntbeodad,b,ord7V."li"msadet,wtlgp,w8rtindhintenrfeoraseofptusfmw9ryisu0V.“es”mstesgofayf,wdbyanyp1oraldhhcep,pgwnidctfrap2ddbyapnwhatlistopeinacltlorr3ad,b,ord,bytepto,ifteptisamrorlstem4cytopec,byaptorllgnontepsb5V.“dilt”msd,b,ord6uetoadpdeyfruefranilp,bdontro7gcp,igbtntldtoidgetya]
+[DELETED: rAttoHB7Pe3os(,idnnv,adayoritV.“ef”msaninttisoguraFAe()frtePnofHnSsur42U.sn2ad45C.pt4.AyeefyissttoteFAl,r,padgsigrsoru2NwP;TlP'RttoTyA;LyofP.AdRA1Z3byigarphIItefgnwpI.Ngaypnoflwtotec,amrofad0b,ord,ap,ahhcef,ahhcep,orapnore1idinteceofaptugad,b,ordeisiefmstfrayh2detoaptrgfmted,b,ordei3()Tepnhsatlisasddbytepspnad4cgp5()Tepspnhsddtttepnhsnoceo6syUdSsFdadDgAn()adtto7aetotttedeorcni8()Tepthsgnwnidctfrteueofted,b,o9deo,ifteptisamrorlstemlcytopeidc,ap0orllgnhsgnwnidctontepsbfa,ifteptis1lla,tectisntcytoteprddwsoftep2()Tem,p,f,p,ororpnoreyhsn3edinwlmtororbdfhc."lm"sli,bti4ntldt,ayctidtohntedhoftep;a5()Ifted,b,ordeisanidilt,iti6adbyahhceprincnwhaneef73PeCeofA.AdRA14tordasf814PeCeofA9I.Ngintscrslbecdtoceapeceofanat[0mrofanild,b,ordeoratayorpnore1idinteceofaneeptugteild,b,ordefra2hmdetoteeeptrgfmteild,b,ord,ift3mrororpnoreyiscgingdfhwhtetsoftscra4hsedrec]aypnoreyetassdinphI5I.Ngaypnoflwtotec,ayptddb6apnwhatli,adwohsbnt,isbgt,o7oecdbetdinNwHewhad,b,ord,adi]
+[DELETED: rAttoHB7Pe4adbyavnoftsc,orahhcefyorahhcepidintettoftep,slbeedtopntesrctfierfadreasfsatayryorlweayttvstsc4NwS;ThPgadReS.AdRA1Zbyiarsn5tefgnws16ThPI.Ngayrnorpnoflwtotec,ayhhcp,wepyldinNwH,myctathpgw0ayp,inayseorj,wohsbnddbyapnwhat1i2I.Noryorlwetayorsnslteanat3hhcef,ahhcep,orapnoreyidinteceofaptf4cgathpgasddintscradpttophI5I.Ahhcef,ahhcep,orapnoreyidinteceo6aptslbeiefmsttoteettttestisbdunat7p817ReS9I.Ngayrnorpnoflwtotec,amrof0d,b,ord,ap,ahhcef,ahhcep,orapno1eyidinteceofaptugad,b,ordemyoncttott2ptugresgasddintsc,pdtttem,p3f,p,ororpnoreyhsanoeinteseofNwHeadh4cdathpgpttoRA1,I.Teresgsla5tofladeectfrtturalaelsadr6I.Noryorlwetayorsnslteanat7hhcef,ahhcep,orapnoreyidinteceofaptf8ogptctthres,asddintsc,iftepro9fyhscdwhphI0I.Ahhcef,ahhcep,orapnoreyidinteceo1aptslbeiefmsttoteettttestcstevyofar2sgtoetllc,pdtttepnoreyiscgingdfhw3tetsoftscradhsntedinwlm418SyC.Teglctestscrtopem5asbyrgbsinselwadigteidinpgp6lgtsadtstoieteqyofp’rgl,t7iehhcef,hhcep,msofd,bsa]
+[DELETED: rAttoHB7Pe5d,adorpsadesidinteceofp,totttliwrthcdclt,stp,ceup,orayormsofastod,b,ardswhgsionpto,adtomeNwHeajnttasadfsctsadtedtofd,b,addsidtotttli.Tcrslbecdcywhteglcssdp5EeD.TsatslteetJy1,2]
+[DELETED: rAttoHB7Pe6DAsblasfrthsgadresginortofeprterttotya.Teblaonsteseofteattotlisrrtgc]
+
+
+================================================================================
+
+Raw Text:
+Sen.Birdsell,Dist19
+Sen.Rochefort,Dist1
+Sen.Lang,Dist2
+Sen.McConkey,Dist3
+Sen.Watters,Dist4
+Sen.Prentiss,Dist5
+Sen.Gray,Dist6
+Sen.Innis,Dist7
+Sen.Ward,Dist8
+Sen.Ricciardi,Dist9
+Sen.Fenton,Dist10
+Sen.McGough,Dist11
+Sen.Avard,Dist12
+Sen.Rosenwald,Dist13
+Sen.Carson,Dist14
+Sen.Reardon,Dist15
+Sen.Murphy,Dist16
+Sen.Pearl,Dist17
+Sen.Sullivan,Dist18
+Sen.Long,Dist20
+Sen.PerkinsKwoka,Dist21
+Sen.Abbas,Dist22
+Sen.Gannon,Dist23
+Sen.Altschiller,Dist24
+May30,2025
+2025-2579s
+05/08
+FloorAmendmenttoHB701-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetotheterminalpatients'righttotryact.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 TerminalPatients'RighttoTryAct;Definitions. AmendRSA126-Z:1toreadasfollows:
+8 126-Z:1 Definitions.
+9 Inthischapter:
+10 I. "Eligiblepatient"meansapersontowhomallofthefollowingapply:
+11 (a) The person has been diagnosed by the person's physician with a [life-threatening
+12 diseaseorcondition]terminalillness.
+13 (b) ThepersonhasalreadytriedorisnotacandidateforeligibleUnitedStatesFoodand
+14 DrugAdministration(FDA)approvedtreatmentoptionsfortheirdiseaseorcondition.
+15 (c) The person is unable to participate in a clinical trial involving the eligible
+16 investigationaldrug,biologicordevice.
+
+FloorAmendmenttoHB701-FN
+-Page2-
+1 (d) The person has given written informed consent for the use of the investigational
+2 drug,biologicalproduct,or deviceor,ifthepatientisaminororlacksthementalcapacitytoprovide
+3 informed consent, a parent or legal guardian has given written informed consent on the patient's
+4 behalf.
+5 (e) The physician providing access to an investigational drug, biologic, or device will not
+6 becompensateddirectlybythemanufacturerforprovidingaccesstothistherapy.
+7 II. "Investigational drug, biologic, or device" means a drug, biologic, or device that has
+8 successfully completed phase one of a clinical trial, but has not been approved for general use by the
+9 FDAandremainsunderinvestigationinaclinicaltrial.
+10 II-a. ["Life-threateningdisease"means:
+11 (a) Diseases or conditions where the likelihood of death is high unless the course of the
+12 diseaseisinterrupted;and
+13 (b) Diseasesorconditionswithpotentiallyfataloutcomes,wheretheendpointofclinical
+14 trialanalysisfornewdrugs,biologics,ordevicesforthatdiseaseorconditionissurvival.
+15 II-b.] "Otherprotectedaccess"includes:
+16 (a) "Expanded access" whereby the treating physician requests access to an
+17 investigational drug, biologic, or device from the FDA and is subject to oversight from an
+18 InstitutionalReviewBoard;and
+19 (b) "Off-label use" means prescribing anFDA approved drug, biologic, or devicefor a use
+20 notapprovedforthatspecificindicationconsistentwithRSA329:17,VI-b.
+21 III. "Physician" means the licensed allopathic or osteopathic physician who is providing
+22 medicalcareortreatmenttotheeligiblepatientfortheterminalillness.
+23 IV. “Telehealth prescreening” means any remote, real-time discussion intended, in
+24 part,todeterminewhetherapersonwithaterminalillnessmaybe:
+25 (a) Ineligibleforornotselectedtoparticipateinaclinicaltrial;or
+26 (b) Ineligibletoreceiveornotbeofferedadrug,biologic,ordevice.
+27 V. "Terminal illness" means a disease that, without life-sustaining procedures, will
+28 result in death in the near future or a state of permanent unconsciousness from which
+29 recoveryisunlikely.
+30 VI. “Remote signing” means the signing of any form, witnessed by a notary public
+31 or a licensed health care provider, providing written informed consent for a person
+32 diagnosedbyaphysicianwithaterminalillnesstoparticipateinaclinicaltrialorreceive
+33 a drug, biologic, or device, by the patient or, if the patient is a minor or lacks the mental
+34 capacitytoprovideconsent,byaparentorlegalguardianonthepatient'sbehalf.
+35 VII. “Individualized investigational treatment” means drugs, biologics, or devices
+36 unique to and produced exclusively for use for an individual patient, based on their own
+37 genetic profile, including but not limited to individualized gene therapy antisense
+
+FloorAmendmenttoHB701-FN
+-Page3-
+1 oligonucleotides (ASO), individualized neoantigen vaccines, and any other individualized
+2 treatment.
+3 VIII. “Eligible facility” means an institution that is operating under a Federalwide
+4 Assurance (“FWA”) for the Protection of Human Subjects under 42 U.S.C. section 289(a)
+5 and45 C.F.R. part 46. Any eligible facility is subject to the FWA laws, regulations, policies,
+6 andguidelinesincludingrenewalsorupdates.
+7 2 New Paragraph; Terminal Patients' Right to Try Act; Liability of Physician. Amend RSA 126-
+8 Z:3byinsertingafterparagraphIIthefollowingnewparagraph:
+9 III. Notwithstanding any provision of law to the contrary, a manufacturer of a drug,
+10 biologic, or device, a pharmacist, a health care facility, a health care provider, or a person or entity
+11 involved in the care of a patient using a drug, biologic, or device is immune from suit for any harm
+12 donetoapatientresultingfromthedrug,biologic,ordeviceif:
+13 (a) The person has a terminal illness as determined by the person's physician and a
+14 consultingphysician;
+15 (b) The person's physician has determined that the person has no comparable or
+16 satisfactory United States Food and Drug Administration (FDA) approved treatment options
+17 availabletotreatthediseaseorconditioninvolved;
+18 (c) The patient has given written informed consent for the use of the drug, biologic, or
+19 deviceor,ifthepatientisaminororlacksthementalcapacitytoprovideinformedconsent,aparent
+20 or legal guardian has given written informed consent on the patient's behalf and, if the patient is a
+21 legaladult,theconsentisnotcontrarytothepriordocumentedwishesofthepatient;
+22 (d) The manufacturer, pharmacist, facility, provider, or other person or entity has not
+23 engaged in willful misconduct or other bad faith conduct. "Willful misconduct" shall include, but is
+24 notlimitedto,anyconductintendedtohastenthedeathofthepatient;and
+25 (e) If the drug, biologic, or device is an individualized investigational treatment, it is
+26 administeredbyahealthcareproviderincooperationwithaneligiblefacility.
+27 3 PrivateCauseofAction. AmendRSA126-Z:4toreadasfollows:
+28 126-Z:4 PrivateCauseofAction.
+29 I. Nothing in this chapter shall be construed to create a private cause of action against [a
+30 manufacturer of an investigational drug, biologic, or device or against any other person or entity
+31 involved in the care of an eligible patient using the investigational drug, biologic, or device for any
+32 harm done to the eligible patient resulting from the investigational drug, biologic, or device, if the
+33 manufacturer or other person or entity is complying in good faith with the terms of this chapter and
+34 hasexercisedreasonablecare]anypersonorentityexceptasspecifiedinparagraphII.
+35 II. Notwithstanding any provision of law to the contrary, any patient diagnosed by
+36 a physician with a terminal illness, and who has been treated, is being treated, or
+37 otherwise could be treated in New Hampshire with a drug, biologic, or device, and is
+
+FloorAmendmenttoHB701-FN
+-Page4-
+1 affected by a violation of this chapter, or a health care facility or a health care provider
+2 involved in the treatment of the patient, shall be entitled to petition the superior court for
+3 injunctive relief and reasonable attorney’s fees against any regulatory or law enforcement
+4 authoritythatviolatesthischapter.
+5 4 New Sections; Telehealth Prescreening and Remote Signing. Amend RSA 126-Z by inserting
+6 aftersection5thefollowingnewsections:
+7 126-Z:6 TelehealthPrescreening.
+8 I. Notwithstanding any regulation or provision of law to the contrary, any health care
+9 provider, while physically located in New Hampshire, may conduct a telehealth prescreening with
+10 any patient, in any state or jurisdiction, who has been diagnosed by a physician with a terminal
+11 illness.
+12 II. No regulatory or law enforcement agency or subdivision shall take action against a
+13 health care facility, a health care provider, or a person or entity involved in the care of a patient for
+14 conductingatelehealthprescreeningasdefinedinthischapterandpursuanttoparagraphI.
+15 III. Ahealthcarefacility,ahealthcareprovider,orapersonorentityinvolvedinthecareof
+16 a patient shall be immune from suit to the extent that the suit is based upon a telehealth
+17 prescreening.
+18 126-Z:7 RemoteSigning.
+19 I. Notwithstanding any regulation or provision of law to the contrary, a manufacturer of a
+20 drug, biologic, or device, a pharmacist, a health care facility, a health care provider, or a person or
+21 entity involved in the care of a patient using a drug, biologic, or device may obtain consent to treat a
+22 patientusingremotesigningasdefinedinthischapter,providedthatthemanufacturer,pharmacist,
+23 facility, provider, or other person or entity has an office in the state of New Hampshire and has
+24 conducted atelehealthprescreeningpursuant toRSA126-Z:1, IV. The remotesigningshall amount
+25 tofullandeffectiveconsentfortreatmentunderallapplicablelawsandregulations.
+26 II. No regulatory or law enforcement agency or subdivision shall take action against a
+27 health care facility, a health care provider, or a person or entity involved in the care of a patient for
+28 obtaining patient consent through remote signing, as defined in this chapter, if the provider or
+29 facilityhascompliedwithparagraphI.
+30 III. Ahealthcarefacility,ahealthcareprovider,orapersonorentityinvolvedinthecareof
+31 a patient shall be immune from suit to the extent that the suit challenges the validity of a remote
+32 signing to effect lawful consent, provided that the person or entity is complying in good faith with
+33 thetermsofthischapterandhasnotengagedinwillfulmisconduct.
+34 126-Z:8 Statutory Construction. The general court enacts this chapter to promote maximum
+35 access by removing barriers in state law and indemnifying those involved in providing potentially
+36 life-saving treatments and treatments to improve the quality of patients’ remaining life, to
+37 incentivize health care facilities, health care providers, manufacturers of drugs, biologics and/or
+
+FloorAmendmenttoHB701-FN
+-Page5-
+1 devices, and other persons and entities involved in the care of patients, to treat terminal illness,
+2 whether through company-sponsored clinical trial, single-patient protocol, compassionate use
+3 protocol, or any other means of access to drugs, biologics, and/or devices which gathers information
+4 on patient outcomes, and to make New Hampshire a jurisdiction that attracts and fosters clinical
+5 trials and the development of drugs, biologics, and devices intended to treat terminal illness. This
+6 chaptershallbeconstruedconsistentlywiththegeneralcourt'sstatedpurpose.
+7 5 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+
+FloorAmendmenttoHB701-FN
+-Page6-
+2025-2579s
+AMENDEDANALYSIS
+This bill allows for telehealth screening and remote signing in order to facilitate participation
+under the right to try act. The bill also narrows the scope of the act to terminal illness rather than
+life-threateningconditions.
+
+[DELETED: .B,Dt1.R,Dt.L,Dt.M,Dt.W,Dt.P,Dt.G,Dt.I,Dt.W,Dt.R,Dt.F,Dt1.M,Dt1.A,Dt1.R,Dt1.C,Dt1.R,Dt1.M,Dt1.P,Dt1.S,Dt1.L,Dt2.PsK,Dt2.A,Dt2.G,Dt2.A,Dt2y3,2rAttoHB7AdteteofteblbyrgitwhtefANATretotetlp'rttotyaAdteblbyrgalarteegcewhtef1TlP'RttoTyA;D.AdRA11tordasf11DIntsc0I."ep"msapntowmaloftefga1()Tepnhsbnddbytepspnwha[2deorc]tli3()TepnhsaytdorisntacefreeUdSsFda4DgAn()adttosfrtrdeorc5()Tepnisuetopeinacltligtee6ild,bcord]
+[DELETED: rAttoHB7Pe2()Tepnhsgnwnidctfrteueofteid,blp,ordeo,ifteptisamrorlstemlcytopidc,aptorllgnhsgnwnidctontepb()Tepnpgastoanild,b,ordewlnbecddybytemrfrpgastotstI."ld,b,ord"msad,b,ordetthsycdpeoeofaclt,bthsntbnadfrgluebytFAadrsurininaclt0I.[gd"m1()Dsorcsweteldofdhishhusteceoft2deisi;a3()Dsorcswhpyflo,weteedptofc4tlasfrnwd,b,ordsfrttdeorcniss5I]"rpda"i6()"da"wytetgpnrsastoa7ild,b,ordefmteFAadissttootfma8IlRwB;a9()"lu"mspganFAadd,b,ordefrau0ntadfrttscinctwhRA3,V1I.""msteldacorocpnwoisp2mlceortttoteeeptfrtetli3I.“hp”msayr,redni,i4p,todewrapnwhatlismyb5()Iefrorntsdtopeinaclt;o6()Ietoreorntbeodad,b,ord7V."li"msadet,wtlgp,w8rtindhintenrfeoraseofptusfmw9ryisu0V.“es”mstesgofayf,wdbyanyp1oraldhhcep,pgwnidctfrap2ddbyapnwhatlistopeinacltlorr3ad,b,ord,bytepto,ifteptisamrorlstem4cytopec,byaptorllgnontepsb5V.“dilt”msd,b,ord6uetoadpdeyfruefranilp,bdontro7gcp,igbtntldtoidgetya]
+[DELETED: rAttoHB7Pe3os(,idnnv,adayoritV.“ef”msaninttisoguraFAe()frtePnofHnSsur42U.sn2ad45C.pt4.AyeefyissttoteFAl,r,padgsigrsoru2NwP;TlP'RttoTyA;LyofP.AdRA1Z3byigarphIItefgnwpI.Ngaypnoflwtotec,amrofad0b,ord,ap,ahhcef,ahhcep,orapnore1idinteceofaptugad,b,ordeisiefmstfrayh2detoaptrgfmted,b,ordei3()Tepnhsatlisasddbytepspnad4cgp5()Tepspnhsddtttepnhsnoceo6syUdSsFdadDgAn()adtto7aetotttedeorcni8()Tepthsgnwnidctfrteueofted,b,o9deo,ifteptisamrorlstemlcytopeidc,ap0orllgnhsgnwnidctontepsbfa,ifteptis1lla,tectisntcytoteprddwsoftep2()Tem,p,f,p,ororpnoreyhsn3edinwlmtororbdfhc."lm"sli,bti4ntldt,ayctidtohntedhoftep;a5()Ifted,b,ordeisanidilt,iti6adbyahhceprincnwhaneef73PeCeofA.AdRA14tordasf814PeCeofA9I.Ngintscrslbecdtoceapeceofanat[0mrofanild,b,ordeoratayorpnore1idinteceofaneeptugteild,b,ordefra2hmdetoteeeptrgfmteild,b,ord,ift3mrororpnoreyiscgingdfhwhtetsoftscra4hsedrec]aypnoreyetassdinphI5I.Ngaypnoflwtotec,ayptddb6apnwhatli,adwohsbnt,isbgt,o7oecdbetdinNwHewhad,b,ord,adi]
+[DELETED: rAttoHB7Pe4adbyavnoftsc,orahhcefyorahhcepidintettoftep,slbeedtopntesrctfierfadreasfsatayryorlweayttvstsc4NwS;ThPgadReS.AdRA1Zbyiarsn5tefgnws16ThPI.Ngayrnorpnoflwtotec,ayhhcp,wepyldinNwH,myctathpgw0ayp,inayseorj,wohsbnddbyapnwhat1i2I.Noryorlwetayorsnslteanat3hhcef,ahhcep,orapnoreyidinteceofaptf4cgathpgasddintscradpttophI5I.Ahhcef,ahhcep,orapnoreyidinteceo6aptslbeiefmsttoteettttestisbdunat7p817ReS9I.Ngayrnorpnoflwtotec,amrof0d,b,ord,ap,ahhcef,ahhcep,orapno1eyidinteceofaptugad,b,ordemyoncttott2ptugresgasddintsc,pdtttem,p3f,p,ororpnoreyhsanoeinteseofNwHeadh4cdathpgpttoRA1,I.Teresgsla5tofladeectfrtturalaelsadr6I.Noryorlwetayorsnslteanat7hhcef,ahhcep,orapnoreyidinteceofaptf8ogptctthres,asddintsc,iftepro9fyhscdwhphI0I.Ahhcef,ahhcep,orapnoreyidinteceo1aptslbeiefmsttoteettttestcstevyofar2sgtoetllc,pdtttepnoreyiscgingdfhw3tetsoftscradhsntedinwlm418SyC.Teglctestscrtopem5asbyrgbsinselwadigteidinpgp6lgtsadtstoieteqyofp’rgl,t7iehhcef,hhcep,msofd,bsa]
+[DELETED: rAttoHB7Pe5d,adorpsadesidinteceofp,totttliwrthcdclt,stp,ceup,orayormsofastod,b,ardswhgsionpto,adtomeNwHeajnttasadfsctsadtedtofd,b,addsidtotttli.Tcrslbecdcywhteglcssdp5EeD.TsatslteetJy1,2]
+[DELETED: rAttoHB7Pe6DAsblasfrthsgadresginortofeprterttotya.Teblaonsteseofteattotlisrrtgc]

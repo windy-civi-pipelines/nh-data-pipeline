@@ -1,0 +1,68 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0190h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Layon,Rock.13
+January31,2025
+2025-0190h
+05/02
+AmendmenttoHB570-FN
+2
+3 ANACT repealingtheprescriptiondrugaffordabilityboard.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 SalariesEstablished. AmendRSA94:1-a,I(b)bydeletinginGG:
+8 GG Departmentofheathandhumanservices executivedirector,prescription
+9 drugaffordabilityboard
+10 2 Repeal. Thefollowingarerepealed:
+11 I. RSA 6:12, I(b)(384), relative to the New Hampshire prescription drug affordability board
+12 administrationfund.
+13 II. RSA126-BB,relativetotheprescriptiondrugaffordabilityboard.
+14 3 EffectiveDate. ThisactshalltakeeffectJuly1,2025.
+AmendmenttoHB570-FN
+-Page2-
+2025-0190h
+AMENDEDANALYSIS
+Thisbillrepealstheprescriptiondrugaffordabilityboard.
+[DELETED: .L,R.1y3,2ttoHB5AdteteofteblbyrgitwhtefANATrgtepndgaybAdteblbyrgalarteegcewhtef1SsE.AdRA9,I)bydginGGGDtofhhadhnsseed,pdgayb02R.Tefgaer1I.RA6,I,retoteNwHepndgayb2anf3I.RA1,retotepndgayb43EeD.TsatslteetJy1,2]
+[DELETED: ttoHB5Pe2DAsblrstepndgayb]
+
+
+================================================================================
+
+Raw Text:
+Rep.Layon,Rock.13
+January31,2025
+2025-0190h
+05/02
+AmendmenttoHB570-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT repealingtheprescriptiondrugaffordabilityboard.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 SalariesEstablished. AmendRSA94:1-a,I(b)bydeletinginGG:
+8 GG Departmentofheathandhumanservices executivedirector,prescription
+9 drugaffordabilityboard
+10 2 Repeal. Thefollowingarerepealed:
+11 I. RSA 6:12, I(b)(384), relative to the New Hampshire prescription drug affordability board
+12 administrationfund.
+13 II. RSA126-BB,relativetotheprescriptiondrugaffordabilityboard.
+14 3 EffectiveDate. ThisactshalltakeeffectJuly1,2025.
+
+AmendmenttoHB570-FN
+-Page2-
+2025-0190h
+AMENDEDANALYSIS
+Thisbillrepealstheprescriptiondrugaffordabilityboard.
+
+[DELETED: .L,R.1y3,2ttoHB5AdteteofteblbyrgitwhtefANATrgtepndgaybAdteblbyrgalarteegcewhtef1SsE.AdRA9,I)bydginGGGDtofhhadhnsseed,pdgayb02R.Tefgaer1I.RA6,I,retoteNwHepndgayb2anf3I.RA1,retotepndgayb43EeD.TsatslteetJy1,2]
+[DELETED: ttoHB5Pe2DAsblrstepndgayb]

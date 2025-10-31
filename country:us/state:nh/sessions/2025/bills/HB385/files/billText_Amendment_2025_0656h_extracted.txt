@@ -1,0 +1,100 @@
+Title: 1 Amendthebillbyreplacingsection6withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection6withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0656h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Lane,Merr.16
+March3,2025
+2025-0656h
+07/08
+AmendmenttoHB385-FN
+2
+3 6 Obtaining a Ballot; Affidavit Ballots Removed. RSA 659:13, I(c) is repealed and reenacted to
+4 readasfollows:
+5 (c)(1) If the voter does not have a valid photo identification, the ballot clerk shall inform
+6 the voter that he or she may execute a challenged voter affidavit. The voter shall receive an
+7 explanatory document prepared by the secretary of state explaining the proof of identity
+8 requirements. If the voter executes a challenged voter affidavit, the ballot clerk shall mark the
+9 checklistinaccordancewithuniformproceduresdevelopedbythesecretaryofstate.
+10 (2) If the voter executes a challenged voter affidavit, the moderator or the
+11 moderator's designee shall take a photograph of the voter and immediately print and attach the
+12 photograph to, thus making it a part of, the affidavit form. However, if a photograph was taken
+13 under RSA 654:12, then a notation shall be made on the challenged voter affidavit stating that the
+14 photographisattachedtothequalifiedvoteraffidavitorswornstatementonthegeneralelectionday
+15 registration form. The photograph shall be 2 inches by 2 inches, or larger, and may be in color or in
+16 black and white. The moderator or his or her designee who took the photograph and the voter shall
+17 thensignthechallengedvoteraffidavit. Themoderatorordesigneeshalldeletethephotographfrom
+18 thecamerainthepresenceof thevoter. Ifthemoderator orhisor herdesigneeis unabletotake the
+19 voter's photograph due to equipment failure or other cause beyond the moderator's or his or her
+20 designee's reasonable control, the voter may execute a challenged voter affidavit without a
+21 photograph.
+22 (3) If the voter objects to the photograph requirement because of religious beliefs, he
+23 or she may execute an affidavit of religious exemption in accordance with RSA 659:13-b, which shall
+24 beattestedtobyanelectionofficerandattachedtothechallengedvoteraffidavit.
+25 (4) The person entering voter information into the centralized voter registration
+26 database shall cause the records to indicate when a voter has not presented a valid photo
+27 identificationandhasexecutedachallengedvoteraffidavit.
+28 (5) If the voter objects to the photograph requirement because of religious beliefs, he
+29 or she may execute an affidavit of religious exemption in accordance with RSA 659:13-b, which shall
+30 beattestedtobyanelectionofficerandattachedtothechallengedvoteraffidavit.
+AmendmenttoHB385-FN
+-Page2-
+1 (6) The person entering voter information into the centralized voter registration
+2 database shall cause the records to indicate when a voter has not presented a valid photo
+3 identificationandhasexecutedachallengedvoteraffidavit.
+[DELETED: .L,M.1h3,2ttoHB3Adteblbyrgsn6whtef6OgaB;AtBsR.RA6,I)isrdadrdtrdasf()Iftevrdsntheavdpoi,tebtckslitevrttheorsemyeeacdvra.Tevrslreaeydtpdbytesyofseegtepfofir.Iftevresacdvra,tebtckslmktctinaewhumpsddbytesyofs0()Iftevresacdvra,temrort1msdeslteaphoftevradiyptadaht2pht,tsmgitapto,teatf.H,ifaphwst3urRA6,tnannslbemeontecdvratsgttt4phisadtoteqdvratorsnstonteglend5rnf.Tephslbe2isby2i,orl,admybeincrori6bkadw.Temrorhsorhrdewotktephadtevrs7tnsntecdvra.Temrordesldetephf8tecaintepeoftev.Iftemrorhsorhrdeisuetotet9vsphdetoetfeororcebdtemsorhsorh0dsrec,tevrmyeeacdvratwt1p2()Iftevrostotephrtbeofrsb,h3orsemyeeanatofrseninaewhRA6,whs4beadtobyanenoradadtotecdvra5()Tepnegvriniotecdvrr6deslceterstoiewnavrhsntpdavdp7inadhsedacdvra8()Iftevrostotephrtbeofrsb,h9orsemyeeanatofrseninaewhRA6,whs0beadtobyanenoradadtotecdvra]
+[DELETED: ttoHB3Pe2()Tepnegvriniotecdvrrdeslceterstoiewnavrhsntpdavdpinadhsedacdvra]
+
+
+================================================================================
+
+Raw Text:
+Rep.Lane,Merr.16
+March3,2025
+2025-0656h
+07/08
+AmendmenttoHB385-FN
+1 Amendthebillbyreplacingsection6withthefollowing:
+2
+3 6 Obtaining a Ballot; Affidavit Ballots Removed. RSA 659:13, I(c) is repealed and reenacted to
+4 readasfollows:
+5 (c)(1) If the voter does not have a valid photo identification, the ballot clerk shall inform
+6 the voter that he or she may execute a challenged voter affidavit. The voter shall receive an
+7 explanatory document prepared by the secretary of state explaining the proof of identity
+8 requirements. If the voter executes a challenged voter affidavit, the ballot clerk shall mark the
+9 checklistinaccordancewithuniformproceduresdevelopedbythesecretaryofstate.
+10 (2) If the voter executes a challenged voter affidavit, the moderator or the
+11 moderator's designee shall take a photograph of the voter and immediately print and attach the
+12 photograph to, thus making it a part of, the affidavit form. However, if a photograph was taken
+13 under RSA 654:12, then a notation shall be made on the challenged voter affidavit stating that the
+14 photographisattachedtothequalifiedvoteraffidavitorswornstatementonthegeneralelectionday
+15 registration form. The photograph shall be 2 inches by 2 inches, or larger, and may be in color or in
+16 black and white. The moderator or his or her designee who took the photograph and the voter shall
+17 thensignthechallengedvoteraffidavit. Themoderatorordesigneeshalldeletethephotographfrom
+18 thecamerainthepresenceof thevoter. Ifthemoderator orhisor herdesigneeis unabletotake the
+19 voter's photograph due to equipment failure or other cause beyond the moderator's or his or her
+20 designee's reasonable control, the voter may execute a challenged voter affidavit without a
+21 photograph.
+22 (3) If the voter objects to the photograph requirement because of religious beliefs, he
+23 or she may execute an affidavit of religious exemption in accordance with RSA 659:13-b, which shall
+24 beattestedtobyanelectionofficerandattachedtothechallengedvoteraffidavit.
+25 (4) The person entering voter information into the centralized voter registration
+26 database shall cause the records to indicate when a voter has not presented a valid photo
+27 identificationandhasexecutedachallengedvoteraffidavit.
+28 (5) If the voter objects to the photograph requirement because of religious beliefs, he
+29 or she may execute an affidavit of religious exemption in accordance with RSA 659:13-b, which shall
+30 beattestedtobyanelectionofficerandattachedtothechallengedvoteraffidavit.
+
+AmendmenttoHB385-FN
+-Page2-
+1 (6) The person entering voter information into the centralized voter registration
+2 database shall cause the records to indicate when a voter has not presented a valid photo
+3 identificationandhasexecutedachallengedvoteraffidavit.
+
+[DELETED: .L,M.1h3,2ttoHB3Adteblbyrgsn6whtef6OgaB;AtBsR.RA6,I)isrdadrdtrdasf()Iftevrdsntheavdpoi,tebtckslitevrttheorsemyeeacdvra.Tevrslreaeydtpdbytesyofseegtepfofir.Iftevresacdvra,tebtckslmktctinaewhumpsddbytesyofs0()Iftevresacdvra,temrort1msdeslteaphoftevradiyptadaht2pht,tsmgitapto,teatf.H,ifaphwst3urRA6,tnannslbemeontecdvratsgttt4phisadtoteqdvratorsnstonteglend5rnf.Tephslbe2isby2i,orl,admybeincrori6bkadw.Temrorhsorhrdewotktephadtevrs7tnsntecdvra.Temrordesldetephf8tecaintepeoftev.Iftemrorhsorhrdeisuetotet9vsphdetoetfeororcebdtemsorhsorh0dsrec,tevrmyeeacdvratwt1p2()Iftevrostotephrtbeofrsb,h3orsemyeeanatofrseninaewhRA6,whs4beadtobyanenoradadtotecdvra5()Tepnegvriniotecdvrr6deslceterstoiewnavrhsntpdavdp7inadhsedacdvra8()Iftevrostotephrtbeofrsb,h9orsemyeeanatofrseninaewhRA6,whs0beadtobyanenoradadtotecdvra]
+[DELETED: ttoHB3Pe2()Tepnegvriniotecdvrrdeslceterstoiewnavrhsntpdavdpinadhsedacdvra]

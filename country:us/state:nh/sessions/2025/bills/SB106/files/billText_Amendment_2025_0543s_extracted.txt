@@ -1,0 +1,121 @@
+Title: 1 Amendthebillbyreplacingallaftersection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftersection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0543s
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Sen.Lang,Dist2
+February20,2025
+2025-0543s
+07/05
+FloorAmendmenttoSB106-FN
+2
+3 2 New Paragraph; Limited Electrical Energy Producers Act Definitions. Amend RSA 362-A:1-a
+4 byinsertingafterparagraphII-fthefollowingnewparagraph:
+5 II-g. "Industrial host" means a customer-generator with a total peak generating capacity of
+6 greater than one megawatt and less than 5 megawatts, used to offset the electricity requirements of
+7 a group consisting exclusively of commercial, industrial, or institutional entities with one or more
+8 accounts,providedthatallaccountsarelocatedwithinthesameutilityfranchiseserviceterritory. If
+9 anindustrialhost’stotalannualnetexportedgenerationexceedsthetotalannualelectricityusageof
+10 the host and members of the group, the industrial host shall be entitled to compensation for that
+11 excess generation according to the process established by the department’s 900 rules for annual
+12 reconciliation. Anindustrialhostmaybeownedbyeitherapublicorprivateentity.
+13 3 New Paragraph; Net Energy Metering. Amend RSA 362-A:9 by inserting after paragraph II
+14 thefollowingnewparagraph:
+15 II-a. Alternativetariffsfor netenergymeteringshallbemadeavailabletoeligiblecustomer-
+16 generators by each electric distribution utility in conformance with Order No. 26,029 dated June 23,
+17 2017, and with net metering rules adopted by the commission. Any project that begins receiving
+18 compensation under Order No. 26,029 alternative tariffs will be eligible to continue receiving that
+19 tariff for either 20 years from the year it first begins receiving compensation or through the initial
+20 tariff term ending on December 31, 2040, whichever is longer. If the commission creates new net
+21 metering tariffs through an adjudicated proceeding before December 31, 2040, eligible customer-
+22 generators receiving Order No. 26,029 alternative tariffs will have the option of transitioning to new
+23 tariffs created through that proceeding. If an eligible customer-generator elects to transfer to a new
+24 tariff, they may not return to Order No. 26,029 alternative tariffs. Upon the expiration of a
+25 customer-generator’s eligibility under Order No. 26,029 alternative tariffs, the eligible customer-
+26 generatorwillhavetheoptionoftransitioningtothetariffavailableatthattime.
+27 4 New Paragraph; Net Energy Metering; Consumption. Amend RSA 362-A:9 by inserting after
+28 paragraphIVthefollowingnewparagraph:
+29 IV-a.(a) Facilities eligible for the net metering tariff under this section for customer-
+30 generators larger than one megawatt and up to 5 megawatt with an in-service date after January 1,
+31 2026 and not acting as a group net metering host, must consume at least 33 percent of the
+32 generation,onanannualbasis.
+FloorAmendmenttoSB106-FN
+-Page2-
+1 (b) Consumption requirements under this section shall not apply to low and moderate
+2 income customers as defined in administrative rules of the public utilities commission in PUC
+3 902.21.
+4 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+FloorAmendmenttoSB106-FN
+-Page3-
+2025-0543s
+AMENDEDANALYSIS
+This bill requires large customer-generators participating in net energy metering to consume at
+least33percentoftheirowngeneration.
+[DELETED: .L,Dty2,2rAttoSB1Adteblbyrgalarsn1whtef2NwP;LdElEyPsAtD.AdRA3byigarphIftefgnwpI."lh"msacrwhatlpkggcyogrtnoemtadlstn5m,udtootteeyrsoagpcgeyofc,i,orileswhoeorma,pdttalasaeldwnteseuyfeset.Ianilhstlalntedgnestetlaleyueo0tehtadmsofteg,teilhtslbeedtocnfrt1esgnagtotepsedbyteds90rsfra2r.Anilhtmybeodbyerapcorpee33NwP;NtEyM.AdRA39byigarphI4tefgnwp5I.Aetsfrnteymgslbemeaetoeec6gsbyehecdnuyincewhOrN.29ddJe272,adwhntmgrsadbytec.Ayptttbsr8cnurOrN.29aetswlbeeetocergt9tffrer20ysfmteyritftbsrgcnorthtei0tftmegonDr3,2,wrisl.Iftecncsnwn1mgtsthanadpgbeDr3,2,eec2gsrgOrN.29aetswlheteonoftgton3tscdthttp.Ifaneecrestotrtoan4t,tymyntrntoOrN.29aet.Unteenof5cseyurOrN.29aet,teeec6grwlheteonoftgtotetfaeatttt74NwP;NtEyM;C.AdRA39byiga8phIVtefgnwp9I)Fseefrtentmgtfurtssnfrc0gslrtnoemtadupto5mtwhaniedearJy1126adntagasagpntmgh,mtceatlt33ptoft2g,onanalb]
+[DELETED: rAttoSB1Pe2()CnrsurtssnslntaytolwadmiecsasddinaersoftepcuscninP95EeD.Tsatslteet60dsarisp]
+[DELETED: rAttoSB1Pe3DAsblrslecspginnteymgtoceat33ptoftrong]
+
+
+================================================================================
+
+Raw Text:
+Sen.Lang,Dist2
+February20,2025
+2025-0543s
+07/05
+FloorAmendmenttoSB106-FN
+1 Amendthebillbyreplacingallaftersection1withthefollowing:
+2
+3 2 New Paragraph; Limited Electrical Energy Producers Act Definitions. Amend RSA 362-A:1-a
+4 byinsertingafterparagraphII-fthefollowingnewparagraph:
+5 II-g. "Industrial host" means a customer-generator with a total peak generating capacity of
+6 greater than one megawatt and less than 5 megawatts, used to offset the electricity requirements of
+7 a group consisting exclusively of commercial, industrial, or institutional entities with one or more
+8 accounts,providedthatallaccountsarelocatedwithinthesameutilityfranchiseserviceterritory. If
+9 anindustrialhost’stotalannualnetexportedgenerationexceedsthetotalannualelectricityusageof
+10 the host and members of the group, the industrial host shall be entitled to compensation for that
+11 excess generation according to the process established by the department’s 900 rules for annual
+12 reconciliation. Anindustrialhostmaybeownedbyeitherapublicorprivateentity.
+13 3 New Paragraph; Net Energy Metering. Amend RSA 362-A:9 by inserting after paragraph II
+14 thefollowingnewparagraph:
+15 II-a. Alternativetariffsfor netenergymeteringshallbemadeavailabletoeligiblecustomer-
+16 generators by each electric distribution utility in conformance with Order No. 26,029 dated June 23,
+17 2017, and with net metering rules adopted by the commission. Any project that begins receiving
+18 compensation under Order No. 26,029 alternative tariffs will be eligible to continue receiving that
+19 tariff for either 20 years from the year it first begins receiving compensation or through the initial
+20 tariff term ending on December 31, 2040, whichever is longer. If the commission creates new net
+21 metering tariffs through an adjudicated proceeding before December 31, 2040, eligible customer-
+22 generators receiving Order No. 26,029 alternative tariffs will have the option of transitioning to new
+23 tariffs created through that proceeding. If an eligible customer-generator elects to transfer to a new
+24 tariff, they may not return to Order No. 26,029 alternative tariffs. Upon the expiration of a
+25 customer-generator’s eligibility under Order No. 26,029 alternative tariffs, the eligible customer-
+26 generatorwillhavetheoptionoftransitioningtothetariffavailableatthattime.
+27 4 New Paragraph; Net Energy Metering; Consumption. Amend RSA 362-A:9 by inserting after
+28 paragraphIVthefollowingnewparagraph:
+29 IV-a.(a) Facilities eligible for the net metering tariff under this section for customer-
+30 generators larger than one megawatt and up to 5 megawatt with an in-service date after January 1,
+31 2026 and not acting as a group net metering host, must consume at least 33 percent of the
+32 generation,onanannualbasis.
+
+FloorAmendmenttoSB106-FN
+-Page2-
+1 (b) Consumption requirements under this section shall not apply to low and moderate
+2 income customers as defined in administrative rules of the public utilities commission in PUC
+3 902.21.
+4 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+FloorAmendmenttoSB106-FN
+-Page3-
+2025-0543s
+AMENDEDANALYSIS
+This bill requires large customer-generators participating in net energy metering to consume at
+least33percentoftheirowngeneration.
+
+[DELETED: .L,Dty2,2rAttoSB1Adteblbyrgalarsn1whtef2NwP;LdElEyPsAtD.AdRA3byigarphIftefgnwpI."lh"msacrwhatlpkggcyogrtnoemtadlstn5m,udtootteeyrsoagpcgeyofc,i,orileswhoeorma,pdttalasaeldwnteseuyfeset.Ianilhstlalntedgnestetlaleyueo0tehtadmsofteg,teilhtslbeedtocnfrt1esgnagtotepsedbyteds90rsfra2r.Anilhtmybeodbyerapcorpee33NwP;NtEyM.AdRA39byigarphI4tefgnwp5I.Aetsfrnteymgslbemeaetoeec6gsbyehecdnuyincewhOrN.29ddJe272,adwhntmgrsadbytec.Ayptttbsr8cnurOrN.29aetswlbeeetocergt9tffrer20ysfmteyritftbsrgcnorthtei0tftmegonDr3,2,wrisl.Iftecncsnwn1mgtsthanadpgbeDr3,2,eec2gsrgOrN.29aetswlheteonoftgton3tscdthttp.Ifaneecrestotrtoan4t,tymyntrntoOrN.29aet.Unteenof5cseyurOrN.29aet,teeec6grwlheteonoftgtotetfaeatttt74NwP;NtEyM;C.AdRA39byiga8phIVtefgnwp9I)Fseefrtentmgtfurtssnfrc0gslrtnoemtadupto5mtwhaniedearJy1126adntagasagpntmgh,mtceatlt33ptoft2g,onanalb]
+[DELETED: rAttoSB1Pe2()CnrsurtssnslntaytolwadmiecsasddinaersoftepcuscninP95EeD.Tsatslteet60dsarisp]
+[DELETED: rAttoSB1Pe3DAsblrslecspginnteymgtoceat33ptoftrong]

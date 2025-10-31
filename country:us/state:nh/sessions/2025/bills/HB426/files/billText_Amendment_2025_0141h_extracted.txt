@@ -1,0 +1,64 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0141h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.J.MacDonald,Carr.6
+January28,2025
+2025-0141h
+05/02
+AmendmenttoHB426
+2
+3 1 Property Tax Exemption for Charitable Organizations; Late Application. Any charitable
+4 organization, otherwise qualified to receive a property tax exemption under RSA 72:23 for the tax
+5 year ending March 31, 2025, but for the failure to file a timely statement of financial condition
+6 pursuant to RSA 72:23, VI, shall be granted the exemption retroactively if they satisfy to the
+7 selectmen that they were prevented by accident, mistake, or misfortune from filing the statement of
+8 financial condition before June 1, 2024. If the request for exemption is denied by the selectmen, the
+9 organizationmayappealthedecisionpursuanttoRSA72:34-a.
+AmendmenttoHB426
+-Page2-
+2025-0141h
+AMENDEDANALYSIS
+This bill permits a charitable organization to request a property tax exemption for the 2024 tax
+year if they demonstrate to the selectmen that they were prevented by accident, mistake, or
+misfortune from filing the statement of financial condition before June 1, 2024, and provides for
+appealofthedecisiontotheboardoftaxandlandappealsorthesuperiorcourt.
+[DELETED: .J.M,C.y2,2ttoHB4Adteblbyrgsn1whtef1PyTxEnfrCeO;LeA.Ayco,oeqdtoreapytxenurRA73frtetyregMh3,2,btfrtefetofeatystofflcpttoRA7,V,slbegdteenryiftysytotsntttywepdbya,m,ormefmfgtestoflcnbeJe1,2.Iftertfrenisddbytes,tonmyaltednpttoRA7]
+[DELETED: ttoHB4Pe2DAsblpsaceontortapytxenfrte24triftydetotesntttywepdbya,m,oefmfgtestofflcnbeJe1,2,adpsfloftedntotebdoftxadldasortesrc]
+
+
+================================================================================
+
+Raw Text:
+Rep.J.MacDonald,Carr.6
+January28,2025
+2025-0141h
+05/02
+AmendmenttoHB426
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Property Tax Exemption for Charitable Organizations; Late Application. Any charitable
+4 organization, otherwise qualified to receive a property tax exemption under RSA 72:23 for the tax
+5 year ending March 31, 2025, but for the failure to file a timely statement of financial condition
+6 pursuant to RSA 72:23, VI, shall be granted the exemption retroactively if they satisfy to the
+7 selectmen that they were prevented by accident, mistake, or misfortune from filing the statement of
+8 financial condition before June 1, 2024. If the request for exemption is denied by the selectmen, the
+9 organizationmayappealthedecisionpursuanttoRSA72:34-a.
+
+AmendmenttoHB426
+-Page2-
+2025-0141h
+AMENDEDANALYSIS
+This bill permits a charitable organization to request a property tax exemption for the 2024 tax
+year if they demonstrate to the selectmen that they were prevented by accident, mistake, or
+misfortune from filing the statement of financial condition before June 1, 2024, and provides for
+appealofthedecisiontotheboardoftaxandlandappealsorthesuperiorcourt.
+
+[DELETED: .J.M,C.y2,2ttoHB4Adteblbyrgsn1whtef1PyTxEnfrCeO;LeA.Ayco,oeqdtoreapytxenurRA73frtetyregMh3,2,btfrtefetofeatystofflcpttoRA7,V,slbegdteenryiftysytotsntttywepdbya,m,ormefmfgtestoflcnbeJe1,2.Iftertfrenisddbytes,tonmyaltednpttoRA7]
+[DELETED: ttoHB4Pe2DAsblpsaceontortapytxenfrte24triftydetotesntttywepdbya,m,oefmfgtestofflcnbeJe1,2,adpsfloftedntotebdoftxadldasortesrc]

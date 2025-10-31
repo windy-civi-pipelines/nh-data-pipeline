@@ -1,0 +1,81 @@
+Title: 1 Amendthebillbyreplacingsections1and2withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsections1and2withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1539h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.M.Pearson,Rock.34
+April8,2025
+2025-1539h
+11/09
+AmendmenttoSB161
+2
+3 1 ChildProtectionAct;PresumptioninFavorofIn-StatePlacements;License;ControllingState.
+4 AmendRSA169-C:19-btoreadasfollows:
+5 169-C:19-b Presumption in Favor of In-State Placements. There shall be a presumption that an
+6 in-state placement is the least restrictive and most appropriate placement. The court may order an
+7 out-of-state placement only upon an express written finding that no options for in-state placement
+8 exist and theout-of-stateplacement offers specialized programmingor services that areunable to be
+9 provided within New Hampshire, and the placement is [contracted with the state] licensed in
+10 accordance with the laws of the state in which they operate and certified by the
+11 department. Preference shall be given to out-of-state placements that are in proximity to the
+12 child's family and/or kin, who are able to participate in family and/or reunification services. Any
+13 out-of-state placements shall be limited in time and require [both] increased judicial oversight, and
+14 the written approval of the director of the division for children, youth and families, or designee, for
+15 placementsoutsideofNewEngland.
+16 2 OrderofPreference;ControllingLaw. AmendRSA169-F:5toreadasfollows:
+17 169-F:5 PresumptioninFavor of In-StatePlacements. There shall beapresumptionthat an in-
+18 state placement is the least restrictive and most appropriate placement. The court may order an
+19 out-of-state placement only upon an express written finding that no in-state options exist and that
+20 the out-of-state placement offers specialized programming or services that are unable to be provided
+21 within New Hampshire, and the placement is [contracted with the state] licensed in accordance
+22 withthelawsofthestateinwhichtheyoperate,andcertifiedbythedepartment. Preference
+23 shall be given to out-of-state placements that are in proximity to the child's family and/or kin, who
+24 are able to participate in family and/or reunification services. Any out-of-state placements shall be
+25 limited in time, and require [both] increased judicial oversight, and the written approval of the
+26 director of the division for children, youth and families, or designee, for placements outside of
+27 NewEngland.
+[DELETED: .M.P,R.3l8,2ttoSB1Adteblbyrgss1ad2whtef1CdPnA;PninFrofIeP;L;CgSAdRA1btordasf1bPninFrofIeP.Teslbeapnttaieptisteltreadmtaep.TectmyoraoeptoyunaneswnfgttnoosfriepetadteoeptossdpgorssttaeuetobpdwnNwH,adteptis[dwhtes]ldi0aewhtelsofteseinwhtyoeadcdbyt1d.Peslbegntooepsttaeinpytot2csfyark,woaeaetopeinfyarrns.A3oepsslbeldinteadre[]idjlo,a4tewnaloftedroftednfrc,yhadf,ord,f5psoeofNwE62OrofP;CgL.AdRA15tordasf715PninFrofIeP.Teslbeapnttani8septisteltreadmtaep.Tectmyora9oeptoyunaneswnfgttnoieosetadt0teoeptossdpgorssttaeuetobep1wnNwH,adteptis[dwhtes]ldina2whtelsofteseinwhtyo,adcdbyted.P3slbegntooepsttaeinpytotecsfyark,w4aeaetopeinfyarrns.Ayoepsslb5ldint,adre[]idjlo,adtewnaloft6droftednfrc,yhadf,ord,frpsoeo7NwE]
+
+
+================================================================================
+
+Raw Text:
+Rep.M.Pearson,Rock.34
+April8,2025
+2025-1539h
+11/09
+AmendmenttoSB161
+1 Amendthebillbyreplacingsections1and2withthefollowing:
+2
+3 1 ChildProtectionAct;PresumptioninFavorofIn-StatePlacements;License;ControllingState.
+4 AmendRSA169-C:19-btoreadasfollows:
+5 169-C:19-b Presumption in Favor of In-State Placements. There shall be a presumption that an
+6 in-state placement is the least restrictive and most appropriate placement. The court may order an
+7 out-of-state placement only upon an express written finding that no options for in-state placement
+8 exist and theout-of-stateplacement offers specialized programmingor services that areunable to be
+9 provided within New Hampshire, and the placement is [contracted with the state] licensed in
+10 accordance with the laws of the state in which they operate and certified by the
+11 department. Preference shall be given to out-of-state placements that are in proximity to the
+12 child's family and/or kin, who are able to participate in family and/or reunification services. Any
+13 out-of-state placements shall be limited in time and require [both] increased judicial oversight, and
+14 the written approval of the director of the division for children, youth and families, or designee, for
+15 placementsoutsideofNewEngland.
+16 2 OrderofPreference;ControllingLaw. AmendRSA169-F:5toreadasfollows:
+17 169-F:5 PresumptioninFavor of In-StatePlacements. There shall beapresumptionthat an in-
+18 state placement is the least restrictive and most appropriate placement. The court may order an
+19 out-of-state placement only upon an express written finding that no in-state options exist and that
+20 the out-of-state placement offers specialized programming or services that are unable to be provided
+21 within New Hampshire, and the placement is [contracted with the state] licensed in accordance
+22 withthelawsofthestateinwhichtheyoperate,andcertifiedbythedepartment. Preference
+23 shall be given to out-of-state placements that are in proximity to the child's family and/or kin, who
+24 are able to participate in family and/or reunification services. Any out-of-state placements shall be
+25 limited in time, and require [both] increased judicial oversight, and the written approval of the
+26 director of the division for children, youth and families, or designee, for placements outside of
+27 NewEngland.
+
+[DELETED: .M.P,R.3l8,2ttoSB1Adteblbyrgss1ad2whtef1CdPnA;PninFrofIeP;L;CgSAdRA1btordasf1bPninFrofIeP.Teslbeapnttaieptisteltreadmtaep.TectmyoraoeptoyunaneswnfgttnoosfriepetadteoeptossdpgorssttaeuetobpdwnNwH,adteptis[dwhtes]ldi0aewhtelsofteseinwhtyoeadcdbyt1d.Peslbegntooepsttaeinpytot2csfyark,woaeaetopeinfyarrns.A3oepsslbeldinteadre[]idjlo,a4tewnaloftedroftednfrc,yhadf,ord,f5psoeofNwE62OrofP;CgL.AdRA15tordasf715PninFrofIeP.Teslbeapnttani8septisteltreadmtaep.Tectmyora9oeptoyunaneswnfgttnoieosetadt0teoeptossdpgorssttaeuetobep1wnNwH,adteptis[dwhtes]ldina2whtelsofteseinwhtyo,adcdbyted.P3slbegntooepsttaeinpytotecsfyark,w4aeaetopeinfyarrns.Ayoepsslb5ldint,adre[]idjlo,adtewnaloft6droftednfrc,yhadf,ord,frpsoeo7NwE]

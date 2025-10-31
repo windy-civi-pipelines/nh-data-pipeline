@@ -1,0 +1,540 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0176h
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Rep.Hunt,Ches.14
+January30,2025
+2025-0176h
+05/09
+AmendmenttoHB297-FN
+2
+3 ANACT relative to providing self-funded employer health benefit plans access to their claims
+4 dataandestablishingtheGraniteStatehomemitigationandresiliencyprogram.
+5
+6 Amendthebillbyreplacingallaftersection1withthefollowing:
+7
+8 2 New Chapter; Granite State Home Mitigation and Resiliency Program. Amend RSA by
+9 insertingafterchapter407-Dthefollowingnewchapter:
+10 CHAPTER407-E
+11 GRANITESTATEHOMEMITIGATIONANDRESILIENCYPROGRAM
+12 407-E:1 Granite State Home Mitigation and Resiliency Program. There is hereby established
+13 the Granite State home mitigation and resiliency program (program), which shall be implemented
+14 underthischapter.
+15 407-E:2 Purpose and Policy. The purpose of this chapter is to establish a program to provide
+16 financial grants to homeowners to mitigate residential real property against loss from severe
+17 weather events, including but not limited to those involving rain, wind, snow, ice, sleet, hail,
+18 tornadoes, hurricanes, and microbursts. The intent of this chapter is to provide New Hampshire
+19 residents the opportunity to mitigate the risk to their homes from severe weather events, thereby
+20 reducing claim severity, frequency of claims, and insurance premiums for New Hampshire
+21 homeowners. This chapter does not create an entitlement for property owners and does not obligate
+22 the state to pay for property to be inspected, constructed, improved, mitigated, or retrofitted. The
+23 programis subject tolegislativeappropriations, thereceiptof federal grants ormoney, or thereceipt
+24 ofothersourcesoffunding.
+25 407-E:3 Definitions.
+26 Inthischapter:
+27 I. “Commissioner”meanstheinsurancecommissioner.
+28 II. “Department”meanstheinsurancedepartment.
+29 III. “Homeowner” means a natural person who is a New Hampshire resident and owns
+30 residentialrealpropertyinNewHampshire.
+31 IV. “IBHS”meansInsuranceInstituteforBusinessandHomeSafety.
+AmendmenttoHB297-FN
+-Page2-
+1 V. “Manufactured housing” is housing that is transported in one or more sections and
+2 erectedonsiteonapermanentcementfoundation,andwhichisatleast320squarefeet.
+3 VI. “Non-IBHS grant” means a program grant used for the following items: tree removal or
+4 trimmingandrepairorreplacementoffoundations,stairs,railings,decksorporches.
+5 VII. “Residential real property” means an owner-occupied, single-family, primary residence
+6 located in New Hampshire, which is not a mobile home, condominium, townhouse, or multi-unit
+7 dwelling. Residentialrealpropertyincludes,butisnotlimitedto,manufacturedhousing.
+8 VIII. “State”meansthestateofNewHampshire.
+9 IX. “State median income" means an annual income figure calculated by the United States
+10 Census Bureau representing the point in which there are as many families earning more than a
+11 specificamountasthereareearninglessthanthatamount.
+12 407-E:4 Fund Established. There is established the Granite State home mitigation and
+13 resiliency fund, which shall be administered by the commissioner, and which shall be kept separate
+14 and distinct from all other funds. All moneys in the fund shall be continually appropriated to the
+15 department for the purposes of this chapter. State moneys paid into the Granite State home
+16 mitigationandresiliencyfundshalllapseintothegeneralfundifnotawardedwithin5years.
+17 407-E:5 AppropriationandFundingTransfer.
+18 I. Deposits into the Granite State home mitigation and resiliency fund shall consist
+19 exclusivelyofthefollowing:
+20 (a) One million dollars of the amount of insurance premium tax received by the state
+21 shallannuallybeappropriatedtothefund;
+22 (b) Federalorothersourcesofgrantsorfunds;and
+23 (c) Gifts,grants,anddonations.
+24 II. The department shall use its best efforts to obtain grants or funds from the federal
+25 government or other funding sources to supplement the financial resources of the program provided
+26 bythestate.
+27 III. Themoneysinthefundshallnotbesubjecttoanystatetaxesandshallnotbesubjectto
+28 anyfederaltaxestotheextentallowedbyapplicablefederallaw.
+29 IV. Each year no later than March 15, the state treasurer shall transfer funds from the
+30 general fund to the Granite State home mitigation and resiliency fund as required pursuant to
+31 subparagraphI(a).
+32 407-E:6 AvailabilityandUseofGrants.
+33 I. Consistent withthis chapter, grants awardedunder this chapter shall beused for projects
+34 that will enhance resiliency and risk mitigation to improve insurability in underwriting of
+35 residentialrealpropertyagainstlossfromsevereweatherevents.
+36 II. Grants shall be awarded on a first-come, first-served basis to residential real property
+37 ownerswhomeettheeligibilityrequirementssubjecttotheavailabilityoffunds.
+AmendmenttoHB297-FN
+-Page3-
+1 III. Grants awarded under the program shall be for a value of no more than $9,500 per New
+2 Hampshire residence, per year. No more than one grant shall be awarded for any single eligible
+3 residencewithina3-yearperiod.
+4 IV. Thegrantrecipientisresponsibleforanylocal,state,orfederaltaxesthegrantrecipient
+5 mayoweasaresultofreceivinggrantmoneyfromtheprogram.
+6 407-E:7 GrantEligibilityRequirements.
+7 I. Tobeeligibleforanygrant,theresidentialrealpropertyownershall:
+8 (a) Ownaresidentialrealproperty.
+9 (b) Have a gross household income of no greater than 60 percent of the New Hampshire
+10 statemedianincome.
+11 (c) Submitagrantapplicationtothedepartmentasrequiredbythischapter.
+12 (d) Meetallotherapplicablerequirementsofthischapter.
+13 II. TobeeligibleforanIBHSgranttobeusedtomitigatearesidentialrealproperty:
+14 (a) The residential structure on the residential real property shall have a foundation,
+15 whichisnotadrystackorfieldstonefoundation.
+16 (b) The residential real property owner shall maintain an in-force homeowner’s
+17 insurance policy on the residential real property unless the real property owner has satisfied the
+18 commissioner that the real property owner cannot procure insurance until the mitigation work has
+19 beencompleted.
+20 (c) Theresidentialrealpropertyownershall:
+21 (1) Agree to reinforce the residential structure to the IBHS FORTIFIED RoofTM
+22 (Roof) or FORTIFIED SilverTM (Silver) designation, or successor designation, or similar standard
+23 approvedbythecommissioner.
+24 (2) AgreetouseanIBHScertifiedcontractortoperformthehomefortificationwork.
+25 (3) HaveacertifiedIBHSevaluatorprequalifytheinsuredpropertyasmitigableand
+26 identify all improvements required to achieve IBHS FORTIFIED RoofTM (Roof) or FORTIFIED
+27 SilverTM (Silver) designation, or successor designation, or similar standard approved by the
+28 commissioner.
+29 (4) Obtain bids from at least 2 IBHS certified contractors who agree to the scope of
+30 workandapproximatecostofthemitigationworkcoveredbythegrant.
+31 (5) Agreetoobtainallnecessarylocalandstatepermits.
+32 (6) Agreetoconductalllocalandstaterequiredinspections.
+33 (7) Meetallotherapplicablerequirementsofthischapter.
+34 III. Tobeeligibleforanon-IBHSgrant:
+35 (a) Theremustbearesidentialstructureontheresidentialrealproperty.
+36 (b) Thenon-IBHSgrantitemmustthreatentheinsurabilityoftheresidence.
+37 (c) Theresidentialrealpropertyownershall:
+AmendmenttoHB297-FN
+-Page4-
+1 (1) Provideproofoftheinsurabilityissueasrequiredbythecommissioner.
+2 (2) Agreetouseaneligiblecontractortoperformthenon-IBHSwork.
+3 (3) Agreetoobtainallnecessarylocalandstatepermits.
+4 (4) Agreetoconductalllocalandstaterequiredinspections.
+5 (5) Maintainacurrenthomeowner’sinsurancepolicyontheresidentialrealproperty
+6 unless the real property owner has satisfied the commissioner that the real property owner cannot
+7 procuresuchinsuranceuntiltheworkhasbeencompleted.
+8 (6) Meetallotherapplicablerequirementsofthischapter.
+9 V. Grantsunderthischapterarenotavailablefornewconstruction.
+10 407-E:8 GrantApplicationProcess.
+11 I. Residential real property owners shall apply for a grant under the program on a form
+12 prescribedbythecommissioner.
+13 II. Incompleteapplications shallnot beaccepted and shallbereturnedtotheapplicant tobe
+14 madecompleteandresubmittedtothedepartment.
+15 III. The department shall send a determination letter to the applicant within 30 days of
+16 approvalordenialofacompleteapplication.
+17 407-E:9 PaymentofGrantFunds.
+18 I. Approved grants shall only be paid after the residential real property owner establishes
+19 thattheapplicableworkhasbeencompleted.
+20 II. The residential real property owner establishes that the non-IBHS work has been
+21 completedbyprovidingthedepartmentwith:
+22 (a) A copy of the signed contract between the eligible contractor and the real property
+23 ownerforthework.
+24 (b) Acopyoftheitemizedinvoicedetailingthework.
+25 (c) A sworn affidavit from the eligible contractor who performed the work that the work
+26 hasbeencompletedinconformancewiththerequirementsofthischapter.
+27 III. In addition to the requirements of paragraph II, for IBHS grants, the residential
+28 propertyownershallfurtherprovidethedepartmentwith:
+29 (a) TheIBHSevaluator’srequiredinteriminspectionreportduringconstruction.
+30 (b) AFORTIFIEDRoofTMorFORTIFIEDSilverTMdesignationcertificate.
+31 (c) A sworn affidavit from the eligible contractor who performed the work that the work
+32 hasbeencompletedinconformancewiththerequirementsofthischapter.
+33 IV. If the residential real property owner has established compliance with this section, the
+34 department shall issue the approved grant funds directly to the eligible contractor who performed
+35 theworkfortheresidentialrealpropertyowner.
+36 V. The real propertyowner is responsible for anyamount owed toaneligiblecontractor that
+37 exceedstheamountoftheawardedgrantmoneys.
+AmendmenttoHB297-FN
+-Page5-
+1 407-E:10 ContractorEligibility,Hiring,andDuties.
+2 I. The contractor shall demonstrate IBHS certified contractor status for RSA 407-E:7, II,
+3 IBHSgrants.
+4 II. The department shall not endorse or otherwise provide preferential treatment to any
+5 contractor.
+6 III. The contractor shall meet all applicable requirements of this chapter, including, but not
+7 limited to, those listed in this section, and maintain a current copy of all applicable certificates,
+8 licenses, and proof of insurance coverages for inspection by the department at the department’s
+9 request:
+10 (a) The contractor shall be registered to do business with the New Hampshire secretary
+11 ofstate.
+12 (b) Thecontractorshallholdanynecessarylocalorstatelicenses.
+13 (c) The contractor shall possess an in-force, general liability insurance against all claims
+14 ofbodilyinjuries,deathorpropertydamage,inamountsnotlessthan$1,000,000peroccurrenceand
+15 $2,000,000 aggregate for bodily injury or death any one incident, and $500,000 for property damage
+16 inanyoneincident.
+17 (d) The contractor shall have workers’ compensation and employer’s liability insurance
+18 consistentwithstatelaw.
+19 (e) The contractor shall provide and maintain accurate contact information with the
+20 department.
+21 (f) The contractor shall not have a financial interest in any project funded by the
+22 program for which they perform work other than receiving payment on behalf of the homeowner
+23 fromtheprogram.
+24 (g) Thecontractorshallnotbetheevaluatorforanyprojectfundedbytheprogram.
+25 IV. The contractor shall establish that any subcontractor used by the contractor meets the
+26 requirementsapplicabletocontractorssetforthinparagraphIII.
+27 407-E:11 EvaluatorEligibilityRequirements.
+28 To be eligible to work on a project funded by the program as an evaluator for RSA 407-E:7, II,
+29 IBHS grants, the evaluator shall meet all applicable requirements of this chapter, including, but not
+30 limitedto,thoselistedinthissection:
+31 I. The evaluator shall maintain an active IBHS certification as a FORTIFIED Home
+32 Evaluator.
+33 II. TheevaluatorshallberegisteredwiththeNewHampshiresecretaryofstate.
+34 III. Theevaluatorshallmaintainaccuratecontactinformationwiththedepartment.
+35 IV. The evaluator shall not have any financial interest in any project the evaluator inspects
+36 fordesignationpurposesfortheprogram.
+AmendmenttoHB297-FN
+-Page6-
+1 V. The evaluator shall not be a contractor or supplier of any materials or products or
+2 systems installed in anyresidential real propertythe evaluator inspects for designationpurposes for
+3 theprogram.
+4 VI. The evaluator shall not be the sales agent for any residential real property being
+5 designatedfortheprogram.
+6 407-E:12 ConfidentialityofInformation.
+7 I. Except as required by state or federal law, grant applications, documents, materials and
+8 other information submitted to the department by or on behalf of a residential real property owner
+9 in support of a grant application shall be confidential by law, shall not be subject to RSA 91-A, shall
+10 not be subject to subpoena, and shall not be subject to discovery or admissible in evidence in any
+11 privatecivilaction.
+12 II. The commissioner may share documents, materials, or other information, including the
+13 confidential applications, documents, materials, or other information under paragraph I, with other
+14 state and federal regulatory agencies or the National Association of Insurance Commissioners, their
+15 affiliates or subsidiaries; provided, that the recipient agrees to maintain the confidentiality status of
+16 theapplication,document,material,orotherinformation.
+17 III. No waiver of any applicable confidentiality in the applications, documents, materials, or
+18 information shall occur as a result of disclosure to the commissioner under this paragraph or as a
+19 resultofsharingasauthorizedinparagraphII.
+20 IV. The commissioner shall disclose to the public annually the number and nature of grant
+21 applications filed with the department and the nature, number, and amount of grants awarded;
+22 provided, however, no information exempt from disclosure under RSA 91-A shall be disclosed and no
+23 disclosure shall abridge the privacy interests of any applicant who filed a grant application or
+24 receivedagrant.
+25 V. In this paragraph “department,” “commissioner,” “regulatory agency,” and the “National
+26 Association of Insurance Commissioners” include, but are not limited to, their employees, agents,
+27 consultants,andcontractors.
+28 407-E:13 Limitation of Liability. There shall be no liability imposed by law on the department
+29 or the state for any injury or damages in any way relating to or resulting from any work or
+30 evaluationperformed,completed,orattemptedtobecompletedinconnectionwiththeprogram. The
+31 department does not in any way guarantee any of the work that results from the application of this
+32 chapter.
+33 407-E:14 Appeals; Hearing. Any person aggrieved by any act or impending act of the
+34 commissionerunderthischaptermayfilearequestforhearingpursuanttoRSA400-A:17,II(b).
+35 407-E:15 Rulemaking. ThecommissionermayadoptrulesunderRSA541-Athatarereasonable
+36 andnecessaryfortheimplementationandadministrationofthischapter.
+AmendmenttoHB297-FN
+-Page7-
+1 407-E:16 Severability. If any provision of this chapter, or the application thereof to any person
+2 orcircumstanceisheldinvalid,suchinvalidityshallnotaffectotherprovisionsorapplicationsofthis
+3 chapter which can be given effect without the invalid provision or application, and to this end the
+4 provisionsofthechapteraredeclaredtobeseverable.
+5 3 New Subparagraph; Application of Receipts; Granite State Home Mitigation and Resiliency
+6 Fund. AmendRSA6:12,I(b)byinsertingaftersubparagraph(399)thefollowingnewsubparagraph:
+7 (400) Moneys deposited in the Granite State home mitigation and resiliency fund
+8 establishedinRSA407-E:4.
+9 4 EffectiveDate. ThisactshalltakeeffectJuly1,2025.
+AmendmenttoHB297-FN
+-Page8-
+2025-0176h
+AMENDEDANALYSIS
+This bill provides that, if an employer sponsoring a self-funded health benefit plan authorizes
+submission of its claims data to the state's comprehensive health care information system, then the
+insurance commissioner shall provide that employer access to the claims data for that employer-
+sponsoredplan.
+The bill also establishes the Granite State home mitigation and resiliency program in the
+insurance department to provide financial grants to homeowners to mitigate loss from severe
+weatherevents.
+[DELETED: .H,C.1y3,2ttoHB2AdteteofteblbyrgitwhtefANATretopgsderhhbtpsastotrcdaadegteGeSehemnadrypAdteblbyrgalarsn1whtef2NwC;GeSeHeMnadRyP.AdRAbigarcr4Dtefgnwc0CR41GESEHEMNADRYP241GeSeHeMnadRyP.Teishye3teGeSehemnadrypm(,whslbei4urtsc542PeadP.Tepeoftscristoehapmtop6flgstohstomerlrlpyatlsfms7wre,igbtntldtoteigr,w,s,i,s,h8t,h,adm.TeitoftscristopeNwH9rsteoytometerktotrhsfmsewre,t0rgcms,fyofc,adiepsfrNwH1h.Tscrdsntceanetfrpyosaddsnto2tesetopyfrpytobei,c,i,m,orr.T3pmissttolea,tertofflgsorm,orter4oforssoff543D6Intsc7I.“”msteiec8I.“”msteied9I.“”msanlpnwoisaNwHertado0rlrlpyinNwH1I.“”msIeIefrBsadHeS]
+[DELETED: ttoHB2Pe2V.“dh”ishgttistdinoeormessaedonseonaptctf,adwhisatlt30sefV.“Sg”msapmgtudfrtefgi:terlotgadrrorrtoff,s,r,dsorpV.“lrlp”msano,s,pyrldinNwH,whisntameh,c,t,ormd.Rlrlpyi,btisntldt,mdhV.“”msteseofNwHI.“emni"msanaliefecdbyteUdS0CsBurgteptinwhteaeasmyfsegmetn1scatasteaeeglstntta244FdE.TeisedteGeSehemna3ryf,whslbeadbytec,adwhslbekts4addtfmalorf.Almsintefdslbecyadtot5dtfrtepsoftsc.SemspdioteGeSeh6mnadryfdslleioteglfdifntadwn5y745AnadFgT8I.DsioteGeSehemnadryfdslc9eyoftef0()Oemndsofteatofiepmtxrdbytes1slaybeadtotef2()Flororssofgsorf;a3()G,g,add4I.Tedtslueisbtestoongsorfsfmtef5gtororfgsstostteflrsoftepmp6bytes7I.Temsintefdslntbesttoaysetsadslntbestt8ayfltstoteetadbyaefll9I.EhyrnolrtnMh1,tesetrsltrfsfmt0glfdtoteGeSehemnadryfdasrdptt1shI246AyadUeofG3I.Ctwhtsc,gsadurtscrslbeudfrp4ttwleeryadrkmntoieiyinugo5rlrlpyatlsfmsewre6I.Gsslbeadonaf,fdbstorlrlp7oswomtteeyrssttoteayoff]
+[DELETED: ttoHB2Pe3I.Gsadurtepmslbefraveofnometn$0prNHer,pry.Nometnoegtslbeadfrayseerewna3rpI.Tegtrtisrefrayl,s,orfltstegtrmyoeasartofrggtmyfmtep47GtEyRI.Tobeeefrayg,terlrlpyors()Onarlrlp()Heagshdieofnogrtn60ptofteNwH0semni1()Stagtantotedtasrdbytsc2()Mtaloraersoftsc3I.TobeeefranISgttobeudtomearlrlp4()Terlseonterlrlpyslheaf5whisntadyskorfdsef6()Terlrlpyorslmnanieh7iepyonterlrlpyusterlpyorhssdt8crttterlpyorctpeieultemnwkh9bnc0()Terlrlpyors1()AetoreterlsetoteISFDR2()orFDSM()d,orsrd,orsrs3adbytec4()AetoueanIScdcrtopmtehefnw5()HeacdISerpyteidpyasmea6iyalisrdtoaeISFDRM()orF7SM()d,orsrd,orsrsdadbyt8c9()Onbsfmatlt2IScdcswoaetoteseo0wkadaectoftemnwkcdbyteg1()Aetoonalnylladsep2()Aetoctallladserdi3()Mtaloraersoftsc4I.TobeeefranSg5()Temtbearlseonterlrlp6()TenSgtimmttnteiyofter7()Terlrlpyors]
+[DELETED: ttoHB2Pe4()Pepfofteiyieasrdbytec()AetoueaneecrtopmtenSw()Aetoonalnylladsep()Aetoctallladserdi()Mnacthsiepyonterlrlpusterlpyorhssdtecrttterlpyorcpeshieultewkhsbnc()MtaloraersoftscV.Gsurtscraentaefrnwc048GtAnP1I.Rlrlpyosslayfragturtepmonaf2pdbytec3I.Ieasslntbeadadslberdtoteattob4meceadrdtoted5I.Tedtslsdadnlrtoteatwn30dso6alordlofacea749PtofGtF8I.Adgssloybepdarterlrlpyore9ttteaewkhsbnc0I.TerlrlpyorestttenSwkhsb1cdbypgtedtw2()Acyoftesdctbnteeecradterlp3orfrtew4()Acyofteidiedgtew5()Asnatfmteeecrwopdtewktttew6hsbncdincewhtersoftsc7I.InantotersofphI,frISg,ter8pyorslfrpetedtw9()TeISesrdiminrtdgc0()AFDRMorFDSMdnc1()Asnatfmteeecrwopdtewktttew2hsbncdincewhtersoftsc3I.Ifterlrlpyorhsedcewhtss,t4dtslieteadgtfsdytoteeecrwop5tewkfrterlrlpyo6V.Terlpyorisrefrayatodtoaneecrt7esteatofteadgtm]
+[DELETED: ttoHB2Pe540CrE,H,adDI.TecrsldeIScdcrssfrRA4,IISgI.TedtslnteeoroepepltttoacI.Tecrslmtalaersoftsc,i,btnldt,teldintss,admnactcyofalaecl,adpfofiecsfrinbytedtattedr0()TecrslberdtodobswhteNwHes1ofs2()Tecrslhdaynyllorsel3()Tecrslpsani,gllyieatalc4ofbyi,dhorpyd,inasntlstn$0proea5$0aefrbyiyordhayoei,ad$0frpyd6inayoei7()Tecrslhew’cnadeslyi8ctwhsel9()Tecrslpeadmnaectinwht0d1()Tecrslntheaflitinayptfdbyt2pmfrwhtypmwkortnrgptonbfofteh3fmtep4()Tecrslntbeteerfrayptfdbytep5I.Tecrslehttaysrudbytecrmst6rsaetocsstfhinphI741ErEyR8TobeeetowkonaptfdbytepmasanerfrRA4,I9ISg,teerslmtalaersoftsc,i,btn0ldt,teldintss1I.TeerslmnanaeIScnasaFDH2E3I.TeerslberdwhteNwHesyofs4I.Teerslmnaectinwhted5I.Teerslntheayflitinayptteeri6frdnpsfrtep]
+[DELETED: ttoHB2Pe6V.TeerslntbeacrorsrofaymsorpsossidinayrlrlpyteerisfrdnpsftepV.Teerslntbetessatfrayrlrlpybddfrtep42CyofII.Etasrdbyseorfll,gta,d,msaorinsdtotedtbyoronbfofarlrlpyoinstofagtanslbeclbyl,slntbesttoRA9,s0ntbesttos,adslntbesttodyoraeineeina1pecla2I.Tecrmysed,m,orori,igt3cla,d,m,ororinurphI,who4seadflryasorteNlAnofIeC,t5asors;p,tttertastomntecysso6tea,d,m,orori7I.Nowrofayaecyintea,d,m,o8inslorasartofdetotecrurtsphoras9rtofsgasadinphI0I.Tecrsldetotepcaytenradneofg1asfdwhtedtadten,n,adatofgsa2p,h,noinetfmdeurRA9Aslbeddadn3deslaetepyisofayatwofdagtano4rdag5V.Intsph“”“”“ya”adte“6AnofIeC”i,btaentldt,tre,a7c,adc843LnofL.Teslbenolyidbylwonted9ortesefrayiyordsinaywyrgtoorrgfmaywko0enp,c,oradtobecdincnwhtep.T1dtdsntinaywygeayoftewkttrsfmteanoft2c344A;H.Aypnadbyayatorigatoft4crurtscrmyfeartfrhgpttoRA4,I545R.TecrmyatrsurRA5Attaer6adnyfrteinadanoftsc]
+[DELETED: ttoHB2Pe746S.Ifaypnoftsc,orteantftoayporceishdi,shiyslntatorpsorasoftcrwhcnbegnetwtteidpnora,adtotsedtpsoftecraeddtobes3NwS;AnofR;GeSeHeMnadRF.AdRA6,I)byigarsh()tefgnws()MsddinteGeSehemnadryfedinRA44EeD.TsatslteetJy1,2]
+[DELETED: ttoHB2Pe8DAsblpst,ifanersgasdhhbtpnanofiscsdatotesscehhceins,tntecrslpetterastotecsdafrttedpeblaoesteGeSehemnadrypmintedttopeflgstohstomelsfmsre]
+
+
+================================================================================
+
+Raw Text:
+Rep.Hunt,Ches.14
+January30,2025
+2025-0176h
+05/09
+AmendmenttoHB297-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relative to providing self-funded employer health benefit plans access to their claims
+4 dataandestablishingtheGraniteStatehomemitigationandresiliencyprogram.
+5
+6 Amendthebillbyreplacingallaftersection1withthefollowing:
+7
+8 2 New Chapter; Granite State Home Mitigation and Resiliency Program. Amend RSA by
+9 insertingafterchapter407-Dthefollowingnewchapter:
+10 CHAPTER407-E
+11 GRANITESTATEHOMEMITIGATIONANDRESILIENCYPROGRAM
+12 407-E:1 Granite State Home Mitigation and Resiliency Program. There is hereby established
+13 the Granite State home mitigation and resiliency program (program), which shall be implemented
+14 underthischapter.
+15 407-E:2 Purpose and Policy. The purpose of this chapter is to establish a program to provide
+16 financial grants to homeowners to mitigate residential real property against loss from severe
+17 weather events, including but not limited to those involving rain, wind, snow, ice, sleet, hail,
+18 tornadoes, hurricanes, and microbursts. The intent of this chapter is to provide New Hampshire
+19 residents the opportunity to mitigate the risk to their homes from severe weather events, thereby
+20 reducing claim severity, frequency of claims, and insurance premiums for New Hampshire
+21 homeowners. This chapter does not create an entitlement for property owners and does not obligate
+22 the state to pay for property to be inspected, constructed, improved, mitigated, or retrofitted. The
+23 programis subject tolegislativeappropriations, thereceiptof federal grants ormoney, or thereceipt
+24 ofothersourcesoffunding.
+25 407-E:3 Definitions.
+26 Inthischapter:
+27 I. “Commissioner”meanstheinsurancecommissioner.
+28 II. “Department”meanstheinsurancedepartment.
+29 III. “Homeowner” means a natural person who is a New Hampshire resident and owns
+30 residentialrealpropertyinNewHampshire.
+31 IV. “IBHS”meansInsuranceInstituteforBusinessandHomeSafety.
+
+AmendmenttoHB297-FN
+-Page2-
+1 V. “Manufactured housing” is housing that is transported in one or more sections and
+2 erectedonsiteonapermanentcementfoundation,andwhichisatleast320squarefeet.
+3 VI. “Non-IBHS grant” means a program grant used for the following items: tree removal or
+4 trimmingandrepairorreplacementoffoundations,stairs,railings,decksorporches.
+5 VII. “Residential real property” means an owner-occupied, single-family, primary residence
+6 located in New Hampshire, which is not a mobile home, condominium, townhouse, or multi-unit
+7 dwelling. Residentialrealpropertyincludes,butisnotlimitedto,manufacturedhousing.
+8 VIII. “State”meansthestateofNewHampshire.
+9 IX. “State median income" means an annual income figure calculated by the United States
+10 Census Bureau representing the point in which there are as many families earning more than a
+11 specificamountasthereareearninglessthanthatamount.
+12 407-E:4 Fund Established. There is established the Granite State home mitigation and
+13 resiliency fund, which shall be administered by the commissioner, and which shall be kept separate
+14 and distinct from all other funds. All moneys in the fund shall be continually appropriated to the
+15 department for the purposes of this chapter. State moneys paid into the Granite State home
+16 mitigationandresiliencyfundshalllapseintothegeneralfundifnotawardedwithin5years.
+17 407-E:5 AppropriationandFundingTransfer.
+18 I. Deposits into the Granite State home mitigation and resiliency fund shall consist
+19 exclusivelyofthefollowing:
+20 (a) One million dollars of the amount of insurance premium tax received by the state
+21 shallannuallybeappropriatedtothefund;
+22 (b) Federalorothersourcesofgrantsorfunds;and
+23 (c) Gifts,grants,anddonations.
+24 II. The department shall use its best efforts to obtain grants or funds from the federal
+25 government or other funding sources to supplement the financial resources of the program provided
+26 bythestate.
+27 III. Themoneysinthefundshallnotbesubjecttoanystatetaxesandshallnotbesubjectto
+28 anyfederaltaxestotheextentallowedbyapplicablefederallaw.
+29 IV. Each year no later than March 15, the state treasurer shall transfer funds from the
+30 general fund to the Granite State home mitigation and resiliency fund as required pursuant to
+31 subparagraphI(a).
+32 407-E:6 AvailabilityandUseofGrants.
+33 I. Consistent withthis chapter, grants awardedunder this chapter shall beused for projects
+34 that will enhance resiliency and risk mitigation to improve insurability in underwriting of
+35 residentialrealpropertyagainstlossfromsevereweatherevents.
+36 II. Grants shall be awarded on a first-come, first-served basis to residential real property
+37 ownerswhomeettheeligibilityrequirementssubjecttotheavailabilityoffunds.
+
+AmendmenttoHB297-FN
+-Page3-
+1 III. Grants awarded under the program shall be for a value of no more than $9,500 per New
+2 Hampshire residence, per year. No more than one grant shall be awarded for any single eligible
+3 residencewithina3-yearperiod.
+4 IV. Thegrantrecipientisresponsibleforanylocal,state,orfederaltaxesthegrantrecipient
+5 mayoweasaresultofreceivinggrantmoneyfromtheprogram.
+6 407-E:7 GrantEligibilityRequirements.
+7 I. Tobeeligibleforanygrant,theresidentialrealpropertyownershall:
+8 (a) Ownaresidentialrealproperty.
+9 (b) Have a gross household income of no greater than 60 percent of the New Hampshire
+10 statemedianincome.
+11 (c) Submitagrantapplicationtothedepartmentasrequiredbythischapter.
+12 (d) Meetallotherapplicablerequirementsofthischapter.
+13 II. TobeeligibleforanIBHSgranttobeusedtomitigatearesidentialrealproperty:
+14 (a) The residential structure on the residential real property shall have a foundation,
+15 whichisnotadrystackorfieldstonefoundation.
+16 (b) The residential real property owner shall maintain an in-force homeowner’s
+17 insurance policy on the residential real property unless the real property owner has satisfied the
+18 commissioner that the real property owner cannot procure insurance until the mitigation work has
+19 beencompleted.
+20 (c) Theresidentialrealpropertyownershall:
+21 (1) Agree to reinforce the residential structure to the IBHS FORTIFIED RoofTM
+22 (Roof) or FORTIFIED SilverTM (Silver) designation, or successor designation, or similar standard
+23 approvedbythecommissioner.
+24 (2) AgreetouseanIBHScertifiedcontractortoperformthehomefortificationwork.
+25 (3) HaveacertifiedIBHSevaluatorprequalifytheinsuredpropertyasmitigableand
+26 identify all improvements required to achieve IBHS FORTIFIED RoofTM (Roof) or FORTIFIED
+27 SilverTM (Silver) designation, or successor designation, or similar standard approved by the
+28 commissioner.
+29 (4) Obtain bids from at least 2 IBHS certified contractors who agree to the scope of
+30 workandapproximatecostofthemitigationworkcoveredbythegrant.
+31 (5) Agreetoobtainallnecessarylocalandstatepermits.
+32 (6) Agreetoconductalllocalandstaterequiredinspections.
+33 (7) Meetallotherapplicablerequirementsofthischapter.
+34 III. Tobeeligibleforanon-IBHSgrant:
+35 (a) Theremustbearesidentialstructureontheresidentialrealproperty.
+36 (b) Thenon-IBHSgrantitemmustthreatentheinsurabilityoftheresidence.
+37 (c) Theresidentialrealpropertyownershall:
+
+AmendmenttoHB297-FN
+-Page4-
+1 (1) Provideproofoftheinsurabilityissueasrequiredbythecommissioner.
+2 (2) Agreetouseaneligiblecontractortoperformthenon-IBHSwork.
+3 (3) Agreetoobtainallnecessarylocalandstatepermits.
+4 (4) Agreetoconductalllocalandstaterequiredinspections.
+5 (5) Maintainacurrenthomeowner’sinsurancepolicyontheresidentialrealproperty
+6 unless the real property owner has satisfied the commissioner that the real property owner cannot
+7 procuresuchinsuranceuntiltheworkhasbeencompleted.
+8 (6) Meetallotherapplicablerequirementsofthischapter.
+9 V. Grantsunderthischapterarenotavailablefornewconstruction.
+10 407-E:8 GrantApplicationProcess.
+11 I. Residential real property owners shall apply for a grant under the program on a form
+12 prescribedbythecommissioner.
+13 II. Incompleteapplications shallnot beaccepted and shallbereturnedtotheapplicant tobe
+14 madecompleteandresubmittedtothedepartment.
+15 III. The department shall send a determination letter to the applicant within 30 days of
+16 approvalordenialofacompleteapplication.
+17 407-E:9 PaymentofGrantFunds.
+18 I. Approved grants shall only be paid after the residential real property owner establishes
+19 thattheapplicableworkhasbeencompleted.
+20 II. The residential real property owner establishes that the non-IBHS work has been
+21 completedbyprovidingthedepartmentwith:
+22 (a) A copy of the signed contract between the eligible contractor and the real property
+23 ownerforthework.
+24 (b) Acopyoftheitemizedinvoicedetailingthework.
+25 (c) A sworn affidavit from the eligible contractor who performed the work that the work
+26 hasbeencompletedinconformancewiththerequirementsofthischapter.
+27 III. In addition to the requirements of paragraph II, for IBHS grants, the residential
+28 propertyownershallfurtherprovidethedepartmentwith:
+29 (a) TheIBHSevaluator’srequiredinteriminspectionreportduringconstruction.
+30 (b) AFORTIFIEDRoofTMorFORTIFIEDSilverTMdesignationcertificate.
+31 (c) A sworn affidavit from the eligible contractor who performed the work that the work
+32 hasbeencompletedinconformancewiththerequirementsofthischapter.
+33 IV. If the residential real property owner has established compliance with this section, the
+34 department shall issue the approved grant funds directly to the eligible contractor who performed
+35 theworkfortheresidentialrealpropertyowner.
+36 V. The real propertyowner is responsible for anyamount owed toaneligiblecontractor that
+37 exceedstheamountoftheawardedgrantmoneys.
+
+AmendmenttoHB297-FN
+-Page5-
+1 407-E:10 ContractorEligibility,Hiring,andDuties.
+2 I. The contractor shall demonstrate IBHS certified contractor status for RSA 407-E:7, II,
+3 IBHSgrants.
+4 II. The department shall not endorse or otherwise provide preferential treatment to any
+5 contractor.
+6 III. The contractor shall meet all applicable requirements of this chapter, including, but not
+7 limited to, those listed in this section, and maintain a current copy of all applicable certificates,
+8 licenses, and proof of insurance coverages for inspection by the department at the department’s
+9 request:
+10 (a) The contractor shall be registered to do business with the New Hampshire secretary
+11 ofstate.
+12 (b) Thecontractorshallholdanynecessarylocalorstatelicenses.
+13 (c) The contractor shall possess an in-force, general liability insurance against all claims
+14 ofbodilyinjuries,deathorpropertydamage,inamountsnotlessthan$1,000,000peroccurrenceand
+15 $2,000,000 aggregate for bodily injury or death any one incident, and $500,000 for property damage
+16 inanyoneincident.
+17 (d) The contractor shall have workers’ compensation and employer’s liability insurance
+18 consistentwithstatelaw.
+19 (e) The contractor shall provide and maintain accurate contact information with the
+20 department.
+21 (f) The contractor shall not have a financial interest in any project funded by the
+22 program for which they perform work other than receiving payment on behalf of the homeowner
+23 fromtheprogram.
+24 (g) Thecontractorshallnotbetheevaluatorforanyprojectfundedbytheprogram.
+25 IV. The contractor shall establish that any subcontractor used by the contractor meets the
+26 requirementsapplicabletocontractorssetforthinparagraphIII.
+27 407-E:11 EvaluatorEligibilityRequirements.
+28 To be eligible to work on a project funded by the program as an evaluator for RSA 407-E:7, II,
+29 IBHS grants, the evaluator shall meet all applicable requirements of this chapter, including, but not
+30 limitedto,thoselistedinthissection:
+31 I. The evaluator shall maintain an active IBHS certification as a FORTIFIED Home
+32 Evaluator.
+33 II. TheevaluatorshallberegisteredwiththeNewHampshiresecretaryofstate.
+34 III. Theevaluatorshallmaintainaccuratecontactinformationwiththedepartment.
+35 IV. The evaluator shall not have any financial interest in any project the evaluator inspects
+36 fordesignationpurposesfortheprogram.
+
+AmendmenttoHB297-FN
+-Page6-
+1 V. The evaluator shall not be a contractor or supplier of any materials or products or
+2 systems installed in anyresidential real propertythe evaluator inspects for designationpurposes for
+3 theprogram.
+4 VI. The evaluator shall not be the sales agent for any residential real property being
+5 designatedfortheprogram.
+6 407-E:12 ConfidentialityofInformation.
+7 I. Except as required by state or federal law, grant applications, documents, materials and
+8 other information submitted to the department by or on behalf of a residential real property owner
+9 in support of a grant application shall be confidential by law, shall not be subject to RSA 91-A, shall
+10 not be subject to subpoena, and shall not be subject to discovery or admissible in evidence in any
+11 privatecivilaction.
+12 II. The commissioner may share documents, materials, or other information, including the
+13 confidential applications, documents, materials, or other information under paragraph I, with other
+14 state and federal regulatory agencies or the National Association of Insurance Commissioners, their
+15 affiliates or subsidiaries; provided, that the recipient agrees to maintain the confidentiality status of
+16 theapplication,document,material,orotherinformation.
+17 III. No waiver of any applicable confidentiality in the applications, documents, materials, or
+18 information shall occur as a result of disclosure to the commissioner under this paragraph or as a
+19 resultofsharingasauthorizedinparagraphII.
+20 IV. The commissioner shall disclose to the public annually the number and nature of grant
+21 applications filed with the department and the nature, number, and amount of grants awarded;
+22 provided, however, no information exempt from disclosure under RSA 91-A shall be disclosed and no
+23 disclosure shall abridge the privacy interests of any applicant who filed a grant application or
+24 receivedagrant.
+25 V. In this paragraph “department,” “commissioner,” “regulatory agency,” and the “National
+26 Association of Insurance Commissioners” include, but are not limited to, their employees, agents,
+27 consultants,andcontractors.
+28 407-E:13 Limitation of Liability. There shall be no liability imposed by law on the department
+29 or the state for any injury or damages in any way relating to or resulting from any work or
+30 evaluationperformed,completed,orattemptedtobecompletedinconnectionwiththeprogram. The
+31 department does not in any way guarantee any of the work that results from the application of this
+32 chapter.
+33 407-E:14 Appeals; Hearing. Any person aggrieved by any act or impending act of the
+34 commissionerunderthischaptermayfilearequestforhearingpursuanttoRSA400-A:17,II(b).
+35 407-E:15 Rulemaking. ThecommissionermayadoptrulesunderRSA541-Athatarereasonable
+36 andnecessaryfortheimplementationandadministrationofthischapter.
+
+AmendmenttoHB297-FN
+-Page7-
+1 407-E:16 Severability. If any provision of this chapter, or the application thereof to any person
+2 orcircumstanceisheldinvalid,suchinvalidityshallnotaffectotherprovisionsorapplicationsofthis
+3 chapter which can be given effect without the invalid provision or application, and to this end the
+4 provisionsofthechapteraredeclaredtobeseverable.
+5 3 New Subparagraph; Application of Receipts; Granite State Home Mitigation and Resiliency
+6 Fund. AmendRSA6:12,I(b)byinsertingaftersubparagraph(399)thefollowingnewsubparagraph:
+7 (400) Moneys deposited in the Granite State home mitigation and resiliency fund
+8 establishedinRSA407-E:4.
+9 4 EffectiveDate. ThisactshalltakeeffectJuly1,2025.
+
+AmendmenttoHB297-FN
+-Page8-
+2025-0176h
+AMENDEDANALYSIS
+This bill provides that, if an employer sponsoring a self-funded health benefit plan authorizes
+submission of its claims data to the state's comprehensive health care information system, then the
+insurance commissioner shall provide that employer access to the claims data for that employer-
+sponsoredplan.
+The bill also establishes the Granite State home mitigation and resiliency program in the
+insurance department to provide financial grants to homeowners to mitigate loss from severe
+weatherevents.
+
+[DELETED: .H,C.1y3,2ttoHB2AdteteofteblbyrgitwhtefANATretopgsderhhbtpsastotrcdaadegteGeSehemnadrypAdteblbyrgalarsn1whtef2NwC;GeSeHeMnadRyP.AdRAbigarcr4Dtefgnwc0CR41GESEHEMNADRYP241GeSeHeMnadRyP.Teishye3teGeSehemnadrypm(,whslbei4urtsc542PeadP.Tepeoftscristoehapmtop6flgstohstomerlrlpyatlsfms7wre,igbtntldtoteigr,w,s,i,s,h8t,h,adm.TeitoftscristopeNwH9rsteoytometerktotrhsfmsewre,t0rgcms,fyofc,adiepsfrNwH1h.Tscrdsntceanetfrpyosaddsnto2tesetopyfrpytobei,c,i,m,orr.T3pmissttolea,tertofflgsorm,orter4oforssoff543D6Intsc7I.“”msteiec8I.“”msteied9I.“”msanlpnwoisaNwHertado0rlrlpyinNwH1I.“”msIeIefrBsadHeS]
+[DELETED: ttoHB2Pe2V.“dh”ishgttistdinoeormessaedonseonaptctf,adwhisatlt30sefV.“Sg”msapmgtudfrtefgi:terlotgadrrorrtoff,s,r,dsorpV.“lrlp”msano,s,pyrldinNwH,whisntameh,c,t,ormd.Rlrlpyi,btisntldt,mdhV.“”msteseofNwHI.“emni"msanaliefecdbyteUdS0CsBurgteptinwhteaeasmyfsegmetn1scatasteaeeglstntta244FdE.TeisedteGeSehemna3ryf,whslbeadbytec,adwhslbekts4addtfmalorf.Almsintefdslbecyadtot5dtfrtepsoftsc.SemspdioteGeSeh6mnadryfdslleioteglfdifntadwn5y745AnadFgT8I.DsioteGeSehemnadryfdslc9eyoftef0()Oemndsofteatofiepmtxrdbytes1slaybeadtotef2()Flororssofgsorf;a3()G,g,add4I.Tedtslueisbtestoongsorfsfmtef5gtororfgsstostteflrsoftepmp6bytes7I.Temsintefdslntbesttoaysetsadslntbestt8ayfltstoteetadbyaefll9I.EhyrnolrtnMh1,tesetrsltrfsfmt0glfdtoteGeSehemnadryfdasrdptt1shI246AyadUeofG3I.Ctwhtsc,gsadurtscrslbeudfrp4ttwleeryadrkmntoieiyinugo5rlrlpyatlsfmsewre6I.Gsslbeadonaf,fdbstorlrlp7oswomtteeyrssttoteayoff]
+[DELETED: ttoHB2Pe3I.Gsadurtepmslbefraveofnometn$0prNHer,pry.Nometnoegtslbeadfrayseerewna3rpI.Tegtrtisrefrayl,s,orfltstegtrmyoeasartofrggtmyfmtep47GtEyRI.Tobeeefrayg,terlrlpyors()Onarlrlp()Heagshdieofnogrtn60ptofteNwH0semni1()Stagtantotedtasrdbytsc2()Mtaloraersoftsc3I.TobeeefranISgttobeudtomearlrlp4()Terlseonterlrlpyslheaf5whisntadyskorfdsef6()Terlrlpyorslmnanieh7iepyonterlrlpyusterlpyorhssdt8crttterlpyorctpeieultemnwkh9bnc0()Terlrlpyors1()AetoreterlsetoteISFDR2()orFDSM()d,orsrd,orsrs3adbytec4()AetoueanIScdcrtopmtehefnw5()HeacdISerpyteidpyasmea6iyalisrdtoaeISFDRM()orF7SM()d,orsrd,orsrsdadbyt8c9()Onbsfmatlt2IScdcswoaetoteseo0wkadaectoftemnwkcdbyteg1()Aetoonalnylladsep2()Aetoctallladserdi3()Mtaloraersoftsc4I.TobeeefranSg5()Temtbearlseonterlrlp6()TenSgtimmttnteiyofter7()Terlrlpyors]
+[DELETED: ttoHB2Pe4()Pepfofteiyieasrdbytec()AetoueaneecrtopmtenSw()Aetoonalnylladsep()Aetoctallladserdi()Mnacthsiepyonterlrlpusterlpyorhssdtecrttterlpyorcpeshieultewkhsbnc()MtaloraersoftscV.Gsurtscraentaefrnwc048GtAnP1I.Rlrlpyosslayfragturtepmonaf2pdbytec3I.Ieasslntbeadadslberdtoteattob4meceadrdtoted5I.Tedtslsdadnlrtoteatwn30dso6alordlofacea749PtofGtF8I.Adgssloybepdarterlrlpyore9ttteaewkhsbnc0I.TerlrlpyorestttenSwkhsb1cdbypgtedtw2()Acyoftesdctbnteeecradterlp3orfrtew4()Acyofteidiedgtew5()Asnatfmteeecrwopdtewktttew6hsbncdincewhtersoftsc7I.InantotersofphI,frISg,ter8pyorslfrpetedtw9()TeISesrdiminrtdgc0()AFDRMorFDSMdnc1()Asnatfmteeecrwopdtewktttew2hsbncdincewhtersoftsc3I.Ifterlrlpyorhsedcewhtss,t4dtslieteadgtfsdytoteeecrwop5tewkfrterlrlpyo6V.Terlpyorisrefrayatodtoaneecrt7esteatofteadgtm]
+[DELETED: ttoHB2Pe540CrE,H,adDI.TecrsldeIScdcrssfrRA4,IISgI.TedtslnteeoroepepltttoacI.Tecrslmtalaersoftsc,i,btnldt,teldintss,admnactcyofalaecl,adpfofiecsfrinbytedtattedr0()TecrslberdtodobswhteNwHes1ofs2()Tecrslhdaynyllorsel3()Tecrslpsani,gllyieatalc4ofbyi,dhorpyd,inasntlstn$0proea5$0aefrbyiyordhayoei,ad$0frpyd6inayoei7()Tecrslhew’cnadeslyi8ctwhsel9()Tecrslpeadmnaectinwht0d1()Tecrslntheaflitinayptfdbyt2pmfrwhtypmwkortnrgptonbfofteh3fmtep4()Tecrslntbeteerfrayptfdbytep5I.Tecrslehttaysrudbytecrmst6rsaetocsstfhinphI741ErEyR8TobeeetowkonaptfdbytepmasanerfrRA4,I9ISg,teerslmtalaersoftsc,i,btn0ldt,teldintss1I.TeerslmnanaeIScnasaFDH2E3I.TeerslberdwhteNwHesyofs4I.Teerslmnaectinwhted5I.Teerslntheayflitinayptteeri6frdnpsfrtep]
+[DELETED: ttoHB2Pe6V.TeerslntbeacrorsrofaymsorpsossidinayrlrlpyteerisfrdnpsftepV.Teerslntbetessatfrayrlrlpybddfrtep42CyofII.Etasrdbyseorfll,gta,d,msaorinsdtotedtbyoronbfofarlrlpyoinstofagtanslbeclbyl,slntbesttoRA9,s0ntbesttos,adslntbesttodyoraeineeina1pecla2I.Tecrmysed,m,orori,igt3cla,d,m,ororinurphI,who4seadflryasorteNlAnofIeC,t5asors;p,tttertastomntecysso6tea,d,m,orori7I.Nowrofayaecyintea,d,m,o8inslorasartofdetotecrurtsphoras9rtofsgasadinphI0I.Tecrsldetotepcaytenradneofg1asfdwhtedtadten,n,adatofgsa2p,h,noinetfmdeurRA9Aslbeddadn3deslaetepyisofayatwofdagtano4rdag5V.Intsph“”“”“ya”adte“6AnofIeC”i,btaentldt,tre,a7c,adc843LnofL.Teslbenolyidbylwonted9ortesefrayiyordsinaywyrgtoorrgfmaywko0enp,c,oradtobecdincnwhtep.T1dtdsntinaywygeayoftewkttrsfmteanoft2c344A;H.Aypnadbyayatorigatoft4crurtscrmyfeartfrhgpttoRA4,I545R.TecrmyatrsurRA5Attaer6adnyfrteinadanoftsc]
+[DELETED: ttoHB2Pe746S.Ifaypnoftsc,orteantftoayporceishdi,shiyslntatorpsorasoftcrwhcnbegnetwtteidpnora,adtotsedtpsoftecraeddtobes3NwS;AnofR;GeSeHeMnadRF.AdRA6,I)byigarsh()tefgnws()MsddinteGeSehemnadryfedinRA44EeD.TsatslteetJy1,2]
+[DELETED: ttoHB2Pe8DAsblpst,ifanersgasdhhbtpnanofiscsdatotesscehhceins,tntecrslpetterastotecsdafrttedpeblaoesteGeSehemnadrypmintedttopeflgstohstomelsfmsre]

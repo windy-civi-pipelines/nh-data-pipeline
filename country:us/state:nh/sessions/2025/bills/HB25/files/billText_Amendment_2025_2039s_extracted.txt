@@ -1,0 +1,1870 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2039s
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+SenateCapitalBudget
+May9,2025
+2025-2039s
+07/05
+AmendmenttoHB25-A
+2
+3 1 Capital Appropriations. The sums hereinafter detailed are hereby appropriated for the
+4 projectsspecifiedtothedepartments,agencies,andbranchesnamed:
+5 I. DepartmentofAdministrativeServices
+6 1. StatewideEmergencyFund 1,500,000
+7 2. StateHouseAnnexRenovation-Phase2 12,250,000
+8 3. SprinklerReplacement 550,000
+9 4. MainBuildingElevatorReplacement 1,100,000
+10 TotalstateappropriationparagraphI $15,400,000
+11 II. CommunityCollegeSystemofNewHampshire
+12 1. GreatBayCommunityCollege:WorkforceCapacityBuildinginWelding 700,000
+13 2. ITInfrastructure 150,487
+14 3. CriticalMaintenance 1,300,000
+15 4. EnergyManagementSystems 500,000
+16 TotalstateappropriationparagraphII $2,650,487
+17 III. DepartmentofCorrections
+18 1. NHSP/M-ElectronicControlsandCameraInstallations 2,000,000
+19 2. NHSP/M-ReplaceHVACUnitsUsingR-22Refrigerant 7,700,000
+20 3. NHSP/M-Boiler,SurgeandDeaeratorTankReplacements 2,300,000
+21 4. NHSP/M-KitchenFixturesandEquipment 200,000
+22 TotalstateappropriationparagraphIII $12,200,000
+23 IV. DepartmentofEducation
+24 1. MilfordAppliedTechnologyCenter 1
+25 2. LakesRegionCTE-MarineTradesProgram 110,000
+26 3. MountWashingtonValleyCareerTechCenter–equipmentandmachineryfor
+27 varioustradesprograms 99,000
+28 4. RWCreteauRegionalTechnologyCenter–equipmentandmachineryfor
+29 varioustradesprograms 59,000
+30 5. DoverCareerTechnicalCenter-CATFullSimulator 55,000
+31 TotalstateappropriationparagraphIV $323,001
+32 V. DepartmentofEnvironmentalServices
+AmendmenttoHB25-A
+-Page2-
+1 1. DamRepairsandReconstruction 10,810,000
+2 2. DrinkingWaterStateRevolvingFundStateMatch 8,846,360
+3 3. SuperfundStateMatch 829,217
+4 4. CleanWaterStateRevolvingFundStateMatch 9,467,496
+5 5. WinnipesaukeeRiverBasinProgramInfrastructureUpgrades 19,700,000
+6 LessOtherFunds(RevolvingLoanFund)* (19,700,000)
+7 NetState 0
+8 6. SouthernNHRegionalWaterInterconnectionProject,Phase2B 5,000,000
+9 TotalstateappropriationparagraphV $34,953,073
+10 *To provide funds for the appropriations made in paragraph V, the state treasurer is hereby
+11 authorized to borrow upon the credit of the state not exceeding the sum of $19,700,000 and for said
+12 purpose may issue bonds and notes in the name of and on behalf of the state of New Hampshire in
+13 accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be made
+14 fromtheWinnipesaukeeriverbasincontrolaccountestablishedinRSA485-A:50.
+15 VI. FishandGameDepartment
+16 1. HatcheryPredatorControl 2,200,000
+17 LessOtherFunds(FishandGameFund)* (2,200,000)
+18 NetState 0
+19 2. Replace50-Foot25-TonTrailer 65,000
+20 LessOtherFunds(FishandGameFund)* (65,000)
+21 NetState 0
+22 3. InlandFisheriesEquipment 114,000
+23 LessOtherFunds(FishandGameFund)* (114,000)
+24 NetState 0
+25 *To provide funds for the appropriations made in paragraph VI, the state treasurer is hereby
+26 authorized to borrow upon the credit of the state not exceeding the sum of $2,379,000 and for said
+27 purpose may issue bonds and notes in the name of and on behalf of the state of New Hampshire in
+28 accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be made
+29 fromthefishandgamefundestablishedinRSA206:33.
+30 VII. DepartmentofHealthandHumanServices
+31 1. MedicaidEnterpriseModularStrategy 33,750,000
+32 LessFederalFunds (30,375,000)
+33 NetState 3,375,000
+34 2. ModernizeEligibilityServices 1,875,878
+35 LessFederalFunds (1,219,321)
+36 NetState 656,557
+37 3. GlencliffHomeWarehouseElevatorRepair 450,000
+AmendmenttoHB25-A
+-Page3-
+1 TotalstateappropriationparagraphVII $4,481,557
+2 VIII. DepartmentofInformationTechnology
+3 1. CybersecurityEnhancements 2,380,000
+4 TotalstateappropriationparagraphVIII $2,380,000
+5 IX. DepartmentofJustice
+6 1. ReplacementofCaseManagementSystem 2,231,696
+7 TotalstateappropriationparagraphIX $2,231,696
+8 X. DepartmentofMilitaryAffairsandVeteransServices
+9 1. MilfordReadinessCenterAdditionandRenovation 4,000,000
+10 LessFederalFunds (3,000,000)
+11 NetState 1,000,000
+12 2. MilitaryandVeteransServicesCenters 5,000,000
+13 3. StatewideReadinessCenterRoofReplacement 5,100,000
+14 LessFederalFunds (2,550,000)
+15 NetState 2,550,000
+16 4. PlymouthReadinessCenterDesignandConstruction 4,000,000
+17 LessFederalFunds (3,000,000)
+18 NetState 1,000,000
+19 5. PembrokeReadinessCenterAddition 8,000,000
+20 LessFederalFunds (8,000,000)
+21 NetState 0
+22 6. AviationHangarAddition/Alteration 9,000,000
+23 LessFederalFunds (9,000,000)
+24 NetState 0
+25 TotalstateappropriationparagraphX $9,550,000
+26 XI. DepartmentofNaturalandCulturalResources
+27 1. CannonMountainAerialTramway 27,225,000
+28 2. ConnecticutLakesHeadwatersRoadRepairs 650,000
+29 3. StateLibrarySecurityUpgrades/Changes 35,000
+30 TotalstateappropriationparagraphXI $27,910,000
+31 XII. PeaseDevelopmentAuthority
+32 1. MarketStreetTerminalMainWharfDredging 1,417,000
+33 2. RyeHarborandHamptonHarborRipRapRepair 765,000
+34 3. MarketStreetMarineTerminalWarehouseRemoval/OfficeReplacement 1,973.300
+35 TotalstateappropriationparagraphXII $4,155,300
+36 XIII. PoliceStandardsandTrainingCouncil
+37 1. MainEntranceSecurityImprovements 480,000
+AmendmenttoHB25-A
+-Page4-
+1 TotalstateappropriationparagraphXIII $480,000
+2 XIV. DepartmentofSafety
+3 1. Software-AutomatedFuelTaxSystem 2,862,000
+4 2. GunRangeTrainingFacility 2,300,000
+5 3. ModernizationofPlateProductionEquipment 1,302,950
+6 LessOtherFunds(PlateFund)* (1,302,950)
+7 NetState 0
+8 TotalstateappropriationparagraphXIV $5,162,000
+9 *To provide funds for the appropriations made in subparagraph XIV, 3, the state treasurer is
+10 herebyauthorized toborrow uponthecredit of thestatenot exceedingthesum of $1,302,950and for
+11 saidpurposemayissue bonds and notesinthename of and onbehalf of thestateof New Hampshire
+12 in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be
+13 madefromthereflectorizedplatefundestablishedinRSA228:25.
+14 XV. UniversitySystemofNewHampshire
+15 1. AcademicBuildingDeferredMaintenanceProjects* 8,000,000
+16 TotalstateappropriationparagraphXV $8,000,000
+17 *The university system board of trustees will determine the timing of the projects and the
+18 specific dollar allocation to each from the above sum available, while ensuring priorities are
+19 addressed. The board of trustees shall report on the progress of the projects to the capital project
+20 overviewcommitteeinOctoberandApril.
+21 XVI. VeteransHome
+22 1. ReplaceThree(3)AirHandlers 1,300,000
+23 2. DieselTankReplacement 60,000
+24 3. ReplaceSeven(7)TubsandOne(1)BariatricStretcherShowerTrolley 140,000
+25 4. ReplaceFifty(50)VeteranResidentBeds 155,000
+26 5. Twenty(20)MedicalLiftsandInstallation 180,000
+27 6. TarrSouth/TarrNorthASAandIPCCompliance 1,500,000
+28 TotalstateappropriationparagraphXVI $3,335,000
+29 XVII. DepartmentofTransportation
+30 1. MatchingFundsforTransitVehicles 390,000
+31 2. FederalStateMatchforFAAProjects 68,589,812
+32 LessFederalFunds (64,962,906)
+33 NetState 3,626,831
+34 3. CarrollandStraffordFreightRailImprovement* 450,000
+35 TotalstateappropriationparagraphXVII $4,466,831
+36 *The sum appropriated in subparagraph XVII, 3 shall be matched to private funds of an equal
+37 amount for each project. The department of transportation shall report on the use of the
+AmendmenttoHB25-A
+-Page5-
+1 appropriation and matching private funds for each project to the capital project overview committee
+2 inOctoberandAprilforeachyearofthebiennium.
+3 Totalstateappropriationsection1 $137,678,945
+4 2 Appropriation;HighwayFunds;DepartmentofTransportation. Thesumshereinafterdetailed
+5 areappropriatedfortheprojectsspecified:
+6 I. DepartmentofTransportation
+7 1. Statewide-SaltandSandShedReplacements 3,000,000
+8 2. Statewide-UndergroundStorageTankReplacement 2,000,000
+9 3. MechanicalServices-TwinMountainGarageRoofReplacement 1,206,668
+10 4. Lempster215-PatrolFacilityReplacement 3,580,380
+11 5. Pinkham109-PatrolFacilityReplacement 212,952
+12 TotalstateappropriationparagraphI 10,000,000
+13 Totalstateappropriationsection2 10,000,000
+14 3 Expenditures; General. The appropriations made for the purposes mentioned in sections 1
+15 and 2 of this act, with the exception of appropriations in paragraphs II and XV of section 1, and the
+16 sums available for those projects shall be expended by the trustees, commissions, commissioner, or
+17 department head of the institutions and departments referred to herein; provided that all contracts
+18 and projects and plans and specifications therefor shall be awarded in accordance with the
+19 provisionsofRSA21-IandRSA228.
+20 4 Expenditures;CommunityCollegeSystemofNewHampshire.
+21 I. The appropriations made for the community college system in paragraph II of section 1
+22 and the sums available for this project shall be expended by the trustees of the community college
+23 systemofNewHampshire.
+24 II. The appropriations made to the community college system in paragraph II of section 1
+25 are available for all costs incidental to the completion of the project enumerated including but not
+26 limited to the costs of the services for architects, engineers, and other consultants of such kind and
+27 capacity as the community college system board of trustees may, in its discretion, wish to employ on
+28 suchtermsandconditionsastheboarddetermines. Thesemoniesshallbespentunderthedirection
+29 of the community college system board of trustees and pursuant to the policies adopted by the board
+30 oftrustees.
+31 III. Any authorization contained in this act which is at variance with the requirements of
+32 applicable federal law and regulations shall be controlled by the terms of federal law and
+33 regulations.
+34 5 Expenditures;UniversitySystemofNewHampshire.
+35 I. The appropriations made for the university system in paragraph XV of section 1 and the
+36 sums available for these projects shall be expended by the trustees of the university system of New
+37 Hampshire.
+AmendmenttoHB25-A
+-Page6-
+1 II. The appropriations made to the university system in paragraph XV of section 1 are
+2 available for all costs incidental to the completion of the projects enumerated including but not
+3 limited to the costs of the services for architects, engineers, and other consultants of such kind and
+4 capacity as the university system board of trustees may, in its discretion, wish to employ on such
+5 terms and conditions as the board determines. These monies shall be spent under the direction of
+6 theuniversitysystemboardoftrusteesandpursuanttothepoliciesadoptedbytheboardoftrustees.
+7 III. Any authorization contained in this act which is at variance with the requirements of
+8 applicable federal law and regulations shall be controlled by the terms of federal law and
+9 regulations.
+10 6 Land Acquisition. Any land acquired under the appropriations made in sections 1 and 2 of
+11 this act, if any, as may be acquired under the appropriation shall be purchased by the commissioner
+12 of the department of administrative services or the department of transportation with the approval
+13 ofgovernorandcouncil.
+14 7 Bonds Authorized. To provide funds for the total of the appropriations of state funds made in
+15 sections 1 and 2 of this act, the state treasurer is hereby authorized to borrow upon the credit of the
+16 state not exceeding the sum of $171,060,895 and for said purposes may issue bonds and notes in the
+17 names and on behalf of the state of New Hampshire in accordance with the provisions of RSA 6-A.
+18 The source of funds are as follows: General Fund $137,678,945, Highway Funds $10,000,000, and
+19 OtherFunds$23,381,950.
+20 8 Payments.
+21 I. Thepaymentofprincipalandinterestonbondsandnotesissuedfortheprojectsinsection
+22 1shallbemadewhenduefromthegeneralfundofthestate.
+23 II. Thepaymentofprincipalandinterestonbondsissuedfortheprojectsin:
+24 (a) Thehighwayfundportionoftheappropriationsmadeinsection2shallbemadefrom
+25 thehighwayfundandthegeneralfundportionfromthegeneralfund.
+26 (b) ThefishandgamefundportionoftheappropriationsmadeinparagraphVof section
+27 1shallbemadefromthefishandgamefund.
+28 9 Powers of Governor and Council. The governor and council are hereby authorized and
+29 empowered:
+30 I. To cooperate with and enter into such agreements with the federal government, or any
+31 agencythereof,astheymaydeemadvisable,tosecurefederalfundsforthepurposeshereof.
+32 II. To accept any federal funds which are, or become available for any project under sections
+33 1 and 2 beyond the estimated amounts. The net appropriation of state funds for any project for
+34 which such additional federal funds are accepted shall be reduced by the amount of such additional
+35 funds,andtheamountofbondingauthorizedbysection7shallbereducedbythesameamount.
+AmendmenttoHB25-A
+-Page7-
+1 III.Foranyfederalfundsacceptedunderthissectionbythegovernorandcouncil,theagency
+2 shall provide, within 60 days, the approved governor and council item as an informational item to
+3 thecapitalprojectoverviewcommitteeandtothetreasurydepartment.
+4 10 Transfers. Theindividualprojectappropriationsprovidedinsections1and2ofthisactshall
+5 not be transferred or expended for any other purposes; provided that if there is a balance remaining
+6 after an individual project, which is fully funded by state funds, is completed, accepted, and final
+7 payment made, said balance or any part thereof may be transferred by governor and council, to any
+8 other individual project or projects, which are also fully funded by state funds, within the same
+9 section and from the same funding source, provided that prior approval of the capital project
+10 overviewcommitteeisobtained.
+11 11 Reduction of Appropriation and Bonding Authority. If the net appropriation of state funds
+12 for any project provided for by sections 1 and 2 is determined on the basis of an estimate of
+13 anticipated federal, local, or other funds, and if the amount of such funds actually received or
+14 available is less than said estimate, then the total authorized cost for such projects and the net
+15 appropriation of state funds thereof shall be reduced by the same proportion as the proportion by
+16 which federal, local, or other funds are reduced. The amount of bonding authorized by section 7
+17 shall be reduced by the amount that the appropriation of state funds is reduced pursuant to this
+18 section.
+19 12 Division of Public Works Design and Construction Inspection Services; Davis-Bacon Act
+20 Compliance. The appropriations for those projects which are managed by the division of public
+21 works design and construction, department of administrative services, may be expended to fund
+22 temporary personnel for the purpose of providing construction inspection services and Davis-Bacon
+23 ActComplianceservicesforprojectsutilizingfederalfunds,forthoseprojectsincludedinthisact.
+24 13 Lapseof Prior Capital Balance; Capital Appropriations for the CommunityCollege System of
+25 NewHampshire.
+26 I. The amount of $649,513 is hereby lapsed from the unencumbered balances from the
+27 followingstatecapitalprojects:
+28 (a) The appropriation made to the Department of Administrative Services in 2017,
+29 228:1, II, B,3, extended by 2019, 146:20, 15, extended by 2021, 107:16, 25, extended by 2023, 113:24,
+30 44forSpaulding-RoofReplacement.
+31 (b) The appropriation made to the Department of Corrections in 2021, 107:1, III, 2,
+32 extendedby2023,113:24,57forNNHCFRoofReplacement.
+33 (c) The appropriation made to the Department of Corrections in 2021, 107:1, III, 3,
+34 extendedby2023,113:24,58forConstructionofTrainingCenterforBldg.TradesNHCF/W.
+35 (d) The appropriation made to the Department of Corrections in 2021, 107:1, III, 5,
+36 extendedby2023,113:24,60forDoorControllerUpgrade.
+AmendmenttoHB25-A
+-Page8-
+1 (e) The appropriation made to the Department of Corrections in 2021, 107:1, III, 9,
+2 extendedby2023,113:24,64forReplaceSteamLinesandTraps.
+3 (f) The appropriation made to the Department of Corrections in 2019, 146:1, IV, A,
+4 extended by 2021, 107:16, 44, extended by 2023, 113:24, 68 for Perimeter Security and Fence
+5 DetectionSystems.
+6 (g) The appropriation made to the Department of Corrections in 2019, 146:1, IV, C,
+7 extendedby2021,107:16,46,extendedby2023,113:24,70forReplaceElectricalServices.
+8 (h) The appropriation made to the Department of Corrections in 2017, 228:1, IV, A,
+9 extended by 2019, 146:20, 43, extended by 2021, 107:16, 50, extended by 2023, 113:24, 71 for
+10 TransitionalWorkCenter-CompleteBathroomReplace.
+11 (i) The appropriation made to the Department of Corrections in 2017, 228:1, IV, G,
+12 extended by 2019, 146:20, 49, extended by 2021, 107:16, 54, extended by 2023, 113:24, 72 for Body
+13 Alarm/ManDownSystem(NHSP-Men).
+14 (j) The appropriation made to the Department of Education in 2021, 107:1, IV, 2,
+15 extendedby2023:24,74forPre-EngineeringTechnology.
+16 (k) The appropriation made to the Department of Environmental Services in 2015,
+17 220:1, VI, F, extended by 2017, 228:22, 53, extended by 2019, 146:20, 69, extended by 2021, 107:16,
+18 71,extendedby2023,113:24,93forpermitting,environmentalmonitoringandfloodforecasting.
+19 (l) The appropriation made to the Department of Health and Human Services in 2021,
+20 107:1,VII,8,extendedby2023,113:24,103forBEASSystemsModernization.
+21 (m) The appropriation made to the Department of Information Technology in 2019,
+22 146:1,IX,C,extendedby2021,107:16,99,extendedby2023,113:24,120forCybersecurity-Program
+23 Enhancements.
+24 (n) The appropriation made to the Department of Natural and Cultural Resources in
+25 2017, 228:1, XVIII, D, extended by 2019, 146:20, 127, extended by 2021, 107:16, 136, extended by
+26 2023,113:24,157forRestorationsatHistoricSites.
+27 (o) The appropriation made to the Judicial Branch in 2021, 107:1, VIII, 2, extended by
+28 2023,113:24,122forCourtsDigitizationProject.
+29 II. The sum of $649,513 is hereby appropriated for the biennium ending June 30, 2027 to
+30 theCommunityCollegeSystemofNewHampshireforITInfrastructure.
+31 III. To provide funds for the appropriations made in paragraph II, the state treasurer is
+32 hereby authorized to borrow upon the credit of the state not exceeding the sum of $649,513 and for
+33 saidpurposemayissue bonds and notesinthename of and onbehalf of thestateof New Hampshire
+34 in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be
+35 madefromthegeneralfundofthestate.
+36 IV. All contracts and projects and plans and specifications therefor for the projects
+37 authorizedinthissectionshallbeawardedinaccordancewiththeprovisionsofRSA21-I.
+AmendmenttoHB25-A
+-Page9-
+1 14 LapseofPriorCapitalBalance;CapitalAppropriationsforDepartmentofTransportation.
+2 I. The amount of $825,895.97 is hereby lapsed from the unencumbered balances from the
+3 followingstatecapitalprojects:
+4 (a) The appropriation made to the Department of Transportation in 2005, 259:1, XIII, F
+5 amended by 2007, 264:20, extended by 2007, 264:29 extended by 2009, 145:19, 81 extended by 2011,
+6 253:28, 104 extended by 2013, 195:47, 110, extended by 2015, 220:23, 120, extended by 2017,
+7 228:22,142, extended by 2019, 146:20, 157, extended by 2021, 107:16, 181, extended by 2023, 113:24,
+8 204forrailroadacquisitionrightoffirstrefusalrailmatch.
+9 (b) The appropriation madeto the Department of Transportationin 1999, 226:1, XIII, C,
+10 as extended by 2001, 202:28, XXXIII, and 2003, 240:34, LXXVI extended by 2005, 259:25, LVI
+11 extended by 2007, 264:29 LXXIV extended by 2009, 145:19, 64 extended by 2011, 253:28, 98
+12 extended by 2013,195:47, 111 extended by 2015, 220:23, 121, extended by 2017, 228:22, 143,
+13 extended by 2019, 146:20,158, extended by 2021, 107:16, 182, extended by 2023, 113:24, 205 for
+14 acquisitionforrailroadandairportproperties.
+15 II. The sum of $825,895.97 is hereby appropriated for the biennium ending June 30, 2027,
+16 to the Department of Transportation for replacement of rails and ties on state-owned active railroad
+17 lines.
+18 III. To provide funds for the appropriation made in paragraph II, the state treasurer is
+19 hereby authorized to borrow upon the credit of the state not exceeding the sum of $825,895.97 and
+20 for said purpose may issue bonds and notes in the name of and on behalf of the state of New
+21 Hampshire in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes
+22 shallbemadefromthegeneralfundofthestate.
+23 IV. All contracts and projects and plans and specifications therefor for the projects
+24 authorizedinthissectionshallbeawardedinaccordancewiththeprovisionsofRSA21-I.
+25 15 ProjectPurposeAmended;JudicialBranch. Amend2021,107:1,VIIItoreadasfollows:
+26 VIII. JudicialBranch
+27 1. NHe-CourtandAssociatedCriticalInfrastructure 1,100,000
+28 2. CourtsDigitizationProject* 50,000
+29 TotalstateappropriationparagraphVIII $1,150,000
+30 *The general court intends that funding to complete the Supreme Court digitization project will be
+31 includedinthestatecapitalbudgetforthebienniumendingJune30,2025.
+32 16 ProjectPurposeAmended;JudicialBranch. Amend2019,146:1,Xtoreadasfollows:
+33 X. JudicialBranch
+34 A.[NewHampshiree-Court]NHe-CourtandAssociatedCriticalInfrastructure 1,710,000
+35 TotalstateappropriationparagraphX $1,710,000
+36 17 Project Purpose Amended; Department of Military Affairs and Veterans Services. Amend
+37 2021,107:1,Xtoreadasfollows:
+AmendmenttoHB25-A
+-Page10-
+1 X. MilitaryAffairsandVeteransServices
+2 1. [Anti-Terrorism/Force Protection - Merrimack County] Pembroke Regional Training
+3 InstituteUpgrades 1,660,000
+4 LessFederalFunds (1,660,000)
+5 NetState 0
+6 2. [Energy Resiliency And Efficiency Improvements Statewide] Pembroke Regional Training
+7 InstituteUpgrades 3,500,000
+8 LessFederalFunds (3,500,000)
+9 NetState 0
+10 3. GraftonCountyFieldMaintenanceShop 13,700,000
+11 LessFederalFunds (13,700,000)
+12 NetState 0
+13 4. MinorMilitaryConstruction-CoosCounty 9,000,000
+14 LessFederalFunds (9,000,000)
+15 NetState 0
+16 5. MinorMilitaryConstruction-StraffordCounty 7,000,000
+17 LessFederalFunds (7,000,000)
+18 NetState 0
+19 6. [Warehouse Facility Upgrades - Merrimack County] Minor Military Construction-
+20 StraffordCounty 2,600,000
+21 LessFederalFunds (2,600,000)
+22 NetState 0
+23 7. ReadinessCenterRenovationStatewide 1,200,000
+24 LessFederalFunds (600,000)
+25 NetState 600,000
+26 8. Land 500,000
+27 9. EnergyResiliencyandEfficiencyImprovementsStatewide50/50 800,000
+28 LessFederalFunds (400,000)
+29 NetState 400,000
+30 TotalstateappropriationparagraphX $1,500,000
+31 18 Lapse Dates Extended to June 30, 2027. The following appropriations are hereby extended
+32 toJune30,2027:
+33 1. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, A, 1
+34 forCourthouseGenerators.
+35 2. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, A, 2
+36 forRochesterCourthouse.
+AmendmenttoHB25-A
+-Page11-
+1 3. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 1
+2 forEmergencyOperationsCenter(EOC)MechanicalReplacementsandRepairs.
+3 4. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 2
+4 forThayerBuildingHeatingZoneExpansion.
+5 5. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 3
+6 forTwoChillersfor29HazenDr.
+7 6. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 4
+8 forParkingLotRepairsandPaving-Statewide.
+9 7. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 5
+10 forAcquireBuildingat25HallStreet.
+11 8. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, C, 1
+12 forStatewideEmergencyFund.
+13 9. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, A, 2,
+14 extended by 2023, 113:24, 2 for Lebanon Circuit Courthouse - Remove and Replace Underground
+15 FuelStorageTank.
+16 10. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,A,3,
+17 extendedby2023,113:24,3forPortsmouthandDoverCircuitCourtBoilers.
+18 11. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,A,4,
+19 extendedby2023,113:24,4forStatewideCourthouseRoofReplacements.
+20 12. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,1,
+21 extendedby2023,113:24,5forLifeSafetyUpgrades.
+22 13. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,2,
+23 extendedby2023,113:24,6forMainBuildingRewiringPhase1.
+24 14. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,4,
+25 extendedby2023,113:24,8forThayerBuilding-ReplaceRoof.
+26 15. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,5,
+27 extendedby2023,113:24,9forTunnelSystem:RepairandAbandonmentPlan.
+28 16. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,C,1,
+29 extendedby2023,113:24,10forNHFirstMigrationToInformationCloudEnvironment.
+30 17. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+31 1,extendedby2023,113:24,11forHHSRoofReplacement.
+32 18. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+33 2,extendedby2023,113:24,12forHHS/DESMechanicalReplacementsandControls.
+34 19. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+35 3,extendedby2023,113:24,13forMorton,Johnson,HHSUndergroundTankRemoval.
+36 20. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+37 4,extendedby2023,113:24,14forSafetyMechanicalReplacementsandRepairs.
+AmendmenttoHB25-A
+-Page12-
+1 21. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+2 5,extendedby2023,113:24,15forCoosCountyNewParkingLotandConcretePlazaEntrance.
+3 22. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+4 6,extendedby2023,113:24,16forHillsboroughCountyCourthouseNorthCoolingTower.
+5 23. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+6 7,extendedby2023,113:24,17forAnnex1-BancroftADAConnector.
+7 24. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+8 8,extendedby2023,113:24,18forDiscoveryCenterMechanicalReplacementandControls.
+9 25. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+10 9,extendedby2023,113:24,19forHillsboroughCountySouthWalkwayRepairs.
+11 26. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+12 10,extendedby2023,113:24,20forDolloffBuildingElevatorReplacement.
+13 27. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+14 11,extendedby2023,113:24,21forPhaseII-StatehouseAnnexRenovation.
+15 28. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+16 12,extendedby2023,113:24,22forNewFirePanels-Installationat11Locations.
+17 29. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+18 13,extendedby2023,113:24,23forMainBuildingStairTowerRoofsandRepointing.
+19 30. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+20 14,extendedby2023,113:24,24forRochesterCircuitCourtReplacementEngineering.
+21 31. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, E,
+22 extendedby2023,113:24,25forStatewideEmergencyFund.
+23 32. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, F,
+24 extendedby2023,113:24,26forStatewideEnergyEfficiencyImprovementsProjects.
+25 33. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, A,
+26 extended by 2021, 107:16, 1, extended by 2023, 113:24, 27 for Statewide Projects, Statewide
+27 EmergencyFunding.
+28 34. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+29 3, extended by 2021, 107:16, 4, extended by 2023, 113:24, 29 for Storrs Street Parking Garage
+30 Repairs.
+31 35. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+32 4,extendedby2021,107:16,5,extendedby2023,113:24,30forStateHouseAnnexRenovations.
+33 36. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+34 5, extended by 2021, 107:16, 6, extended by 2023, 113:24, 31 for State House Annex Elevator
+35 Upgrades.
+AmendmenttoHB25-A
+-Page13-
+1 37. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+2 6, extended by 2021, 107:16, 7, extended by 2023, 113:24, 32 for Roof Replacements and Exterior
+3 Repairs.
+4 38. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+5 8, extended by 2021, 107:16, 9, extended by 2023, 113:24, 33 for HHS and DES Mechanical
+6 Replacements.
+7 39. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+8 1, extended by 2021, 107:16, 10, extended by 2023, 113:24, 34 for Concord Steam - Raze Structurally
+9 DeficientBuilding.
+10 40. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+11 2, extended by 2021, 107:16, 11, extended by 2023, 113:24, 35 for Emergency Back-Up Generator
+12 PowerToNewBoilers.
+13 41. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+14 3, extended by 2021, 107:16, 12, extended by 2023, 113:24, 36 for Annex 1 - Life Safety/ADA
+15 Improvements.
+16 42. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+17 4, extended by 2021, 107:16, 13, extended by 2023, 113:24, 37 for Thayer Building - Relocate and
+18 UpgradeElectricalService.
+19 43. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+20 1, extended by 2021, 107:16, 15, extended by 2023, 113:24, 38 for Rockingham County and
+21 HillsboroughCountySouthCourthouses-NewChiller,VariableFrequencyDrivesandControls.
+22 44. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+23 3, extended by 2021, 107:16, 17, extended by 2023, 113:24, 39 for Coos County Courthouse - New
+24 Boilers.
+25 45. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+26 5, extended by 2021, 107:16, 19, extended by 2023, 113:24, 40 for Generators - Conway, Coos,
+27 Jaffrey,Lebanon,Plymouth.
+28 46. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+29 6, extended by 2021, 107:16, 20, extended by 2023, 113:24, 41 for Hillsborough County South -
+30 CellblockRenovation.
+31 47. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, E,
+32 extended by 2021, 107:16, 21, extended by 2023, 113:24, 42 for Financial Data Management, ERP
+33 SustainabilityandAdvancement.
+34 48. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, A,
+35 1, extended by 2019, 146:20, 11, extended by 2021, 107:16, 23, extended by 2023, 113:24, 43 for
+36 StatewideEmergencyFunding.
+AmendmenttoHB25-A
+-Page14-
+1 49. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, B,
+2 4,extendedby2019,146:20,16,extendedby2021,107:16,26,extendedby2023,113:24,45forState
+3 OwnedBuildings-SecurityUpgrades.
+4 50. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, C,
+5 1,extendedby2019, 146:20,22,extended by2021,107:16,30, extendedby2023, 113:24,46for Main
+6 BldgLodgeRoofReplacement/brick/trimrepairs.
+7 51. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, C,
+8 3,extendedby2019,146:20,24,extendedby2021,107:16,32,asamendedby2023,113:15,extended
+9 by2023,113:24,47forMainBldg,NorthPavilionWingRoofReplacement.
+10 52. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, D,
+11 3, extended by 2019, 146:20, 26, extended by 2021, 107:16, 33, extended by 2023, 113:24, 48 for
+12 MilfordCircuitCourt-NewCourthouse.
+13 53. The appropriation made to the Department of Administrative Services in 2015, 220:1, II, B,
+14 8, extended by 2017, 228:22, 21, extended by 2019, 146:20, 35, extended by 2021, 107:16, 38,
+15 extendedby2023,113:24,49forstatehouseandUphamWalkerhouserepairs.
+16 54. The appropriation made to the Department of Administrative Services in 2011, 253:1, II, C,
+17 1extended by2013, 195:47, 13 extended by 2015, 220:23, 18, extended by2017, 228:22, 29, extended
+18 by 2019, 146:20, 37, extended by 2021, 107:16, 39, extended by 2023, 113:24, 50 for critical IT
+19 infrastructure.
+20 55. TheappropriationmadetotheDepartmentofAgriculture,MarketsandFoodin2021,107:1,
+21 II,1,extendedby2023,113:24,51forRepairstoNHBuildingAtEasternStatesExposition.
+22 56. The appropriation made to the Community College System of New Hampshire in 2023,
+23 113:1,XVI,1forCriticalMaintenance.
+24 57. The appropriation made to the Community College System of New Hampshire in 2023,
+25 113:1, XVI, 3 for NCC Respiratory Therapy Program Teaching Equipment and Teaching Space
+26 Renovations.
+27 58. The appropriation made to the Community College System of New Hampshire in 2021,
+28 107:1,XIII,1,extendedby2023,113:24,52forCriticalMaintenance.
+29 59. The appropriation made to the Community College System of New Hampshire in 2019,
+30 146:1, III, A, extended by 2021, 107:16, 41, extended by 2023, 113:24, 53 for Critical Maintenance
+31 andSafety,MasterPlans.
+32 60. The appropriation made to the Department of Corrections in 2023, 113:1, II, 1 for Replace
+33 SewerLinesandGrinder.
+34 61. The appropriation made to the Department of Corrections in 2023, 113:1, II, 2 for Radio
+35 SystemUpgrade.
+36 62. The appropriation made to the Department of Corrections in 2021, 107:1, III, 1, extended by
+37 2023,113:24,56forNHSP/MRoofReplacement.
+AmendmenttoHB25-A
+-Page15-
+1 63. The appropriation made to the Department of Corrections in 2021, 107:1, III, 7, extended by
+2 2023,113:24,62forPerimeterSecurityandFenceDetectionSystems.
+3 64. The appropriation made to the Department of Corrections in 2021, 107:1, III, 8, extended by
+4 2023,113:24,63forRebuildSewerLineandGrinder.
+5 65. The appropriation made to the Department of Corrections in 2021, 107:1, III, 10, extended
+6 by2023,113:24,65forRoofReplacement-HancockandIndustriesBuildings.
+7 66. The appropriation made to the Department of Corrections in 2021, 107:1, III, 11, extended
+8 by2023,113:24,66forNHStatePrison/MDoorReplacement.
+9 67. The appropriation made to the Department of Corrections in 2021, 107:14, III, extended by
+10 2023,113:24,67forNHSPMDoorandCeilingReplace/Repair-CloseCustodyUnit.
+11 68. The appropriation made to the Department of Corrections in 2019, 146:1, IV, B, extended by
+12 2021,107:16,45,extendedby2023,113:24,69forKitchenRenovation.
+13 69. The appropriation made to the Department of Education in 2021, 107:1, IV, 3, extended by
+14 2023,113:24,75forBathrooms-AllFloors,RenovationandADAModifications.
+15 70. The appropriation made to the Department of Energy in 2023, 113:1, IV, 1 for Fuel
+16 Assistance Program (FAP)/Weatherization Assistance Program (WAP) Database and Program
+17 Management.
+18 71. The appropriation made to the Department of Energy in 2017, 228:1, VII, A, extended by
+19 2019, 146:20, 59, extended by 2021, 107:16, 57, extended by 2023, 113:24, 76 for Fuel Assistance
+20 Program/WeatherizationAssistanceProgram.
+21 72. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 1
+22 forDamRepairsandReconstruction.
+23 73. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 2
+24 forITInfrastructure.
+25 74. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 3
+26 forDrinkingWaterSRFStateMatch.
+27 75. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 4
+28 forCleanWaterSRFStateMatch.
+29 76. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 5
+30 forGroundWaterMonitoring.
+31 77. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 6
+32 forWinnipesaukeeRiverBasinUpgrade.
+33 78. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 1,
+34 extendedby2023,113:24,77forCleanWaterStateRevolvingFundStateMatch.
+35 79. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 2,
+36 extendedby2023,113:24,78forDamRepairsandReconstruction.
+AmendmenttoHB25-A
+-Page16-
+1 80. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 3,
+2 extendedby2023,113:24,79forDrinkingWaterStateRevolvingFundStateMatch.
+3 81. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 4,
+4 extendedby2023,113:24,80forOne-Stop/ITSystemsUpgrades.
+5 82. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 5,
+6 extendedby2023,113:24,81forCoastalFloodingModeling.
+7 83. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 6,
+8 extended by 2023, 113:24, 82 for Winnipesaukee River Basin Program (WRBP) Collection System
+9 Upgrade.
+10 84. The appropriation made to the Department of Environmental Services in 2021, 107:14, IV,
+11 extendedby2023,113:24,83forCoastalFloodModeling.
+12 85. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, A,
+13 extendedby2021,107:16,58,extendedby2023,113:24,84forDamRepairsandReconstruction.
+14 86. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, B,
+15 extendedby2021,107:16,59,extendedby2023,113:24,85forConstructionandOperationsFacility.
+16 87. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, E,
+17 extended by 2021, 107:16, 62, extended by 2023, 113:24, 87 for IT Upgrades For E-Permitting and
+18 Automation.
+19 88. The appropriation made to the Department of Environmental Services in 2017, 228:1, VIII,
+20 F, extended by 2019, 146:20, 63, extended by 2021, 107:16, 65, extended by 2023, 113:24, 88 for
+21 HazardousWasteSuperfundMatch.
+22 89. The appropriation made to the Department of Environmental Services in 2017, 228:1, VIII,
+23 H, extended by 2019, 146:20, 65, extended by 2021, 107:16, 67, extended by 2023, 113:24, 90 for
+24 OssipeeLakeDamReconstruction.
+25 90. The appropriation made to the Department of Environmental Services in 2015, 220:1, VI, B,
+26 extended by 2017, 228:22, 50, extended by 2019, 146:20, 66, extended by 2021, 107:16, 68, extended
+27 by2023,113:24,91forhazardouswastesuperfundstatematch.
+28 91. The appropriation made to the Department of Environmental Services in 2015, 220:1, VI, C,
+29 extended by 2017, 228:22, 51, extended by 2019, 146:20, 67, extended by 2021, 107:16, 69, extended
+30 by2023,113:24,92forSuncookriverinfrastructureprotectionproject.
+31 92. The appropriation made to the Department of Environmental Services in 2011, 253:1, VI, E
+32 extendedby2013195:47,47extendedby2015,220:23,48,extendedby2017,228:22,59,extendedby
+33 2019, 146:20, 71, extended by 2021, 107:16, 72, extended by 2023, 113:24, 94 for WRBP
+34 infrastructurecapitalimprovements.
+35 93. The appropriation made to the Fish and Game Commission in 2023, 113:1, VI, 1 for Roof
+36 Replacement.
+AmendmenttoHB25-A
+-Page17-
+1 94. The appropriation made to the Fish and Game Commission in 2021, 107:1, VI, 1, amended
+2 by 2023, 113:22, as extended by 2023, 113:24, 95 for Fish Hatchery Statewide
+3 Construction/Renovation.
+4 95. The appropriation made to the Fish and Game Department in 2019, 146:1, VII, A, extended
+5 by 2021, 107:16, 73, extended by 2023, 113:24, 96 for Building Security and Fire Safety
+6 Improvements.
+7 96. The appropriation made to the Department of Health and Human Services in 2023, 113:1,
+8 VII, 1 for Division for Children, Youth and Families (DCYF) Comprehensive Child Welfare
+9 InformationSystem(CCWIS)BridgesReplacement.
+10 97. The appropriation made to the Department of Health and Human Services in 2023, 113:1,
+11 VII,2forElectronicHealthRecords.
+12 98. The appropriation made to the Department of Health and Human Services in 2023, 113:23,
+13 IIfortheGlencliffWastewaterTreatmentImprovements.
+14 99. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+15 VII,1,extendedby2023,113:24,97forBeneficiaryServiceImprovement.
+16 100. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+17 VII, 2, extended by 2023, 113:24, 98 for DCYF Comprehensive Child Welfare Information System
+18 (CCWIS).
+19 101. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+20 VII, 3, extended by 2023, 113:24, 99 for Developmental Services Information Technology
+21 Remediation.
+22 102. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+23 VII,4,extendedby2023,113:24,209forElectronicVisitVerificationSystem.
+24 103. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+25 VII,5,extendedby2023,113:24,100forFederalReportingIntegrityandCompliance.
+26 104. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+27 VII, 7, extended by 2023, 113:24, 102 for Medicaid Management Information System (MMIS)
+28 LifecycleManagementandRe-procurement.
+29 105. The appropriation made to the Department of Health and Human Services in 2019, 146:1,
+30 VIII,A,extended by2021, 107:16,75, extendedby2023,113:24, 106for DCYFComprehensive Child
+31 WelfareInformationSystem.
+32 106. The appropriationmadetotheDepartment of Healthand HumanServices in2019, 146:14,
+33 IV,extendedby2021,107:16,77,extendedby2023,113:24,108forGlencliffHomeElectricalSystem
+34 Enhancement.
+35 107. The appropriation made to the Department of Health and Human Services in 2015, 220:1,
+36 VII, B, extended by 2017, 228:22, 64, extended by 2019, 146:20, 86, extended by 2021, 107:16, 86,
+37 extendedby2023,113:24,111forcampussecurityGlencliff.
+AmendmenttoHB25-A
+-Page18-
+1 108. The appropriation made to the Department of Health and Human Services in 2015, 220:1,
+2 VII, F, extended by 2017, 228:22, 68, extended by 2019, 146:20, 89, extended by 2021, 107:16, 89,
+3 extendedby2023,113:24,112forchillersandassociatedcomponentsreplacement.
+4 109. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+5 1forCybersecurityProgramEnhancements.
+6 110. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+7 2forFinancialSystemsModernization.
+8 111. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+9 3forITServicesManagementSystem.
+10 112. The appropriation made to the Department of Information Technology in 2019, 146:1, IX,
+11 A, extended by 2021, 107:16, 97, extended by 2023, 113:24, 116 for Digital Government
+12 Transformation(Enterprise).
+13 113. The appropriation made to the Department of Information Technology in 2019, 146:1, IX,
+14 B, extended by 2021, 107:16, 98, extended by 2023, 113:24, 117 for Continuity of Operation and
+15 DisasterPlanning.
+16 114. The appropriation made to the Department of Information Technology in 2017, 228:1, XII,
+17 B, extended by 2019, 146:20, 105, extended by 2021, 107:16, 100, extended by 2023, 113:24, 118 for
+18 EnterpriseWorkflow/DocumentMgmt(All-Enterprise).
+19 115. The appropriation made to the Judicial Branch in 2021, 107:1, VIII, 1, extended by 2023,
+20 113:24,121forNHe-CourtandAssociatedCriticalInfrastructure.
+21 116. The appropriation made to the Judicial Branch in 2019, 146:1, X, A, extended by 2021,
+22 107:16,103,extendedby2023,113:24,123forNHe-CourtandAssociatedCriticalInfrastructure.
+23 117. TheappropriationmadetotheLiquorCommissionin2023,113:1,IX,1forHamptonNorth
+24 andSouthNewStores.
+25 118. The appropriation made to the Liquor Commission in 2023, 113:1, IX, 2 for HQ Life Safety
+26 Improvements,ParkingLot,Renovation,andRoof.
+27 119. The appropriation made to the Liquor Commission in 2023, 113:1, IX, 3 for Roof
+28 Replacement.
+29 120. TheappropriationmadetotheLiquorCommissionin2017,228:1,XV,D,extendedby2019,
+30 146:20, 117, extended by 2021, 107:16, 111, extended by 2023, 113:24, 128 for Hampton North and
+31 SouthNewLiquorStores.
+32 121. The appropriation made to the Liquor Commission in 2017, 228:14, III, extended by 2019,
+33 146:20, 118, extended by 2021, 107:16, 109, extended by 2023, 113:24, 126 for the Concord
+34 headquartersroofreplacementandparkinglot.
+35 122. The appropriation made to the Department of Military Affairs and Veterans Services in
+36 2023,113:1,X,1forNashuaReadinessCenterMinorMilitaryConstruction.
+AmendmenttoHB25-A
+-Page19-
+1 123. The appropriation made to the Department of Military Affairs and Veterans Services in
+2 2023,113:1,X,2forPlymouthReadinessCenterMinorMilitaryConstruction.
+3 124. The appropriation made to the Department of Military Affairs and Veterans Services in
+4 2023,113:1,X,3forStatewideBuildingImprovements.
+5 125. The appropriation made to the Department of Military Affairs and Veterans Services in
+6 2023,113:1,X,4forNashuaHazardousMaterialRemediation.
+7 126. The appropriation made to the Department of Military Affairs and Veterans Services in
+8 2023,113:1,X,5forLandPurchase-Pembroke.
+9 127. The appropriation made to the Department of Military Affairs and Veterans Services in
+10 2021,107:1,X,1,extendedby2023,113:24,129forPembrokeRegionalTrainingInstituteUpgrades.
+11 128. The appropriation made to the Department of Military Affairs and Veterans Services in
+12 2021,107:1,X,2,extendedby2023,113:24,130forPembrokeRegionalTrainingInstituteUpgrades.
+13 129. The appropriation made to the Department of Military Affairs and Veterans Services in
+14 2021,107:1,X,3,extendedby2023,113:24,131forGraftonCountyFieldMaintenanceShop.
+15 130. The appropriation made to the Department of Military Affairs and Veterans Services in
+16 2021,107:1,X,4,extendedby2023,113:24,132forMinorMilitaryConstruction-CoosCounty.
+17 131. The appropriation made to the Department of Military Affairs and Veterans Services in
+18 2021,107:1,X,5,extendedby2023,113:24,133forMinorMilitaryConstruction-StraffordCounty.
+19 132. The appropriation made to the Department of Military Affairs and Veterans Services in
+20 2021,107:1,X,6,extendedby2023,113:24,134forMinorMilitaryConstruction-StraffordCounty.
+21 133. The appropriation made to the Department of Military Affairs and Veterans Services in
+22 2021,107:1,X,7,extendedby2023,113:24,135forReadinessCenterRenovationStatewide.
+23 134. The appropriation made to the Department of Military Affairs and Veterans Services in
+24 2021,107:1,X,8,extendedby2023,113:24,136forLand.
+25 135. The appropriation made to the Department of Military Affairs and Veterans Services in
+26 2021, 107:1, X, 9, extended by 2023, 113:24, 137 for Energy Resiliency and Efficiency Improvements
+27 Statewide50/50.
+28 136. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, B,
+29 extended by 2021, 107:16, 113, extended by 2023, 113:24, 139 for Federal Statewide Repairs and
+30 Upgrades.
+31 137. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, C,
+32 extended by 2021, 107:16, 114, extended by 2023, 113:24, 140 for Minor Military Construction
+33 Statewide.
+34 138. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, D,
+35 extended by 2021, 107:16, 115, as amended by 2023, 113:16, extended by 2023, 113:24, 141 for
+36 ManchesterReadinessCenterandConcordAnti‐TerrorismForceProtectionRenovations.
+AmendmenttoHB25-A
+-Page20-
+1 139. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, E,
+2 extended by 2021, 107:16, 116, extended by 2023, 113:24, 142 for Grafton County Readiness Center
+3 Design.
+4 140. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:14, II,
+5 extended by 2021, 107:16, 118, extended by 2023, 113:24, 143 for Environmental Hazard
+6 RemediationandLandAcquisition.
+7 141. The appropriation made to the Military Affairs and Veterans Services in 2015, 220:1, I, D
+8 extendedby2017,228:22,4,extendedby2019,146:20,7,extendedby2021,107:16,122,extendedby
+9 2023,113:24,144forlandformilitaryconstruction.
+10 142. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+11 113:1,XI,1forRoofingandRepair.
+12 143. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+13 113:1,XI,2forForestandLandsFacilities.
+14 144. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+15 113:1,XI,4forMountWashingtonSummitInfrastructureandEcologyStudy.
+16 145. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+17 113:1,XI,5forConnecticutLakesHeadwatersRoadRepairsandPaving.
+18 146. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+19 113:23,III,fortheConnecticutLakesHeadwatersRoadRepairsandPaving.
+20 147. The appropriation made to the Department of Natural and Cultural Resources in 2021,
+21 107:1,XI,1,extendedby2023,113:24,145forCommunicationSystemReplacement.
+22 148. The appropriation made to the Department of Natural and Cultural Resources in 2021,
+23 107:1,XI,2,extendedby2023,113:24,146forToiletBuildingUpgrades.
+24 149. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+25 146:1,XII,A,extendedby2021,107:16,125,extendedby2023,113:24,147forRoofingandRepair.
+26 150. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+27 146:1, XII, B, extended by 2021, 107:16, 126, extended by 2023, 113:24, 148 for Mount Washington
+28 SewageTreatmentExpansion.
+29 151. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+30 146:1, XII, D, extended by 2021, 107:16, 128, extended by 2023, 113:24, 150 for Campground Toilet
+31 Buildings.
+32 152. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+33 146:1, XII, E, extended by 2021, 107:16, 129, extended by 2023, 113:24, 151 for Day-Use Toilet
+34 Buildings.
+35 153. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+36 146:1,XII,F,extendedby2021,107:16,130,extendedby2023,113:24,152forMountSunapeeState
+37 ParkBeachBoatRamp.
+AmendmenttoHB25-A
+-Page21-
+1 154. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+2 146:1, XII, H, extended by 2021, 107:16, 132, extended by 2023, 113:24, 153 for Climate Controlled
+3 StorageArea-StateLibrary.
+4 155. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+5 146:1, XII, I, extended by 2021, 107:16, 133, extended by 2023, 113:24, 154 for Design and
+6 EngineeringServices;ArchaeologyLab;Office,Lab,andStorageSpaceNeeds.
+7 156. The appropriation made to the Department of Natural and Cultural Resources in 2017,
+8 228:1, XVIII, C, extended by 2019, 146:20, 126, extended by 2021, 107:16, 135, extended by 2023,
+9 113:24,156forDamsandRetainingWalls.
+10 157. The appropriation made to the Pease Development Authority in 2021, 107:14, II, extended
+11 by2023,113:24,159forPiscataquaRiverTurningBasin.
+12 158. The appropriation made to the Pease Development Authority in 2017, 228:1, XVI, A,
+13 extended by 2019, 146:20, 122, extended by 2021, 107:16, 138, extended by 2023, 113:24, 160 for
+14 PiscataquaRiverTurningBasin.
+15 159. The appropriation made to the Pease development authority in 2015, 220:1, XII, extended
+16 by 2017, 228:22, 102, extended by 2019, 146:20, 123, extended by 2021, 107:16, 139, extended by
+17 2023,113:24,161forthePiscataquaRiverTurningBasin.
+18 160. TheappropriationmadetotheDepartment ofRevenue Administrationin2017, 228:1, XIX,
+19 A, extended by 2019, 146:20, 130, extended by 2021, 107:16, 140, extended by 2023, 113:24, 162 for
+20 RevenueInformationManagementSystem(RIMS).
+21 161. The appropriation made to the Department of Safety in 2023, 113:1, XIV, 1 for New
+22 HampshireStatePolice(NHSP)MessageSwitchReplacement.
+23 162. The appropriation made to the Department of Safety in 2023, 113:1, XIV, 2 for New
+24 HampshireStatePolice(NHSP)HelicopterImprovement.
+25 163. The appropriation made to the Department of Safety in 2023, 113:2, I, 1 for New
+26 HampshireStatePolice(NHSP)MessageSwitchReplacement.
+27 164. The appropriation made to the Department of Safety in 2023, 113:2, I, 2 for New
+28 HampshireStatePolice(NHSP)HelicopterImprovement.
+29 165. The appropriation made to the Department of Safety in 2021, 107:12, II and 13, II, as
+30 amended by 2023, 113:18, extended by 2023, 113:24, 164 for State Police Hangar
+31 Construction/Renovation.
+32 166. The appropriation made to the Department of Safety in 2019, 146:1, XV, E, as amended by
+33 2022, 47:2, as amended by 2023, 113:20, extended by 2023, 113:24, 163 for Aviation Hangar Bay
+34 Construction/Renovation.
+35 167. TheappropriationmadetotheDepartmentofSafetyin2019,146:2,I,B,extendedby2021,
+36 107:16,147,extendedby2023,113:24,167forDMVOnlineCustomerPortal.
+AmendmenttoHB25-A
+-Page22-
+1 168. The appropriation made to the Department of Safety in 2017, 228:1, XX, C, extended by
+2 2019, 146:20, 132, extended by 2021, 107:16, 148, extended by 2023, 113:24, 168 for State Police
+3 RecordsManagementSystem.
+4 169. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 1 for
+5 FederalStateMatchforFAAProjects.
+6 170. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 2 for
+7 MatchingFundsforTransitBusesandPassengerAmenities.
+8 171. TheappropriationmadetotheDepartmentofTransportationin2023,113:1,XV,4forCoos
+9 CountyFreightRailImprovements.
+10 172. The appropriation made to the Department of Transportation in 2023, 113:2, II, 1 for
+11 Statewide–ConstructSaltandSandShed.
+12 173. The appropriation made to the Department of Transportation in 2023, 113:2, II, 2 for
+13 Statewide–UndergroundFuelTankReplacement.
+14 174. The appropriation made to the Department of Transportation in 2023, 113:2, II, 3 for
+15 Statewide–CrewQuarters.
+16 175. The appropriation made to the Department of Transportation in 2023, 113:23, V, for
+17 repairstorailroadbridgesonstate-ownedactiverailroadlines.
+18 176. The appropriation made to the Department of Transportation in 2023, 113:23, VI, for
+19 repairstoculvertsonactivestate-ownedrailroadlines.
+20 177. The appropriation made to the Department of Transportation in 2023, 113:23, VII, for
+21 railroadtiesandinstallationonactivestate-ownedrailroadlines.
+22 178. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 1,
+23 extendedby2023,113:24,169for5%MatchForFederalAviationAdministrationProjects.
+24 179. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 3,
+25 extendedby2023,113:24,171forPublicTransitBusandFacilityMatchingFunds.
+26 180. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 6, as
+27 amended by 2023, 113:21, extended by 2023, 113:24, 174 for Market Street Marine Terminal Project
+28 StateMatch/DiscretionaryGrants.
+29 181. The appropriation made to the Department of Transportation in 2021, 107:2, I, 1, extended
+30 by2023,113:24,175forFuelManagementSystemReplacement.
+31 182. The appropriation made to the Department of Transportation in 2021, 107:2, I, 2, extended
+32 by2023,113:24,176forLancaster701-StorageBuildingReplacement.
+33 183. The appropriation made to the Department of Transportation in 2021, 107:2, I, 3, extended
+34 by2023,113:24,177forLondonderry512-PatrolandSaltShedReplacements.
+35 184. The appropriation made to the Department of Transportation in 2021, 107:2, I, 5, extended
+36 by2023,113:24,179forStatewide-ConstructSaltandSandSheds.
+AmendmenttoHB25-A
+-Page23-
+1 185. The appropriation made to the Department of Transportation in 2021, 107:2, I, 6, extended
+2 by2023,113:24,180forDelayedProjects-PatrolSheds,DistrictOffice.
+3 186. The appropriation made to the Department of Transportation, General Funds in 2019,
+4 146:1, XVI, A, extended by 2021, 107:16, 151, extended by 2023, 113:24, 181 for Aeronautics, Rail,
+5 andTransit,5%matchforFederalAviationAdministrationProjects.
+6 187. The appropriation made to the Department of Transportation, General Funds in 2019,
+7 146:1, XVI, C, extended by 2021, 107:16, 152, extended by 2023, 113:24, 182 for Repairs to
+8 State‐OwnedActiveRailroadBridges.
+9 188. The appropriation made to the Department of Transportation, General Funds in 2019,
+10 146:1, XVI, F, extended by 2021, 107:16, 155, extended by 2023, 113:24, 184 for Public Transit Bus
+11 andFacilityMatchingFunds.
+12 189. The appropriation made to the Department of Transportation in 2019, 146:2, II, D,
+13 extended by 2021, 107:16, 159, extended by 2023, 113:24, 186 for Statewide - Life Safety Code
+14 Improvements.
+15 190. The appropriation made to the Department of Transportation in 2019, 146:2, II, H,
+16 extended by 2021, 107:16, 163, extended by 2023, 113:24, 190 for NHDOT Document Management
+17 Software.
+18 191. The appropriation made to the Department of Transportation in 2015, 220:1, XVI, A, 1,
+19 extended by 2017, 228:22, 116, extended by 2019, 146:20, 148, extended by 2021, 107:16, 174,
+20 extendedby2023,113:24,199for5%matchforfederalaviationadministrationproject.
+21 192. The appropriation made to the Department of Transportation in 2013, 195:XVI, A, 1
+22 extended by 2015, 220:23, 106, extended by 2017, 228:22, 134, extended by 2019, 146:20, 155,
+23 extendedby2021,107:16,180,extendedby2023,113:24,203for5%matchforFAAprojects.
+24 193. TheappropriationmadetothePoliceStandardsandTrainingCouncilin2023,113:1,XII,1
+25 forMoveVirTraSimulatortoReclaimClassroomSpaces.
+26 194. TheappropriationmadetothePoliceStandardsandTrainingCouncilin2023,113:1,XII,2
+27 forConvertExistingBreakroomtoClassroom.
+28 195. The appropriation made to the Police Standards and Training Council in 2019, 146:1, XIV,
+29 A, extended by 2021, 107:16, 141, extended by 2023, 113:24, 206, as amended by 2024, 101:2, XIV, A
+30 for Police Standards and Training Council facility improvements (boilers, controllers, a/c
+31 replacements,rangeventilationandfiltrationandtacticalcenterfloorreplacement).
+32 196. TheappropriationmadetotheVeteransHomein2023,113:1,XIII,1forSitewideDrainage
+33 andWaterLifeSafetyImprovements.
+34 197. The appropriation made to the Veterans Home in 2023, 113:1, XIII, 2 for Entry Life Safety
+35 Improvements.
+36 198. The appropriation made to the Veterans Home in 2021, 107:1, XII, 1, extended by 2023,
+37 113:24,207forParkingLotRepairsandImprovements.
+AmendmenttoHB25-A
+-Page24-
+1 199. The appropriation made to the Veterans Home in 2015, 220:1, XVII, A, extended by 2017,
+2 228:22,144,extendedby2019,146:20,161,extendedby2021,107:16,185,extendedby2023,113:24,
+3 208forthirdflooradditiontotheLEDUbuilding-vetshome.
+4 200. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 3 for
+5 CarrollandStraffordFreightRailImprovements.
+6 19 EffectiveDate.
+7 I. Section18ofthisactshalltakeeffectJune30,2025.
+8 II. TheremainderofthisactshalltakeeffectJuly1,2025.
+[DELETED: eClBy9,2ttoHB2Adteblbyrgalarteegcewhtef1ClA.Tesshrddaehyadfrtpssdtoted,a,adbsnI.DtofAeS1.SeEyFd12.SeHeAxRn-Pe213.SrRt54.MnBgErRt10TlseanphI$1I.CyCeSmofNwH21.GtByCyC:WeCyBginWg732.ITIe143.ClMe154.EyMtSs56TlseanphII$7I.DtofC81.NM-EcCsadCaIs292.NM-ReHCUsUgR2Rt703.NM-B,SeadDrTkRs214.NM-KnFsadEt22TlseanphII$3I.DtofE41.MdAdTyCr52.LsRnCE-MeTsPm163.MtWnVyCrThCr–etadmyf7vstsps984.RWCuRlTyCr–etadmyf9vstsps505.DrCrTlCr-CTFlSr51TlseanphIV$2V.DtofElS]
+[DELETED: ttoHB2Pe21.DmRsadRn12.DgWrSeRgFdSeMh83.SdSeMh84.CnWrSeRgFdSeMh95.WeRrBnPmIeUs1LsOrFs(gLnF*(NtSe6.SnNHRlWrInP,Pe2B5TlseanphV$0*opefsfrteasmeinphV,tesetrish1adtobwuntectoftesentegtesmof$0adfrs2pemyiebsadnsinteneofadonbfofteseofNwHei3aewhRA6.Psofpladitontebsadnsslbem4fmteWerrbnclatedinRA45V.FhadGeD61.HyPrCl27LsOrFs(hadGeF*(8NtSe92.Re5t2nTr60LsOrFs(hadGeF*(1NtSe23.IdFsEt13LsOrFs(hadGeF*(4NtSe5*opefsfrteasmeinphV,tesetrish6adtobwuntectoftesentegtesmof$0adfrs7pemyiebsadnsinteneofadonbfofteseofNwHei8aewhRA6.Psofpladitontebsadnsslbem9fmtefhadgefdedinRA20V.DtofHhadHnS11.MdEeMrSy32LsFlFs(3NtSe342.MeEySs15LsFlFs(6NtSe673.GfHeWeErRr4]
+[DELETED: ttoHB2Pe3TlseanphVI$V.DtofInT1.CyEs2TlseanphVI$I.DtofJ1.RtofCeMtSm2TlseanphIX$X.DtofMyAsadVsS1.MdRsCrAnadRn40LsFlFs(1NtSe122.MyadVsSsCs533.SeRsCrRfRt54LsFlFs(5NtSe264.PhRsCrDnadCn47LsFlFs(8NtSe195.PeRsCrAn80LsFlFs(1NtSe26.AnHrAn93LsFlFs(4NtSe5TlseanphX$6X.DtofNladClR71.CnMnAlTy282.CtLsHsRdRs693.SeLySyUs30TlseanphXI$1X.PeDtA21.MtStTlMnWfDg132.ReHradHnHrRpRr743.MtStMeTlWeReRt15TlseanphXI$6X.PeSsadTgC71.MnEeSyIs4]
+[DELETED: ttoHB2Pe4TlseanphXI$X.DtofS1.Se-AdFlTxSm22.GnReTgFy23.MnofPePnEt1LsOrFs(eF*(NtSeTlseanphXV$*opefsfrteasmeinshX,3,tesetri0hyadtobwuntectoftesentegtesmof$0adf1sdpemyiebsadnsinteneofadonbfofteseofNwH2inaewhRA6.Psofpladitontebsadnsslb3mefmterdpefdedinRA24X.UySmofNwH51.AcBgDdMeP*86TlseanphXV$7*euysmbdoftswldetetgoftepsadt8scdrantoehfmteaesma,weegpsa9a.Tebdoftsslrtontepsoftepstoteclp0owceinOradA1X.VsH21.ReTe()ArHs132.DlTkRt643.ReSn()TsadOe()BcSrSrTy154.ReFy()VnRtBs165.Ty()MlLsadIn176.TrSrNhAAadICCe18TlseanphXI$9X.DtofT01.MgFsfrTtVs312.FlSeMhfrFAPs62LsFlFs(3NtSe343.CladSdFtRlI*45TlseanphXI$6*esmadinshX,3slbemdtopefsofane7atfrehp.Tedtoftnslrtonteueoft]
+[DELETED: ttoHB2Pe5anadmgpefsfrehpttoteclptowcinOradAlfrehyroftebTlseansn1$2A;HyF;DtofT.TesshrdaeadfrtepssI.DtofT1.Se-StadSdSdRs32.Se-UdSeTkRt23.MlSs-TnMnGeRfRt104.Lr25-PlFyRt315.Pm19-PlFyRt22TlseanphI13Tlseansn2143E;G.Teasmefrtepsmdinss5ad2oftsa,whteenofasinpsIIadXVofsn1,adt6ssaefrtepsslbeedbytet,c,c,o7dthdofteisaddsrdtoh;pdttalc8adpsadpsadsstrslbeadinaewht9psofRA2IadRA204E;CyCeSmofNwH1I.TeasmefrtecycesminphIIofsn2adtessaefrtsptslbeedbytetsoftecyc3smofNwH4I.TeasmetotecycesminphIIofsn5aeaefralcsiltotecnofteptedigbtn6ldtotecsoftessfra,e,adorcsofshkda7cyastecycesmbdoftsm,inisd,whtoeyo8shtsadcsastebdd.Temsslbesturted9oftecycesmbdoftsadpttotepsadbyteb0oft1I.Ayancdintsatwhisatvewhterso2aefllwadrsslbecdbytetsoffllwa3r45E;UySmofNwH5I.TeasmefrteuysminphXVofsn1adt6ssaefrtepsslbeedbytetsofteuysmofN7H]
+[DELETED: ttoHB2Pe6I.TeasmetoteuysminphXVofsn1aaefralcsiltotecnoftepsedigbtnldtotecsoftessfra,e,adorcsofshkdacyasteuysmbdoftsm,inisd,whtoeyonstsadcsastebdd.TemsslbesturtednoteuysmbdoftsadpttotepsadbytebdoftI.Ayancdintsatwhisatvewhtersoaefllwadrsslbecdbytetsoffllwar06LdA.Ayldadurteasmeinss1ad2o1tsa,ifa,asmybeadurteanslbepdbytec2oftedtofaessortedtoftnwhtea3ofgradc47BsA.Topefsfrtetlofteasofsefsmei5ss1ad2oftsa,tesetrishyadtobwuntectoft6sentegtesmof$5adfrsdpsmyiebsadnsint7nsadonbfofteseofNwHeinaewhtepsofRA68Teseoffsaeasf:GlFd$,HyFs$,a9OrFs$08P1I.Teptofpladitonbsadnsidfrtepsins21slbemewndefmteglfdoftes3I.Teptofpladitonbsidfrtepsi4()Tehyfdpnofteasmeinsn2slbemef5tehyfdadteglfdpnfmteglf6()TefhadgefdpnofteasmeinphVofs71slbemefmtefhadgef89PsofGradC.Tegradclaehyada9e0I.Tocewhaderioshaswhteflg,ora1ayt,astymydma,toseflfsfrtepsh2I.Toatayflfswha,orbeaefraypturs31ad2bdteeda.Tentanofsefsfrayptf4whshalflfsaeadslberdbyteatofsha5f,adteatofbgadbysn7slberdbytesea]
+[DELETED: ttoHB2Pe7I.Frayflfsadurtssnbytegradc,teaslp,wn60d,teadgradclimasanilimtteclptowceadtotetyd10T.Teilptaspdinss1ad2oftsatsntbetdoredfrayorp;pdttifteisaberaranilp,whisfyfdbysef,isc,a,adfptm,sdbeoraypttfmybetdbygradc,toaorilptorp,whaeaofyfdbysef,wntessnadfmtesefgs,pdttpralofteclp0owceiso111RnofAnadBgA.Iftentanofsef2frayptpdfrbyss1ad2isddontebsofaneeo3adf,l,ororf,adifteatofshfsayrdo4aeislstnsde,tntetladctfrshpsadten5anofsefstfslberdbytesepnastepnb6whf,l,ororfsaer.Teatofbgadbysn7slberdbyteatttteanofsefsisrdpttot8s912DnofPcWsDnadCnInS;DnA0C.Teasfrtepswhaemdbytednofp1wsdnadc,dtofaes,mybeedtof2typlfrtepeofpgcninssadD3AtCessfrpsugflf,frtepsidintsa413LeofPrClB;ClAsfrteCyCeSmo5NwH6I.Teatof$3ishyldfmteudbsfmt7fgseclp8()TeanmetoteDtofAeSsin292,I,B,edby2,1,1,edby2,1,2,edby2,1044frSg-RfR1()TeanmetoteDtofCsin2,1,I,22edby2,1,57frNFRfR3()TeanmetoteDtofCsin2,1,I,34edby2,1,58frCnofTgCrfrB.TsN5()TeanmetoteDtofCsin2,1,I,56edby2,1,60frDrCrU]
+[DELETED: ttoHB2Pe8()TeanmetoteDtofCsin2,1,I,9edby2,1,64frReSmLsadT()TeanmetoteDtofCsin2,1,I,Aedby2,1,4,edby2,1,68frPrSyadFDnS()TeanmetoteDtofCsin2,1,I,Cedby2,1,4,edby2,1,70frReElS()TeanmetoteDtofCsin2,2,I,Aedby2,1,4,edby2,1,5,edby2,1,71f0TlWkCr-CeBmR1()TeanmetoteDtofCsin2,2,I,G2edby2,1,4,edby2,1,5,edby2,1,72frB3AnDnSm(4()TeanmetoteDtofEnin2,1,I,25edby2,74frPgT6()TeanmetoteDtofElSsin272,V,F,edby2,2,5,edby2,1,6,edby2,187,edby2,1,93frp,elmgadfdf9()TeanmetoteDtofHhadHnSsin201,V,8,edby2,1,13frBSSsM1()TeanmetoteDtofInTyin221,I,C,edby2,1,edby2,1,10frCy-P3E4()TeanmetoteDtofNladClRsi52,2,X,D,edby2,1,1,edby2,1,1,edb62,1,17frRsatHcS7()TeanmetoteJlBhin2,1,V,2,edb82,1,12frCsDnP9I.Tesmof$3ishyadfrtebmegJe3,27t0teCyCeSmofNwHefrITI1I.TopefsfrteasmeinphI,tesetri2hyadtobwuntectoftesentegtesmof$3adf3sdpemyiebsadnsinteneofadonbfofteseofNwH4inaewhRA6.Psofpladitontebsadnsslb5mefmteglfdoftes6I.Alcsadpsadpsadsstrfrtep7adintssnslbeadinaewhtepsofRA2]
+[DELETED: ttoHB2Pe914LeofPrClB;ClAsfrDtofTI.Teatof$7ishyldfmteudbsfmtfgseclp()TeanmetoteDtofTnin2,2,X,adby2,2,edby2,29edby2,1,81edby22,14edby2,1,1,edby2,2,1,edby22,edby2,1,1,edby2,1,1,edby2,124frrdanrtofftrlrlm()TeanmetoteDtofTnin1,2,X,C0asedby2,2,X,ad2,2,LIedby2,2,L1edby2,29LVedby2,1,64edby2,2,92edby2,11edby2,2,1,edby2,2,13edby2,1,edby2,1,1,edby2,1,25f4anfrrdadatp5I.Tesmof$7ishyadfrtebmegJe3,26toteDtofTnfrrtofrsadtsonsdaer7l8I.TopefsfrteanmeinphI,tesetri9hyadtobwuntectoftesentegtesmof$7a0frsdpemyiebsadnsinteneofadonbfofteseofN1HeinaewhRA6.Psofpladitontebsadn2slbemefmteglfdoftes3I.Alcsadpsadpsadsstrfrtep4adintssnslbeadinaewhtepsofRA2515PtPeA;JlB.Ad2,1Itordasf6V.JlB71.NHetadAdClIe182.CsDnP*59TlseanphVI$0*eglctisttfgtoceteSeCtdnptwlb1idinteseclbtfrtebmegJe3,2216PtPeA;JlB.Ad2,1,Xtordasf3X.JlB4AwHee]NHetadAdClIe15TlseanphX$617PtPeA;DtofMyAsadVsS.A72,1,Xtordasf]
+[DELETED: ttoHB2Pe10X.MyAsadVsS1.[ePn-MkC]PeRlTIeUs1LsFlFs(NtSe2.[yRyAdEyIsS]PeRlTIeUs3LsFlFs(NtSe03.GnCyFdMeSp11LsFlFs(2NtSe34.MrMyCn-CsCy94LsFlFs(5NtSe65.MrMyCn-SdCy77LsFlFs(8NtSe96.[eFyUs-MkC]MrMyC0SdCy21LsFlFs(2NtSe37.RsCrRnSe14LsFlFs(5NtSe668.Ld579.EyRyadEyIsSe5088LsFlFs(9NtSe40TlseanphX$118LeDsEdtoJe3,2.Tefgasaehye2toJe3,231.TeanmetoteDtofAeSsin2,1,I,A,4frCeG52.TeanmetoteDtofAeSsin2,1,I,A,6frRrC]
+[DELETED: ttoHB2Pe113.TeanmetoteDtofAeSsin2,1,I,B,frEyOsCr()MlRsadR4.TeanmetoteDtofAeSsin2,1,I,B,frTrBgHgZeE5.TeanmetoteDtofAeSsin2,1,I,B,frToCsfr29HnD6.TeanmetoteDtofAeSsin2,1,I,B,frPgLtRsadPg-S7.TeanmetoteDtofAeSsin2,1,I,B,0frAeBgat25HlS18.TeanmetoteDtofAeSsin2,1,I,C,2frSeEyF39.TeanmetoteDtofAeSsin2,1,I,A,24edby2,1,2frLnCtCe-ReadReU5FlSeT61.TeanmetoteDtofAeSsin2,1,I,A,37edby2,1,3frPhadDrCtCtB81.TeanmetoteDtofAeSsin2,1,I,A,49edby2,1,4frSeCeRfR01.TeanmetoteDtofAeSsin2,1,I,B,11edby2,1,5frLeSyU21.TeanmetoteDtofAeSsin2,1,I,B,23edby2,1,6frMnBgRgPe141.TeanmetoteDtofAeSsin2,1,I,B,45edby2,1,8frTrBg-ReR61.TeanmetoteDtofAeSsin2,1,I,B,57edby2,1,9frTlS:RradAtP81.TeanmetoteDtofAeSsin2,1,I,C,19edby2,1,10frNHFtMnToInCdE01.TeanmetoteDtofAeSsin2,1,I,D11,edby2,1,11frHSRfR21.TeanmetoteDtofAeSsin2,1,I,D32,edby2,1,12frHSMlRsadC41.TeanmetoteDtofAeSsin2,1,I,D53,edby2,1,13frM,J,HSUdTkR62.TeanmetoteDtofAeSsin2,1,I,D74,edby2,1,14frSyMlRsadR]
+[DELETED: ttoHB2Pe122.TeanmetoteDtofAeSsin2,1,I,D5,edby2,1,15frCsCyNwPgLtadCePaE2.TeanmetoteDtofAeSsin2,1,I,D6,edby2,1,16frHhCyCeNhCgT2.TeanmetoteDtofAeSsin2,1,I,D7,edby2,1,17frAx1-BtAAC2.TeanmetoteDtofAeSsin2,1,I,D8,edby2,1,18frDyCrMlRtadC2.TeanmetoteDtofAeSsin2,1,I,D09,edby2,1,19frHhCyShWyR12.TeanmetoteDtofAeSsin2,1,I,D21,edby2,1,20frDfBgErR32.TeanmetoteDtofAeSsin2,1,I,D41,edby2,1,21frPeII-SeAxR52.TeanmetoteDtofAeSsin2,1,I,D61,edby2,1,22frNwFePnat11L72.TeanmetoteDtofAeSsin2,1,I,D81,edby2,1,23frMnBgSrTrRsadR93.TeanmetoteDtofAeSsin2,1,I,D01,edby2,1,24frRrCtCtRtE13.TeanmetoteDtofAeSsin2,1,I,E2edby2,1,25frSeEyF33.TeanmetoteDtofAeSsin2,1,I,F4edby2,1,26frSeEyEyIsP53.TeanmetoteDtofAeSsin2,1,I,A6edby2,1,1,edby2,1,27frSeP,S7EyF83.TeanmetoteDtofAeSsin2,1,I,B93,edby2,1,4,edby2,1,29frSsStPgG0R13.TeanmetoteDtofAeSsin2,1,I,B24,edby2,1,5,edby2,1,30frSeHeAxR33.TeanmetoteDtofAeSsin2,1,I,B45,edby2,1,6,edby2,1,31frSeHeAxE5U]
+[DELETED: ttoHB2Pe133.TeanmetoteDtofAeSsin2,1,I,B6,edby2,1,7,edby2,1,32frRfRsadER3.TeanmetoteDtofAeSsin2,1,I,B8,edby2,1,9,edby2,1,33frHSadDSMR3.TeanmetoteDtofAeSsin2,1,I,C1,edby2,1,1,edby2,1,34frCdSm-ReSDtB04.TeanmetoteDtofAeSsin2,1,I,C12,edby2,1,1,edby2,1,35frEyBpG2PrToNwB34.TeanmetoteDtofAeSsin2,1,I,C43,edby2,1,1,edby2,1,36frAx1-LeS5I64.TeanmetoteDtofAeSsin2,1,I,C74,edby2,1,1,edby2,1,37frTrBg-Rea8UeElS94.TeanmetoteDtofAeSsin2,1,I,D01,edby2,1,1,edby2,1,38frRmCya1HhCyShCs-NwC,VeFyDsadC24.TeanmetoteDtofAeSsin2,1,I,D33,edby2,1,1,edby2,1,39frCsCyCe-N4B54.TeanmetoteDtofAeSsin2,1,I,D65,edby2,1,1,edby2,1,40frGs-C,C7J,L,P84.TeanmetoteDtofAeSsin2,1,I,D96,edby2,1,2,edby2,1,41frHhCySh0CkR14.TeanmetoteDtofAeSsin2,1,I,E2edby2,1,2,edby2,1,42frFlDaM,E3SyadA44.TeanmetoteDtofAeSsin2,2,I,A51,edby2,1,1,edby2,1,2,edby2,1,43f6SeEyF]
+[DELETED: ttoHB2Pe144.TeanmetoteDtofAeSsin2,2,I,B4,edby2,1,1,edby2,1,2,edby2,1,45frSOdBs-SyU5.TeanmetoteDtofAeSsin2,2,I,C1,edby2,1,2,edby2,1,3,edby2,1,46frMBgLeRfRmr5.TeanmetoteDtofAeSsin2,2,I,C3,edby2,1,2,edby2,1,3,asadby2,1,eby2,1,47frMnB,NhPnWgRfR05.TeanmetoteDtofAeSsin2,2,I,D13,edby2,1,2,edby2,1,3,edby2,1,48f2MdCtCt-NwC35.TeanmetoteDtofAeSsin2,2,I,B48,edby2,2,2,edby2,1,3,edby2,1,35edby2,1,49frseheadUmWrher65.TeanmetoteDtofAeSsin2,2,I,C71edby2,1,13edby2,2,1,edby2,2,2,e8by2,1,3,edby2,1,3,edby2,1,50frclI9i05.TeanmetoteDtofA,MsadFdin2,11I,1,edby2,1,51frRstoNHBgAtEnSsE25.TeanmetoteCyCeSmofNwHein231,X,1frClM45.TeanmetoteCyCeSmofNwHein251,X,3frNCRyTyPmTgEtadTgS6R75.TeanmetoteCyCeSmofNwHein281,X,1,edby2,1,52frClM95.TeanmetoteCyCeSmofNwHein201,I,A,edby2,1,4,edby2,1,53frClM1adS,MrP26.TeanmetoteDtofCsin2,1,I,1frR3SrLsadG46.TeanmetoteDtofCsin2,1,I,2frR5SmU66.TeanmetoteDtofCsin2,1,I,1,edb72,1,56frNMRfR]
+[DELETED: ttoHB2Pe156.TeanmetoteDtofCsin2,1,I,7,edb2,1,62frPrSyadFeDnS6.TeanmetoteDtofCsin2,1,I,8,edb2,1,63frRdSrLeadG6.TeanmetoteDtofCsin2,1,I,1,eby2,1,65frRfRt-HkadIsB6.TeanmetoteDtofCsin2,1,I,1,eby2,1,66frNHSePMDrR6.TeanmetoteDtofCsin2,1,I,edb02,1,67frNMDradCgRr-CeCyU16.TeanmetoteDtofCsin2,1,I,B,edb22,1,4,edby2,1,69frKnR36.TeanmetoteDtofEnin2,1,I,3,edb42,1,75frBlF,RnadAAM57.TeanmetoteDtofEyin2,1,I,1frF6AePm(nAePm()DeadP7M87.TeanmetoteDtofEyin2,2,V,A,edb92,1,5,edby2,1,5,edby2,1,76frFlA0PnAeP17.TeanmetoteDtofElSsin2,1,V,2frDmRsadR37.TeanmetoteDtofElSsin2,1,V,4frITI57.TeanmetoteDtofElSsin2,1,V,6frDgWrSFSeM77.TeanmetoteDtofElSsin2,1,V,8frCnWrSFSeM97.TeanmetoteDtofElSsin2,1,V,0frGdWrM17.TeanmetoteDtofElSsin2,1,V,2frWeRrBnU37.TeanmetoteDtofElSsin2,1,V,14edby2,1,77frCnWrSeRgFdSeM57.TeanmetoteDtofElSsin2,1,V,26edby2,1,78frDmRsadR]
+[DELETED: ttoHB2Pe168.TeanmetoteDtofElSsin2,1,V,3edby2,1,79frDgWrSeRgFdSeM8.TeanmetoteDtofElSsin2,1,V,4edby2,1,80frO/ITSsU8.TeanmetoteDtofElSsin2,1,V,5edby2,1,81frClFgM8.TeanmetoteDtofElSsin2,1,V,6edby2,1,82frWeRrBnPm()CnSU08.TeanmetoteDtofElSsin2,1,I1edby2,1,83frClFdM28.TeanmetoteDtofElSsin2,1,V,A3edby2,1,5,edby2,1,84frDmRsadR48.TeanmetoteDtofElSsin2,1,V,B5edby2,1,5,edby2,1,85frCnadOsF68.TeanmetoteDtofElSsin2,1,V,E7edby2,1,6,edby2,1,87frITUsFrEga8A98.TeanmetoteDtofElSsin2,2,V0F,edby2,1,6,edby2,1,6,edby2,1,88f1HsWeSdM28.TeanmetoteDtofElSsin2,2,V3H,edby2,1,6,edby2,1,6,edby2,1,90f4OeLeDmR59.TeanmetoteDtofElSsin2,2,V,B6edby2,2,5,edby2,1,6,edby2,1,6,e7by2,1,91frhswesdsem89.TeanmetoteDtofElSsin2,2,V,C9edby2,2,5,edby2,1,6,edby2,1,6,e0by2,1,92frSkrriepnp19.TeanmetoteDtofElSsin2,2,V,2edby231,47edby2,2,4,edby2,2,5,edb32,1,7,edby2,1,7,edby2,1,94frW4iecli59.TeanmetoteFhadGeCnin2,1,V,1frR6R]
+[DELETED: ttoHB2Pe179.TeanmetoteFhadGeCnin2,1,V,1,aby2,1,asedby2,1,95frFhHySC9.TeanmetoteFhadGeDtin2,1,V,A,eby2,1,7,edby2,1,96frBgSyadFeSI9.TeanmetoteDtofHhadHnSsin2,1V,1frDnfrC,YhadFs()CeCdWInSm()BsR09.TeanmetoteDtofHhadHnSsin2,11V,2frEcHhR29.TeanmetoteDtofHhadHnSsin2,13IIfrteGfWrTtI49.TeanmetoteDtofHhadHnSsin2,15V,1,edby2,1,97frBySeI61.TeanmetoteDtofHhadHnSsin2,17V,2,edby2,1,98frDFCeCdWeInS8(91.TeanmetoteDtofHhadHnSsin2,10V,3,edby2,1,99frDlSsInT1R21.TeanmetoteDtofHhadHnSsin2,13V,4,edby2,1,29frEcVtVnS41.TeanmetoteDtofHhadHnSsin2,15V,5,edby2,1,10frFlRgIyadC61.TeanmetoteDtofHhadHnSsin2,17V,7,edby2,1,12frMdMtInSm(8LeMtadR91.TeanmetoteDtofHhadHnSsin2,10V,A,edby2,1,7,edby2,1,16frDFCeC1WeInS21.TeanmetoteDtofHhadHnSsin2,13I,edby2,1,7,edby2,1,18frGfHeElS4E51.TeanmetoteDtofHhadHnSsin2,26V,B,edby2,2,6,edby2,1,8,edby2,1,87edby2,1,11frcssyG]
+[DELETED: ttoHB2Pe181.TeanmetoteDtofHhadHnSsin2,2V,F,edby2,2,6,edby2,1,8,edby2,1,8edby2,1,12frcsadadcsr1.TeanmetoteDtofInTyin2,1,V1frCyPmE1.TeanmetoteDtofInTyin2,1,V2frFlSsM1.TeanmetoteDtofInTyin2,1,V3frITSsMtS01.TeanmetoteDtofInTyin2,1,I1A,edby2,1,9,edby2,1,16frDlG2Tn(31.TeanmetoteDtofInTyin2,1,I4B,edby2,1,9,edby2,1,17frCyofOna5DrP61.TeanmetoteDtofInTyin2,2,X7B,edby2,1,1,edby2,1,1,edby2,1,18f8EeWtMt(l-E91.TeanmetoteJlBhin2,1,V,1,edby201,11frNHetadAdClI11.TeanmetoteJlBhin2,1,X,A,edby221,1,edby2,1,13frNHetadAdClI31.TeanmetoteLrCnin2,1,I,1frHnN4adShNwS51.TeanmetoteLrCnin2,1,I,2frHQLeS6I,PgL,R,adR71.TeanmetoteLrCnin2,1,I,3frR8R91.TeanmetoteLrCnin2,2,X,D,edby201,1,edby2,1,1,edby2,1,18frHnNha1ShNwLrS21.TeanmetoteLrCnin2,2,I,edby231,1,edby2,1,1,edby2,1,16frteC4hsrfrtadpgl51.TeanmetoteDtofMyAsadVsSsi62,1,X,1frNaRsCrMrMyC]
+[DELETED: ttoHB2Pe191.TeanmetoteDtofMyAsadVsSsi2,1,X,2frPhRsCrMrMyC1.TeanmetoteDtofMyAsadVsSsi2,1,X,3frSeBgI1.TeanmetoteDtofMyAsadVsSsi2,1,X,4frNaHsMlR1.TeanmetoteDtofMyAsadVsSsi2,1,X,5frLdPe-P1.TeanmetoteDtofMyAsadVsSsi02,1,X,1,edby2,1,19frPeRlTgIeU11.TeanmetoteDtofMyAsadVsSsi22,1,X,2,edby2,1,10frPeRlTgIeU31.TeanmetoteDtofMyAsadVsSsi42,1,X,3,edby2,1,11frGnCyFdMeS51.TeanmetoteDtofMyAsadVsSsi62,1,X,4,edby2,1,12frMrMyCn-CsC71.TeanmetoteDtofMyAsadVsSsi82,1,X,5,edby2,1,13frMrMyCn-SdC91.TeanmetoteDtofMyAsadVsSsi02,1,X,6,edby2,1,14frMrMyCn-SdC11.TeanmetoteDtofMyAsadVsSsi22,1,X,7,edby2,1,15frRsCrRnS31.TeanmetoteDtofMyAsadVsSsi42,1,X,8,edby2,1,16frL51.TeanmetoteDtofMyAsadVsSsi62,1,X,9,edby2,1,17frEyRyadEyI7Se581.TeanmetoteMyAsadVsSsin2,1,I,B9edby2,1,1,edby2,1,19frFlSeRsa0U11.TeanmetoteMyAsadVsSsin2,1,I,C2edby2,1,1,edby2,1,10frMrMyC3S41.TeanmetoteMyAsadVsSsin2,1,I,D5edby2,1,1,asadby2,1,edby2,1,11f6MrRsCradCdAiTmFePnR]
+[DELETED: ttoHB2Pe201.TeanmetoteMyAsadVsSsin2,1,I,Eedby2,1,1,edby2,1,12frGnCyRsCD1.TeanmetoteMyAsadVsSsin2,1,Iedby2,1,1,edby2,1,13frElHRnadLdA1.TeanmetoteMyAsadVsSsin2,2,I,edby2,2,4,edby2,1,7,edby2,1,1,edb2,1,14frldfrmyc01.TeanmetoteDtofNladClRsin211,X,1frRgadR21.TeanmetoteDtofNladClRsin231,X,2frFtadLsF41.TeanmetoteDtofNladClRsin251,X,4frMtWnStIeadEyS61.TeanmetoteDtofNladClRsin271,X,5frCtLsHsRdRsadP81.TeanmetoteDtofNladClRsin291,I,frteCtLsHsRdRsadP01.TeanmetoteDtofNladClRsin211,X,1,edby2,1,15frCnSmR21.TeanmetoteDtofNladClRsin231,X,2,edby2,1,16frTtBgU41.TeanmetoteDtofNladClRsin251,X,A,edby2,1,1,edby2,1,17frRgadR61.TeanmetoteDtofNladClRsin271,X,B,edby2,1,1,edby2,1,18frMtW8SeTtE91.TeanmetoteDtofNladClRsin201,X,D,edby2,1,1,edby2,1,10frCdT1B21.TeanmetoteDtofNladClRsin231,X,E,edby2,1,1,edby2,1,11frDeT4B51.TeanmetoteDtofNladClRsin261,X,F,edby2,1,1,edby2,1,12frMtSeS7PkBhBtR]
+[DELETED: ttoHB2Pe211.TeanmetoteDtofNladClRsin21,X,H,edby2,1,1,edby2,1,13frCeCSeAa-SeL1.TeanmetoteDtofNladClRsin21,X,I,edby2,1,1,edby2,1,14frDnaEgS;AyL;O,L,adSeSeN1.TeanmetoteDtofNladClRsin22,X,C,edby2,1,1,edby2,1,1,edby21,16frDsadRgW01.TeanmetotePeDtAyin2,1,I,e1by2,1,19frPaRrTgB21.TeanmetotePeDtAyin2,2,X,A3edby2,1,1,edby2,1,1,edby2,1,10f4PaRrTgB51.TeanmetotePedtayin2,2,X,e6by2,2,1,edby2,1,1,edby2,1,1,edb72,1,11frtePaRrTgB81.TeanmetoteDtofReAnin2,2,X9A,edby2,1,1,edby2,1,1,edby2,1,12f0ReInMtSm(11.TeanmetoteDtofSyin2,1,X,1frN2HeSePe()MeShR31.TeanmetoteDtofSyin2,1,X,2frN4HeSePe()HrI51.TeanmetoteDtofSyin2,1,I,1frN6HeSePe()MeShR71.TeanmetoteDtofSyin2,1,I,2frN8HeSePe()HrI91.TeanmetoteDtofSyin2,1,IIad1,I,a0adby2,1,edby2,1,14frSePeH1C21.TeanmetoteDtofSyin2,1,X,E,asadb32,4,asadby2,1,edby2,1,13frAnHrB4C51.TeanmetoteDtofSyin2,1,I,B,edby261,1,edby2,1,17frDVOeCrP]
+[DELETED: ttoHB2Pe221.TeanmetoteDtofSyin2,2,X,C,edb2,1,1,edby2,1,1,edby2,1,18frSePRsMtS1.TeanmetoteDtofTnin2,1,X,1fFlSeMhfrFAP1.TeanmetoteDtofTnin2,1,X,2fMgFsfrTtBsadPrA1.TeanmetoteDtofTnin2,1,X,4frCCyFtRlI01.TeanmetoteDtofTnin2,1,I,1f1Se–CtStadSdS21.TeanmetoteDtofTnin2,1,I,2f3Se–UdFlTkR41.TeanmetoteDtofTnin2,1,I,3f5Se–CwQ61.TeanmetoteDtofTnin2,1,V,f7rstordbsonsdaerdl81.TeanmetoteDtofTnin2,1,V,f9rstocsonaesdrdl01.TeanmetoteDtofTnin2,1,V,f1rdtsadinonaesdrdl21.TeanmetoteDtofTnin2,1,X,13edby2,1,19fr5%MhFrFlAnAnP41.TeanmetoteDtofTnin2,1,X,35edby2,1,11frPcTtBsadFyMgF61.TeanmetoteDtofTnin2,1,X,6,a7adby2,1,edby2,1,14frMtStMeTlP8SeM/DyG91.TeanmetoteDtofTnin2,1,I,1,e0by2,1,15frFlMtSmR11.TeanmetoteDtofTnin2,1,I,2,e2by2,1,16frLr71-SeBgR31.TeanmetoteDtofTnin2,1,I,3,e4by2,1,17frLy52-PladStSdR51.TeanmetoteDtofTnin2,1,I,5,e6by2,1,19frSe-CtStadSdS]
+[DELETED: ttoHB2Pe231.TeanmetoteDtofTnin2,1,I,6,eby2,1,10frDdPs-PlS,DtO1.TeanmetoteDtofT,GlFsin21,X,A,edby2,1,1,edby2,1,11frA,RadT,5%mhfrFlAnAnP1.TeanmetoteDtofT,GlFsin21,X,C,edby2,1,1,edby2,1,12frRstSeOdAeRdB1.TeanmetoteDtofT,GlFsin201,X,F,edby2,1,1,edby2,1,14frPcTtB1adFyMgF21.TeanmetoteDtofTnin2,1,I,D3edby2,1,1,edby2,1,16frSe-LeSyC4I51.TeanmetoteDtofTnin2,1,I,H6edby2,1,1,edby2,1,10frNTDtM7S81.TeanmetoteDtofTnin2,2,X,A,19edby2,2,1,edby2,1,1,edby2,1,10edby2,1,19fr5%mhfrflananp11.TeanmetoteDtofTnin2,1,A,2edby2,2,1,edby2,2,1,edby2,1,13edby2,1,1,edby2,1,23fr5%mhfrFAp41.TeanmetotePeSsadTgClin2,1,X,5frMeVaSrtoRmCmS61.TeanmetotePeSsadTgClin2,1,X,7frCtEgBmtoC81.TeanmetotePeSsadTgClin2,1,X9A,edby2,1,1,edby2,1,2,asadby2,1,X,0frPeSsadTgClfyis(,c,a1r,revnadfnadtlcrfrr21.TeanmetoteVsHein2,1,X,1frSeD3adWrLeSyI41.TeanmetoteVsHein2,1,X,2frEyLeS5I61.TeanmetoteVsHein2,1,X,1,edby271,27frPgLtRsadI]
+[DELETED: ttoHB2Pe241.TeanmetoteVsHein2,2,X,A,edby22,1,edby2,1,1,edby2,1,1,edby2,128frtdfrantoteLUbg-vsh2.TeanmetoteDtofTnin2,1,X,3fCladSdFtRlI19EeDI.Sn18oftsatslteetJe3,2I.TerroftsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SenateCapitalBudget
+May9,2025
+2025-2039s
+07/05
+AmendmenttoHB25-A
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 Capital Appropriations. The sums hereinafter detailed are hereby appropriated for the
+4 projectsspecifiedtothedepartments,agencies,andbranchesnamed:
+5 I. DepartmentofAdministrativeServices
+6 1. StatewideEmergencyFund 1,500,000
+7 2. StateHouseAnnexRenovation-Phase2 12,250,000
+8 3. SprinklerReplacement 550,000
+9 4. MainBuildingElevatorReplacement 1,100,000
+10 TotalstateappropriationparagraphI $15,400,000
+11 II. CommunityCollegeSystemofNewHampshire
+12 1. GreatBayCommunityCollege:WorkforceCapacityBuildinginWelding 700,000
+13 2. ITInfrastructure 150,487
+14 3. CriticalMaintenance 1,300,000
+15 4. EnergyManagementSystems 500,000
+16 TotalstateappropriationparagraphII $2,650,487
+17 III. DepartmentofCorrections
+18 1. NHSP/M-ElectronicControlsandCameraInstallations 2,000,000
+19 2. NHSP/M-ReplaceHVACUnitsUsingR-22Refrigerant 7,700,000
+20 3. NHSP/M-Boiler,SurgeandDeaeratorTankReplacements 2,300,000
+21 4. NHSP/M-KitchenFixturesandEquipment 200,000
+22 TotalstateappropriationparagraphIII $12,200,000
+23 IV. DepartmentofEducation
+24 1. MilfordAppliedTechnologyCenter 1
+25 2. LakesRegionCTE-MarineTradesProgram 110,000
+26 3. MountWashingtonValleyCareerTechCenter–equipmentandmachineryfor
+27 varioustradesprograms 99,000
+28 4. RWCreteauRegionalTechnologyCenter–equipmentandmachineryfor
+29 varioustradesprograms 59,000
+30 5. DoverCareerTechnicalCenter-CATFullSimulator 55,000
+31 TotalstateappropriationparagraphIV $323,001
+32 V. DepartmentofEnvironmentalServices
+
+AmendmenttoHB25-A
+-Page2-
+1 1. DamRepairsandReconstruction 10,810,000
+2 2. DrinkingWaterStateRevolvingFundStateMatch 8,846,360
+3 3. SuperfundStateMatch 829,217
+4 4. CleanWaterStateRevolvingFundStateMatch 9,467,496
+5 5. WinnipesaukeeRiverBasinProgramInfrastructureUpgrades 19,700,000
+6 LessOtherFunds(RevolvingLoanFund)* (19,700,000)
+7 NetState 0
+8 6. SouthernNHRegionalWaterInterconnectionProject,Phase2B 5,000,000
+9 TotalstateappropriationparagraphV $34,953,073
+10 *To provide funds for the appropriations made in paragraph V, the state treasurer is hereby
+11 authorized to borrow upon the credit of the state not exceeding the sum of $19,700,000 and for said
+12 purpose may issue bonds and notes in the name of and on behalf of the state of New Hampshire in
+13 accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be made
+14 fromtheWinnipesaukeeriverbasincontrolaccountestablishedinRSA485-A:50.
+15 VI. FishandGameDepartment
+16 1. HatcheryPredatorControl 2,200,000
+17 LessOtherFunds(FishandGameFund)* (2,200,000)
+18 NetState 0
+19 2. Replace50-Foot25-TonTrailer 65,000
+20 LessOtherFunds(FishandGameFund)* (65,000)
+21 NetState 0
+22 3. InlandFisheriesEquipment 114,000
+23 LessOtherFunds(FishandGameFund)* (114,000)
+24 NetState 0
+25 *To provide funds for the appropriations made in paragraph VI, the state treasurer is hereby
+26 authorized to borrow upon the credit of the state not exceeding the sum of $2,379,000 and for said
+27 purpose may issue bonds and notes in the name of and on behalf of the state of New Hampshire in
+28 accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be made
+29 fromthefishandgamefundestablishedinRSA206:33.
+30 VII. DepartmentofHealthandHumanServices
+31 1. MedicaidEnterpriseModularStrategy 33,750,000
+32 LessFederalFunds (30,375,000)
+33 NetState 3,375,000
+34 2. ModernizeEligibilityServices 1,875,878
+35 LessFederalFunds (1,219,321)
+36 NetState 656,557
+37 3. GlencliffHomeWarehouseElevatorRepair 450,000
+
+AmendmenttoHB25-A
+-Page3-
+1 TotalstateappropriationparagraphVII $4,481,557
+2 VIII. DepartmentofInformationTechnology
+3 1. CybersecurityEnhancements 2,380,000
+4 TotalstateappropriationparagraphVIII $2,380,000
+5 IX. DepartmentofJustice
+6 1. ReplacementofCaseManagementSystem 2,231,696
+7 TotalstateappropriationparagraphIX $2,231,696
+8 X. DepartmentofMilitaryAffairsandVeteransServices
+9 1. MilfordReadinessCenterAdditionandRenovation 4,000,000
+10 LessFederalFunds (3,000,000)
+11 NetState 1,000,000
+12 2. MilitaryandVeteransServicesCenters 5,000,000
+13 3. StatewideReadinessCenterRoofReplacement 5,100,000
+14 LessFederalFunds (2,550,000)
+15 NetState 2,550,000
+16 4. PlymouthReadinessCenterDesignandConstruction 4,000,000
+17 LessFederalFunds (3,000,000)
+18 NetState 1,000,000
+19 5. PembrokeReadinessCenterAddition 8,000,000
+20 LessFederalFunds (8,000,000)
+21 NetState 0
+22 6. AviationHangarAddition/Alteration 9,000,000
+23 LessFederalFunds (9,000,000)
+24 NetState 0
+25 TotalstateappropriationparagraphX $9,550,000
+26 XI. DepartmentofNaturalandCulturalResources
+27 1. CannonMountainAerialTramway 27,225,000
+28 2. ConnecticutLakesHeadwatersRoadRepairs 650,000
+29 3. StateLibrarySecurityUpgrades/Changes 35,000
+30 TotalstateappropriationparagraphXI $27,910,000
+31 XII. PeaseDevelopmentAuthority
+32 1. MarketStreetTerminalMainWharfDredging 1,417,000
+33 2. RyeHarborandHamptonHarborRipRapRepair 765,000
+34 3. MarketStreetMarineTerminalWarehouseRemoval/OfficeReplacement 1,973.300
+35 TotalstateappropriationparagraphXII $4,155,300
+36 XIII. PoliceStandardsandTrainingCouncil
+37 1. MainEntranceSecurityImprovements 480,000
+
+AmendmenttoHB25-A
+-Page4-
+1 TotalstateappropriationparagraphXIII $480,000
+2 XIV. DepartmentofSafety
+3 1. Software-AutomatedFuelTaxSystem 2,862,000
+4 2. GunRangeTrainingFacility 2,300,000
+5 3. ModernizationofPlateProductionEquipment 1,302,950
+6 LessOtherFunds(PlateFund)* (1,302,950)
+7 NetState 0
+8 TotalstateappropriationparagraphXIV $5,162,000
+9 *To provide funds for the appropriations made in subparagraph XIV, 3, the state treasurer is
+10 herebyauthorized toborrow uponthecredit of thestatenot exceedingthesum of $1,302,950and for
+11 saidpurposemayissue bonds and notesinthename of and onbehalf of thestateof New Hampshire
+12 in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be
+13 madefromthereflectorizedplatefundestablishedinRSA228:25.
+14 XV. UniversitySystemofNewHampshire
+15 1. AcademicBuildingDeferredMaintenanceProjects* 8,000,000
+16 TotalstateappropriationparagraphXV $8,000,000
+17 *The university system board of trustees will determine the timing of the projects and the
+18 specific dollar allocation to each from the above sum available, while ensuring priorities are
+19 addressed. The board of trustees shall report on the progress of the projects to the capital project
+20 overviewcommitteeinOctoberandApril.
+21 XVI. VeteransHome
+22 1. ReplaceThree(3)AirHandlers 1,300,000
+23 2. DieselTankReplacement 60,000
+24 3. ReplaceSeven(7)TubsandOne(1)BariatricStretcherShowerTrolley 140,000
+25 4. ReplaceFifty(50)VeteranResidentBeds 155,000
+26 5. Twenty(20)MedicalLiftsandInstallation 180,000
+27 6. TarrSouth/TarrNorthASAandIPCCompliance 1,500,000
+28 TotalstateappropriationparagraphXVI $3,335,000
+29 XVII. DepartmentofTransportation
+30 1. MatchingFundsforTransitVehicles 390,000
+31 2. FederalStateMatchforFAAProjects 68,589,812
+32 LessFederalFunds (64,962,906)
+33 NetState 3,626,831
+34 3. CarrollandStraffordFreightRailImprovement* 450,000
+35 TotalstateappropriationparagraphXVII $4,466,831
+36 *The sum appropriated in subparagraph XVII, 3 shall be matched to private funds of an equal
+37 amount for each project. The department of transportation shall report on the use of the
+
+AmendmenttoHB25-A
+-Page5-
+1 appropriation and matching private funds for each project to the capital project overview committee
+2 inOctoberandAprilforeachyearofthebiennium.
+3 Totalstateappropriationsection1 $137,678,945
+4 2 Appropriation;HighwayFunds;DepartmentofTransportation. Thesumshereinafterdetailed
+5 areappropriatedfortheprojectsspecified:
+6 I. DepartmentofTransportation
+7 1. Statewide-SaltandSandShedReplacements 3,000,000
+8 2. Statewide-UndergroundStorageTankReplacement 2,000,000
+9 3. MechanicalServices-TwinMountainGarageRoofReplacement 1,206,668
+10 4. Lempster215-PatrolFacilityReplacement 3,580,380
+11 5. Pinkham109-PatrolFacilityReplacement 212,952
+12 TotalstateappropriationparagraphI 10,000,000
+13 Totalstateappropriationsection2 10,000,000
+14 3 Expenditures; General. The appropriations made for the purposes mentioned in sections 1
+15 and 2 of this act, with the exception of appropriations in paragraphs II and XV of section 1, and the
+16 sums available for those projects shall be expended by the trustees, commissions, commissioner, or
+17 department head of the institutions and departments referred to herein; provided that all contracts
+18 and projects and plans and specifications therefor shall be awarded in accordance with the
+19 provisionsofRSA21-IandRSA228.
+20 4 Expenditures;CommunityCollegeSystemofNewHampshire.
+21 I. The appropriations made for the community college system in paragraph II of section 1
+22 and the sums available for this project shall be expended by the trustees of the community college
+23 systemofNewHampshire.
+24 II. The appropriations made to the community college system in paragraph II of section 1
+25 are available for all costs incidental to the completion of the project enumerated including but not
+26 limited to the costs of the services for architects, engineers, and other consultants of such kind and
+27 capacity as the community college system board of trustees may, in its discretion, wish to employ on
+28 suchtermsandconditionsastheboarddetermines. Thesemoniesshallbespentunderthedirection
+29 of the community college system board of trustees and pursuant to the policies adopted by the board
+30 oftrustees.
+31 III. Any authorization contained in this act which is at variance with the requirements of
+32 applicable federal law and regulations shall be controlled by the terms of federal law and
+33 regulations.
+34 5 Expenditures;UniversitySystemofNewHampshire.
+35 I. The appropriations made for the university system in paragraph XV of section 1 and the
+36 sums available for these projects shall be expended by the trustees of the university system of New
+37 Hampshire.
+
+AmendmenttoHB25-A
+-Page6-
+1 II. The appropriations made to the university system in paragraph XV of section 1 are
+2 available for all costs incidental to the completion of the projects enumerated including but not
+3 limited to the costs of the services for architects, engineers, and other consultants of such kind and
+4 capacity as the university system board of trustees may, in its discretion, wish to employ on such
+5 terms and conditions as the board determines. These monies shall be spent under the direction of
+6 theuniversitysystemboardoftrusteesandpursuanttothepoliciesadoptedbytheboardoftrustees.
+7 III. Any authorization contained in this act which is at variance with the requirements of
+8 applicable federal law and regulations shall be controlled by the terms of federal law and
+9 regulations.
+10 6 Land Acquisition. Any land acquired under the appropriations made in sections 1 and 2 of
+11 this act, if any, as may be acquired under the appropriation shall be purchased by the commissioner
+12 of the department of administrative services or the department of transportation with the approval
+13 ofgovernorandcouncil.
+14 7 Bonds Authorized. To provide funds for the total of the appropriations of state funds made in
+15 sections 1 and 2 of this act, the state treasurer is hereby authorized to borrow upon the credit of the
+16 state not exceeding the sum of $171,060,895 and for said purposes may issue bonds and notes in the
+17 names and on behalf of the state of New Hampshire in accordance with the provisions of RSA 6-A.
+18 The source of funds are as follows: General Fund $137,678,945, Highway Funds $10,000,000, and
+19 OtherFunds$23,381,950.
+20 8 Payments.
+21 I. Thepaymentofprincipalandinterestonbondsandnotesissuedfortheprojectsinsection
+22 1shallbemadewhenduefromthegeneralfundofthestate.
+23 II. Thepaymentofprincipalandinterestonbondsissuedfortheprojectsin:
+24 (a) Thehighwayfundportionoftheappropriationsmadeinsection2shallbemadefrom
+25 thehighwayfundandthegeneralfundportionfromthegeneralfund.
+26 (b) ThefishandgamefundportionoftheappropriationsmadeinparagraphVof section
+27 1shallbemadefromthefishandgamefund.
+28 9 Powers of Governor and Council. The governor and council are hereby authorized and
+29 empowered:
+30 I. To cooperate with and enter into such agreements with the federal government, or any
+31 agencythereof,astheymaydeemadvisable,tosecurefederalfundsforthepurposeshereof.
+32 II. To accept any federal funds which are, or become available for any project under sections
+33 1 and 2 beyond the estimated amounts. The net appropriation of state funds for any project for
+34 which such additional federal funds are accepted shall be reduced by the amount of such additional
+35 funds,andtheamountofbondingauthorizedbysection7shallbereducedbythesameamount.
+
+AmendmenttoHB25-A
+-Page7-
+1 III.Foranyfederalfundsacceptedunderthissectionbythegovernorandcouncil,theagency
+2 shall provide, within 60 days, the approved governor and council item as an informational item to
+3 thecapitalprojectoverviewcommitteeandtothetreasurydepartment.
+4 10 Transfers. Theindividualprojectappropriationsprovidedinsections1and2ofthisactshall
+5 not be transferred or expended for any other purposes; provided that if there is a balance remaining
+6 after an individual project, which is fully funded by state funds, is completed, accepted, and final
+7 payment made, said balance or any part thereof may be transferred by governor and council, to any
+8 other individual project or projects, which are also fully funded by state funds, within the same
+9 section and from the same funding source, provided that prior approval of the capital project
+10 overviewcommitteeisobtained.
+11 11 Reduction of Appropriation and Bonding Authority. If the net appropriation of state funds
+12 for any project provided for by sections 1 and 2 is determined on the basis of an estimate of
+13 anticipated federal, local, or other funds, and if the amount of such funds actually received or
+14 available is less than said estimate, then the total authorized cost for such projects and the net
+15 appropriation of state funds thereof shall be reduced by the same proportion as the proportion by
+16 which federal, local, or other funds are reduced. The amount of bonding authorized by section 7
+17 shall be reduced by the amount that the appropriation of state funds is reduced pursuant to this
+18 section.
+19 12 Division of Public Works Design and Construction Inspection Services; Davis-Bacon Act
+20 Compliance. The appropriations for those projects which are managed by the division of public
+21 works design and construction, department of administrative services, may be expended to fund
+22 temporary personnel for the purpose of providing construction inspection services and Davis-Bacon
+23 ActComplianceservicesforprojectsutilizingfederalfunds,forthoseprojectsincludedinthisact.
+24 13 Lapseof Prior Capital Balance; Capital Appropriations for the CommunityCollege System of
+25 NewHampshire.
+26 I. The amount of $649,513 is hereby lapsed from the unencumbered balances from the
+27 followingstatecapitalprojects:
+28 (a) The appropriation made to the Department of Administrative Services in 2017,
+29 228:1, II, B,3, extended by 2019, 146:20, 15, extended by 2021, 107:16, 25, extended by 2023, 113:24,
+30 44forSpaulding-RoofReplacement.
+31 (b) The appropriation made to the Department of Corrections in 2021, 107:1, III, 2,
+32 extendedby2023,113:24,57forNNHCFRoofReplacement.
+33 (c) The appropriation made to the Department of Corrections in 2021, 107:1, III, 3,
+34 extendedby2023,113:24,58forConstructionofTrainingCenterforBldg.TradesNHCF/W.
+35 (d) The appropriation made to the Department of Corrections in 2021, 107:1, III, 5,
+36 extendedby2023,113:24,60forDoorControllerUpgrade.
+
+AmendmenttoHB25-A
+-Page8-
+1 (e) The appropriation made to the Department of Corrections in 2021, 107:1, III, 9,
+2 extendedby2023,113:24,64forReplaceSteamLinesandTraps.
+3 (f) The appropriation made to the Department of Corrections in 2019, 146:1, IV, A,
+4 extended by 2021, 107:16, 44, extended by 2023, 113:24, 68 for Perimeter Security and Fence
+5 DetectionSystems.
+6 (g) The appropriation made to the Department of Corrections in 2019, 146:1, IV, C,
+7 extendedby2021,107:16,46,extendedby2023,113:24,70forReplaceElectricalServices.
+8 (h) The appropriation made to the Department of Corrections in 2017, 228:1, IV, A,
+9 extended by 2019, 146:20, 43, extended by 2021, 107:16, 50, extended by 2023, 113:24, 71 for
+10 TransitionalWorkCenter-CompleteBathroomReplace.
+11 (i) The appropriation made to the Department of Corrections in 2017, 228:1, IV, G,
+12 extended by 2019, 146:20, 49, extended by 2021, 107:16, 54, extended by 2023, 113:24, 72 for Body
+13 Alarm/ManDownSystem(NHSP-Men).
+14 (j) The appropriation made to the Department of Education in 2021, 107:1, IV, 2,
+15 extendedby2023:24,74forPre-EngineeringTechnology.
+16 (k) The appropriation made to the Department of Environmental Services in 2015,
+17 220:1, VI, F, extended by 2017, 228:22, 53, extended by 2019, 146:20, 69, extended by 2021, 107:16,
+18 71,extendedby2023,113:24,93forpermitting,environmentalmonitoringandfloodforecasting.
+19 (l) The appropriation made to the Department of Health and Human Services in 2021,
+20 107:1,VII,8,extendedby2023,113:24,103forBEASSystemsModernization.
+21 (m) The appropriation made to the Department of Information Technology in 2019,
+22 146:1,IX,C,extendedby2021,107:16,99,extendedby2023,113:24,120forCybersecurity-Program
+23 Enhancements.
+24 (n) The appropriation made to the Department of Natural and Cultural Resources in
+25 2017, 228:1, XVIII, D, extended by 2019, 146:20, 127, extended by 2021, 107:16, 136, extended by
+26 2023,113:24,157forRestorationsatHistoricSites.
+27 (o) The appropriation made to the Judicial Branch in 2021, 107:1, VIII, 2, extended by
+28 2023,113:24,122forCourtsDigitizationProject.
+29 II. The sum of $649,513 is hereby appropriated for the biennium ending June 30, 2027 to
+30 theCommunityCollegeSystemofNewHampshireforITInfrastructure.
+31 III. To provide funds for the appropriations made in paragraph II, the state treasurer is
+32 hereby authorized to borrow upon the credit of the state not exceeding the sum of $649,513 and for
+33 saidpurposemayissue bonds and notesinthename of and onbehalf of thestateof New Hampshire
+34 in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes shall be
+35 madefromthegeneralfundofthestate.
+36 IV. All contracts and projects and plans and specifications therefor for the projects
+37 authorizedinthissectionshallbeawardedinaccordancewiththeprovisionsofRSA21-I.
+
+AmendmenttoHB25-A
+-Page9-
+1 14 LapseofPriorCapitalBalance;CapitalAppropriationsforDepartmentofTransportation.
+2 I. The amount of $825,895.97 is hereby lapsed from the unencumbered balances from the
+3 followingstatecapitalprojects:
+4 (a) The appropriation made to the Department of Transportation in 2005, 259:1, XIII, F
+5 amended by 2007, 264:20, extended by 2007, 264:29 extended by 2009, 145:19, 81 extended by 2011,
+6 253:28, 104 extended by 2013, 195:47, 110, extended by 2015, 220:23, 120, extended by 2017,
+7 228:22,142, extended by 2019, 146:20, 157, extended by 2021, 107:16, 181, extended by 2023, 113:24,
+8 204forrailroadacquisitionrightoffirstrefusalrailmatch.
+9 (b) The appropriation madeto the Department of Transportationin 1999, 226:1, XIII, C,
+10 as extended by 2001, 202:28, XXXIII, and 2003, 240:34, LXXVI extended by 2005, 259:25, LVI
+11 extended by 2007, 264:29 LXXIV extended by 2009, 145:19, 64 extended by 2011, 253:28, 98
+12 extended by 2013,195:47, 111 extended by 2015, 220:23, 121, extended by 2017, 228:22, 143,
+13 extended by 2019, 146:20,158, extended by 2021, 107:16, 182, extended by 2023, 113:24, 205 for
+14 acquisitionforrailroadandairportproperties.
+15 II. The sum of $825,895.97 is hereby appropriated for the biennium ending June 30, 2027,
+16 to the Department of Transportation for replacement of rails and ties on state-owned active railroad
+17 lines.
+18 III. To provide funds for the appropriation made in paragraph II, the state treasurer is
+19 hereby authorized to borrow upon the credit of the state not exceeding the sum of $825,895.97 and
+20 for said purpose may issue bonds and notes in the name of and on behalf of the state of New
+21 Hampshire in accordance with RSA 6-A. Payments of principal and interest on the bonds and notes
+22 shallbemadefromthegeneralfundofthestate.
+23 IV. All contracts and projects and plans and specifications therefor for the projects
+24 authorizedinthissectionshallbeawardedinaccordancewiththeprovisionsofRSA21-I.
+25 15 ProjectPurposeAmended;JudicialBranch. Amend2021,107:1,VIIItoreadasfollows:
+26 VIII. JudicialBranch
+27 1. NHe-CourtandAssociatedCriticalInfrastructure 1,100,000
+28 2. CourtsDigitizationProject* 50,000
+29 TotalstateappropriationparagraphVIII $1,150,000
+30 *The general court intends that funding to complete the Supreme Court digitization project will be
+31 includedinthestatecapitalbudgetforthebienniumendingJune30,2025.
+32 16 ProjectPurposeAmended;JudicialBranch. Amend2019,146:1,Xtoreadasfollows:
+33 X. JudicialBranch
+34 A.[NewHampshiree-Court]NHe-CourtandAssociatedCriticalInfrastructure 1,710,000
+35 TotalstateappropriationparagraphX $1,710,000
+36 17 Project Purpose Amended; Department of Military Affairs and Veterans Services. Amend
+37 2021,107:1,Xtoreadasfollows:
+
+AmendmenttoHB25-A
+-Page10-
+1 X. MilitaryAffairsandVeteransServices
+2 1. [Anti-Terrorism/Force Protection - Merrimack County] Pembroke Regional Training
+3 InstituteUpgrades 1,660,000
+4 LessFederalFunds (1,660,000)
+5 NetState 0
+6 2. [Energy Resiliency And Efficiency Improvements Statewide] Pembroke Regional Training
+7 InstituteUpgrades 3,500,000
+8 LessFederalFunds (3,500,000)
+9 NetState 0
+10 3. GraftonCountyFieldMaintenanceShop 13,700,000
+11 LessFederalFunds (13,700,000)
+12 NetState 0
+13 4. MinorMilitaryConstruction-CoosCounty 9,000,000
+14 LessFederalFunds (9,000,000)
+15 NetState 0
+16 5. MinorMilitaryConstruction-StraffordCounty 7,000,000
+17 LessFederalFunds (7,000,000)
+18 NetState 0
+19 6. [Warehouse Facility Upgrades - Merrimack County] Minor Military Construction-
+20 StraffordCounty 2,600,000
+21 LessFederalFunds (2,600,000)
+22 NetState 0
+23 7. ReadinessCenterRenovationStatewide 1,200,000
+24 LessFederalFunds (600,000)
+25 NetState 600,000
+26 8. Land 500,000
+27 9. EnergyResiliencyandEfficiencyImprovementsStatewide50/50 800,000
+28 LessFederalFunds (400,000)
+29 NetState 400,000
+30 TotalstateappropriationparagraphX $1,500,000
+31 18 Lapse Dates Extended to June 30, 2027. The following appropriations are hereby extended
+32 toJune30,2027:
+33 1. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, A, 1
+34 forCourthouseGenerators.
+35 2. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, A, 2
+36 forRochesterCourthouse.
+
+AmendmenttoHB25-A
+-Page11-
+1 3. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 1
+2 forEmergencyOperationsCenter(EOC)MechanicalReplacementsandRepairs.
+3 4. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 2
+4 forThayerBuildingHeatingZoneExpansion.
+5 5. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 3
+6 forTwoChillersfor29HazenDr.
+7 6. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 4
+8 forParkingLotRepairsandPaving-Statewide.
+9 7. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, B, 5
+10 forAcquireBuildingat25HallStreet.
+11 8. The appropriation made to the Department of Administrative Services in 2023, 113:1, I, C, 1
+12 forStatewideEmergencyFund.
+13 9. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, A, 2,
+14 extended by 2023, 113:24, 2 for Lebanon Circuit Courthouse - Remove and Replace Underground
+15 FuelStorageTank.
+16 10. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,A,3,
+17 extendedby2023,113:24,3forPortsmouthandDoverCircuitCourtBoilers.
+18 11. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,A,4,
+19 extendedby2023,113:24,4forStatewideCourthouseRoofReplacements.
+20 12. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,1,
+21 extendedby2023,113:24,5forLifeSafetyUpgrades.
+22 13. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,2,
+23 extendedby2023,113:24,6forMainBuildingRewiringPhase1.
+24 14. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,4,
+25 extendedby2023,113:24,8forThayerBuilding-ReplaceRoof.
+26 15. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,B,5,
+27 extendedby2023,113:24,9forTunnelSystem:RepairandAbandonmentPlan.
+28 16. TheappropriationmadetotheDepartmentofAdministrativeServicesin2021,107:1,I,C,1,
+29 extendedby2023,113:24,10forNHFirstMigrationToInformationCloudEnvironment.
+30 17. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+31 1,extendedby2023,113:24,11forHHSRoofReplacement.
+32 18. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+33 2,extendedby2023,113:24,12forHHS/DESMechanicalReplacementsandControls.
+34 19. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+35 3,extendedby2023,113:24,13forMorton,Johnson,HHSUndergroundTankRemoval.
+36 20. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+37 4,extendedby2023,113:24,14forSafetyMechanicalReplacementsandRepairs.
+
+AmendmenttoHB25-A
+-Page12-
+1 21. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+2 5,extendedby2023,113:24,15forCoosCountyNewParkingLotandConcretePlazaEntrance.
+3 22. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+4 6,extendedby2023,113:24,16forHillsboroughCountyCourthouseNorthCoolingTower.
+5 23. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+6 7,extendedby2023,113:24,17forAnnex1-BancroftADAConnector.
+7 24. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+8 8,extendedby2023,113:24,18forDiscoveryCenterMechanicalReplacementandControls.
+9 25. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+10 9,extendedby2023,113:24,19forHillsboroughCountySouthWalkwayRepairs.
+11 26. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+12 10,extendedby2023,113:24,20forDolloffBuildingElevatorReplacement.
+13 27. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+14 11,extendedby2023,113:24,21forPhaseII-StatehouseAnnexRenovation.
+15 28. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+16 12,extendedby2023,113:24,22forNewFirePanels-Installationat11Locations.
+17 29. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+18 13,extendedby2023,113:24,23forMainBuildingStairTowerRoofsandRepointing.
+19 30. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, D,
+20 14,extendedby2023,113:24,24forRochesterCircuitCourtReplacementEngineering.
+21 31. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, E,
+22 extendedby2023,113:24,25forStatewideEmergencyFund.
+23 32. The appropriation made to the Department of Administrative Services in 2021, 107:1, I, F,
+24 extendedby2023,113:24,26forStatewideEnergyEfficiencyImprovementsProjects.
+25 33. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, A,
+26 extended by 2021, 107:16, 1, extended by 2023, 113:24, 27 for Statewide Projects, Statewide
+27 EmergencyFunding.
+28 34. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+29 3, extended by 2021, 107:16, 4, extended by 2023, 113:24, 29 for Storrs Street Parking Garage
+30 Repairs.
+31 35. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+32 4,extendedby2021,107:16,5,extendedby2023,113:24,30forStateHouseAnnexRenovations.
+33 36. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+34 5, extended by 2021, 107:16, 6, extended by 2023, 113:24, 31 for State House Annex Elevator
+35 Upgrades.
+
+AmendmenttoHB25-A
+-Page13-
+1 37. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+2 6, extended by 2021, 107:16, 7, extended by 2023, 113:24, 32 for Roof Replacements and Exterior
+3 Repairs.
+4 38. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, B,
+5 8, extended by 2021, 107:16, 9, extended by 2023, 113:24, 33 for HHS and DES Mechanical
+6 Replacements.
+7 39. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+8 1, extended by 2021, 107:16, 10, extended by 2023, 113:24, 34 for Concord Steam - Raze Structurally
+9 DeficientBuilding.
+10 40. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+11 2, extended by 2021, 107:16, 11, extended by 2023, 113:24, 35 for Emergency Back-Up Generator
+12 PowerToNewBoilers.
+13 41. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+14 3, extended by 2021, 107:16, 12, extended by 2023, 113:24, 36 for Annex 1 - Life Safety/ADA
+15 Improvements.
+16 42. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, C,
+17 4, extended by 2021, 107:16, 13, extended by 2023, 113:24, 37 for Thayer Building - Relocate and
+18 UpgradeElectricalService.
+19 43. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+20 1, extended by 2021, 107:16, 15, extended by 2023, 113:24, 38 for Rockingham County and
+21 HillsboroughCountySouthCourthouses-NewChiller,VariableFrequencyDrivesandControls.
+22 44. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+23 3, extended by 2021, 107:16, 17, extended by 2023, 113:24, 39 for Coos County Courthouse - New
+24 Boilers.
+25 45. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+26 5, extended by 2021, 107:16, 19, extended by 2023, 113:24, 40 for Generators - Conway, Coos,
+27 Jaffrey,Lebanon,Plymouth.
+28 46. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, D,
+29 6, extended by 2021, 107:16, 20, extended by 2023, 113:24, 41 for Hillsborough County South -
+30 CellblockRenovation.
+31 47. The appropriation made to the Department of Administrative Services in 2019, 146:1, II, E,
+32 extended by 2021, 107:16, 21, extended by 2023, 113:24, 42 for Financial Data Management, ERP
+33 SustainabilityandAdvancement.
+34 48. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, A,
+35 1, extended by 2019, 146:20, 11, extended by 2021, 107:16, 23, extended by 2023, 113:24, 43 for
+36 StatewideEmergencyFunding.
+
+AmendmenttoHB25-A
+-Page14-
+1 49. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, B,
+2 4,extendedby2019,146:20,16,extendedby2021,107:16,26,extendedby2023,113:24,45forState
+3 OwnedBuildings-SecurityUpgrades.
+4 50. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, C,
+5 1,extendedby2019, 146:20,22,extended by2021,107:16,30, extendedby2023, 113:24,46for Main
+6 BldgLodgeRoofReplacement/brick/trimrepairs.
+7 51. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, C,
+8 3,extendedby2019,146:20,24,extendedby2021,107:16,32,asamendedby2023,113:15,extended
+9 by2023,113:24,47forMainBldg,NorthPavilionWingRoofReplacement.
+10 52. The appropriation made to the Department of Administrative Services in 2017, 228:1, II, D,
+11 3, extended by 2019, 146:20, 26, extended by 2021, 107:16, 33, extended by 2023, 113:24, 48 for
+12 MilfordCircuitCourt-NewCourthouse.
+13 53. The appropriation made to the Department of Administrative Services in 2015, 220:1, II, B,
+14 8, extended by 2017, 228:22, 21, extended by 2019, 146:20, 35, extended by 2021, 107:16, 38,
+15 extendedby2023,113:24,49forstatehouseandUphamWalkerhouserepairs.
+16 54. The appropriation made to the Department of Administrative Services in 2011, 253:1, II, C,
+17 1extended by2013, 195:47, 13 extended by 2015, 220:23, 18, extended by2017, 228:22, 29, extended
+18 by 2019, 146:20, 37, extended by 2021, 107:16, 39, extended by 2023, 113:24, 50 for critical IT
+19 infrastructure.
+20 55. TheappropriationmadetotheDepartmentofAgriculture,MarketsandFoodin2021,107:1,
+21 II,1,extendedby2023,113:24,51forRepairstoNHBuildingAtEasternStatesExposition.
+22 56. The appropriation made to the Community College System of New Hampshire in 2023,
+23 113:1,XVI,1forCriticalMaintenance.
+24 57. The appropriation made to the Community College System of New Hampshire in 2023,
+25 113:1, XVI, 3 for NCC Respiratory Therapy Program Teaching Equipment and Teaching Space
+26 Renovations.
+27 58. The appropriation made to the Community College System of New Hampshire in 2021,
+28 107:1,XIII,1,extendedby2023,113:24,52forCriticalMaintenance.
+29 59. The appropriation made to the Community College System of New Hampshire in 2019,
+30 146:1, III, A, extended by 2021, 107:16, 41, extended by 2023, 113:24, 53 for Critical Maintenance
+31 andSafety,MasterPlans.
+32 60. The appropriation made to the Department of Corrections in 2023, 113:1, II, 1 for Replace
+33 SewerLinesandGrinder.
+34 61. The appropriation made to the Department of Corrections in 2023, 113:1, II, 2 for Radio
+35 SystemUpgrade.
+36 62. The appropriation made to the Department of Corrections in 2021, 107:1, III, 1, extended by
+37 2023,113:24,56forNHSP/MRoofReplacement.
+
+AmendmenttoHB25-A
+-Page15-
+1 63. The appropriation made to the Department of Corrections in 2021, 107:1, III, 7, extended by
+2 2023,113:24,62forPerimeterSecurityandFenceDetectionSystems.
+3 64. The appropriation made to the Department of Corrections in 2021, 107:1, III, 8, extended by
+4 2023,113:24,63forRebuildSewerLineandGrinder.
+5 65. The appropriation made to the Department of Corrections in 2021, 107:1, III, 10, extended
+6 by2023,113:24,65forRoofReplacement-HancockandIndustriesBuildings.
+7 66. The appropriation made to the Department of Corrections in 2021, 107:1, III, 11, extended
+8 by2023,113:24,66forNHStatePrison/MDoorReplacement.
+9 67. The appropriation made to the Department of Corrections in 2021, 107:14, III, extended by
+10 2023,113:24,67forNHSPMDoorandCeilingReplace/Repair-CloseCustodyUnit.
+11 68. The appropriation made to the Department of Corrections in 2019, 146:1, IV, B, extended by
+12 2021,107:16,45,extendedby2023,113:24,69forKitchenRenovation.
+13 69. The appropriation made to the Department of Education in 2021, 107:1, IV, 3, extended by
+14 2023,113:24,75forBathrooms-AllFloors,RenovationandADAModifications.
+15 70. The appropriation made to the Department of Energy in 2023, 113:1, IV, 1 for Fuel
+16 Assistance Program (FAP)/Weatherization Assistance Program (WAP) Database and Program
+17 Management.
+18 71. The appropriation made to the Department of Energy in 2017, 228:1, VII, A, extended by
+19 2019, 146:20, 59, extended by 2021, 107:16, 57, extended by 2023, 113:24, 76 for Fuel Assistance
+20 Program/WeatherizationAssistanceProgram.
+21 72. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 1
+22 forDamRepairsandReconstruction.
+23 73. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 2
+24 forITInfrastructure.
+25 74. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 3
+26 forDrinkingWaterSRFStateMatch.
+27 75. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 4
+28 forCleanWaterSRFStateMatch.
+29 76. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 5
+30 forGroundWaterMonitoring.
+31 77. The appropriation made to the Department of Environmental Services in 2023, 113:1, V, 6
+32 forWinnipesaukeeRiverBasinUpgrade.
+33 78. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 1,
+34 extendedby2023,113:24,77forCleanWaterStateRevolvingFundStateMatch.
+35 79. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 2,
+36 extendedby2023,113:24,78forDamRepairsandReconstruction.
+
+AmendmenttoHB25-A
+-Page16-
+1 80. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 3,
+2 extendedby2023,113:24,79forDrinkingWaterStateRevolvingFundStateMatch.
+3 81. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 4,
+4 extendedby2023,113:24,80forOne-Stop/ITSystemsUpgrades.
+5 82. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 5,
+6 extendedby2023,113:24,81forCoastalFloodingModeling.
+7 83. The appropriation made to the Department of Environmental Services in 2021, 107:1, V, 6,
+8 extended by 2023, 113:24, 82 for Winnipesaukee River Basin Program (WRBP) Collection System
+9 Upgrade.
+10 84. The appropriation made to the Department of Environmental Services in 2021, 107:14, IV,
+11 extendedby2023,113:24,83forCoastalFloodModeling.
+12 85. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, A,
+13 extendedby2021,107:16,58,extendedby2023,113:24,84forDamRepairsandReconstruction.
+14 86. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, B,
+15 extendedby2021,107:16,59,extendedby2023,113:24,85forConstructionandOperationsFacility.
+16 87. The appropriation made to the Department of Environmental Services in 2019, 146:1, VI, E,
+17 extended by 2021, 107:16, 62, extended by 2023, 113:24, 87 for IT Upgrades For E-Permitting and
+18 Automation.
+19 88. The appropriation made to the Department of Environmental Services in 2017, 228:1, VIII,
+20 F, extended by 2019, 146:20, 63, extended by 2021, 107:16, 65, extended by 2023, 113:24, 88 for
+21 HazardousWasteSuperfundMatch.
+22 89. The appropriation made to the Department of Environmental Services in 2017, 228:1, VIII,
+23 H, extended by 2019, 146:20, 65, extended by 2021, 107:16, 67, extended by 2023, 113:24, 90 for
+24 OssipeeLakeDamReconstruction.
+25 90. The appropriation made to the Department of Environmental Services in 2015, 220:1, VI, B,
+26 extended by 2017, 228:22, 50, extended by 2019, 146:20, 66, extended by 2021, 107:16, 68, extended
+27 by2023,113:24,91forhazardouswastesuperfundstatematch.
+28 91. The appropriation made to the Department of Environmental Services in 2015, 220:1, VI, C,
+29 extended by 2017, 228:22, 51, extended by 2019, 146:20, 67, extended by 2021, 107:16, 69, extended
+30 by2023,113:24,92forSuncookriverinfrastructureprotectionproject.
+31 92. The appropriation made to the Department of Environmental Services in 2011, 253:1, VI, E
+32 extendedby2013195:47,47extendedby2015,220:23,48,extendedby2017,228:22,59,extendedby
+33 2019, 146:20, 71, extended by 2021, 107:16, 72, extended by 2023, 113:24, 94 for WRBP
+34 infrastructurecapitalimprovements.
+35 93. The appropriation made to the Fish and Game Commission in 2023, 113:1, VI, 1 for Roof
+36 Replacement.
+
+AmendmenttoHB25-A
+-Page17-
+1 94. The appropriation made to the Fish and Game Commission in 2021, 107:1, VI, 1, amended
+2 by 2023, 113:22, as extended by 2023, 113:24, 95 for Fish Hatchery Statewide
+3 Construction/Renovation.
+4 95. The appropriation made to the Fish and Game Department in 2019, 146:1, VII, A, extended
+5 by 2021, 107:16, 73, extended by 2023, 113:24, 96 for Building Security and Fire Safety
+6 Improvements.
+7 96. The appropriation made to the Department of Health and Human Services in 2023, 113:1,
+8 VII, 1 for Division for Children, Youth and Families (DCYF) Comprehensive Child Welfare
+9 InformationSystem(CCWIS)BridgesReplacement.
+10 97. The appropriation made to the Department of Health and Human Services in 2023, 113:1,
+11 VII,2forElectronicHealthRecords.
+12 98. The appropriation made to the Department of Health and Human Services in 2023, 113:23,
+13 IIfortheGlencliffWastewaterTreatmentImprovements.
+14 99. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+15 VII,1,extendedby2023,113:24,97forBeneficiaryServiceImprovement.
+16 100. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+17 VII, 2, extended by 2023, 113:24, 98 for DCYF Comprehensive Child Welfare Information System
+18 (CCWIS).
+19 101. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+20 VII, 3, extended by 2023, 113:24, 99 for Developmental Services Information Technology
+21 Remediation.
+22 102. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+23 VII,4,extendedby2023,113:24,209forElectronicVisitVerificationSystem.
+24 103. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+25 VII,5,extendedby2023,113:24,100forFederalReportingIntegrityandCompliance.
+26 104. The appropriation made to the Department of Health and Human Services in 2021, 107:1,
+27 VII, 7, extended by 2023, 113:24, 102 for Medicaid Management Information System (MMIS)
+28 LifecycleManagementandRe-procurement.
+29 105. The appropriation made to the Department of Health and Human Services in 2019, 146:1,
+30 VIII,A,extended by2021, 107:16,75, extendedby2023,113:24, 106for DCYFComprehensive Child
+31 WelfareInformationSystem.
+32 106. The appropriationmadetotheDepartment of Healthand HumanServices in2019, 146:14,
+33 IV,extendedby2021,107:16,77,extendedby2023,113:24,108forGlencliffHomeElectricalSystem
+34 Enhancement.
+35 107. The appropriation made to the Department of Health and Human Services in 2015, 220:1,
+36 VII, B, extended by 2017, 228:22, 64, extended by 2019, 146:20, 86, extended by 2021, 107:16, 86,
+37 extendedby2023,113:24,111forcampussecurityGlencliff.
+
+AmendmenttoHB25-A
+-Page18-
+1 108. The appropriation made to the Department of Health and Human Services in 2015, 220:1,
+2 VII, F, extended by 2017, 228:22, 68, extended by 2019, 146:20, 89, extended by 2021, 107:16, 89,
+3 extendedby2023,113:24,112forchillersandassociatedcomponentsreplacement.
+4 109. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+5 1forCybersecurityProgramEnhancements.
+6 110. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+7 2forFinancialSystemsModernization.
+8 111. The appropriation made to the Department of Information Technology in 2023, 113:1, VIII,
+9 3forITServicesManagementSystem.
+10 112. The appropriation made to the Department of Information Technology in 2019, 146:1, IX,
+11 A, extended by 2021, 107:16, 97, extended by 2023, 113:24, 116 for Digital Government
+12 Transformation(Enterprise).
+13 113. The appropriation made to the Department of Information Technology in 2019, 146:1, IX,
+14 B, extended by 2021, 107:16, 98, extended by 2023, 113:24, 117 for Continuity of Operation and
+15 DisasterPlanning.
+16 114. The appropriation made to the Department of Information Technology in 2017, 228:1, XII,
+17 B, extended by 2019, 146:20, 105, extended by 2021, 107:16, 100, extended by 2023, 113:24, 118 for
+18 EnterpriseWorkflow/DocumentMgmt(All-Enterprise).
+19 115. The appropriation made to the Judicial Branch in 2021, 107:1, VIII, 1, extended by 2023,
+20 113:24,121forNHe-CourtandAssociatedCriticalInfrastructure.
+21 116. The appropriation made to the Judicial Branch in 2019, 146:1, X, A, extended by 2021,
+22 107:16,103,extendedby2023,113:24,123forNHe-CourtandAssociatedCriticalInfrastructure.
+23 117. TheappropriationmadetotheLiquorCommissionin2023,113:1,IX,1forHamptonNorth
+24 andSouthNewStores.
+25 118. The appropriation made to the Liquor Commission in 2023, 113:1, IX, 2 for HQ Life Safety
+26 Improvements,ParkingLot,Renovation,andRoof.
+27 119. The appropriation made to the Liquor Commission in 2023, 113:1, IX, 3 for Roof
+28 Replacement.
+29 120. TheappropriationmadetotheLiquorCommissionin2017,228:1,XV,D,extendedby2019,
+30 146:20, 117, extended by 2021, 107:16, 111, extended by 2023, 113:24, 128 for Hampton North and
+31 SouthNewLiquorStores.
+32 121. The appropriation made to the Liquor Commission in 2017, 228:14, III, extended by 2019,
+33 146:20, 118, extended by 2021, 107:16, 109, extended by 2023, 113:24, 126 for the Concord
+34 headquartersroofreplacementandparkinglot.
+35 122. The appropriation made to the Department of Military Affairs and Veterans Services in
+36 2023,113:1,X,1forNashuaReadinessCenterMinorMilitaryConstruction.
+
+AmendmenttoHB25-A
+-Page19-
+1 123. The appropriation made to the Department of Military Affairs and Veterans Services in
+2 2023,113:1,X,2forPlymouthReadinessCenterMinorMilitaryConstruction.
+3 124. The appropriation made to the Department of Military Affairs and Veterans Services in
+4 2023,113:1,X,3forStatewideBuildingImprovements.
+5 125. The appropriation made to the Department of Military Affairs and Veterans Services in
+6 2023,113:1,X,4forNashuaHazardousMaterialRemediation.
+7 126. The appropriation made to the Department of Military Affairs and Veterans Services in
+8 2023,113:1,X,5forLandPurchase-Pembroke.
+9 127. The appropriation made to the Department of Military Affairs and Veterans Services in
+10 2021,107:1,X,1,extendedby2023,113:24,129forPembrokeRegionalTrainingInstituteUpgrades.
+11 128. The appropriation made to the Department of Military Affairs and Veterans Services in
+12 2021,107:1,X,2,extendedby2023,113:24,130forPembrokeRegionalTrainingInstituteUpgrades.
+13 129. The appropriation made to the Department of Military Affairs and Veterans Services in
+14 2021,107:1,X,3,extendedby2023,113:24,131forGraftonCountyFieldMaintenanceShop.
+15 130. The appropriation made to the Department of Military Affairs and Veterans Services in
+16 2021,107:1,X,4,extendedby2023,113:24,132forMinorMilitaryConstruction-CoosCounty.
+17 131. The appropriation made to the Department of Military Affairs and Veterans Services in
+18 2021,107:1,X,5,extendedby2023,113:24,133forMinorMilitaryConstruction-StraffordCounty.
+19 132. The appropriation made to the Department of Military Affairs and Veterans Services in
+20 2021,107:1,X,6,extendedby2023,113:24,134forMinorMilitaryConstruction-StraffordCounty.
+21 133. The appropriation made to the Department of Military Affairs and Veterans Services in
+22 2021,107:1,X,7,extendedby2023,113:24,135forReadinessCenterRenovationStatewide.
+23 134. The appropriation made to the Department of Military Affairs and Veterans Services in
+24 2021,107:1,X,8,extendedby2023,113:24,136forLand.
+25 135. The appropriation made to the Department of Military Affairs and Veterans Services in
+26 2021, 107:1, X, 9, extended by 2023, 113:24, 137 for Energy Resiliency and Efficiency Improvements
+27 Statewide50/50.
+28 136. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, B,
+29 extended by 2021, 107:16, 113, extended by 2023, 113:24, 139 for Federal Statewide Repairs and
+30 Upgrades.
+31 137. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, C,
+32 extended by 2021, 107:16, 114, extended by 2023, 113:24, 140 for Minor Military Construction
+33 Statewide.
+34 138. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, D,
+35 extended by 2021, 107:16, 115, as amended by 2023, 113:16, extended by 2023, 113:24, 141 for
+36 ManchesterReadinessCenterandConcordAnti‐TerrorismForceProtectionRenovations.
+
+AmendmenttoHB25-A
+-Page20-
+1 139. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:1, I, E,
+2 extended by 2021, 107:16, 116, extended by 2023, 113:24, 142 for Grafton County Readiness Center
+3 Design.
+4 140. The appropriation made to the Military Affairs and Veterans Services in 2019, 146:14, II,
+5 extended by 2021, 107:16, 118, extended by 2023, 113:24, 143 for Environmental Hazard
+6 RemediationandLandAcquisition.
+7 141. The appropriation made to the Military Affairs and Veterans Services in 2015, 220:1, I, D
+8 extendedby2017,228:22,4,extendedby2019,146:20,7,extendedby2021,107:16,122,extendedby
+9 2023,113:24,144forlandformilitaryconstruction.
+10 142. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+11 113:1,XI,1forRoofingandRepair.
+12 143. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+13 113:1,XI,2forForestandLandsFacilities.
+14 144. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+15 113:1,XI,4forMountWashingtonSummitInfrastructureandEcologyStudy.
+16 145. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+17 113:1,XI,5forConnecticutLakesHeadwatersRoadRepairsandPaving.
+18 146. The appropriation made to the Department of Natural and Cultural Resources in 2023,
+19 113:23,III,fortheConnecticutLakesHeadwatersRoadRepairsandPaving.
+20 147. The appropriation made to the Department of Natural and Cultural Resources in 2021,
+21 107:1,XI,1,extendedby2023,113:24,145forCommunicationSystemReplacement.
+22 148. The appropriation made to the Department of Natural and Cultural Resources in 2021,
+23 107:1,XI,2,extendedby2023,113:24,146forToiletBuildingUpgrades.
+24 149. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+25 146:1,XII,A,extendedby2021,107:16,125,extendedby2023,113:24,147forRoofingandRepair.
+26 150. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+27 146:1, XII, B, extended by 2021, 107:16, 126, extended by 2023, 113:24, 148 for Mount Washington
+28 SewageTreatmentExpansion.
+29 151. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+30 146:1, XII, D, extended by 2021, 107:16, 128, extended by 2023, 113:24, 150 for Campground Toilet
+31 Buildings.
+32 152. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+33 146:1, XII, E, extended by 2021, 107:16, 129, extended by 2023, 113:24, 151 for Day-Use Toilet
+34 Buildings.
+35 153. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+36 146:1,XII,F,extendedby2021,107:16,130,extendedby2023,113:24,152forMountSunapeeState
+37 ParkBeachBoatRamp.
+
+AmendmenttoHB25-A
+-Page21-
+1 154. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+2 146:1, XII, H, extended by 2021, 107:16, 132, extended by 2023, 113:24, 153 for Climate Controlled
+3 StorageArea-StateLibrary.
+4 155. The appropriation made to the Department of Natural and Cultural Resources in 2019,
+5 146:1, XII, I, extended by 2021, 107:16, 133, extended by 2023, 113:24, 154 for Design and
+6 EngineeringServices;ArchaeologyLab;Office,Lab,andStorageSpaceNeeds.
+7 156. The appropriation made to the Department of Natural and Cultural Resources in 2017,
+8 228:1, XVIII, C, extended by 2019, 146:20, 126, extended by 2021, 107:16, 135, extended by 2023,
+9 113:24,156forDamsandRetainingWalls.
+10 157. The appropriation made to the Pease Development Authority in 2021, 107:14, II, extended
+11 by2023,113:24,159forPiscataquaRiverTurningBasin.
+12 158. The appropriation made to the Pease Development Authority in 2017, 228:1, XVI, A,
+13 extended by 2019, 146:20, 122, extended by 2021, 107:16, 138, extended by 2023, 113:24, 160 for
+14 PiscataquaRiverTurningBasin.
+15 159. The appropriation made to the Pease development authority in 2015, 220:1, XII, extended
+16 by 2017, 228:22, 102, extended by 2019, 146:20, 123, extended by 2021, 107:16, 139, extended by
+17 2023,113:24,161forthePiscataquaRiverTurningBasin.
+18 160. TheappropriationmadetotheDepartment ofRevenue Administrationin2017, 228:1, XIX,
+19 A, extended by 2019, 146:20, 130, extended by 2021, 107:16, 140, extended by 2023, 113:24, 162 for
+20 RevenueInformationManagementSystem(RIMS).
+21 161. The appropriation made to the Department of Safety in 2023, 113:1, XIV, 1 for New
+22 HampshireStatePolice(NHSP)MessageSwitchReplacement.
+23 162. The appropriation made to the Department of Safety in 2023, 113:1, XIV, 2 for New
+24 HampshireStatePolice(NHSP)HelicopterImprovement.
+25 163. The appropriation made to the Department of Safety in 2023, 113:2, I, 1 for New
+26 HampshireStatePolice(NHSP)MessageSwitchReplacement.
+27 164. The appropriation made to the Department of Safety in 2023, 113:2, I, 2 for New
+28 HampshireStatePolice(NHSP)HelicopterImprovement.
+29 165. The appropriation made to the Department of Safety in 2021, 107:12, II and 13, II, as
+30 amended by 2023, 113:18, extended by 2023, 113:24, 164 for State Police Hangar
+31 Construction/Renovation.
+32 166. The appropriation made to the Department of Safety in 2019, 146:1, XV, E, as amended by
+33 2022, 47:2, as amended by 2023, 113:20, extended by 2023, 113:24, 163 for Aviation Hangar Bay
+34 Construction/Renovation.
+35 167. TheappropriationmadetotheDepartmentofSafetyin2019,146:2,I,B,extendedby2021,
+36 107:16,147,extendedby2023,113:24,167forDMVOnlineCustomerPortal.
+
+AmendmenttoHB25-A
+-Page22-
+1 168. The appropriation made to the Department of Safety in 2017, 228:1, XX, C, extended by
+2 2019, 146:20, 132, extended by 2021, 107:16, 148, extended by 2023, 113:24, 168 for State Police
+3 RecordsManagementSystem.
+4 169. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 1 for
+5 FederalStateMatchforFAAProjects.
+6 170. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 2 for
+7 MatchingFundsforTransitBusesandPassengerAmenities.
+8 171. TheappropriationmadetotheDepartmentofTransportationin2023,113:1,XV,4forCoos
+9 CountyFreightRailImprovements.
+10 172. The appropriation made to the Department of Transportation in 2023, 113:2, II, 1 for
+11 Statewide–ConstructSaltandSandShed.
+12 173. The appropriation made to the Department of Transportation in 2023, 113:2, II, 2 for
+13 Statewide–UndergroundFuelTankReplacement.
+14 174. The appropriation made to the Department of Transportation in 2023, 113:2, II, 3 for
+15 Statewide–CrewQuarters.
+16 175. The appropriation made to the Department of Transportation in 2023, 113:23, V, for
+17 repairstorailroadbridgesonstate-ownedactiverailroadlines.
+18 176. The appropriation made to the Department of Transportation in 2023, 113:23, VI, for
+19 repairstoculvertsonactivestate-ownedrailroadlines.
+20 177. The appropriation made to the Department of Transportation in 2023, 113:23, VII, for
+21 railroadtiesandinstallationonactivestate-ownedrailroadlines.
+22 178. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 1,
+23 extendedby2023,113:24,169for5%MatchForFederalAviationAdministrationProjects.
+24 179. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 3,
+25 extendedby2023,113:24,171forPublicTransitBusandFacilityMatchingFunds.
+26 180. The appropriation made to the Department of Transportation in 2021, 107:1, XIV, 6, as
+27 amended by 2023, 113:21, extended by 2023, 113:24, 174 for Market Street Marine Terminal Project
+28 StateMatch/DiscretionaryGrants.
+29 181. The appropriation made to the Department of Transportation in 2021, 107:2, I, 1, extended
+30 by2023,113:24,175forFuelManagementSystemReplacement.
+31 182. The appropriation made to the Department of Transportation in 2021, 107:2, I, 2, extended
+32 by2023,113:24,176forLancaster701-StorageBuildingReplacement.
+33 183. The appropriation made to the Department of Transportation in 2021, 107:2, I, 3, extended
+34 by2023,113:24,177forLondonderry512-PatrolandSaltShedReplacements.
+35 184. The appropriation made to the Department of Transportation in 2021, 107:2, I, 5, extended
+36 by2023,113:24,179forStatewide-ConstructSaltandSandSheds.
+
+AmendmenttoHB25-A
+-Page23-
+1 185. The appropriation made to the Department of Transportation in 2021, 107:2, I, 6, extended
+2 by2023,113:24,180forDelayedProjects-PatrolSheds,DistrictOffice.
+3 186. The appropriation made to the Department of Transportation, General Funds in 2019,
+4 146:1, XVI, A, extended by 2021, 107:16, 151, extended by 2023, 113:24, 181 for Aeronautics, Rail,
+5 andTransit,5%matchforFederalAviationAdministrationProjects.
+6 187. The appropriation made to the Department of Transportation, General Funds in 2019,
+7 146:1, XVI, C, extended by 2021, 107:16, 152, extended by 2023, 113:24, 182 for Repairs to
+8 State‐OwnedActiveRailroadBridges.
+9 188. The appropriation made to the Department of Transportation, General Funds in 2019,
+10 146:1, XVI, F, extended by 2021, 107:16, 155, extended by 2023, 113:24, 184 for Public Transit Bus
+11 andFacilityMatchingFunds.
+12 189. The appropriation made to the Department of Transportation in 2019, 146:2, II, D,
+13 extended by 2021, 107:16, 159, extended by 2023, 113:24, 186 for Statewide - Life Safety Code
+14 Improvements.
+15 190. The appropriation made to the Department of Transportation in 2019, 146:2, II, H,
+16 extended by 2021, 107:16, 163, extended by 2023, 113:24, 190 for NHDOT Document Management
+17 Software.
+18 191. The appropriation made to the Department of Transportation in 2015, 220:1, XVI, A, 1,
+19 extended by 2017, 228:22, 116, extended by 2019, 146:20, 148, extended by 2021, 107:16, 174,
+20 extendedby2023,113:24,199for5%matchforfederalaviationadministrationproject.
+21 192. The appropriation made to the Department of Transportation in 2013, 195:XVI, A, 1
+22 extended by 2015, 220:23, 106, extended by 2017, 228:22, 134, extended by 2019, 146:20, 155,
+23 extendedby2021,107:16,180,extendedby2023,113:24,203for5%matchforFAAprojects.
+24 193. TheappropriationmadetothePoliceStandardsandTrainingCouncilin2023,113:1,XII,1
+25 forMoveVirTraSimulatortoReclaimClassroomSpaces.
+26 194. TheappropriationmadetothePoliceStandardsandTrainingCouncilin2023,113:1,XII,2
+27 forConvertExistingBreakroomtoClassroom.
+28 195. The appropriation made to the Police Standards and Training Council in 2019, 146:1, XIV,
+29 A, extended by 2021, 107:16, 141, extended by 2023, 113:24, 206, as amended by 2024, 101:2, XIV, A
+30 for Police Standards and Training Council facility improvements (boilers, controllers, a/c
+31 replacements,rangeventilationandfiltrationandtacticalcenterfloorreplacement).
+32 196. TheappropriationmadetotheVeteransHomein2023,113:1,XIII,1forSitewideDrainage
+33 andWaterLifeSafetyImprovements.
+34 197. The appropriation made to the Veterans Home in 2023, 113:1, XIII, 2 for Entry Life Safety
+35 Improvements.
+36 198. The appropriation made to the Veterans Home in 2021, 107:1, XII, 1, extended by 2023,
+37 113:24,207forParkingLotRepairsandImprovements.
+
+AmendmenttoHB25-A
+-Page24-
+1 199. The appropriation made to the Veterans Home in 2015, 220:1, XVII, A, extended by 2017,
+2 228:22,144,extendedby2019,146:20,161,extendedby2021,107:16,185,extendedby2023,113:24,
+3 208forthirdflooradditiontotheLEDUbuilding-vetshome.
+4 200. The appropriation made to the Department of Transportation in 2023, 113:1, XV, 3 for
+5 CarrollandStraffordFreightRailImprovements.
+6 19 EffectiveDate.
+7 I. Section18ofthisactshalltakeeffectJune30,2025.
+8 II. TheremainderofthisactshalltakeeffectJuly1,2025.
+
+[DELETED: eClBy9,2ttoHB2Adteblbyrgalarteegcewhtef1ClA.Tesshrddaehyadfrtpssdtoted,a,adbsnI.DtofAeS1.SeEyFd12.SeHeAxRn-Pe213.SrRt54.MnBgErRt10TlseanphI$1I.CyCeSmofNwH21.GtByCyC:WeCyBginWg732.ITIe143.ClMe154.EyMtSs56TlseanphII$7I.DtofC81.NM-EcCsadCaIs292.NM-ReHCUsUgR2Rt703.NM-B,SeadDrTkRs214.NM-KnFsadEt22TlseanphII$3I.DtofE41.MdAdTyCr52.LsRnCE-MeTsPm163.MtWnVyCrThCr–etadmyf7vstsps984.RWCuRlTyCr–etadmyf9vstsps505.DrCrTlCr-CTFlSr51TlseanphIV$2V.DtofElS]
+[DELETED: ttoHB2Pe21.DmRsadRn12.DgWrSeRgFdSeMh83.SdSeMh84.CnWrSeRgFdSeMh95.WeRrBnPmIeUs1LsOrFs(gLnF*(NtSe6.SnNHRlWrInP,Pe2B5TlseanphV$0*opefsfrteasmeinphV,tesetrish1adtobwuntectoftesentegtesmof$0adfrs2pemyiebsadnsinteneofadonbfofteseofNwHei3aewhRA6.Psofpladitontebsadnsslbem4fmteWerrbnclatedinRA45V.FhadGeD61.HyPrCl27LsOrFs(hadGeF*(8NtSe92.Re5t2nTr60LsOrFs(hadGeF*(1NtSe23.IdFsEt13LsOrFs(hadGeF*(4NtSe5*opefsfrteasmeinphV,tesetrish6adtobwuntectoftesentegtesmof$0adfrs7pemyiebsadnsinteneofadonbfofteseofNwHei8aewhRA6.Psofpladitontebsadnsslbem9fmtefhadgefdedinRA20V.DtofHhadHnS11.MdEeMrSy32LsFlFs(3NtSe342.MeEySs15LsFlFs(6NtSe673.GfHeWeErRr4]
+[DELETED: ttoHB2Pe3TlseanphVI$V.DtofInT1.CyEs2TlseanphVI$I.DtofJ1.RtofCeMtSm2TlseanphIX$X.DtofMyAsadVsS1.MdRsCrAnadRn40LsFlFs(1NtSe122.MyadVsSsCs533.SeRsCrRfRt54LsFlFs(5NtSe264.PhRsCrDnadCn47LsFlFs(8NtSe195.PeRsCrAn80LsFlFs(1NtSe26.AnHrAn93LsFlFs(4NtSe5TlseanphX$6X.DtofNladClR71.CnMnAlTy282.CtLsHsRdRs693.SeLySyUs30TlseanphXI$1X.PeDtA21.MtStTlMnWfDg132.ReHradHnHrRpRr743.MtStMeTlWeReRt15TlseanphXI$6X.PeSsadTgC71.MnEeSyIs4]
+[DELETED: ttoHB2Pe4TlseanphXI$X.DtofS1.Se-AdFlTxSm22.GnReTgFy23.MnofPePnEt1LsOrFs(eF*(NtSeTlseanphXV$*opefsfrteasmeinshX,3,tesetri0hyadtobwuntectoftesentegtesmof$0adf1sdpemyiebsadnsinteneofadonbfofteseofNwH2inaewhRA6.Psofpladitontebsadnsslb3mefmterdpefdedinRA24X.UySmofNwH51.AcBgDdMeP*86TlseanphXV$7*euysmbdoftswldetetgoftepsadt8scdrantoehfmteaesma,weegpsa9a.Tebdoftsslrtontepsoftepstoteclp0owceinOradA1X.VsH21.ReTe()ArHs132.DlTkRt643.ReSn()TsadOe()BcSrSrTy154.ReFy()VnRtBs165.Ty()MlLsadIn176.TrSrNhAAadICCe18TlseanphXI$9X.DtofT01.MgFsfrTtVs312.FlSeMhfrFAPs62LsFlFs(3NtSe343.CladSdFtRlI*45TlseanphXI$6*esmadinshX,3slbemdtopefsofane7atfrehp.Tedtoftnslrtonteueoft]
+[DELETED: ttoHB2Pe5anadmgpefsfrehpttoteclptowcinOradAlfrehyroftebTlseansn1$2A;HyF;DtofT.TesshrdaeadfrtepssI.DtofT1.Se-StadSdSdRs32.Se-UdSeTkRt23.MlSs-TnMnGeRfRt104.Lr25-PlFyRt315.Pm19-PlFyRt22TlseanphI13Tlseansn2143E;G.Teasmefrtepsmdinss5ad2oftsa,whteenofasinpsIIadXVofsn1,adt6ssaefrtepsslbeedbytet,c,c,o7dthdofteisaddsrdtoh;pdttalc8adpsadpsadsstrslbeadinaewht9psofRA2IadRA204E;CyCeSmofNwH1I.TeasmefrtecycesminphIIofsn2adtessaefrtsptslbeedbytetsoftecyc3smofNwH4I.TeasmetotecycesminphIIofsn5aeaefralcsiltotecnofteptedigbtn6ldtotecsoftessfra,e,adorcsofshkda7cyastecycesmbdoftsm,inisd,whtoeyo8shtsadcsastebdd.Temsslbesturted9oftecycesmbdoftsadpttotepsadbyteb0oft1I.Ayancdintsatwhisatvewhterso2aefllwadrsslbecdbytetsoffllwa3r45E;UySmofNwH5I.TeasmefrteuysminphXVofsn1adt6ssaefrtepsslbeedbytetsofteuysmofN7H]
+[DELETED: ttoHB2Pe6I.TeasmetoteuysminphXVofsn1aaefralcsiltotecnoftepsedigbtnldtotecsoftessfra,e,adorcsofshkdacyasteuysmbdoftsm,inisd,whtoeyonstsadcsastebdd.TemsslbesturtednoteuysmbdoftsadpttotepsadbytebdoftI.Ayancdintsatwhisatvewhtersoaefllwadrsslbecdbytetsoffllwar06LdA.Ayldadurteasmeinss1ad2o1tsa,ifa,asmybeadurteanslbepdbytec2oftedtofaessortedtoftnwhtea3ofgradc47BsA.Topefsfrtetlofteasofsefsmei5ss1ad2oftsa,tesetrishyadtobwuntectoft6sentegtesmof$5adfrsdpsmyiebsadnsint7nsadonbfofteseofNwHeinaewhtepsofRA68Teseoffsaeasf:GlFd$,HyFs$,a9OrFs$08P1I.Teptofpladitonbsadnsidfrtepsins21slbemewndefmteglfdoftes3I.Teptofpladitonbsidfrtepsi4()Tehyfdpnofteasmeinsn2slbemef5tehyfdadteglfdpnfmteglf6()TefhadgefdpnofteasmeinphVofs71slbemefmtefhadgef89PsofGradC.Tegradclaehyada9e0I.Tocewhaderioshaswhteflg,ora1ayt,astymydma,toseflfsfrtepsh2I.Toatayflfswha,orbeaefraypturs31ad2bdteeda.Tentanofsefsfrayptf4whshalflfsaeadslberdbyteatofsha5f,adteatofbgadbysn7slberdbytesea]
+[DELETED: ttoHB2Pe7I.Frayflfsadurtssnbytegradc,teaslp,wn60d,teadgradclimasanilimtteclptowceadtotetyd10T.Teilptaspdinss1ad2oftsatsntbetdoredfrayorp;pdttifteisaberaranilp,whisfyfdbysef,isc,a,adfptm,sdbeoraypttfmybetdbygradc,toaorilptorp,whaeaofyfdbysef,wntessnadfmtesefgs,pdttpralofteclp0owceiso111RnofAnadBgA.Iftentanofsef2frayptpdfrbyss1ad2isddontebsofaneeo3adf,l,ororf,adifteatofshfsayrdo4aeislstnsde,tntetladctfrshpsadten5anofsefstfslberdbytesepnastepnb6whf,l,ororfsaer.Teatofbgadbysn7slberdbyteatttteanofsefsisrdpttot8s912DnofPcWsDnadCnInS;DnA0C.Teasfrtepswhaemdbytednofp1wsdnadc,dtofaes,mybeedtof2typlfrtepeofpgcninssadD3AtCessfrpsugflf,frtepsidintsa413LeofPrClB;ClAsfrteCyCeSmo5NwH6I.Teatof$3ishyldfmteudbsfmt7fgseclp8()TeanmetoteDtofAeSsin292,I,B,edby2,1,1,edby2,1,2,edby2,1044frSg-RfR1()TeanmetoteDtofCsin2,1,I,22edby2,1,57frNFRfR3()TeanmetoteDtofCsin2,1,I,34edby2,1,58frCnofTgCrfrB.TsN5()TeanmetoteDtofCsin2,1,I,56edby2,1,60frDrCrU]
+[DELETED: ttoHB2Pe8()TeanmetoteDtofCsin2,1,I,9edby2,1,64frReSmLsadT()TeanmetoteDtofCsin2,1,I,Aedby2,1,4,edby2,1,68frPrSyadFDnS()TeanmetoteDtofCsin2,1,I,Cedby2,1,4,edby2,1,70frReElS()TeanmetoteDtofCsin2,2,I,Aedby2,1,4,edby2,1,5,edby2,1,71f0TlWkCr-CeBmR1()TeanmetoteDtofCsin2,2,I,G2edby2,1,4,edby2,1,5,edby2,1,72frB3AnDnSm(4()TeanmetoteDtofEnin2,1,I,25edby2,74frPgT6()TeanmetoteDtofElSsin272,V,F,edby2,2,5,edby2,1,6,edby2,187,edby2,1,93frp,elmgadfdf9()TeanmetoteDtofHhadHnSsin201,V,8,edby2,1,13frBSSsM1()TeanmetoteDtofInTyin221,I,C,edby2,1,edby2,1,10frCy-P3E4()TeanmetoteDtofNladClRsi52,2,X,D,edby2,1,1,edby2,1,1,edb62,1,17frRsatHcS7()TeanmetoteJlBhin2,1,V,2,edb82,1,12frCsDnP9I.Tesmof$3ishyadfrtebmegJe3,27t0teCyCeSmofNwHefrITI1I.TopefsfrteasmeinphI,tesetri2hyadtobwuntectoftesentegtesmof$3adf3sdpemyiebsadnsinteneofadonbfofteseofNwH4inaewhRA6.Psofpladitontebsadnsslb5mefmteglfdoftes6I.Alcsadpsadpsadsstrfrtep7adintssnslbeadinaewhtepsofRA2]
+[DELETED: ttoHB2Pe914LeofPrClB;ClAsfrDtofTI.Teatof$7ishyldfmteudbsfmtfgseclp()TeanmetoteDtofTnin2,2,X,adby2,2,edby2,29edby2,1,81edby22,14edby2,1,1,edby2,2,1,edby22,edby2,1,1,edby2,1,1,edby2,124frrdanrtofftrlrlm()TeanmetoteDtofTnin1,2,X,C0asedby2,2,X,ad2,2,LIedby2,2,L1edby2,29LVedby2,1,64edby2,2,92edby2,11edby2,2,1,edby2,2,13edby2,1,edby2,1,1,edby2,1,25f4anfrrdadatp5I.Tesmof$7ishyadfrtebmegJe3,26toteDtofTnfrrtofrsadtsonsdaer7l8I.TopefsfrteanmeinphI,tesetri9hyadtobwuntectoftesentegtesmof$7a0frsdpemyiebsadnsinteneofadonbfofteseofN1HeinaewhRA6.Psofpladitontebsadn2slbemefmteglfdoftes3I.Alcsadpsadpsadsstrfrtep4adintssnslbeadinaewhtepsofRA2515PtPeA;JlB.Ad2,1Itordasf6V.JlB71.NHetadAdClIe182.CsDnP*59TlseanphVI$0*eglctisttfgtoceteSeCtdnptwlb1idinteseclbtfrtebmegJe3,2216PtPeA;JlB.Ad2,1,Xtordasf3X.JlB4AwHee]NHetadAdClIe15TlseanphX$617PtPeA;DtofMyAsadVsS.A72,1,Xtordasf]
+[DELETED: ttoHB2Pe10X.MyAsadVsS1.[ePn-MkC]PeRlTIeUs1LsFlFs(NtSe2.[yRyAdEyIsS]PeRlTIeUs3LsFlFs(NtSe03.GnCyFdMeSp11LsFlFs(2NtSe34.MrMyCn-CsCy94LsFlFs(5NtSe65.MrMyCn-SdCy77LsFlFs(8NtSe96.[eFyUs-MkC]MrMyC0SdCy21LsFlFs(2NtSe37.RsCrRnSe14LsFlFs(5NtSe668.Ld579.EyRyadEyIsSe5088LsFlFs(9NtSe40TlseanphX$118LeDsEdtoJe3,2.Tefgasaehye2toJe3,231.TeanmetoteDtofAeSsin2,1,I,A,4frCeG52.TeanmetoteDtofAeSsin2,1,I,A,6frRrC]
+[DELETED: ttoHB2Pe113.TeanmetoteDtofAeSsin2,1,I,B,frEyOsCr()MlRsadR4.TeanmetoteDtofAeSsin2,1,I,B,frTrBgHgZeE5.TeanmetoteDtofAeSsin2,1,I,B,frToCsfr29HnD6.TeanmetoteDtofAeSsin2,1,I,B,frPgLtRsadPg-S7.TeanmetoteDtofAeSsin2,1,I,B,0frAeBgat25HlS18.TeanmetoteDtofAeSsin2,1,I,C,2frSeEyF39.TeanmetoteDtofAeSsin2,1,I,A,24edby2,1,2frLnCtCe-ReadReU5FlSeT61.TeanmetoteDtofAeSsin2,1,I,A,37edby2,1,3frPhadDrCtCtB81.TeanmetoteDtofAeSsin2,1,I,A,49edby2,1,4frSeCeRfR01.TeanmetoteDtofAeSsin2,1,I,B,11edby2,1,5frLeSyU21.TeanmetoteDtofAeSsin2,1,I,B,23edby2,1,6frMnBgRgPe141.TeanmetoteDtofAeSsin2,1,I,B,45edby2,1,8frTrBg-ReR61.TeanmetoteDtofAeSsin2,1,I,B,57edby2,1,9frTlS:RradAtP81.TeanmetoteDtofAeSsin2,1,I,C,19edby2,1,10frNHFtMnToInCdE01.TeanmetoteDtofAeSsin2,1,I,D11,edby2,1,11frHSRfR21.TeanmetoteDtofAeSsin2,1,I,D32,edby2,1,12frHSMlRsadC41.TeanmetoteDtofAeSsin2,1,I,D53,edby2,1,13frM,J,HSUdTkR62.TeanmetoteDtofAeSsin2,1,I,D74,edby2,1,14frSyMlRsadR]
+[DELETED: ttoHB2Pe122.TeanmetoteDtofAeSsin2,1,I,D5,edby2,1,15frCsCyNwPgLtadCePaE2.TeanmetoteDtofAeSsin2,1,I,D6,edby2,1,16frHhCyCeNhCgT2.TeanmetoteDtofAeSsin2,1,I,D7,edby2,1,17frAx1-BtAAC2.TeanmetoteDtofAeSsin2,1,I,D8,edby2,1,18frDyCrMlRtadC2.TeanmetoteDtofAeSsin2,1,I,D09,edby2,1,19frHhCyShWyR12.TeanmetoteDtofAeSsin2,1,I,D21,edby2,1,20frDfBgErR32.TeanmetoteDtofAeSsin2,1,I,D41,edby2,1,21frPeII-SeAxR52.TeanmetoteDtofAeSsin2,1,I,D61,edby2,1,22frNwFePnat11L72.TeanmetoteDtofAeSsin2,1,I,D81,edby2,1,23frMnBgSrTrRsadR93.TeanmetoteDtofAeSsin2,1,I,D01,edby2,1,24frRrCtCtRtE13.TeanmetoteDtofAeSsin2,1,I,E2edby2,1,25frSeEyF33.TeanmetoteDtofAeSsin2,1,I,F4edby2,1,26frSeEyEyIsP53.TeanmetoteDtofAeSsin2,1,I,A6edby2,1,1,edby2,1,27frSeP,S7EyF83.TeanmetoteDtofAeSsin2,1,I,B93,edby2,1,4,edby2,1,29frSsStPgG0R13.TeanmetoteDtofAeSsin2,1,I,B24,edby2,1,5,edby2,1,30frSeHeAxR33.TeanmetoteDtofAeSsin2,1,I,B45,edby2,1,6,edby2,1,31frSeHeAxE5U]
+[DELETED: ttoHB2Pe133.TeanmetoteDtofAeSsin2,1,I,B6,edby2,1,7,edby2,1,32frRfRsadER3.TeanmetoteDtofAeSsin2,1,I,B8,edby2,1,9,edby2,1,33frHSadDSMR3.TeanmetoteDtofAeSsin2,1,I,C1,edby2,1,1,edby2,1,34frCdSm-ReSDtB04.TeanmetoteDtofAeSsin2,1,I,C12,edby2,1,1,edby2,1,35frEyBpG2PrToNwB34.TeanmetoteDtofAeSsin2,1,I,C43,edby2,1,1,edby2,1,36frAx1-LeS5I64.TeanmetoteDtofAeSsin2,1,I,C74,edby2,1,1,edby2,1,37frTrBg-Rea8UeElS94.TeanmetoteDtofAeSsin2,1,I,D01,edby2,1,1,edby2,1,38frRmCya1HhCyShCs-NwC,VeFyDsadC24.TeanmetoteDtofAeSsin2,1,I,D33,edby2,1,1,edby2,1,39frCsCyCe-N4B54.TeanmetoteDtofAeSsin2,1,I,D65,edby2,1,1,edby2,1,40frGs-C,C7J,L,P84.TeanmetoteDtofAeSsin2,1,I,D96,edby2,1,2,edby2,1,41frHhCySh0CkR14.TeanmetoteDtofAeSsin2,1,I,E2edby2,1,2,edby2,1,42frFlDaM,E3SyadA44.TeanmetoteDtofAeSsin2,2,I,A51,edby2,1,1,edby2,1,2,edby2,1,43f6SeEyF]
+[DELETED: ttoHB2Pe144.TeanmetoteDtofAeSsin2,2,I,B4,edby2,1,1,edby2,1,2,edby2,1,45frSOdBs-SyU5.TeanmetoteDtofAeSsin2,2,I,C1,edby2,1,2,edby2,1,3,edby2,1,46frMBgLeRfRmr5.TeanmetoteDtofAeSsin2,2,I,C3,edby2,1,2,edby2,1,3,asadby2,1,eby2,1,47frMnB,NhPnWgRfR05.TeanmetoteDtofAeSsin2,2,I,D13,edby2,1,2,edby2,1,3,edby2,1,48f2MdCtCt-NwC35.TeanmetoteDtofAeSsin2,2,I,B48,edby2,2,2,edby2,1,3,edby2,1,35edby2,1,49frseheadUmWrher65.TeanmetoteDtofAeSsin2,2,I,C71edby2,1,13edby2,2,1,edby2,2,2,e8by2,1,3,edby2,1,3,edby2,1,50frclI9i05.TeanmetoteDtofA,MsadFdin2,11I,1,edby2,1,51frRstoNHBgAtEnSsE25.TeanmetoteCyCeSmofNwHein231,X,1frClM45.TeanmetoteCyCeSmofNwHein251,X,3frNCRyTyPmTgEtadTgS6R75.TeanmetoteCyCeSmofNwHein281,X,1,edby2,1,52frClM95.TeanmetoteCyCeSmofNwHein201,I,A,edby2,1,4,edby2,1,53frClM1adS,MrP26.TeanmetoteDtofCsin2,1,I,1frR3SrLsadG46.TeanmetoteDtofCsin2,1,I,2frR5SmU66.TeanmetoteDtofCsin2,1,I,1,edb72,1,56frNMRfR]
+[DELETED: ttoHB2Pe156.TeanmetoteDtofCsin2,1,I,7,edb2,1,62frPrSyadFeDnS6.TeanmetoteDtofCsin2,1,I,8,edb2,1,63frRdSrLeadG6.TeanmetoteDtofCsin2,1,I,1,eby2,1,65frRfRt-HkadIsB6.TeanmetoteDtofCsin2,1,I,1,eby2,1,66frNHSePMDrR6.TeanmetoteDtofCsin2,1,I,edb02,1,67frNMDradCgRr-CeCyU16.TeanmetoteDtofCsin2,1,I,B,edb22,1,4,edby2,1,69frKnR36.TeanmetoteDtofEnin2,1,I,3,edb42,1,75frBlF,RnadAAM57.TeanmetoteDtofEyin2,1,I,1frF6AePm(nAePm()DeadP7M87.TeanmetoteDtofEyin2,2,V,A,edb92,1,5,edby2,1,5,edby2,1,76frFlA0PnAeP17.TeanmetoteDtofElSsin2,1,V,2frDmRsadR37.TeanmetoteDtofElSsin2,1,V,4frITI57.TeanmetoteDtofElSsin2,1,V,6frDgWrSFSeM77.TeanmetoteDtofElSsin2,1,V,8frCnWrSFSeM97.TeanmetoteDtofElSsin2,1,V,0frGdWrM17.TeanmetoteDtofElSsin2,1,V,2frWeRrBnU37.TeanmetoteDtofElSsin2,1,V,14edby2,1,77frCnWrSeRgFdSeM57.TeanmetoteDtofElSsin2,1,V,26edby2,1,78frDmRsadR]
+[DELETED: ttoHB2Pe168.TeanmetoteDtofElSsin2,1,V,3edby2,1,79frDgWrSeRgFdSeM8.TeanmetoteDtofElSsin2,1,V,4edby2,1,80frO/ITSsU8.TeanmetoteDtofElSsin2,1,V,5edby2,1,81frClFgM8.TeanmetoteDtofElSsin2,1,V,6edby2,1,82frWeRrBnPm()CnSU08.TeanmetoteDtofElSsin2,1,I1edby2,1,83frClFdM28.TeanmetoteDtofElSsin2,1,V,A3edby2,1,5,edby2,1,84frDmRsadR48.TeanmetoteDtofElSsin2,1,V,B5edby2,1,5,edby2,1,85frCnadOsF68.TeanmetoteDtofElSsin2,1,V,E7edby2,1,6,edby2,1,87frITUsFrEga8A98.TeanmetoteDtofElSsin2,2,V0F,edby2,1,6,edby2,1,6,edby2,1,88f1HsWeSdM28.TeanmetoteDtofElSsin2,2,V3H,edby2,1,6,edby2,1,6,edby2,1,90f4OeLeDmR59.TeanmetoteDtofElSsin2,2,V,B6edby2,2,5,edby2,1,6,edby2,1,6,e7by2,1,91frhswesdsem89.TeanmetoteDtofElSsin2,2,V,C9edby2,2,5,edby2,1,6,edby2,1,6,e0by2,1,92frSkrriepnp19.TeanmetoteDtofElSsin2,2,V,2edby231,47edby2,2,4,edby2,2,5,edb32,1,7,edby2,1,7,edby2,1,94frW4iecli59.TeanmetoteFhadGeCnin2,1,V,1frR6R]
+[DELETED: ttoHB2Pe179.TeanmetoteFhadGeCnin2,1,V,1,aby2,1,asedby2,1,95frFhHySC9.TeanmetoteFhadGeDtin2,1,V,A,eby2,1,7,edby2,1,96frBgSyadFeSI9.TeanmetoteDtofHhadHnSsin2,1V,1frDnfrC,YhadFs()CeCdWInSm()BsR09.TeanmetoteDtofHhadHnSsin2,11V,2frEcHhR29.TeanmetoteDtofHhadHnSsin2,13IIfrteGfWrTtI49.TeanmetoteDtofHhadHnSsin2,15V,1,edby2,1,97frBySeI61.TeanmetoteDtofHhadHnSsin2,17V,2,edby2,1,98frDFCeCdWeInS8(91.TeanmetoteDtofHhadHnSsin2,10V,3,edby2,1,99frDlSsInT1R21.TeanmetoteDtofHhadHnSsin2,13V,4,edby2,1,29frEcVtVnS41.TeanmetoteDtofHhadHnSsin2,15V,5,edby2,1,10frFlRgIyadC61.TeanmetoteDtofHhadHnSsin2,17V,7,edby2,1,12frMdMtInSm(8LeMtadR91.TeanmetoteDtofHhadHnSsin2,10V,A,edby2,1,7,edby2,1,16frDFCeC1WeInS21.TeanmetoteDtofHhadHnSsin2,13I,edby2,1,7,edby2,1,18frGfHeElS4E51.TeanmetoteDtofHhadHnSsin2,26V,B,edby2,2,6,edby2,1,8,edby2,1,87edby2,1,11frcssyG]
+[DELETED: ttoHB2Pe181.TeanmetoteDtofHhadHnSsin2,2V,F,edby2,2,6,edby2,1,8,edby2,1,8edby2,1,12frcsadadcsr1.TeanmetoteDtofInTyin2,1,V1frCyPmE1.TeanmetoteDtofInTyin2,1,V2frFlSsM1.TeanmetoteDtofInTyin2,1,V3frITSsMtS01.TeanmetoteDtofInTyin2,1,I1A,edby2,1,9,edby2,1,16frDlG2Tn(31.TeanmetoteDtofInTyin2,1,I4B,edby2,1,9,edby2,1,17frCyofOna5DrP61.TeanmetoteDtofInTyin2,2,X7B,edby2,1,1,edby2,1,1,edby2,1,18f8EeWtMt(l-E91.TeanmetoteJlBhin2,1,V,1,edby201,11frNHetadAdClI11.TeanmetoteJlBhin2,1,X,A,edby221,1,edby2,1,13frNHetadAdClI31.TeanmetoteLrCnin2,1,I,1frHnN4adShNwS51.TeanmetoteLrCnin2,1,I,2frHQLeS6I,PgL,R,adR71.TeanmetoteLrCnin2,1,I,3frR8R91.TeanmetoteLrCnin2,2,X,D,edby201,1,edby2,1,1,edby2,1,18frHnNha1ShNwLrS21.TeanmetoteLrCnin2,2,I,edby231,1,edby2,1,1,edby2,1,16frteC4hsrfrtadpgl51.TeanmetoteDtofMyAsadVsSsi62,1,X,1frNaRsCrMrMyC]
+[DELETED: ttoHB2Pe191.TeanmetoteDtofMyAsadVsSsi2,1,X,2frPhRsCrMrMyC1.TeanmetoteDtofMyAsadVsSsi2,1,X,3frSeBgI1.TeanmetoteDtofMyAsadVsSsi2,1,X,4frNaHsMlR1.TeanmetoteDtofMyAsadVsSsi2,1,X,5frLdPe-P1.TeanmetoteDtofMyAsadVsSsi02,1,X,1,edby2,1,19frPeRlTgIeU11.TeanmetoteDtofMyAsadVsSsi22,1,X,2,edby2,1,10frPeRlTgIeU31.TeanmetoteDtofMyAsadVsSsi42,1,X,3,edby2,1,11frGnCyFdMeS51.TeanmetoteDtofMyAsadVsSsi62,1,X,4,edby2,1,12frMrMyCn-CsC71.TeanmetoteDtofMyAsadVsSsi82,1,X,5,edby2,1,13frMrMyCn-SdC91.TeanmetoteDtofMyAsadVsSsi02,1,X,6,edby2,1,14frMrMyCn-SdC11.TeanmetoteDtofMyAsadVsSsi22,1,X,7,edby2,1,15frRsCrRnS31.TeanmetoteDtofMyAsadVsSsi42,1,X,8,edby2,1,16frL51.TeanmetoteDtofMyAsadVsSsi62,1,X,9,edby2,1,17frEyRyadEyI7Se581.TeanmetoteMyAsadVsSsin2,1,I,B9edby2,1,1,edby2,1,19frFlSeRsa0U11.TeanmetoteMyAsadVsSsin2,1,I,C2edby2,1,1,edby2,1,10frMrMyC3S41.TeanmetoteMyAsadVsSsin2,1,I,D5edby2,1,1,asadby2,1,edby2,1,11f6MrRsCradCdAiTmFePnR]
+[DELETED: ttoHB2Pe201.TeanmetoteMyAsadVsSsin2,1,I,Eedby2,1,1,edby2,1,12frGnCyRsCD1.TeanmetoteMyAsadVsSsin2,1,Iedby2,1,1,edby2,1,13frElHRnadLdA1.TeanmetoteMyAsadVsSsin2,2,I,edby2,2,4,edby2,1,7,edby2,1,1,edb2,1,14frldfrmyc01.TeanmetoteDtofNladClRsin211,X,1frRgadR21.TeanmetoteDtofNladClRsin231,X,2frFtadLsF41.TeanmetoteDtofNladClRsin251,X,4frMtWnStIeadEyS61.TeanmetoteDtofNladClRsin271,X,5frCtLsHsRdRsadP81.TeanmetoteDtofNladClRsin291,I,frteCtLsHsRdRsadP01.TeanmetoteDtofNladClRsin211,X,1,edby2,1,15frCnSmR21.TeanmetoteDtofNladClRsin231,X,2,edby2,1,16frTtBgU41.TeanmetoteDtofNladClRsin251,X,A,edby2,1,1,edby2,1,17frRgadR61.TeanmetoteDtofNladClRsin271,X,B,edby2,1,1,edby2,1,18frMtW8SeTtE91.TeanmetoteDtofNladClRsin201,X,D,edby2,1,1,edby2,1,10frCdT1B21.TeanmetoteDtofNladClRsin231,X,E,edby2,1,1,edby2,1,11frDeT4B51.TeanmetoteDtofNladClRsin261,X,F,edby2,1,1,edby2,1,12frMtSeS7PkBhBtR]
+[DELETED: ttoHB2Pe211.TeanmetoteDtofNladClRsin21,X,H,edby2,1,1,edby2,1,13frCeCSeAa-SeL1.TeanmetoteDtofNladClRsin21,X,I,edby2,1,1,edby2,1,14frDnaEgS;AyL;O,L,adSeSeN1.TeanmetoteDtofNladClRsin22,X,C,edby2,1,1,edby2,1,1,edby21,16frDsadRgW01.TeanmetotePeDtAyin2,1,I,e1by2,1,19frPaRrTgB21.TeanmetotePeDtAyin2,2,X,A3edby2,1,1,edby2,1,1,edby2,1,10f4PaRrTgB51.TeanmetotePedtayin2,2,X,e6by2,2,1,edby2,1,1,edby2,1,1,edb72,1,11frtePaRrTgB81.TeanmetoteDtofReAnin2,2,X9A,edby2,1,1,edby2,1,1,edby2,1,12f0ReInMtSm(11.TeanmetoteDtofSyin2,1,X,1frN2HeSePe()MeShR31.TeanmetoteDtofSyin2,1,X,2frN4HeSePe()HrI51.TeanmetoteDtofSyin2,1,I,1frN6HeSePe()MeShR71.TeanmetoteDtofSyin2,1,I,2frN8HeSePe()HrI91.TeanmetoteDtofSyin2,1,IIad1,I,a0adby2,1,edby2,1,14frSePeH1C21.TeanmetoteDtofSyin2,1,X,E,asadb32,4,asadby2,1,edby2,1,13frAnHrB4C51.TeanmetoteDtofSyin2,1,I,B,edby261,1,edby2,1,17frDVOeCrP]
+[DELETED: ttoHB2Pe221.TeanmetoteDtofSyin2,2,X,C,edb2,1,1,edby2,1,1,edby2,1,18frSePRsMtS1.TeanmetoteDtofTnin2,1,X,1fFlSeMhfrFAP1.TeanmetoteDtofTnin2,1,X,2fMgFsfrTtBsadPrA1.TeanmetoteDtofTnin2,1,X,4frCCyFtRlI01.TeanmetoteDtofTnin2,1,I,1f1Se–CtStadSdS21.TeanmetoteDtofTnin2,1,I,2f3Se–UdFlTkR41.TeanmetoteDtofTnin2,1,I,3f5Se–CwQ61.TeanmetoteDtofTnin2,1,V,f7rstordbsonsdaerdl81.TeanmetoteDtofTnin2,1,V,f9rstocsonaesdrdl01.TeanmetoteDtofTnin2,1,V,f1rdtsadinonaesdrdl21.TeanmetoteDtofTnin2,1,X,13edby2,1,19fr5%MhFrFlAnAnP41.TeanmetoteDtofTnin2,1,X,35edby2,1,11frPcTtBsadFyMgF61.TeanmetoteDtofTnin2,1,X,6,a7adby2,1,edby2,1,14frMtStMeTlP8SeM/DyG91.TeanmetoteDtofTnin2,1,I,1,e0by2,1,15frFlMtSmR11.TeanmetoteDtofTnin2,1,I,2,e2by2,1,16frLr71-SeBgR31.TeanmetoteDtofTnin2,1,I,3,e4by2,1,17frLy52-PladStSdR51.TeanmetoteDtofTnin2,1,I,5,e6by2,1,19frSe-CtStadSdS]
+[DELETED: ttoHB2Pe231.TeanmetoteDtofTnin2,1,I,6,eby2,1,10frDdPs-PlS,DtO1.TeanmetoteDtofT,GlFsin21,X,A,edby2,1,1,edby2,1,11frA,RadT,5%mhfrFlAnAnP1.TeanmetoteDtofT,GlFsin21,X,C,edby2,1,1,edby2,1,12frRstSeOdAeRdB1.TeanmetoteDtofT,GlFsin201,X,F,edby2,1,1,edby2,1,14frPcTtB1adFyMgF21.TeanmetoteDtofTnin2,1,I,D3edby2,1,1,edby2,1,16frSe-LeSyC4I51.TeanmetoteDtofTnin2,1,I,H6edby2,1,1,edby2,1,10frNTDtM7S81.TeanmetoteDtofTnin2,2,X,A,19edby2,2,1,edby2,1,1,edby2,1,10edby2,1,19fr5%mhfrflananp11.TeanmetoteDtofTnin2,1,A,2edby2,2,1,edby2,2,1,edby2,1,13edby2,1,1,edby2,1,23fr5%mhfrFAp41.TeanmetotePeSsadTgClin2,1,X,5frMeVaSrtoRmCmS61.TeanmetotePeSsadTgClin2,1,X,7frCtEgBmtoC81.TeanmetotePeSsadTgClin2,1,X9A,edby2,1,1,edby2,1,2,asadby2,1,X,0frPeSsadTgClfyis(,c,a1r,revnadfnadtlcrfrr21.TeanmetoteVsHein2,1,X,1frSeD3adWrLeSyI41.TeanmetoteVsHein2,1,X,2frEyLeS5I61.TeanmetoteVsHein2,1,X,1,edby271,27frPgLtRsadI]
+[DELETED: ttoHB2Pe241.TeanmetoteVsHein2,2,X,A,edby22,1,edby2,1,1,edby2,1,1,edby2,128frtdfrantoteLUbg-vsh2.TeanmetoteDtofTnin2,1,X,3fCladSdFtRlI19EeDI.Sn18oftsatslteetJe3,2I.TerroftsatslteetJy1,2]

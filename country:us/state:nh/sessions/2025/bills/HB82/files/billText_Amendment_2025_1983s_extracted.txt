@@ -1,0 +1,41 @@
+Title: 1 Amend the bill by inserting after section 38 the following and renumbering the original sections 39
+Official Title: 1 Amend the bill by inserting after section 38 the following and renumbering the original sections 39
+Number of Sections: 1
+Source: versions - Amendment #2025-1983s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateExecutiveDepartmentsandAdministration
+May7,2025
+2025-1983s
+09/11
+AmendmenttoHB82
+2 through46toreadas40through47,respectively:
+3
+4 39 Electricians;Board. RSA319-C:4,IIIisrepealedandreenactedtoreadasfollows:
+5 III. With the approval of the executive director, the board may convene a subcommittee or
+6 subcommittees for the purpose of reviewing and making recommendations on matters that could be
+7 handledbythefullboardpursuanttoRSA319-C.
+[DELETED: eEeDsadAy7,2ttoHB8Adteblbyigarsn38tefgadrgteolss3th46tordas40th4,r39E;B.RA3,IIisrdadrdtordasfI.Whtealofteeed,tebdmyceaseossfrtepeofrgadmgrsonmsttcdbhdbyteflbdpttoRA3]
+
+
+================================================================================
+
+Raw Text:
+SenateExecutiveDepartmentsandAdministration
+May7,2025
+2025-1983s
+09/11
+AmendmenttoHB82
+1 Amend the bill by inserting after section 38 the following and renumbering the original sections 39
+2 through46toreadas40through47,respectively:
+3
+4 39 Electricians;Board. RSA319-C:4,IIIisrepealedandreenactedtoreadasfollows:
+5 III. With the approval of the executive director, the board may convene a subcommittee or
+6 subcommittees for the purpose of reviewing and making recommendations on matters that could be
+7 handledbythefullboardpursuanttoRSA319-C.
+
+[DELETED: eEeDsadAy7,2ttoHB8Adteblbyigarsn38tefgadrgteolss3th46tordas40th4,r39E;B.RA3,IIisrdadrdtordasfI.Whtealofteeed,tebdmyceaseossfrtepeofrgadmgrsonmsttcdbhdbyteflbdpttoRA3]

@@ -1,0 +1,416 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1922h
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Rep.Manos,Rock.12
+May5,2025
+2025-1922h
+07/09
+AmendmenttoSB148-FN
+2
+3 1 New Chapter; Effect of Murder on Intestate Succession, Wills, Joint Assets, Life Insurance,
+4 andBeneficiaryDesignations. AmendRSAbyinsertingafterchapter562thefollowingnewchapter:
+5 CHAPTER562-A
+6 EFFECTOFMURDERONINTESTATESUCCESSION,WILLS,JOINTASSETS,LIFE
+7 INSURANCE,ANDBENEFICIARYDESIGNATIONS
+8 562-A:1 Definitions. As used in this chapter, unless the context otherwise indicates, the
+9 followingtermshavethefollowingmeanings.
+10 I. “Disposition or appointment of property” includes a transfer of an item of property or any
+11 otherbenefittoabeneficiarydesignatedinagoverninginstrument.
+12 II. “Governinginstrument”meansagoverninginstrumentexecutedbythedecedent.
+13 III. “Murder” means murder in the first degree as defined under RSA 630:1-a or murder in
+14 the second degree committed knowingly as defined under RSA 630:1-b, I(a) or a reasonably
+15 equivalent offense under federal law, the law of another state, or the law of a foreign country if the
+16 legal system of such country affords sufficient due process protections that a conviction thereunder
+17 can be deemed just and reliable. However, “murder” does not include conduct of a person that could
+18 be charged as the crime of causing or aiding a suicide as defined under RSA 630:4 even if such
+19 conductalsocouldbeorhasbeenchargedunderRSA630:1-aorRSA630:1-b,I(a).
+20 IV. “Revocable," with respect to a disposition, appointment, provision, or nomination, means
+21 one under which the decedent, at the time of or immediately before death, was alone empowered, by
+22 law or under the governing instrument, to cancel the designation in favor of the killer, whether or
+23 not the decedent was then empowered to designate the decedent in place of the killer, and whether
+24 ornotthedecedentthenhadcapacitytoexercisethepower.
+25 562-A:2 Forfeiture of Statutory Benefits. An individual who murders the decedent forfeits all
+26 benefits under this title with respect to the decedent's estate. If the decedent died intestate, the
+27 decedent'sintestateestatepassesasifthekillerpredeceasedthedecedent.
+28 562-A:3 RevocationofBenefitsUnderGoverningInstruments. Themurderofthedecedent:
+29 I. Revokesanyrevocable:
+30 (a) Disposition or appointment of property made by the decedent to the killer in a
+31 governinginstrument;
+AmendmenttoSB148-FN
+-Page2-
+1 (b) Provision in a governing instrument conferring a general or nongeneral power of
+2 appointmentonthekiller;and
+3 (c) Nomination of the killer in a governing instrument nominating or appointing the
+4 killer to serve in any fiduciary or representative capacity, including as a personal representative,
+5 executor,trustee,oragent;and
+6 II. Severstheinterestsofthedecedentandkillerinpropertyheldbythematthetimeofthe
+7 murder as joint tenants with the right of survivorship, transforming the interests of the decedent
+8 andkillerintoequaltenanciesincommon.
+9 562-A:4 EffectofSeveranceorRevocation.
+10 I. A severance under RSA 562-A:3, II does not affect any third-party interest in property
+11 acquired for value and in good faith reliance on an apparent titleby survivorship in the killer unless
+12 awritingdeclaringtheseverancehasbeennoted,registered,filed,orrecordedinrecordsappropriate
+13 to the kind and location of the property that are relied upon, in the ordinary course of transactions
+14 involvingsuchproperty,asevidenceofownership.
+15 II. Provisions of a governing instrument are given effect as if the killer predeceased the
+16 decedent.
+17 562-A:5 Murder;HowDetermined.
+18 I. After all right to appeal has been exhausted, a judgment of conviction establishing
+19 criminal responsibility for commission of the murder of the decedent conclusively establishes the
+20 convictedindividualasthedecedent'skillerforpurposesofthischapter.
+21 II. In the absence of a criminal conviction, an individual’s status as the person responsible
+22 forcommissionofthemurderofthedecedentasdefinedinthischapterisconclusivelyestablishedby
+23 a final civil judgment to that effect entered against the individual by a court of competent
+24 jurisdiction.
+25 III. If an individual’s status as the killer of the decedent has not been established pursuant
+26 to paragraphs I or II, the executor or administrator of the decedent’s estate, or any person who
+27 would have received anything of value upon the death of the decedent by inheritance, under a
+28 governing instrument, or by operation of law if the individual had predeceased the decedent, may
+29 bring a civil action against the individual in a court of competent jurisdiction to have the court
+30 determinebyapreponderanceoftheevidencewhethertheindividualwasresponsibleforthemurder
+31 of the decedent as defined in this chapter. The plaintiff in such action may recover any money or
+32 property rightly belonging to or due to the plaintiff as a result of the individual’s murder of the
+33 decedent, and the court may order such equitable relief, including but not limited to the imposition
+34 of a constructive trust upon money or property held by the individual, as the court finds just and
+35 proper to afford appropriate relief to the plaintiff. At the time of initiating such action the plaintiff
+36 shall provide notice thereof to the New Hampshire department of justice, which shall have the right
+37 to intervene in the case for the limited purpose of requesting that the court stay the proceedings for
+AmendmenttoSB148-FN
+-Page3-
+1 a reasonable time, place limits on discovery, or take other appropriate measures to protect the
+2 integrity of any criminal investigation or prosecution related to the death of the decedent which is
+3 ongoing or represented by the department to be promptly undertaken. The court, on its own motion
+4 or onthe motionof anyinterested partyshall staythecivil proceedings for areasonable timeupon a
+5 showing of good cause, and may issue such protective orders as justice may require. In no event
+6 shall the court stay the civil action beyond the time of entry of a final judgment by the trial court in
+7 thecriminalcaseagainsttheindividualregardlessofwhetheranappealistakeninthatcase. Ifthe
+8 court grants a stay or other relief to the department of justice under this paragraph, it shall grant
+9 such temporary or interim relief to the plaintiff as the court determines to be necessary to prevent
+10 the transfer, concealment, or removal from the jurisdiction of any money or property that may be
+11 awardedtotheplaintiffinafinaljudgment.
+12 562-A:6 ProtectionofPayorsandOtherThirdParties
+13 I. A payor or other third party is not liable for having made a payment or transferred an
+14 item of property or any other benefit to a beneficiary designated in a governing instrument affected
+15 by a murder or for having taken any other action if that payment, transfer, or other action is made
+16 in good faith reliance on the validity of the governing instrument, upon request and satisfactory
+17 proof of the decedent's death, before the payor or other third party received written notice of a
+18 claimed forfeiture or revocation under this chapter. A payor or other third party is liable for a
+19 payment or transfer made or other action taken after the payor or other third party received written
+20 noticeofaclaimedforfeitureorrevocationunderthischapter.
+21 II. Written notice of a claimed forfeiture or revocation under paragraph I must be mailed to
+22 the payor's or other third party's main office or home by registered or certified mail, return receipt
+23 requested,orserveduponthepayororotherthirdpartyinthesamemannerasasummonsinacivil
+24 action. Upon receipt of written notice of a claimed forfeiture or revocation under this chapter, a
+25 payororotherthirdpartymaypayanyamountowedortransferordepositanyitemofpropertyheld
+26 by the payor or other third party to or with the court having jurisdiction of the probate proceedings
+27 relating to the decedent's estate or, if no proceedings have been commenced, to or with the court
+28 having jurisdiction of probate proceedings relating to decedents' estates located in the county of the
+29 decedent's residence. The court shall hold the funds or item of property and, upon its determination
+30 under this chapter, shall order disbursement in accordance with the determination. Payments,
+31 transfers, or deposits made to or with the court discharge the payor or other third party from all
+32 claims for the value of amounts paid to or items of property transferred to or deposited with the
+33 court.
+34 562-A:7 ProtectionofBonaFidePurchaser;PersonalLiabilityofRecipient.
+35 I. Apersonwhopurchasespropertyforvalueandwithoutnotice,orwhoreceivesapayment,
+36 an item of property or any other benefit in partial or full satisfaction of a legally enforceable
+37 obligation,isneither obligatedunderthis chaptertoreturnthepayment,item ofproperty,or benefit
+AmendmenttoSB148-FN
+-Page4-
+1 nor liable under this chapter for the amount of the payment or the value of the item of property, or
+2 benefit. A person who, not for value, receives a payment, item of property, or other benefit to which
+3 the person is not entitled under this chapter is obligated to return the payment, item of property or
+4 benefit, or is personally liable for the amount of the payment or the value of the item of property or
+5 benefit,tothepersonwhoisentitledtoitunderthischapter.
+6 II. If this chapter or any part of this chapter is preempted by federal law with respect to a
+7 payment, an item of property, or any other benefit covered by this chapter, a person who, not for
+8 value, receives the payment, item of property, or other benefit to which the person is not entitled
+9 under this chapter is obligated to return the payment, item of property, or benefit, or is personally
+10 liable for the amount of the payment or the value of the item of property or benefit, to the person
+11 whowouldhavebeenentitledtoitwerethischapterorpartofthischapternotpreempted.
+12 562-A:8 Time of Application of Forfeiture. Notwithstanding any other provision of law to the
+13 contrary, a forfeiture arising under this chapter may be determined at any time prior to the closure
+14 of the decedent’s estate by the probate court. This chapter shall be construed to apply to all estates
+15 thathavenotbeenclosedbytheprobatecourtpriortotheeffectivedateofthischapter.
+16 2 New Chapter; Proceeds of Crime Related to Murder. Amend RSA by inserting after chapter
+17 507-Hthefollowingnewchapter:
+18 CHAPTER507-I
+19 PROCEEDSOFCRIMERELATEDTOMURDER
+20 507-I:1 Definitions.
+21 Asusedinthischapter:
+22 I. “Murder”meansmurderinthefirstdegreeasdefinedunderRSA630:1-aormurderinthe
+23 second degree committed knowingly as defined under RSA 630:1-b, I(a), or a reasonably equivalent
+24 offenseunderfederallaw,thelawofanotherstate,orthelawofaforeigncountryifthelegal system
+25 ofsuchcountryaffordssufficientdueprocessprotectionsthataconvictionthereundercanbedeemed
+26 just and reliable. However, “murder” does not include conduct of a person that could be charged as
+27 the crime of causing or aiding a suicide as defined under RSA 630:4 even if such conduct also could
+28 beorhasbeenchargedunderRSA630:1-aorRSA630:1-b,I(a).
+29 II. “Profits from a murder” means any property which the individual who committed the
+30 murder obtained, or income generated, as a result of having committed the crime, including any
+31 property or income obtained through the use of unique knowledge gained or learned during the
+32 commission of, or in preparation for the commission of, the crime, as well as any property obtained
+33 by, or income generated from, the sale, conversion, or exchange of such property and any gain
+34 realizedbysuchsale,conversion,orexchange.
+35 III. "Victim" means the estate of the person who was murdered, or the immediate family of
+36 thepersonmurdered,unlesssuchindividualistheonewhocommittedthemurder.
+37 507-I:2 ObligationsofThirdPartiesRelatedtoProfitsFromaMurder.
+AmendmenttoSB148-FN
+-Page5-
+1 Every person or other legal entity, or representative of such person or entity, that knowingly
+2 contractsfor, pays, or agrees topayanyprofits from amurder as defined inthis chapter, toaperson
+3 who committed the murder, or to the representative of such person, where the value, combined
+4 value, or aggregate value of the contract, payment or payments of such funds exceeds or will exceed
+5 10,000 dollars, shall give written notice to the department of justice of the payment or obligation to
+6 pay as soon as practicable after discovering that the payment or intended payment constitutes
+7 profitsfromamurder.
+8 507-I:3 ObligationsoftheDepartmentofJustice.
+9 The department of justice, through the office of victim/witness assistance established in RSA 21-
+10 M:8-b,uponreceiptofnoticeofacontract,anagreementtopay,orpaymentofprofitsfromamurder,
+11 shall notify all known victims of the existence of such contract, profits or funds at their last known
+12 address.
+13 507-I:4 RightofVictimtoBringSuit;DepartmentofJusticeStanding.
+14 I. Notwithstandinganyotherprovisionoflaw,anyvictimshallhavetherighttobringacivil
+15 action in a court of competent jurisdiction to recover damages from a person convicted of the murder
+16 of the victim’s relation, as defined in this chapter, or the representative of the convicted person,
+17 within 3 years of the date the victim discovered, or reasonably should have discovered, the existence
+18 of any profits from the murder paid to or payable to the convicted person or the convicted person’s
+19 representative.
+20 II. Upon filing an action pursuant to this section, the victim shall provide notice thereof to
+21 theNewHampshiredepartmentofjustice,whichshallhavetherighttointerveneinthecaseforthe
+22 limited purpose of requesting that the court stay the proceedings for a reasonable time, place limits
+23 on discovery, or take other appropriate measures to protect the integrity of any other ongoing
+24 criminalinvestigationorprosecutionrelatedtothedeathofthedecedent.
+25 III. The department of justice also shall have the right to intervene in such action if there is
+26 anyrestitutionowedthatthedepartmentseekstohavesatisfied.
+27 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+AmendmenttoSB148-FN
+-Page6-
+2025-1922h
+AMENDEDANALYSIS
+This bill enacts a chapter that prohibits a person who murders another person from certain
+financial benefits from the estate of the decedent or other contractual provisions, and enacts
+provisions governing the disposition of the estate in such instances. This bill also requires any
+entity that contracts with someone convicted of a murder for certain payments related to the
+commission of the crime to notify the department of justice and for the department of justice to
+notifytheestateorimmediatefamilyofthedecedenttoallowforsuittorecoveranymoneyowed.
+[DELETED: .M,R.1y5,2ttoSB1Adteblbyrgalarteegcewhtef1NwC;EtofMronIeS,W,JtA,LeIadByD.AdRAbyigarcr52tefgnwcCR5ETOFMRONIES,W,JTA,LI,ADBYD51D.Asudintsc,ustectoei,tfgtshetefgm0I.“noratofp”isatrofanimofpyora1orbttoabyddinaggi2I.“gi”msaggitedbyted3I.“”msmrinteftdeasddurRA6aormri4tesddecdkyasddurRA6,I)orar5etoeurfll,telwofars,ortelwofafncyift6llsmofshcyasstdepspsttacnt7cnbeddjtadr.H,“”dsntiectofapnttc8becdasteceofcgoragaseasddurRA64enifs9ctaocdbeorhsbncdurRA6aorRA6,I0I.“"whrttoad,a,p,orn,m1oeurwhted,atteteoforiybed,wsaee,b2lworurteggi,tocltedninfroftek,wro3nttedtwstnedtodetedtinpeoftek,adw4ornttedttnhdcytoeetep552FeofSyB.Anilwomstedtfsa6bsurtstewhrttotedse.Iftedtddi,t7dsieeepsasiftekrpdted853RnofBsUrGgI.Temrofted9I.Rsayr0()Dnoratofpymebytedttotekrin1ggi]
+[DELETED: ttoSB1Pe2()Pninaggitcgaglornlproatontek;a()Nnoftekrinaggitngoragtkrtoseinayfyorrec,igasaplre,t,ora;aI.Ssteisoftedtadkrinpyhdbytmatteteoftmrasjttswhtertofs,tgteisoftedadkrioeltsinc54EtofSeorR0I.AseurRA5,IIdsntataytyitinp1adfrveadingdfhreonanattebyspintekru2awgdgtesehsbnn,r,f,orrdinrsa3totekdadlnoftepyttaerdu,inteoyceoft4igshp,aseeofo5I.Psofaggitaegnetasiftekrpdt6d755M;HwD8I.Aralrttoalhsbne,ajtofcne9clryfrcnoftemroftedtcyest0cdilastedskrfrpsoftsc1I.Inteaeofaclc,anisssastepnr2frcnoftemroftedtasddintscriscyedb3aflcljttottetedatteilbyactofc4j5I.Ifanisssastekroftedthsntbnedp6topsIorI,teeroraroftedse,oraypnw7wdherdagofveuntedhoftedtbyi,ur8ggi,orbyonoflwifteilhdpdted,m9bgaclanatteilinactofctjntohetec0debyapeofteeewrteilwsrefrtem1oftedtasddintsc.Tepfinshanmyrraymyo2pyrybgtoordetotepfasartofteismroft3d,adtectmyorsheer,igbtntldtotei4ofacettunmyorpyhdbytei,astectfsjta5prtoadaerftotep.Atteteofigshantep6slpenetftoteNwHedtofj,whslheter7toieintecefrteldpeofrgtttectsytepsf]
+[DELETED: ttoSB1Pe3aret,pelsond,orteoraemstopttiyofayclinorpnrdtotedhoftedtwhiogorrdbytedttobepyu.Tec,onisonmorontemnofayidpyslsyteclpsfrareteunsgofgdc,admyieshpeosasjemyr.Innoesltectsyteclanbdteteofeyofafljtbytetlctiteclceatteilrsofwranalistninttc.Iftctgsasyororrftotedtofjeurtsp,itslgshtyorimrftotepfastectdstobenytop0tet,c,orrlfmtejnofaymyorpyttmyb1adtotepfinaflj256PnofPsadOrTdP3I.Aprorortdpyisntlefrhgmeaptortda4imofpyorayorbttoabyddinaggita5byamrorfrhgtnayoranifttp,t,ororanism6ingdfhreontevyofteggi,unrtads7pfoftedsd,beteprorortdpyrdwnneof8cdfeorrnurtsc.Aprorortdpyislefr9ptortrmeororantnarteprorortdpyrdw0neofacdfeorrnurtsc1I.WnneofacdfeorrnurphImtbemdt2tepsorortdpsmnoeorhebyrdorcdm,rnr3r,orsdunteprorortdpyintesemrasassinac4a.Unrtofwnneofacdfeorrnurtsc,5prorortdpymypyayatodortrordtayimofpyh6byteprorortdpytoorwhtecthgjnoftepep7rgtotedseeo,ifnopshebnc,toorwhtec8hgjnofpepsrgtod'esldintecyoft9dsr.Tectslhdtefsorimofpya,unisd0urtsc,slordtinaewhted.P1t,ordsmetoorwhtectdeteprorortdpyfma2csfrteveofaspdtoorisofpytdtoorddwht3c457PnofBaFeP;PlLyofR5I.Apnwopspyfrveadwtn,orworsap6animofpyorayorbtinplorflsnofalye7o,isnrodurtscrtorntep,imofp,orb]
+[DELETED: ttoSB1Pe4nrleurtscrfrteatofteptorteveofteimofp,ob.Apnw,ntfrv,rsap,imofp,ororbttowtepnisntedurtscrisodtorntep,imofpyob,orispylefrteatofteptorteveofteimofpyob,totepnwoisedtoiturtscI.Iftscrorayptoftscrispdbyfllwwhrttop,animofp,orayorbtcdbytsc,apnw,ntfv,rstep,imofp,ororbttowhtepnisnteurtscrisodtorntep,imofp,orb,orisp0lefrteatofteptorteveofteimofpyorb,totep1wowdhebnedtoitwetscrorptoftscrntp258TeofAnofF.Ngayorpnoflwtot3c,afeagurtscrmybeddatayteprtotec4oftedseebytepec.Tscrslbecdtoaytoale5tthentbncdbytepectprtoteeedeoftsc62NwC;PsofCeRdtoM.AdRAbyigarc75Htefgnwc8CR59PSOFCERDTOM051D1Asudintsc2I.“”msmrinteftdeasddurRA6aormrint3sddecdkyasddurRA6,I,orarye4oeurfll,telwofars,ortelwofafncyiftells5ofshcyasstdepspsttacntrcnbed6jtadr.H,“”dsntiectofapnttcdbecda7teceofcgoragaseasddurRA64enifshctaoc8beorhsbncdurRA6aorRA6,I9I.“sfmam”msaypywhteilwocdt0mro,orieg,asartofhgcdtec,iga1pyorieodthteueofuekegdorlddgt2cno,orinpnfrtecno,tec,aswlasaypyo3b,oriegdf,tes,c,oreeofshpyadayg4rdbyshs,c,ore5I.""msteeeoftepnwowsm,orteiefyo6tepnm,usshilisteoewocdtem752OsofTdPsRdtoPsFmaM]
+[DELETED: ttoSB1Pe5Eypnororlle,orreofshpnore,ttkcsf,p,orastopyaypsfmamrasddintsc,toapwocdtem,ortotereofshp,wetev,cv,oraeveoftec,ptorpsofshfsesorwle10d,slgewnnetotedtofjeofteptorontpyassnaspeardgttteptoridptcpsfmam53OsofteDtofJTedtofj,thteoeofvsaeedinRA20M,unrtofneofac,anattop,orptofpsfmam1slnyalknvsofteeeofshc,psorfsattrltk2a354RtofVmtoBgS;DtofJeS4I.Ngayorpnofl,ayvmslheterttobgac5aninactofctjntorrdsfmapncdoftem6oftevsr,asddintsc,ortereoftecdp7wn3ysoftedetevmd,orrysdhed,tee8ofaypsfmtemrpdtoorpetotecdpnortecdp9r0I.Unfgananpttotss,tevmslpenetft1teNwHedtofj,whslheterttoieintecefrt2ldpeofrgtttectsytepsfraret,pel3ond,orteoraemstoptteiyofayoro4clinorpnrdtotedhofted5I.Tedtofjeaoslheterttoieinshaniftei6ayrnodtttedtsstohes73EeD.Tsatslteetunisp]
+[DELETED: ttoSB1Pe6DAsblesacrttpsapnwomsarpnfmclbsfmteeeoftedtororclp,adesggtednofteeeinshi.Tsblaorsayttcswhsecdofamrfrcnpsrdtotnoftecetonytedtofjeadfrtedtofjetyteeeoriefyoftedttoawfrsttorraymyo]
+
+
+================================================================================
+
+Raw Text:
+Rep.Manos,Rock.12
+May5,2025
+2025-1922h
+07/09
+AmendmenttoSB148-FN
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 New Chapter; Effect of Murder on Intestate Succession, Wills, Joint Assets, Life Insurance,
+4 andBeneficiaryDesignations. AmendRSAbyinsertingafterchapter562thefollowingnewchapter:
+5 CHAPTER562-A
+6 EFFECTOFMURDERONINTESTATESUCCESSION,WILLS,JOINTASSETS,LIFE
+7 INSURANCE,ANDBENEFICIARYDESIGNATIONS
+8 562-A:1 Definitions. As used in this chapter, unless the context otherwise indicates, the
+9 followingtermshavethefollowingmeanings.
+10 I. “Disposition or appointment of property” includes a transfer of an item of property or any
+11 otherbenefittoabeneficiarydesignatedinagoverninginstrument.
+12 II. “Governinginstrument”meansagoverninginstrumentexecutedbythedecedent.
+13 III. “Murder” means murder in the first degree as defined under RSA 630:1-a or murder in
+14 the second degree committed knowingly as defined under RSA 630:1-b, I(a) or a reasonably
+15 equivalent offense under federal law, the law of another state, or the law of a foreign country if the
+16 legal system of such country affords sufficient due process protections that a conviction thereunder
+17 can be deemed just and reliable. However, “murder” does not include conduct of a person that could
+18 be charged as the crime of causing or aiding a suicide as defined under RSA 630:4 even if such
+19 conductalsocouldbeorhasbeenchargedunderRSA630:1-aorRSA630:1-b,I(a).
+20 IV. “Revocable," with respect to a disposition, appointment, provision, or nomination, means
+21 one under which the decedent, at the time of or immediately before death, was alone empowered, by
+22 law or under the governing instrument, to cancel the designation in favor of the killer, whether or
+23 not the decedent was then empowered to designate the decedent in place of the killer, and whether
+24 ornotthedecedentthenhadcapacitytoexercisethepower.
+25 562-A:2 Forfeiture of Statutory Benefits. An individual who murders the decedent forfeits all
+26 benefits under this title with respect to the decedent's estate. If the decedent died intestate, the
+27 decedent'sintestateestatepassesasifthekillerpredeceasedthedecedent.
+28 562-A:3 RevocationofBenefitsUnderGoverningInstruments. Themurderofthedecedent:
+29 I. Revokesanyrevocable:
+30 (a) Disposition or appointment of property made by the decedent to the killer in a
+31 governinginstrument;
+
+AmendmenttoSB148-FN
+-Page2-
+1 (b) Provision in a governing instrument conferring a general or nongeneral power of
+2 appointmentonthekiller;and
+3 (c) Nomination of the killer in a governing instrument nominating or appointing the
+4 killer to serve in any fiduciary or representative capacity, including as a personal representative,
+5 executor,trustee,oragent;and
+6 II. Severstheinterestsofthedecedentandkillerinpropertyheldbythematthetimeofthe
+7 murder as joint tenants with the right of survivorship, transforming the interests of the decedent
+8 andkillerintoequaltenanciesincommon.
+9 562-A:4 EffectofSeveranceorRevocation.
+10 I. A severance under RSA 562-A:3, II does not affect any third-party interest in property
+11 acquired for value and in good faith reliance on an apparent titleby survivorship in the killer unless
+12 awritingdeclaringtheseverancehasbeennoted,registered,filed,orrecordedinrecordsappropriate
+13 to the kind and location of the property that are relied upon, in the ordinary course of transactions
+14 involvingsuchproperty,asevidenceofownership.
+15 II. Provisions of a governing instrument are given effect as if the killer predeceased the
+16 decedent.
+17 562-A:5 Murder;HowDetermined.
+18 I. After all right to appeal has been exhausted, a judgment of conviction establishing
+19 criminal responsibility for commission of the murder of the decedent conclusively establishes the
+20 convictedindividualasthedecedent'skillerforpurposesofthischapter.
+21 II. In the absence of a criminal conviction, an individual’s status as the person responsible
+22 forcommissionofthemurderofthedecedentasdefinedinthischapterisconclusivelyestablishedby
+23 a final civil judgment to that effect entered against the individual by a court of competent
+24 jurisdiction.
+25 III. If an individual’s status as the killer of the decedent has not been established pursuant
+26 to paragraphs I or II, the executor or administrator of the decedent’s estate, or any person who
+27 would have received anything of value upon the death of the decedent by inheritance, under a
+28 governing instrument, or by operation of law if the individual had predeceased the decedent, may
+29 bring a civil action against the individual in a court of competent jurisdiction to have the court
+30 determinebyapreponderanceoftheevidencewhethertheindividualwasresponsibleforthemurder
+31 of the decedent as defined in this chapter. The plaintiff in such action may recover any money or
+32 property rightly belonging to or due to the plaintiff as a result of the individual’s murder of the
+33 decedent, and the court may order such equitable relief, including but not limited to the imposition
+34 of a constructive trust upon money or property held by the individual, as the court finds just and
+35 proper to afford appropriate relief to the plaintiff. At the time of initiating such action the plaintiff
+36 shall provide notice thereof to the New Hampshire department of justice, which shall have the right
+37 to intervene in the case for the limited purpose of requesting that the court stay the proceedings for
+
+AmendmenttoSB148-FN
+-Page3-
+1 a reasonable time, place limits on discovery, or take other appropriate measures to protect the
+2 integrity of any criminal investigation or prosecution related to the death of the decedent which is
+3 ongoing or represented by the department to be promptly undertaken. The court, on its own motion
+4 or onthe motionof anyinterested partyshall staythecivil proceedings for areasonable timeupon a
+5 showing of good cause, and may issue such protective orders as justice may require. In no event
+6 shall the court stay the civil action beyond the time of entry of a final judgment by the trial court in
+7 thecriminalcaseagainsttheindividualregardlessofwhetheranappealistakeninthatcase. Ifthe
+8 court grants a stay or other relief to the department of justice under this paragraph, it shall grant
+9 such temporary or interim relief to the plaintiff as the court determines to be necessary to prevent
+10 the transfer, concealment, or removal from the jurisdiction of any money or property that may be
+11 awardedtotheplaintiffinafinaljudgment.
+12 562-A:6 ProtectionofPayorsandOtherThirdParties
+13 I. A payor or other third party is not liable for having made a payment or transferred an
+14 item of property or any other benefit to a beneficiary designated in a governing instrument affected
+15 by a murder or for having taken any other action if that payment, transfer, or other action is made
+16 in good faith reliance on the validity of the governing instrument, upon request and satisfactory
+17 proof of the decedent's death, before the payor or other third party received written notice of a
+18 claimed forfeiture or revocation under this chapter. A payor or other third party is liable for a
+19 payment or transfer made or other action taken after the payor or other third party received written
+20 noticeofaclaimedforfeitureorrevocationunderthischapter.
+21 II. Written notice of a claimed forfeiture or revocation under paragraph I must be mailed to
+22 the payor's or other third party's main office or home by registered or certified mail, return receipt
+23 requested,orserveduponthepayororotherthirdpartyinthesamemannerasasummonsinacivil
+24 action. Upon receipt of written notice of a claimed forfeiture or revocation under this chapter, a
+25 payororotherthirdpartymaypayanyamountowedortransferordepositanyitemofpropertyheld
+26 by the payor or other third party to or with the court having jurisdiction of the probate proceedings
+27 relating to the decedent's estate or, if no proceedings have been commenced, to or with the court
+28 having jurisdiction of probate proceedings relating to decedents' estates located in the county of the
+29 decedent's residence. The court shall hold the funds or item of property and, upon its determination
+30 under this chapter, shall order disbursement in accordance with the determination. Payments,
+31 transfers, or deposits made to or with the court discharge the payor or other third party from all
+32 claims for the value of amounts paid to or items of property transferred to or deposited with the
+33 court.
+34 562-A:7 ProtectionofBonaFidePurchaser;PersonalLiabilityofRecipient.
+35 I. Apersonwhopurchasespropertyforvalueandwithoutnotice,orwhoreceivesapayment,
+36 an item of property or any other benefit in partial or full satisfaction of a legally enforceable
+37 obligation,isneither obligatedunderthis chaptertoreturnthepayment,item ofproperty,or benefit
+
+AmendmenttoSB148-FN
+-Page4-
+1 nor liable under this chapter for the amount of the payment or the value of the item of property, or
+2 benefit. A person who, not for value, receives a payment, item of property, or other benefit to which
+3 the person is not entitled under this chapter is obligated to return the payment, item of property or
+4 benefit, or is personally liable for the amount of the payment or the value of the item of property or
+5 benefit,tothepersonwhoisentitledtoitunderthischapter.
+6 II. If this chapter or any part of this chapter is preempted by federal law with respect to a
+7 payment, an item of property, or any other benefit covered by this chapter, a person who, not for
+8 value, receives the payment, item of property, or other benefit to which the person is not entitled
+9 under this chapter is obligated to return the payment, item of property, or benefit, or is personally
+10 liable for the amount of the payment or the value of the item of property or benefit, to the person
+11 whowouldhavebeenentitledtoitwerethischapterorpartofthischapternotpreempted.
+12 562-A:8 Time of Application of Forfeiture. Notwithstanding any other provision of law to the
+13 contrary, a forfeiture arising under this chapter may be determined at any time prior to the closure
+14 of the decedent’s estate by the probate court. This chapter shall be construed to apply to all estates
+15 thathavenotbeenclosedbytheprobatecourtpriortotheeffectivedateofthischapter.
+16 2 New Chapter; Proceeds of Crime Related to Murder. Amend RSA by inserting after chapter
+17 507-Hthefollowingnewchapter:
+18 CHAPTER507-I
+19 PROCEEDSOFCRIMERELATEDTOMURDER
+20 507-I:1 Definitions.
+21 Asusedinthischapter:
+22 I. “Murder”meansmurderinthefirstdegreeasdefinedunderRSA630:1-aormurderinthe
+23 second degree committed knowingly as defined under RSA 630:1-b, I(a), or a reasonably equivalent
+24 offenseunderfederallaw,thelawofanotherstate,orthelawofaforeigncountryifthelegal system
+25 ofsuchcountryaffordssufficientdueprocessprotectionsthataconvictionthereundercanbedeemed
+26 just and reliable. However, “murder” does not include conduct of a person that could be charged as
+27 the crime of causing or aiding a suicide as defined under RSA 630:4 even if such conduct also could
+28 beorhasbeenchargedunderRSA630:1-aorRSA630:1-b,I(a).
+29 II. “Profits from a murder” means any property which the individual who committed the
+30 murder obtained, or income generated, as a result of having committed the crime, including any
+31 property or income obtained through the use of unique knowledge gained or learned during the
+32 commission of, or in preparation for the commission of, the crime, as well as any property obtained
+33 by, or income generated from, the sale, conversion, or exchange of such property and any gain
+34 realizedbysuchsale,conversion,orexchange.
+35 III. "Victim" means the estate of the person who was murdered, or the immediate family of
+36 thepersonmurdered,unlesssuchindividualistheonewhocommittedthemurder.
+37 507-I:2 ObligationsofThirdPartiesRelatedtoProfitsFromaMurder.
+
+AmendmenttoSB148-FN
+-Page5-
+1 Every person or other legal entity, or representative of such person or entity, that knowingly
+2 contractsfor, pays, or agrees topayanyprofits from amurder as defined inthis chapter, toaperson
+3 who committed the murder, or to the representative of such person, where the value, combined
+4 value, or aggregate value of the contract, payment or payments of such funds exceeds or will exceed
+5 10,000 dollars, shall give written notice to the department of justice of the payment or obligation to
+6 pay as soon as practicable after discovering that the payment or intended payment constitutes
+7 profitsfromamurder.
+8 507-I:3 ObligationsoftheDepartmentofJustice.
+9 The department of justice, through the office of victim/witness assistance established in RSA 21-
+10 M:8-b,uponreceiptofnoticeofacontract,anagreementtopay,orpaymentofprofitsfromamurder,
+11 shall notify all known victims of the existence of such contract, profits or funds at their last known
+12 address.
+13 507-I:4 RightofVictimtoBringSuit;DepartmentofJusticeStanding.
+14 I. Notwithstandinganyotherprovisionoflaw,anyvictimshallhavetherighttobringacivil
+15 action in a court of competent jurisdiction to recover damages from a person convicted of the murder
+16 of the victim’s relation, as defined in this chapter, or the representative of the convicted person,
+17 within 3 years of the date the victim discovered, or reasonably should have discovered, the existence
+18 of any profits from the murder paid to or payable to the convicted person or the convicted person’s
+19 representative.
+20 II. Upon filing an action pursuant to this section, the victim shall provide notice thereof to
+21 theNewHampshiredepartmentofjustice,whichshallhavetherighttointerveneinthecaseforthe
+22 limited purpose of requesting that the court stay the proceedings for a reasonable time, place limits
+23 on discovery, or take other appropriate measures to protect the integrity of any other ongoing
+24 criminalinvestigationorprosecutionrelatedtothedeathofthedecedent.
+25 III. The department of justice also shall have the right to intervene in such action if there is
+26 anyrestitutionowedthatthedepartmentseekstohavesatisfied.
+27 3 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+AmendmenttoSB148-FN
+-Page6-
+2025-1922h
+AMENDEDANALYSIS
+This bill enacts a chapter that prohibits a person who murders another person from certain
+financial benefits from the estate of the decedent or other contractual provisions, and enacts
+provisions governing the disposition of the estate in such instances. This bill also requires any
+entity that contracts with someone convicted of a murder for certain payments related to the
+commission of the crime to notify the department of justice and for the department of justice to
+notifytheestateorimmediatefamilyofthedecedenttoallowforsuittorecoveranymoneyowed.
+
+[DELETED: .M,R.1y5,2ttoSB1Adteblbyrgalarteegcewhtef1NwC;EtofMronIeS,W,JtA,LeIadByD.AdRAbyigarcr52tefgnwcCR5ETOFMRONIES,W,JTA,LI,ADBYD51D.Asudintsc,ustectoei,tfgtshetefgm0I.“noratofp”isatrofanimofpyora1orbttoabyddinaggi2I.“gi”msaggitedbyted3I.“”msmrinteftdeasddurRA6aormri4tesddecdkyasddurRA6,I)orar5etoeurfll,telwofars,ortelwofafncyift6llsmofshcyasstdepspsttacnt7cnbeddjtadr.H,“”dsntiectofapnttc8becdasteceofcgoragaseasddurRA64enifs9ctaocdbeorhsbncdurRA6aorRA6,I0I.“"whrttoad,a,p,orn,m1oeurwhted,atteteoforiybed,wsaee,b2lworurteggi,tocltedninfroftek,wro3nttedtwstnedtodetedtinpeoftek,adw4ornttedttnhdcytoeetep552FeofSyB.Anilwomstedtfsa6bsurtstewhrttotedse.Iftedtddi,t7dsieeepsasiftekrpdted853RnofBsUrGgI.Temrofted9I.Rsayr0()Dnoratofpymebytedttotekrin1ggi]
+[DELETED: ttoSB1Pe2()Pninaggitcgaglornlproatontek;a()Nnoftekrinaggitngoragtkrtoseinayfyorrec,igasaplre,t,ora;aI.Ssteisoftedtadkrinpyhdbytmatteteoftmrasjttswhtertofs,tgteisoftedadkrioeltsinc54EtofSeorR0I.AseurRA5,IIdsntataytyitinp1adfrveadingdfhreonanattebyspintekru2awgdgtesehsbnn,r,f,orrdinrsa3totekdadlnoftepyttaerdu,inteoyceoft4igshp,aseeofo5I.Psofaggitaegnetasiftekrpdt6d755M;HwD8I.Aralrttoalhsbne,ajtofcne9clryfrcnoftemroftedtcyest0cdilastedskrfrpsoftsc1I.Inteaeofaclc,anisssastepnr2frcnoftemroftedtasddintscriscyedb3aflcljttottetedatteilbyactofc4j5I.Ifanisssastekroftedthsntbnedp6topsIorI,teeroraroftedse,oraypnw7wdherdagofveuntedhoftedtbyi,ur8ggi,orbyonoflwifteilhdpdted,m9bgaclanatteilinactofctjntohetec0debyapeofteeewrteilwsrefrtem1oftedtasddintsc.Tepfinshanmyrraymyo2pyrybgtoordetotepfasartofteismroft3d,adtectmyorsheer,igbtntldtotei4ofacettunmyorpyhdbytei,astectfsjta5prtoadaerftotep.Atteteofigshantep6slpenetftoteNwHedtofj,whslheter7toieintecefrteldpeofrgtttectsytepsf]
+[DELETED: ttoSB1Pe3aret,pelsond,orteoraemstopttiyofayclinorpnrdtotedhoftedtwhiogorrdbytedttobepyu.Tec,onisonmorontemnofayidpyslsyteclpsfrareteunsgofgdc,admyieshpeosasjemyr.Innoesltectsyteclanbdteteofeyofafljtbytetlctiteclceatteilrsofwranalistninttc.Iftctgsasyororrftotedtofjeurtsp,itslgshtyorimrftotepfastectdstobenytop0tet,c,orrlfmtejnofaymyorpyttmyb1adtotepfinaflj256PnofPsadOrTdP3I.Aprorortdpyisntlefrhgmeaptortda4imofpyorayorbttoabyddinaggita5byamrorfrhgtnayoranifttp,t,ororanism6ingdfhreontevyofteggi,unrtads7pfoftedsd,beteprorortdpyrdwnneof8cdfeorrnurtsc.Aprorortdpyislefr9ptortrmeororantnarteprorortdpyrdw0neofacdfeorrnurtsc1I.WnneofacdfeorrnurphImtbemdt2tepsorortdpsmnoeorhebyrdorcdm,rnr3r,orsdunteprorortdpyintesemrasassinac4a.Unrtofwnneofacdfeorrnurtsc,5prorortdpymypyayatodortrordtayimofpyh6byteprorortdpytoorwhtecthgjnoftepep7rgtotedseeo,ifnopshebnc,toorwhtec8hgjnofpepsrgtod'esldintecyoft9dsr.Tectslhdtefsorimofpya,unisd0urtsc,slordtinaewhted.P1t,ordsmetoorwhtectdeteprorortdpyfma2csfrteveofaspdtoorisofpytdtoorddwht3c457PnofBaFeP;PlLyofR5I.Apnwopspyfrveadwtn,orworsap6animofpyorayorbtinplorflsnofalye7o,isnrodurtscrtorntep,imofp,orb]
+[DELETED: ttoSB1Pe4nrleurtscrfrteatofteptorteveofteimofp,ob.Apnw,ntfrv,rsap,imofp,ororbttowtepnisntedurtscrisodtorntep,imofpyob,orispylefrteatofteptorteveofteimofpyob,totepnwoisedtoiturtscI.Iftscrorayptoftscrispdbyfllwwhrttop,animofp,orayorbtcdbytsc,apnw,ntfv,rstep,imofp,ororbttowhtepnisnteurtscrisodtorntep,imofp,orb,orisp0lefrteatofteptorteveofteimofpyorb,totep1wowdhebnedtoitwetscrorptoftscrntp258TeofAnofF.Ngayorpnoflwtot3c,afeagurtscrmybeddatayteprtotec4oftedseebytepec.Tscrslbecdtoaytoale5tthentbncdbytepectprtoteeedeoftsc62NwC;PsofCeRdtoM.AdRAbyigarc75Htefgnwc8CR59PSOFCERDTOM051D1Asudintsc2I.“”msmrinteftdeasddurRA6aormrint3sddecdkyasddurRA6,I,orarye4oeurfll,telwofars,ortelwofafncyiftells5ofshcyasstdepspsttacntrcnbed6jtadr.H,“”dsntiectofapnttcdbecda7teceofcgoragaseasddurRA64enifshctaoc8beorhsbncdurRA6aorRA6,I9I.“sfmam”msaypywhteilwocdt0mro,orieg,asartofhgcdtec,iga1pyorieodthteueofuekegdorlddgt2cno,orinpnfrtecno,tec,aswlasaypyo3b,oriegdf,tes,c,oreeofshpyadayg4rdbyshs,c,ore5I.""msteeeoftepnwowsm,orteiefyo6tepnm,usshilisteoewocdtem752OsofTdPsRdtoPsFmaM]
+[DELETED: ttoSB1Pe5Eypnororlle,orreofshpnore,ttkcsf,p,orastopyaypsfmamrasddintsc,toapwocdtem,ortotereofshp,wetev,cv,oraeveoftec,ptorpsofshfsesorwle10d,slgewnnetotedtofjeofteptorontpyassnaspeardgttteptoridptcpsfmam53OsofteDtofJTedtofj,thteoeofvsaeedinRA20M,unrtofneofac,anattop,orptofpsfmam1slnyalknvsofteeeofshc,psorfsattrltk2a354RtofVmtoBgS;DtofJeS4I.Ngayorpnofl,ayvmslheterttobgac5aninactofctjntorrdsfmapncdoftem6oftevsr,asddintsc,ortereoftecdp7wn3ysoftedetevmd,orrysdhed,tee8ofaypsfmtemrpdtoorpetotecdpnortecdp9r0I.Unfgananpttotss,tevmslpenetft1teNwHedtofj,whslheterttoieintecefrt2ldpeofrgtttectsytepsfraret,pel3ond,orteoraemstoptteiyofayoro4clinorpnrdtotedhofted5I.Tedtofjeaoslheterttoieinshaniftei6ayrnodtttedtsstohes73EeD.Tsatslteetunisp]
+[DELETED: ttoSB1Pe6DAsblesacrttpsapnwomsarpnfmclbsfmteeeoftedtororclp,adesggtednofteeeinshi.Tsblaorsayttcswhsecdofamrfrcnpsrdtotnoftecetonytedtofjeadfrtedtofjetyteeeoriefyoftedttoawfrsttorraymyo]

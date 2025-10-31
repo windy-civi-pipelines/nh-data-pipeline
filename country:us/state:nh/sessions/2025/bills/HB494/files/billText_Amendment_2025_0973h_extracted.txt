@@ -1,0 +1,50 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0973h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Erf,Hills.28
+March12,2025
+2025-0973h
+02/08
+AmendmenttoHB494-FN
+2
+3 ANACT relativetothemathlearningcommunitiesprogram.
+4
+5 Amendthebillbydeletingsection2andrenumberingtheoriginalsection3toreadas2.
+AmendmenttoHB494-FN
+-Page2-
+2025-0973h
+AMENDEDANALYSIS
+Thisbillmakeschangestothemathlearningcommunitiesprograminpublicsecondaryschools.
+[DELETED: .E,H.2h1,2ttoHB4AdteteofteblbyrgitwhtefANATretotemhlgcspAdteblbydgsn2adrgteolsn3tordas2]
+[DELETED: ttoHB4Pe2DAsblmscstotemhlgcspminpcsys]
+
+
+================================================================================
+
+Raw Text:
+Rep.Erf,Hills.28
+March12,2025
+2025-0973h
+02/08
+AmendmenttoHB494-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetothemathlearningcommunitiesprogram.
+4
+5 Amendthebillbydeletingsection2andrenumberingtheoriginalsection3toreadas2.
+
+AmendmenttoHB494-FN
+-Page2-
+2025-0973h
+AMENDEDANALYSIS
+Thisbillmakeschangestothemathlearningcommunitiesprograminpublicsecondaryschools.
+
+[DELETED: .E,H.2h1,2ttoHB4AdteteofteblbyrgitwhtefANATretotemhlgcspAdteblbydgsn2adrgteolsn3tordas2]
+[DELETED: ttoHB4Pe2DAsblmscstotemhlgcspminpcsys]

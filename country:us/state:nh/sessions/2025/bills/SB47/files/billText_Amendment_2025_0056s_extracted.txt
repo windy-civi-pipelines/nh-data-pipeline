@@ -1,0 +1,33 @@
+Title: 1 Amendthebillbyreplacingsection2withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection2withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0056s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HealthandHumanServices
+January22,2025
+2025-0056s
+11/05
+AmendmenttoSB47
+2
+3 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+[DELETED: hadHnSy2,2ttoSB4Adteblbyrgsn2whtef2EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+HealthandHumanServices
+January22,2025
+2025-0056s
+11/05
+AmendmenttoSB47
+1 Amendthebillbyreplacingsection2withthefollowing:
+2
+3 2 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+
+[DELETED: hadHnSy2,2ttoSB4Adteblbyrgsn2whtef2EeD.TsatslteetJy1,2]

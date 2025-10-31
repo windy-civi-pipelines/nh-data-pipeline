@@ -1,0 +1,45 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1542s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateEnergyandNaturalResources
+April8,2025
+2025-1542s
+07/11
+AmendmenttoHB179-FN
+2
+3 1 Nonpayment Fees for Hazardous Materials Accidents. RSA 154:8-a, II-a(h) is repealed and
+4 reenactedtoreadasfollows:
+5 (h) Apenaltyofnogreaterthan$1,000perdayshallbepaidtotheclaimantforeachday
+6 of nonpayment beyond 90 days. The cumulative penalty imposed shall not exceed 25 percent of the
+7 cost established under subparagraph (a). As long as the responsible party adheres to a payment
+8 plan that has been established between the claimant and the responsible party, no additional daily
+9 penaltyshallbeimposed.
+[DELETED: eEyadNlRl8,2ttoHB1Adteblbyrgsn1whtef1NtFsfrHsMsA.RA1,I)isrdardtordasf()Apyofnogrtn$0prdyslbepdtotectfrehdofntbd90d.Tecepyidslnted25ptoftctedursh(.Aslgasterepyastoappntthsbnedbntectadterep,noaldpyslbei]
+
+
+================================================================================
+
+Raw Text:
+SenateEnergyandNaturalResources
+April8,2025
+2025-1542s
+07/11
+AmendmenttoHB179-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Nonpayment Fees for Hazardous Materials Accidents. RSA 154:8-a, II-a(h) is repealed and
+4 reenactedtoreadasfollows:
+5 (h) Apenaltyofnogreaterthan$1,000perdayshallbepaidtotheclaimantforeachday
+6 of nonpayment beyond 90 days. The cumulative penalty imposed shall not exceed 25 percent of the
+7 cost established under subparagraph (a). As long as the responsible party adheres to a payment
+8 plan that has been established between the claimant and the responsible party, no additional daily
+9 penaltyshallbeimposed.
+
+[DELETED: eEyadNlRl8,2ttoHB1Adteblbyrgsn1whtef1NtFsfrHsMsA.RA1,I)isrdardtordasf()Apyofnogrtn$0prdyslbepdtotectfrehdofntbd90d.Tecepyidslnted25ptoftctedursh(.Aslgasterepyastoappntthsbnedbntectadterep,noaldpyslbei]

@@ -1,0 +1,72 @@
+Title: 1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+Official Title: 1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+Number of Sections: 1
+Source: versions - Amendment #2025-0414s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Sen.Reardon,Dist15
+February13,2025
+2025-0414s
+09/08
+FloorAmendmenttoSB71-FN
+2 readas3:
+3
+4 2 County Department of Corrections; Immigration Detainees. New Paragraph; County
+5 Department of Corrections; Immigration Detainees. Amend RSA 30-B:1 by inserting after
+6 paragraphIIthefollowingnewparagraph:
+7 III. AcountymayholdImmigrationandCustomsEnforcementdetentions,fortheresolution
+8 of state charges or for a maximum of an additional 48 hours, excluding Saturdays, Sundays, and
+9 holidays, if the county and the Immigration and Customs Enforcement Agency have executed an
+10 agreementinaccordancewithRSA30-B:16.
+FloorAmendmenttoSB71-FN
+-Page2-
+2025-0414s
+AMENDEDANALYSIS
+This bill provides that unless expressly prohibited by state or federal law, local governmental
+entities may not prohibit or impede any state or federal law enforcement agency from complying
+with federal immigration laws, and provides for remedies for violations. This bill further authorizes
+county corrections facilities to hold Immigration and Customs Enforcement detentions, for the
+resolution of state charges or for a maximum of an additional 48 hours, excluding Saturdays,
+Sundays, and holidays, if the county and the Immigration and Customs Enforcement Agency have
+executedanagreementinaccordancewithRSA30-B:16.
+[DELETED: .R,Dt1y1,2rAttoSB7Adteblbyigarsn1tefgadrgteolsn2trdas32CyDtofC;InD.NwP;CDtofC;InD.AdRA31byigaphIItefgnwpI.AcymyhdInadCsEtd,frterofsecsorframmofanal48h,egS,S,ah,iftecyadteInadCsEtAyheeda0atinaewhRA3]
+[DELETED: rAttoSB7Pe2DAsblpsttuseypdbyseorfll,llgsmyntptorieayseorfllwetayfmchflinl,adpsfrrsfrv.TsblfraycsfstohdInadCsEtd,frtnofsecsorframmofanal48h,egS,adh,iftecyadteInadCsEtAyhdanatinaewhRA3]
+
+
+================================================================================
+
+Raw Text:
+Sen.Reardon,Dist15
+February13,2025
+2025-0414s
+09/08
+FloorAmendmenttoSB71-FN
+1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+2 readas3:
+3
+4 2 County Department of Corrections; Immigration Detainees. New Paragraph; County
+5 Department of Corrections; Immigration Detainees. Amend RSA 30-B:1 by inserting after
+6 paragraphIIthefollowingnewparagraph:
+7 III. AcountymayholdImmigrationandCustomsEnforcementdetentions,fortheresolution
+8 of state charges or for a maximum of an additional 48 hours, excluding Saturdays, Sundays, and
+9 holidays, if the county and the Immigration and Customs Enforcement Agency have executed an
+10 agreementinaccordancewithRSA30-B:16.
+
+FloorAmendmenttoSB71-FN
+-Page2-
+2025-0414s
+AMENDEDANALYSIS
+This bill provides that unless expressly prohibited by state or federal law, local governmental
+entities may not prohibit or impede any state or federal law enforcement agency from complying
+with federal immigration laws, and provides for remedies for violations. This bill further authorizes
+county corrections facilities to hold Immigration and Customs Enforcement detentions, for the
+resolution of state charges or for a maximum of an additional 48 hours, excluding Saturdays,
+Sundays, and holidays, if the county and the Immigration and Customs Enforcement Agency have
+executedanagreementinaccordancewithRSA30-B:16.
+
+[DELETED: .R,Dt1y1,2rAttoSB7Adteblbyigarsn1tefgadrgteolsn2trdas32CyDtofC;InD.NwP;CDtofC;InD.AdRA31byigaphIItefgnwpI.AcymyhdInadCsEtd,frterofsecsorframmofanal48h,egS,S,ah,iftecyadteInadCsEtAyheeda0atinaewhRA3]
+[DELETED: rAttoSB7Pe2DAsblpsttuseypdbyseorfll,llgsmyntptorieayseorfllwetayfmchflinl,adpsfrrsfrv.TsblfraycsfstohdInadCsEtd,frtnofsecsorframmofanal48h,egS,adh,iftecyadteInadCsEtAyhdanatinaewhRA3]

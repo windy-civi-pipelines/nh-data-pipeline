@@ -1,0 +1,43 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1472s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateElectionLawandMunicipalAffairs
+April1,2025
+2025-1472s
+06/09
+AmendmenttoHB92
+2
+3 1 New Paragraph; Zoning Board of Adjustment Membership. Amend RSA 673:3 by inserting
+4 afterparagraphIVthefollowingnewparagraph:
+5 V. When a member also serves on a planning board, the individual shall recuse herself or
+6 himself from voting on matters previously decided by or pending before the planning board in a
+7 quasi-judicialcapacityinwhichthememberparticipatedasavotingmember.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+[DELETED: eEnLwadMlAl1,2ttoHB9Adteblbyrgalarteegcewhtef1NwP;ZgBdofAtM.AdRA63byiarphIVtefgnwpV.Wnamraossonapgb,teilslrehfohffmvgonmspyddbyorpgbetepgbdinqlcyinwhtemrpdasavgm2EeD.Tsatslteet60dsarisp]
+
+
+================================================================================
+
+Raw Text:
+SenateElectionLawandMunicipalAffairs
+April1,2025
+2025-1472s
+06/09
+AmendmenttoHB92
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 New Paragraph; Zoning Board of Adjustment Membership. Amend RSA 673:3 by inserting
+4 afterparagraphIVthefollowingnewparagraph:
+5 V. When a member also serves on a planning board, the individual shall recuse herself or
+6 himself from voting on matters previously decided by or pending before the planning board in a
+7 quasi-judicialcapacityinwhichthememberparticipatedasavotingmember.
+8 2 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+[DELETED: eEnLwadMlAl1,2ttoHB9Adteblbyrgalarteegcewhtef1NwP;ZgBdofAtM.AdRA63byiarphIVtefgnwpV.Wnamraossonapgb,teilslrehfohffmvgonmspyddbyorpgbetepgbdinqlcyinwhtemrpdasavgm2EeD.Tsatslteet60dsarisp]

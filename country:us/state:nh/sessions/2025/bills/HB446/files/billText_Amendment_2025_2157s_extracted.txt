@@ -1,0 +1,84 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2157s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Sen.Prentiss,Dist5
+May13,2025
+2025-2157s
+09/05
+FloorAmendmenttoHB446
+2
+3 1 Duties of State Board of Education; Administration of Non-Academic Surveys. Amend RSA
+4 186:11,IX-dtoreadasfollows:
+5 IX-d. Require School Districts to Adopt a Policy Governing the Administration of Non-
+6 academic Surveys or Questionnaires to Students. The policy shall require school districts to notify a
+7 parentorlegalguardianofanon-academicsurveyorquestionnaireanditspurpose. Thepolicyshall
+8 provide that no student shall be required to volunteer for or submit to a non-academic survey or
+9 questionnaire, as defined in this paragraph, without written consent of a parent or legal guardian
+10 unless the student is an adult or an emancipated minor. The policy shall include an exception from
+11 the consent requirement for the youth risk behavior survey developed by the Centers for Disease
+12 ControlandPrevention. Thepolicyshallalsoallowaparentorlegalguardiantoopt-outoftheyouth
+13 risk behavior survey developed by the Centers for Disease Control and Prevention. The school
+14 district shall make such surveys or questionnaires available, at the school and on the school or
+15 school district's website, for review by a student's parent or legal guardian, and shall notify
+16 parents or legal guardians by sending such survey through email and any other means of
+17 delivery the district deems appropriate at least 10 days prior to distribution to students. In this
+18 paragraph, "non-academic survey or questionnaire" means surveys, questionnaires, or other
+19 documents designed to elicit information about a student's social behavior, family life, religion,
+20 politics, sexual orientation, sexual activity, drug use, or any other information not related to a
+21 student'sacademics.
+FloorAmendmenttoHB446
+-Page2-
+2025-2157s
+AMENDEDANALYSIS
+The bill requires school districts to email parents copies of non-academic surveys in public
+schools.
+[DELETED: .P,Dty1,2rAttoHB4Adteblbyrgsn1whtef1DsofSeBdofE;AnofNcS.AdR1,IdtordasfI.ReSlDstoAtaPyGgteAnofNacSsorQstoS.Tepyslresldstonyptorllgnofancsyorqeadisp.Tepyspettnostslberdtovrfrorsttoancsyoq,asddintsp,wtwnctofaptorllg0ustestisanatoranedm.Tepyslieanenf1tectrtfrteyhrkbrsyddbyteCsfrD2CladP.Tepyslaoawaptorllgntootoftey3rkbrsyddbyteCsfrDeCladP.Tes4dtslmeshssorqsa,attesladonteslo5sldsw,frrwbyassptorllg,adsln6psorllgsbysgshsytheladayormso7dytedtdsaeatlt10dsprtodntos.Int8p,"csyorq"mss,q,oro9dsddtoetinatassslb,fyl,r0p,slo,sla,dgu,orayorinntrdto1ssa]
+[DELETED: rAttoHB4Pe2DAeblrssldstoelpscsofncssinp]
+
+
+================================================================================
+
+Raw Text:
+Sen.Prentiss,Dist5
+May13,2025
+2025-2157s
+09/05
+FloorAmendmenttoHB446
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Duties of State Board of Education; Administration of Non-Academic Surveys. Amend RSA
+4 186:11,IX-dtoreadasfollows:
+5 IX-d. Require School Districts to Adopt a Policy Governing the Administration of Non-
+6 academic Surveys or Questionnaires to Students. The policy shall require school districts to notify a
+7 parentorlegalguardianofanon-academicsurveyorquestionnaireanditspurpose. Thepolicyshall
+8 provide that no student shall be required to volunteer for or submit to a non-academic survey or
+9 questionnaire, as defined in this paragraph, without written consent of a parent or legal guardian
+10 unless the student is an adult or an emancipated minor. The policy shall include an exception from
+11 the consent requirement for the youth risk behavior survey developed by the Centers for Disease
+12 ControlandPrevention. Thepolicyshallalsoallowaparentorlegalguardiantoopt-outoftheyouth
+13 risk behavior survey developed by the Centers for Disease Control and Prevention. The school
+14 district shall make such surveys or questionnaires available, at the school and on the school or
+15 school district's website, for review by a student's parent or legal guardian, and shall notify
+16 parents or legal guardians by sending such survey through email and any other means of
+17 delivery the district deems appropriate at least 10 days prior to distribution to students. In this
+18 paragraph, "non-academic survey or questionnaire" means surveys, questionnaires, or other
+19 documents designed to elicit information about a student's social behavior, family life, religion,
+20 politics, sexual orientation, sexual activity, drug use, or any other information not related to a
+21 student'sacademics.
+
+FloorAmendmenttoHB446
+-Page2-
+2025-2157s
+AMENDEDANALYSIS
+The bill requires school districts to email parents copies of non-academic surveys in public
+schools.
+
+[DELETED: .P,Dty1,2rAttoHB4Adteblbyrgsn1whtef1DsofSeBdofE;AnofNcS.AdR1,IdtordasfI.ReSlDstoAtaPyGgteAnofNacSsorQstoS.Tepyslresldstonyptorllgnofancsyorqeadisp.Tepyspettnostslberdtovrfrorsttoancsyoq,asddintsp,wtwnctofaptorllg0ustestisanatoranedm.Tepyslieanenf1tectrtfrteyhrkbrsyddbyteCsfrD2CladP.Tepyslaoawaptorllgntootoftey3rkbrsyddbyteCsfrDeCladP.Tes4dtslmeshssorqsa,attesladonteslo5sldsw,frrwbyassptorllg,adsln6psorllgsbysgshsytheladayormso7dytedtdsaeatlt10dsprtodntos.Int8p,"csyorq"mss,q,oro9dsddtoetinatassslb,fyl,r0p,slo,sla,dgu,orayorinntrdto1ssa]
+[DELETED: rAttoHB4Pe2DAeblrssldstoelpscsofncssinp]

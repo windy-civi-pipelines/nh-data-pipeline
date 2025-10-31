@@ -1,0 +1,67 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0590h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.D.Mannion,Rock.25
+Rep.Roy,Rock.31
+February25,2025
+2025-0590h
+09/05
+AmendmenttoHB59-FN
+2
+3 1 New Subparagraph; Criminal Code; First Degree Assault; Elements of Offense. Amend RSA
+4 631:1,Ibyinsertingaftersubparagraph(d)thefollowingnewsubparagraph:
+5 (e) Knowingly causes serious bodily injury to a law enforcement officer, a paid
+6 firefighter, volunteer firefighter, on-call firefighter, or licensed emergency medical care provider as
+7 defined in RSA 153-A:2, V, acting in the line of duty; or commits such an act against a law
+8 enforcement officer whether or not the officer is on duty, where the purpose was to harm the officer
+9 becauseofhisorherpresentorpreviousemploymentasalawenforcementofficer.
+10
+11 Amendthebillbyreplacingsection3withthefollowing:
+12
+13 3 NewSubparagraph;CriminalCode;SecondDegreeAssault;ElementsofOffense. AmendRSA
+14 631:2,Ibyinsertingaftersubparagraph(f)thefollowingnewsubparagraph:
+15 (g) Knowingly causes bodily injury to a law enforcement officer, a paid firefighter,
+16 volunteer firefighter, on-call firefighter, or licensed emergency medical care provider as defined in
+17 RSA 153-A:2, V, acting in the line of duty; or commits such an act against a law enforcement officer
+18 whetherornot theofficer isonduty, wherethepurposewastoharmtheofficerbecauseof hisor her
+19 presentorpreviousemploymentasalawenforcementofficer.
+[DELETED: .D.M,R.2.R,R.3y2,2ttoHB5Adteblbyrgsn1whtef1NwS;ClC;FtDeA;EsofO.AdR6,Ibyigarsh()tefgnws()Kycsssbyiytoalweto,apf,vrf,olf,orldeymlcepraddinRA1,V,aginteleofd;orcsshanatataletorwrorntteorisond,wetepewstohmteobeofhsorhrptorpsetasalweto1Adteblbyrgsn3whtef33NwS;ClC;SdDeA;EsofO.AdR46,Ibyigarsh()tefgnws5()Kycsbyiytoalweto,apdf6vrf,olf,orldeymlceprasddi7RA1,V,aginteleofd;orcsshanatatalweto8wrorntteorisond,wetepewstohmteorbeofhsorh9ptorpsetasalweto]
+
+
+================================================================================
+
+Raw Text:
+Rep.D.Mannion,Rock.25
+Rep.Roy,Rock.31
+February25,2025
+2025-0590h
+09/05
+AmendmenttoHB59-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 New Subparagraph; Criminal Code; First Degree Assault; Elements of Offense. Amend RSA
+4 631:1,Ibyinsertingaftersubparagraph(d)thefollowingnewsubparagraph:
+5 (e) Knowingly causes serious bodily injury to a law enforcement officer, a paid
+6 firefighter, volunteer firefighter, on-call firefighter, or licensed emergency medical care provider as
+7 defined in RSA 153-A:2, V, acting in the line of duty; or commits such an act against a law
+8 enforcement officer whether or not the officer is on duty, where the purpose was to harm the officer
+9 becauseofhisorherpresentorpreviousemploymentasalawenforcementofficer.
+10
+11 Amendthebillbyreplacingsection3withthefollowing:
+12
+13 3 NewSubparagraph;CriminalCode;SecondDegreeAssault;ElementsofOffense. AmendRSA
+14 631:2,Ibyinsertingaftersubparagraph(f)thefollowingnewsubparagraph:
+15 (g) Knowingly causes bodily injury to a law enforcement officer, a paid firefighter,
+16 volunteer firefighter, on-call firefighter, or licensed emergency medical care provider as defined in
+17 RSA 153-A:2, V, acting in the line of duty; or commits such an act against a law enforcement officer
+18 whetherornot theofficer isonduty, wherethepurposewastoharmtheofficerbecauseof hisor her
+19 presentorpreviousemploymentasalawenforcementofficer.
+
+[DELETED: .D.M,R.2.R,R.3y2,2ttoHB5Adteblbyrgsn1whtef1NwS;ClC;FtDeA;EsofO.AdR6,Ibyigarsh()tefgnws()Kycsssbyiytoalweto,apf,vrf,olf,orldeymlcepraddinRA1,V,aginteleofd;orcsshanatataletorwrorntteorisond,wetepewstohmteobeofhsorhrptorpsetasalweto1Adteblbyrgsn3whtef33NwS;ClC;SdDeA;EsofO.AdR46,Ibyigarsh()tefgnws5()Kycsbyiytoalweto,apdf6vrf,olf,orldeymlceprasddi7RA1,V,aginteleofd;orcsshanatatalweto8wrorntteorisond,wetepewstohmteorbeofhsorh9ptorpsetasalweto]

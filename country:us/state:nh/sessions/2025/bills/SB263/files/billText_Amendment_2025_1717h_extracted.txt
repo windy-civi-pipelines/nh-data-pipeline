@@ -1,0 +1,160 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1717h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.AlexanderJr.,Hills.29
+April23,2025
+2025-1717h
+11/09
+AmendmenttoSB263
+2
+3 1 New Paragraph; Endangering Welfare of a Child; Responsive Generative Communication.
+4 AmendRSA639:3byinsertingafterparagraphIIIthefollowingnewparagraph:
+5 III-a.(a) For the purposes of prosecution under this section, an owner or operator of a
+6 computer online service, Internet service, or bulletin board service, including a provider of an
+7 artificial intelligence (AI) chat program, large language model artificial intelligence bot, chat bot,
+8 character AI, or other computer application, the sole purpose of which is to provide responsive open-
+9 ended generative communication through the use of artificial intelligence, commits the offense of
+10 endangering the welfare of a child if the owner or operator knows at the time that they direct the
+11 communication to the child that the communication is made with the intent to facilitate, encourage,
+12 offer,solicit,orrecommendthatthechildimminentlyengagein:
+13 (1) Sexuallyexplicitconduct.
+14 (2) The production or participation in the production of a visual depiction of such
+15 conduct.
+16 (3) Theillegaluseofdrugsoralcohol.
+17 (4) Actsofself-harmorsuicide.
+18 (5) Anycrimeofviolenceagainstanotherperson.
+19 (b) Thisparagraphshallnotapplyto:
+20 (1) A cloud service provider, or a provider of a telecommunications service or an
+21 information service, as defined in 47 U.S.C. section 153, with respect to the provision of content
+22 createdbyorsuppliedonbehalfofanotherperson;or
+23 (2) Any product, service, website, or application that provides an AI chat program or
+24 characterthatisintegralorincidentaltoavideogame,television,streaming,movie,orothersimilar
+25 interactiveexperience.
+26 2 New Section; Enforcement; Responsive Generative Communication with Children. Amend
+27 RSA507byinsertingaftersection8-jthefollowingnewsection:
+28 507:8-k Enforcement Action for Solicitation of Children Through Responsive Generative
+29 Communication.
+30 I. Any owner or operator of a computer online service, Internet service, or bulletin board
+31 service, including a provider of an artificial intelligence (AI) chat program, large language model
+32 artificial intelligence bot, chat bot, character AI, or other computer application, the sole purpose of
+AmendmenttoSB263
+-Page2-
+1 which is to provide responsive open-ended generative communication through the use of artificial
+2 intelligence,shallbeliabletoachild,parentofsuchchild,ornextfriendofsuchchildiftheowneror
+3 operator knows at the time that they direct the communication to the child that the communication
+4 is made with the intent to facilitate, encourage, offer, solicit, or recommend that the child
+5 imminentlyengagein:
+6 (1) Sexuallyexplicitconduct.
+7 (2) The production or participation in the production of a visual depiction of such
+8 conduct.
+9 (3) Theillegaluseofdrugsoralcohol.
+10 (4) Actsofself-harmorsuicide.
+11 (5) Anycrimeofviolenceagainstanotherperson.
+12 II. The attorney general may bring an action against an owner or operator that violates this
+13 section for damages proximately caused to a child, as provided in paragraph III, or for appropriate
+14 injunctive relief. Prior to initiating such action, the attorney general shall provide the owner or
+15 operatorwithwrittennoticeofeachallegedviolationandthefactualbasisthereof,andshallgivethe
+16 owner or operator 90 days to provide assurances satisfactory to the attorney general that the owner
+17 or operator has cured the violations and has taken adequate steps to prevent future violations. If
+18 such assurances satisfactory to the attorney general are provided, the attorney general shall not
+19 initiate an action against the owner or operator for such violations. The attorney general shall have
+20 thesolerightofactionforaviolationofthissection.
+21 III. An owner or operator of such service shall be liable to a child, or the parent or next
+22 friend of the child, for damages proximately caused by a violation of paragraph I, but in no instance
+23 liableforanamountlessthanliquidateddamagesintheamountof$1,000perviolation.
+24 IV. Thissectionshallnotapplyto:
+25 (1) A cloud service provider, or a provider of a telecommunications service or an
+26 information service, as defined in 47 U.S.C. section 153, with respect to the provision of content
+27 createdbyorsuppliedonbehalfofanotherperson;or
+28 (2) Any product, service, website, or application that provides an AI chat program or
+29 characterthatisintegralorincidentaltoavideogame,television,streaming,movie,orothersimilar
+30 interactiveexperience.
+31 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+[DELETED: .ArJ,H.2l2,2ttoSB2Adteblbyrgalarteegcewhtef1NwP;EgWeofaC;ReGeCAdRA63byigarphIItefgnwpI)Frtepsofpnurtss,anorororofcroes,Its,orbnbds,igaprofaalie()ctp,lelemlalieb,ctbcrA,ororcra,tesepeofwhistopereoedgecnthteueofali,csteoeo0egteweofacdifteorororksattetetttydtt1cntotecdtttecnismewhteittof,e2o,s,orrdtttecdiyeei3()Syetc4()Tepnorpnintepnofavldnofs5c6()Teilueofdsora7()Asofsmors8()Ayceofveatarp9()Tsphslntayt0()Acdsep,oraprofatsseora1ins,asddin47U.s,whrttotepnofc2cdbyorsdonbfofarp;o3()Ayp,s,w,oranttpsanAIctpmo4crttisiloriltoavog,t,s,m,orors5iee62NwS;E;ReGeCnwhC.A7RA57byigarsn8jtefgnws85kEtAnfrSnofCnThReG9C0I.Ayorororofacroes,Its,orbnb1s,igaprofanalie()ctp,lelem2alieb,ctb,crA,ororcra,tesepeo]
+[DELETED: ttoSB2Pe2whistopereodgecnthteueofai,slbeletoac,ptofshc,orntfdofshcdifteoroorksattetetttydttecntotecdtttecismewhteittof,e,o,s,orrdttteciyeei()Syetc()Tepnorpnintepnofavldnofsc()Teilueofdsora0()Asofsmors1()Ayceofveatarp2I.Teayglmybgananatanorororttvst3snfrdspycdtoac,aspdinphI,orfra4ier.Prtoigsha,teayglslpeteoro5orwhwnneofehadvnadteflbst,adslget6ororor90dstopeassytoteayglttteo7ororhscdtevsadhstnaesstoptfev.I8shassytoteayglaep,teayglsln9ieananatteorororfrshv.Teayglslh0tesertofanfravnoftss1I.Anorororofshseslbeletoac,orteptorn2fdoftec,frdspycdbyavnofphI,btinnoi3lefranatlstnlddsinteatof$0prv4I.Tssnslntayt5()Acdsep,oraprofatsseora6ins,asddin47U.s,whrttotepnofc7cdbyorsdonbfofarp;o8()Ayp,s,w,oranttpsanAIctpmo9crttisiloriltoavog,t,s,m,orors0iee13EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+Rep.AlexanderJr.,Hills.29
+April23,2025
+2025-1717h
+11/09
+AmendmenttoSB263
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 New Paragraph; Endangering Welfare of a Child; Responsive Generative Communication.
+4 AmendRSA639:3byinsertingafterparagraphIIIthefollowingnewparagraph:
+5 III-a.(a) For the purposes of prosecution under this section, an owner or operator of a
+6 computer online service, Internet service, or bulletin board service, including a provider of an
+7 artificial intelligence (AI) chat program, large language model artificial intelligence bot, chat bot,
+8 character AI, or other computer application, the sole purpose of which is to provide responsive open-
+9 ended generative communication through the use of artificial intelligence, commits the offense of
+10 endangering the welfare of a child if the owner or operator knows at the time that they direct the
+11 communication to the child that the communication is made with the intent to facilitate, encourage,
+12 offer,solicit,orrecommendthatthechildimminentlyengagein:
+13 (1) Sexuallyexplicitconduct.
+14 (2) The production or participation in the production of a visual depiction of such
+15 conduct.
+16 (3) Theillegaluseofdrugsoralcohol.
+17 (4) Actsofself-harmorsuicide.
+18 (5) Anycrimeofviolenceagainstanotherperson.
+19 (b) Thisparagraphshallnotapplyto:
+20 (1) A cloud service provider, or a provider of a telecommunications service or an
+21 information service, as defined in 47 U.S.C. section 153, with respect to the provision of content
+22 createdbyorsuppliedonbehalfofanotherperson;or
+23 (2) Any product, service, website, or application that provides an AI chat program or
+24 characterthatisintegralorincidentaltoavideogame,television,streaming,movie,orothersimilar
+25 interactiveexperience.
+26 2 New Section; Enforcement; Responsive Generative Communication with Children. Amend
+27 RSA507byinsertingaftersection8-jthefollowingnewsection:
+28 507:8-k Enforcement Action for Solicitation of Children Through Responsive Generative
+29 Communication.
+30 I. Any owner or operator of a computer online service, Internet service, or bulletin board
+31 service, including a provider of an artificial intelligence (AI) chat program, large language model
+32 artificial intelligence bot, chat bot, character AI, or other computer application, the sole purpose of
+
+AmendmenttoSB263
+-Page2-
+1 which is to provide responsive open-ended generative communication through the use of artificial
+2 intelligence,shallbeliabletoachild,parentofsuchchild,ornextfriendofsuchchildiftheowneror
+3 operator knows at the time that they direct the communication to the child that the communication
+4 is made with the intent to facilitate, encourage, offer, solicit, or recommend that the child
+5 imminentlyengagein:
+6 (1) Sexuallyexplicitconduct.
+7 (2) The production or participation in the production of a visual depiction of such
+8 conduct.
+9 (3) Theillegaluseofdrugsoralcohol.
+10 (4) Actsofself-harmorsuicide.
+11 (5) Anycrimeofviolenceagainstanotherperson.
+12 II. The attorney general may bring an action against an owner or operator that violates this
+13 section for damages proximately caused to a child, as provided in paragraph III, or for appropriate
+14 injunctive relief. Prior to initiating such action, the attorney general shall provide the owner or
+15 operatorwithwrittennoticeofeachallegedviolationandthefactualbasisthereof,andshallgivethe
+16 owner or operator 90 days to provide assurances satisfactory to the attorney general that the owner
+17 or operator has cured the violations and has taken adequate steps to prevent future violations. If
+18 such assurances satisfactory to the attorney general are provided, the attorney general shall not
+19 initiate an action against the owner or operator for such violations. The attorney general shall have
+20 thesolerightofactionforaviolationofthissection.
+21 III. An owner or operator of such service shall be liable to a child, or the parent or next
+22 friend of the child, for damages proximately caused by a violation of paragraph I, but in no instance
+23 liableforanamountlessthanliquidateddamagesintheamountof$1,000perviolation.
+24 IV. Thissectionshallnotapplyto:
+25 (1) A cloud service provider, or a provider of a telecommunications service or an
+26 information service, as defined in 47 U.S.C. section 153, with respect to the provision of content
+27 createdbyorsuppliedonbehalfofanotherperson;or
+28 (2) Any product, service, website, or application that provides an AI chat program or
+29 characterthatisintegralorincidentaltoavideogame,television,streaming,movie,orothersimilar
+30 interactiveexperience.
+31 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+
+[DELETED: .ArJ,H.2l2,2ttoSB2Adteblbyrgalarteegcewhtef1NwP;EgWeofaC;ReGeCAdRA63byigarphIItefgnwpI)Frtepsofpnurtss,anorororofcroes,Its,orbnbds,igaprofaalie()ctp,lelemlalieb,ctbcrA,ororcra,tesepeofwhistopereoedgecnthteueofali,csteoeo0egteweofacdifteorororksattetetttydtt1cntotecdtttecnismewhteittof,e2o,s,orrdtttecdiyeei3()Syetc4()Tepnorpnintepnofavldnofs5c6()Teilueofdsora7()Asofsmors8()Ayceofveatarp9()Tsphslntayt0()Acdsep,oraprofatsseora1ins,asddin47U.s,whrttotepnofc2cdbyorsdonbfofarp;o3()Ayp,s,w,oranttpsanAIctpmo4crttisiloriltoavog,t,s,m,orors5iee62NwS;E;ReGeCnwhC.A7RA57byigarsn8jtefgnws85kEtAnfrSnofCnThReG9C0I.Ayorororofacroes,Its,orbnb1s,igaprofanalie()ctp,lelem2alieb,ctb,crA,ororcra,tesepeo]
+[DELETED: ttoSB2Pe2whistopereodgecnthteueofai,slbeletoac,ptofshc,orntfdofshcdifteoroorksattetetttydttecntotecdtttecismewhteittof,e,o,s,orrdttteciyeei()Syetc()Tepnorpnintepnofavldnofsc()Teilueofdsora0()Asofsmors1()Ayceofveatarp2I.Teayglmybgananatanorororttvst3snfrdspycdtoac,aspdinphI,orfra4ier.Prtoigsha,teayglslpeteoro5orwhwnneofehadvnadteflbst,adslget6ororor90dstopeassytoteayglttteo7ororhscdtevsadhstnaesstoptfev.I8shassytoteayglaep,teayglsln9ieananatteorororfrshv.Teayglslh0tesertofanfravnoftss1I.Anorororofshseslbeletoac,orteptorn2fdoftec,frdspycdbyavnofphI,btinnoi3lefranatlstnlddsinteatof$0prv4I.Tssnslntayt5()Acdsep,oraprofatsseora6ins,asddin47U.s,whrttotepnofc7cdbyorsdonbfofarp;o8()Ayp,s,w,oranttpsanAIctpmo9crttisiloriltoavog,t,s,m,orors0iee13EeD.TsatslteetJy1,2]

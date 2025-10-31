@@ -1,0 +1,51 @@
+Title: 1 AmendRSA110-C:1-a,I(b)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA110-C:1-a,I(b)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1963s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateCommerce
+May6,2025
+2025-1963s
+07/05
+AmendmenttoHB225-FN
+2
+3 (b) "Employer" means any person, company, corporation, or organization that employs
+4 50 or more individuals at the same location in New Hampshire. For the purpose of calculating the
+5 number of employees, the employee count of separateemployers shall not be combined, regardless of
+6 commonownership.
+7
+8 AmendRSA110-C:1-a,VIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+9
+10 VII. Theemployermaychoosenottoreemploytheemployeeiftheemployercertifiesthatits
+11 circumstances have so changed as to make reemployment impossible or unreasonable as defined by
+12 20C.F.R.Section1002.139.
+[DELETED: eCy6,2ttoHB2AdRA1,I)asidbysn1ofteblbyrgitwhtef()""msayp,c,c,orontte50ormeisatteselninNwH.Frtepeofcgtnrofe,teeectofseesslntbec,rsocnoAdRA1,VIasidbysn1ofteblbyrgitwhtef0V.Teermycenttoryteeeifteercstti1cshesocdastomertieorueasddb220C.Sn1]
+
+
+================================================================================
+
+Raw Text:
+SenateCommerce
+May6,2025
+2025-1963s
+07/05
+AmendmenttoHB225-FN
+1 AmendRSA110-C:1-a,I(b)asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+2
+3 (b) "Employer" means any person, company, corporation, or organization that employs
+4 50 or more individuals at the same location in New Hampshire. For the purpose of calculating the
+5 number of employees, the employee count of separateemployers shall not be combined, regardless of
+6 commonownership.
+7
+8 AmendRSA110-C:1-a,VIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+9
+10 VII. Theemployermaychoosenottoreemploytheemployeeiftheemployercertifiesthatits
+11 circumstances have so changed as to make reemployment impossible or unreasonable as defined by
+12 20C.F.R.Section1002.139.
+
+[DELETED: eCy6,2ttoHB2AdRA1,I)asidbysn1ofteblbyrgitwhtef()""msayp,c,c,orontte50ormeisatteselninNwH.Frtepeofcgtnrofe,teeectofseesslntbec,rsocnoAdRA1,VIasidbysn1ofteblbyrgitwhtef0V.Teermycenttoryteeeifteercstti1cshesocdastomertieorueasddb220C.Sn1]

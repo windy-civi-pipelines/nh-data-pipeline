@@ -1,0 +1,83 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0600h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Dunn,Rock.16
+Rep.Pauer,Hills.36
+February26,2025
+2025-0600h
+02/05
+AmendmenttoHB475-LOCAL
+2
+3 1 Use of Official Ballot; Definition of Default Budget. RSA 40:13, IX(b) is repealed and
+4 reenactedtoreadasfollows:
+5 (b) "Default budget" as used in this subdivision means the amount of the same
+6 appropriations as contained in the operating budget authorized for the previous year, reduced and
+7 increased, as the case may be, by debt service, contracts, and other obligations previously incurred
+8 by law or mandated by law, and reduced by one-time expenditures contained in the operating
+9 budget, by salaries and benefits of positions that have been eliminated in the proposed budget, by
+10 salaries and benefits of positions that were vacant before the previous year's budget was approved
+11 and have remained vacant, and reflecting the actual salary and benefits of filled positions as of the
+12 public hearing for the proposed budget excluding any increases subsequent to the authorization of
+13 the previous year's operating budget. For the purposes of this paragraph, one-time expenditures
+14 shall be appropriations not likely to recur in the succeeding budget, and eliminated positions shall
+15 not include vacant positions under recruitment unless vacant before the previous year's approved
+16 budget was approved, as determined by the governing body of the local political subdivision, unless
+17 the provisions of RSA 40:14-b are adopted. Any budget line item in the operating budget authorized
+18 forthepreviousyearfromwhichatransferwasmadeforanyone-timeexpendituresshallbereduced
+19 by the amount of the transfer in the default budget. In calculating the default budget amount, the
+20 governing body, or the budget committee if the provisions of RSA 40:14-b are adopted, shall follow
+21 the statutory formula which may result in a higher or lower amount than the proposed operating
+22 budget.
+23 2 Useof OfficialBallot; DefaultBudget Disclosure;One-TimeExpenditures. AmendRSA40:13,
+24 XI(a)(3)toreadasfollows:
+25 (3) One-time expenditures, including reductions to line items for transfers
+26 madeforone-timeexpenditures,asdefinedundersubparagraphIX(b);and
+27 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+[DELETED: .D,R.1.P,H.3y2,2ttoHB4Adteblbyrgalarteegcewhtef1UeofOlB;DnofDtB.RA4,I)isrdardtordasf()"tb"asudintssnmsteatoftesasascdinteogbtadfrtepsy,rdai,astecemyb,bydts,c,adorospyibylwormdbyl,adrdbyoeescdinteob,byssadbsofpstthebnedintepdb,b0ssadbsofpsttwevtbetepsysbtwsa1adherdv,adrgtealsyadbsoffdpsasoft2pchgfrtepdbtegayissttoteano3tepsysogb.Frtepsoftsp,oee4slbeasntlytorrintesgb,adedpss5ntievtpsurrtusvtbetepsysa6btwsa,asddbyteggbyoftellpls,u7tepsofRA4baea.Aybtleiminteogbta8frtepsyrfmwhatrwsmefrayoeesslber9byteatoftetrintedtb.Incgtedtbta,t0ggb,ortebtceiftepsofRA4baea,slf1tesyfawhmyrtinahrorlrattntepdo2b32UeofOlB;DtBtD;OeE.AdRA44X)tordasf5()Oee,igrstoleisfrt6mefroee,asddurshI;a73EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+Rep.Dunn,Rock.16
+Rep.Pauer,Hills.36
+February26,2025
+2025-0600h
+02/05
+AmendmenttoHB475-LOCAL
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 Use of Official Ballot; Definition of Default Budget. RSA 40:13, IX(b) is repealed and
+4 reenactedtoreadasfollows:
+5 (b) "Default budget" as used in this subdivision means the amount of the same
+6 appropriations as contained in the operating budget authorized for the previous year, reduced and
+7 increased, as the case may be, by debt service, contracts, and other obligations previously incurred
+8 by law or mandated by law, and reduced by one-time expenditures contained in the operating
+9 budget, by salaries and benefits of positions that have been eliminated in the proposed budget, by
+10 salaries and benefits of positions that were vacant before the previous year's budget was approved
+11 and have remained vacant, and reflecting the actual salary and benefits of filled positions as of the
+12 public hearing for the proposed budget excluding any increases subsequent to the authorization of
+13 the previous year's operating budget. For the purposes of this paragraph, one-time expenditures
+14 shall be appropriations not likely to recur in the succeeding budget, and eliminated positions shall
+15 not include vacant positions under recruitment unless vacant before the previous year's approved
+16 budget was approved, as determined by the governing body of the local political subdivision, unless
+17 the provisions of RSA 40:14-b are adopted. Any budget line item in the operating budget authorized
+18 forthepreviousyearfromwhichatransferwasmadeforanyone-timeexpendituresshallbereduced
+19 by the amount of the transfer in the default budget. In calculating the default budget amount, the
+20 governing body, or the budget committee if the provisions of RSA 40:14-b are adopted, shall follow
+21 the statutory formula which may result in a higher or lower amount than the proposed operating
+22 budget.
+23 2 Useof OfficialBallot; DefaultBudget Disclosure;One-TimeExpenditures. AmendRSA40:13,
+24 XI(a)(3)toreadasfollows:
+25 (3) One-time expenditures, including reductions to line items for transfers
+26 madeforone-timeexpenditures,asdefinedundersubparagraphIX(b);and
+27 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+
+[DELETED: .D,R.1.P,H.3y2,2ttoHB4Adteblbyrgalarteegcewhtef1UeofOlB;DnofDtB.RA4,I)isrdardtordasf()"tb"asudintssnmsteatoftesasascdinteogbtadfrtepsy,rdai,astecemyb,bydts,c,adorospyibylwormdbyl,adrdbyoeescdinteob,byssadbsofpstthebnedintepdb,b0ssadbsofpsttwevtbetepsysbtwsa1adherdv,adrgtealsyadbsoffdpsasoft2pchgfrtepdbtegayissttoteano3tepsysogb.Frtepsoftsp,oee4slbeasntlytorrintesgb,adedpss5ntievtpsurrtusvtbetepsysa6btwsa,asddbyteggbyoftellpls,u7tepsofRA4baea.Aybtleiminteogbta8frtepsyrfmwhatrwsmefrayoeesslber9byteatoftetrintedtb.Incgtedtbta,t0ggb,ortebtceiftepsofRA4baea,slf1tesyfawhmyrtinahrorlrattntepdo2b32UeofOlB;DtBtD;OeE.AdRA44X)tordasf5()Oee,igrstoleisfrt6mefroee,asddurshI;a73EeD.TsatslteetJy1,2]

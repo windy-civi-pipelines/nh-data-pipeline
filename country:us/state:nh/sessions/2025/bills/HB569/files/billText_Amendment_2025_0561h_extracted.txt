@@ -1,0 +1,55 @@
+Title: 1 Amendthebillbyreplacingsection3withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection3withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0561h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Pauer,Hills.36
+Rep.H.Howard,Straf.4
+February21,2025
+2025-0561h
+02/09
+AmendmenttoHB569
+2
+3 3 Communications District Planning Committee; Formation and Responsibilities. Amend RSA
+4 53-G:2,Itoreadasfollows:
+5 I. The governing bodies of 2 or more municipalities, or the governing body of a county,
+6 may at their discretion create a special unpaid committee to be known as a communications district
+7 planning committee, consisting of at least 2 persons from each municipality appointed by the
+8 respective governing bodies. Governing bodies of municipalities located within a proposed
+9 county-wide district may vote to include themselvesin this planning committee. Governing
+10 bodies of municipalities may vote to join the proposed communications district at a future
+11 time pursuant to RSA 53-G:7. The committee shall elect a chairperson, clerk, and treasurer.
+12 Members may be reimbursed by the committee for costs of performing duties directly related to the
+13 committee.
+[DELETED: .P,H.3.H.H,S.y2,2ttoHB5Adteblbyrgsn3whtef3CsDtPgC;FnadR.AdR5,ItordasfI.Teggbsof2ormem,orteggbyofacmyattrdnceasludcetobeknasacsdpgc,cgofatlt2psfmehmyadbytreggb.Ggbsofmsldwnapcedtmyvetoietsintspgc.G0bsofmsmyvetojntepdcsdtataf1tepttoRA5.Tecesletac,c,adt2Msmyberdbytecefrcsofpgdsdyrdtot3c]
+
+
+================================================================================
+
+Raw Text:
+Rep.Pauer,Hills.36
+Rep.H.Howard,Straf.4
+February21,2025
+2025-0561h
+02/09
+AmendmenttoHB569
+1 Amendthebillbyreplacingsection3withthefollowing:
+2
+3 3 Communications District Planning Committee; Formation and Responsibilities. Amend RSA
+4 53-G:2,Itoreadasfollows:
+5 I. The governing bodies of 2 or more municipalities, or the governing body of a county,
+6 may at their discretion create a special unpaid committee to be known as a communications district
+7 planning committee, consisting of at least 2 persons from each municipality appointed by the
+8 respective governing bodies. Governing bodies of municipalities located within a proposed
+9 county-wide district may vote to include themselvesin this planning committee. Governing
+10 bodies of municipalities may vote to join the proposed communications district at a future
+11 time pursuant to RSA 53-G:7. The committee shall elect a chairperson, clerk, and treasurer.
+12 Members may be reimbursed by the committee for costs of performing duties directly related to the
+13 committee.
+
+[DELETED: .P,H.3.H.H,S.y2,2ttoHB5Adteblbyrgsn3whtef3CsDtPgC;FnadR.AdR5,ItordasfI.Teggbsof2ormem,orteggbyofacmyattrdnceasludcetobeknasacsdpgc,cgofatlt2psfmehmyadbytreggb.Ggbsofmsldwnapcedtmyvetoietsintspgc.G0bsofmsmyvetojntepdcsdtataf1tepttoRA5.Tecesletac,c,adt2Msmyberdbytecefrcsofpgdsdyrdtot3c]

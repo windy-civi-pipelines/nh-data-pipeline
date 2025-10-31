@@ -1,0 +1,96 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0602s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Sen.Gray,Dist6
+February26,2025
+2025-0602s
+07/09
+FloorAmendmenttoSB225-FN-LOCAL
+2
+3 1 Appraisal of Taxable Property; Annual Appraisal; Municipalities Over 10,000; 45-Day Notice
+4 ofRevaluation. AmendRSA75:8-btoreadasfollows:
+5 75:8-b Annual Appraisal; Municipalities Over 10,000. Except when assessing real estate under
+6 RSA 75:8-a, any municipality with a population over 10,000 as determined pursuant to RSA 78-A:25
+7 intending to appraise real estate annually at market value, as defined in RSA 75:1, shall authorize
+8 such annual appraisal by a majority vote of the governing body. The governing body shall hold 2
+9 public hearings regarding the annual appraisal process at least 15 days, but not more than 60 days,
+10 prior to the governing body's authorization vote. Any municipality with a population over 10,000 as
+11 determined pursuant to RSA 78-A:25 annually appraising real estate at market value shall provide
+12 notification of changes to the assessed valuation at least 45 days prior to the issuance of the final
+13 tax bill[, either]. Such notice shall be by individual notice to the property owner, by public notice
+14 in a local newspaper of general circulation, by public notice on the municipalities' main
+15 website or any social media accounts utilized by the municipality,and public notice posted
+16 in the 2 places where the municipality regularly posts notices of its governing body
+17 meetings,[or]andbyanyothermeansdeemedappropriatebythegoverningbody.
+18 2 New Section; Five-Year Valuation Notice. Amend RSA 75 by inserting after section 8-b the
+19 followingnewsection:
+20 75:8-c Five Year Valuation Notice. Any municipality that conducts a reappraisal of property
+21 pursuant to RSA 75:8-a shall provide notification of changes to the assessed valuation at least 45
+22 days prior to the issuance of the final tax bill. Such notice shall be by individual notice to the
+23 property owner, by public notice in a local newspaper of general circulation, by public notice on the
+24 municipalities' main website and any social media accounts utilized by the municipality, by public
+25 notice posted in the 2 places where the municipality regularly posts notices of its governing body
+26 meetings,andbyanyothermeansdeemedappropriatebythegoverningbody.
+27 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+FloorAmendmenttoSB225-FN-LOCAL
+-Page2-
+2025-0602s
+AMENDEDANALYSIS
+This bill requires municipalities to post a public notice prior to conducting any annual or 5-year
+revaluationofproperty.
+[DELETED: .G,Dty2,2rAttoSB2Adteblbyrgalarteegcewhtef1AlofTeP;AlA;MsOr1;4yNofR.AdRA7btordasf7bAlA;MsOr1.EtwnagrleeuRA7,aymywhapnor10asddpttoRA7igtoaerleeayatmtv,asddinRA7,slashalalbyamyveofteggb.Teggbyslhdpchsrgtealalpsatlt15d,btntmetn60d0prtoteggbsanv.Aymywhapnor10a1ddpttoRA75ayagrleeatmtveslp2nnofcstoteadvnatlt45dsprtoteieoftef3txb,e.Shneslbebyilnetotepyo,bypcn4inallnrofglc,bypcneontem'm5weorayslmaasudbytem,adpcnep6inte2pswetemyrypsnsofisggb7m,[]adbyayormsddaebyteggb82NwS;FrVnN.AdRA75byigarsn8bt9fgnws07cFeYrVnN.Aymyttcsarlofp1pttoRA7aslpennofcstoteadvnatlt42dsprtoteieoftefltxb.Shneslbebyilnetot3pyo,bypcneinallnrofglc,bypcneont4m'mnweadayslmaasudbytem,byp5nepdinte2pswetemyrypsnsofisggb6m,adbyayormsddaebyteggb73EeD.TsatslteetJy1,2]
+[DELETED: rAttoSB2Pe2DAsblrsmstoptapcneprtocgayalor5nofp]
+
+
+================================================================================
+
+Raw Text:
+Sen.Gray,Dist6
+February26,2025
+2025-0602s
+07/09
+FloorAmendmenttoSB225-FN-LOCAL
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 Appraisal of Taxable Property; Annual Appraisal; Municipalities Over 10,000; 45-Day Notice
+4 ofRevaluation. AmendRSA75:8-btoreadasfollows:
+5 75:8-b Annual Appraisal; Municipalities Over 10,000. Except when assessing real estate under
+6 RSA 75:8-a, any municipality with a population over 10,000 as determined pursuant to RSA 78-A:25
+7 intending to appraise real estate annually at market value, as defined in RSA 75:1, shall authorize
+8 such annual appraisal by a majority vote of the governing body. The governing body shall hold 2
+9 public hearings regarding the annual appraisal process at least 15 days, but not more than 60 days,
+10 prior to the governing body's authorization vote. Any municipality with a population over 10,000 as
+11 determined pursuant to RSA 78-A:25 annually appraising real estate at market value shall provide
+12 notification of changes to the assessed valuation at least 45 days prior to the issuance of the final
+13 tax bill[, either]. Such notice shall be by individual notice to the property owner, by public notice
+14 in a local newspaper of general circulation, by public notice on the municipalities' main
+15 website or any social media accounts utilized by the municipality,and public notice posted
+16 in the 2 places where the municipality regularly posts notices of its governing body
+17 meetings,[or]andbyanyothermeansdeemedappropriatebythegoverningbody.
+18 2 New Section; Five-Year Valuation Notice. Amend RSA 75 by inserting after section 8-b the
+19 followingnewsection:
+20 75:8-c Five Year Valuation Notice. Any municipality that conducts a reappraisal of property
+21 pursuant to RSA 75:8-a shall provide notification of changes to the assessed valuation at least 45
+22 days prior to the issuance of the final tax bill. Such notice shall be by individual notice to the
+23 property owner, by public notice in a local newspaper of general circulation, by public notice on the
+24 municipalities' main website and any social media accounts utilized by the municipality, by public
+25 notice posted in the 2 places where the municipality regularly posts notices of its governing body
+26 meetings,andbyanyothermeansdeemedappropriatebythegoverningbody.
+27 3 EffectiveDate. ThisactshalltakeeffectJuly1,2026.
+
+FloorAmendmenttoSB225-FN-LOCAL
+-Page2-
+2025-0602s
+AMENDEDANALYSIS
+This bill requires municipalities to post a public notice prior to conducting any annual or 5-year
+revaluationofproperty.
+
+[DELETED: .G,Dty2,2rAttoSB2Adteblbyrgalarteegcewhtef1AlofTeP;AlA;MsOr1;4yNofR.AdRA7btordasf7bAlA;MsOr1.EtwnagrleeuRA7,aymywhapnor10asddpttoRA7igtoaerleeayatmtv,asddinRA7,slashalalbyamyveofteggb.Teggbyslhdpchsrgtealalpsatlt15d,btntmetn60d0prtoteggbsanv.Aymywhapnor10a1ddpttoRA75ayagrleeatmtveslp2nnofcstoteadvnatlt45dsprtoteieoftef3txb,e.Shneslbebyilnetotepyo,bypcn4inallnrofglc,bypcneontem'm5weorayslmaasudbytem,adpcnep6inte2pswetemyrypsnsofisggb7m,[]adbyayormsddaebyteggb82NwS;FrVnN.AdRA75byigarsn8bt9fgnws07cFeYrVnN.Aymyttcsarlofp1pttoRA7aslpennofcstoteadvnatlt42dsprtoteieoftefltxb.Shneslbebyilnetot3pyo,bypcneinallnrofglc,bypcneont4m'mnweadayslmaasudbytem,byp5nepdinte2pswetemyrypsnsofisggb6m,adbyayormsddaebyteggb73EeD.TsatslteetJy1,2]
+[DELETED: rAttoSB2Pe2DAsblrsmstoptapcneprtocgayalor5nofp]

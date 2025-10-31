@@ -1,0 +1,39 @@
+Title: 1 AmendRSA332-I:1-aasinsertedbysection2ofthebillbyinsertingafterparagraphIIthefollowing
+Official Title: 1 AmendRSA332-I:1-aasinsertedbysection2ofthebillbyinsertingafterparagraphIIthefollowing
+Number of Sections: 1
+Source: versions - Amendment #2025-2570s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Sen.PerkinsKwoka,Dist21
+May30,2025
+2025-2570s
+05/06
+FloorAmendmenttoHB560
+2 newparagraph:
+3
+4 III. Nothing inthis section shall require disclosure of informationprovided toany counselor,
+5 school psychologist, school nurse, or other certified health care provider where the information
+6 providedwasreasonablyexpectedtobeconfidential.
+[DELETED: .PsK,Dt2y3,2rAttoHB5AdRA3aasidbysn2ofteblbyigarphIItefnwpI.Ngintssnslredeofinpdtoaycslp,sln,ororcdhhceprweteipdwsryedtobec]
+
+
+================================================================================
+
+Raw Text:
+Sen.PerkinsKwoka,Dist21
+May30,2025
+2025-2570s
+05/06
+FloorAmendmenttoHB560
+1 AmendRSA332-I:1-aasinsertedbysection2ofthebillbyinsertingafterparagraphIIthefollowing
+2 newparagraph:
+3
+4 III. Nothing inthis section shall require disclosure of informationprovided toany counselor,
+5 school psychologist, school nurse, or other certified health care provider where the information
+6 providedwasreasonablyexpectedtobeconfidential.
+
+[DELETED: .PsK,Dt2y3,2rAttoHB5AdRA3aasidbysn2ofteblbyigarphIItefnwpI.Ngintssnslredeofinpdtoaycslp,sln,ororcdhhceprweteipdwsryedtobec]

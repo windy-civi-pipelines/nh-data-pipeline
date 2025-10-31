@@ -1,0 +1,240 @@
+Title: 1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+Official Title: 1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+Number of Sections: 1
+Source: versions - Amendment #2025-0061h
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Rep.M.Pearson,Rock.34
+January23,2025
+2025-0061h
+09/11
+AmendmenttoHB480
+2 readas4:
+3
+4 2 StatementofFindingsandPurpose. Thegeneralcourtfindsthat:
+5 I. Individualswithseverementalillnessareatincreasedriskofinteractingwiththeprobate
+6 court on civil commitments as well as with the criminal justice system in 2 important areas: trial
+7 competencyandcompetencyrestoration.
+8 II. As is evidenced by the number of individuals ordered for competency evaluations, the
+9 need for these evaluations has increased substantially over the last 5 years, with some state
+10 jurisdictions reporting 70 to 100 percent increases. Accordingly, New Hampshire experienced a 75
+11 percent increase in the number of competency orders since 2015. In 2019, there was an average of
+12 66 court orders for trial competency evaluations each month. With increases of the numbers of
+13 competency evaluations, there are more individuals court ordered for competency restoration. An
+14 individual ordered into competency restoration is expected to improve and return to court to face his
+15 orherchargesuponrestorationofhisorhercompetency. Analysisof56publishedstudiesfrom1975
+16 to 2013 showed that nationwide, 81 percent of individuals ordered to inpatient competency
+17 restorationtreatmentwereabletoreturntocourt.
+18 III. In New Hampshire, there is no formal, existing system to provide treatment for
+19 individuals found incompetent to stand trial. In stark contrast to these national numbers, fewer
+20 than half of the individuals ordered into a competency restoration period are able to return to court
+21 and completetheir criminal cases. Specifically, in2019, only44percent of individuals werefound to
+22 havetheircompetencyrestored.
+23 IV. It is imperativethat thestateimprovetheefficiencyand effectiveness of thecompetency
+24 restorationprocessinNewHampshirebyestablishingaforensicliaisonpilotprograminonejudicial
+25 jurisdiction as recommended by the committee to study restoration of competency as created under
+26 RSA135:49.
+27 3 New Subdivision; Forensic Liaison and Competency Restoration Pilot Program. Amend RSA
+28 135byinsertingaftersection49thefollowingnewsubdivision:
+29 ForensicLiaisonandCompetencyRestorationPilotProgram
+30 135:50 ForensicLiaisonandCompetencyRestorationPilotProgramEstablished.
+31 I. In this section, “parties” means the prosecution, the defense, and the office of the forensic
+32 examiner.
+AmendmenttoHB480
+-Page2-
+1 II. The department of health and human services shall establish a 2-year pilot program
+2 creating the position of one or more forensic liaisons (FL) and contracting for all services necessary
+3 for competency restoration not otherwise covered by a third-party payer. The FL shall operate as
+4 neutral entities between the parties and the court in instances when competency is raised as an
+5 issue in a criminal case. The FL shall operate in the superior court in Merrimack or Strafford
+6 county and in the circuit courts district division in the county that is selected. The commissioner of
+7 thedepartmentofhealthandhumanservicesshallberesponsiblefordesignatinganemployeeofthe
+8 departmenttohire,train,andsupervisetheFL,orshallcontractwithanotherentitytoprovidesuch
+9 services and any services necessary for competency restoration not covered by a third-party payer.
+10 The FL shall hold at least a bachelor’s level degree in social work, psychology, criminal justice, or
+11 sociology, or have a minimum of 2 years of work experience in a relevant field, as determined by the
+12 departmentorcontractedentity.
+13 III. The duties of the FL shall include the following, unless provided by an existing case
+14 managerorotherproviderinanefforttoavoidtheduplicationofservices:
+15 (a) Facilitating the defendant’s attendance at the initial competency evaluation with the
+16 officeoftheforensicexaminer.
+17 (b) Assistingthedefendantinobtainingtheproperevaluationstodeterminetheservices
+18 necessaryforcompetencyrestoration.
+19 (c) Providing recommendations to the parties and the court in writing as to the most
+20 appropriate treatment or service to restore a defendant’s competency based on the evaluations in
+21 subparagraph(b)above.
+22 (d) Assisting the defendant in obtaining and receiving any recommended services for
+23 competencyrestorationorthatwouldfacilitatecompetencyrestorationservices.
+24 (e) Assisting the defendant in reducing barriers to accessing and maintaining treatment
+25 andservices.
+26 (f) Sharing information with the parties and the court regarding the defendant’s
+27 progressinandadherencetotreatment.
+28 (g) Sharing information with the parties and the court relating to changes in the
+29 defendant’sconditionrelativetocompetency,restorability,ordangerousness.
+30 (h) Receiving and disseminating treatment information from all mental health
+31 treatmentfacilitiesandproviderswiththepartiesandthecourt.
+32 (i) Providing updates to the parties and the court as outlined in RSA 135:17 and RSA
+33 135:17-aontheprogressionofcompetencyrestoration.
+34 (j) Communicatingandcoordinatingcarewithcourt-orderedproviders.
+35 (k) Performinganyotherappropriatedutiesasassignedbythedepartment.
+36 IV. The FL is entitled to all past and present relevant records and information relating to
+37 the defendant’s competency. The defendant shall provide authorization for the FL to obtain all
+AmendmenttoHB480
+-Page3-
+1 necessary mental health records. If the defendant does not provide the FL with relevant records or
+2 access to records, the FL shall notify the parties who may petition the court for an order requiring
+3 theprovisionofsuchrecords. AllmaterialsreceivedbytheFLshallbeconfidentialandexemptfrom
+4 disclosure under RSA 91-A. The FL shall provide access to relevant records to the parties and the
+5 court for the sole purpose of assessment and evaluation of competency. Such records shall be kept
+6 confidential by the parties and the court and shall not be used for any purpose other than
+7 determination of competency, except that in the case of a person deemed not competent, not
+8 restorable, and dangerous per RSA 135:17-a, V, in which case the records shall be available to the
+9 stateforthepurposeof initiatingaguardianshiporinvoluntaryadmission. Informationprovided by
+10 the FL to the parties and the court regarding the defendant’s treatment, or adherence thereto, shall
+11 besealed. Thecourtmayunsealsuchrecordsorupdatesatitsdiscretion.
+12 V. TheFLmaybeorderedtoappearinanyproceedinginwhichthecourtdeterminestheFL
+13 is necessary. In all cases, the parties and the court are entitled to file motions based upon reports
+14 madetothembytheFL.
+15 VI. For each year of the pilot program, the FL shall report to the department the number of
+16 cases received, the number of cases in which competency restoration was effectuated, and any
+17 recommendations to improve the competency restoration system in New Hampshire. The
+18 departmentshallpresentthisreporttothehealthandhumanservicesoversightcommittee.
+19 VII. The department shall not be required to implement the pilot program established in
+20 paragraphIIuntilsuchdatethattheprogramissufficientlyfundedtomeettherequirementsofthis
+21 section.
+AmendmenttoHB480
+-Page4-
+2025-0061h
+AMENDEDANALYSIS
+This bill directs the committee to study restoration of competency to submit any additional
+proposals on or before July 1, 2025 and requires, once adequate funding is received, the department
+ofhealthandhumanservicestoestablisha2-yearpilotprogramtocreatethepositionofoneormore
+forensicliaisons,whowillassistincompetencyproceedingsofcriminaldefendants.
+[DELETED: .M.P,R.3y2,2ttoHB4Adteblbyigarsn1tefgadrgteolsn2trdas42StofFsadP.TeglctfstI.Iswhsemlisaeatidrkofigwhtepctonclcsaswlaswhtecljesmin2ita:tcyadcyrI.Asisedbytenrofisodfrcye,tndfrteeshsidsyortelt5y,whses0jsrg70to10pti.A,NwHeeda71ptieintenrofcyosse2.In2,tewsanaeo266ctosfrtlcyesehm.Whisoftenso3cye,teaemeisctodfrcyr.A4ilodiocyrnisedtoieadrntocttofeh5orhrcsunrnofhsorhrc.Asof56pdssfm16to23sdttn,81ptofisodtoitc7rnttweaetorntoc8I.InNwH,teisnof,egsmtopettf9isfdittosdt.Inskcttotenln,f0tnhfofteisodioacyrnpdaeaetorntoc1adcetrclc.S,in2,oy44ptofiswefdt2hetrcyr3I.Itisiettteseieteeyadesoftec4rnpsinNwHebyegafclnptpminoej5jnasrdbytecetosyrnofcyascdu6RA173NwS;FcLnadCyRnPtP.AdR815byigarsn49tefgnws9FcLnadCyRnPtP010FcLnadCyRnPtPmE1I.Intss,“”mstep,ted,adteoeoftef2e]
+[DELETED: ttoHB4Pe2I.Tedtofhhadhnsssleha2rptpcgtepnofoeormefcls()adcgfralssnfrcyrnntoecdbyatyp.TeFLsloeanlesbntepsadtectiniswncyisrdasaieinaclc.TeFLsloeintesrctinMkorScyadintectcsdtdnintecyttiss.Tecrotedtofhhadhnssslberefrdganeeoftdttoh,t,adseteF,orslctwhareytopesssadayssnyfrcyrnntcdbyatyp0TeFLslhdatltabslldeinslw,p,clj,o1s,orheammof2ysofwkeeinartf,asddbyt2dtorcde3I.TedsofteFLslietef,uspdbyanegc4mrororprinanettoadtednofs5()Fgtedsaeatteilcyenwht6oeoftefce7()Agtedtinogteprestodetes8nyfrcyr9()Pgrstotepsadtectinwgastotem0aettorsetoreadscybdonteesi1sh()a2()Agtedtinogadrgayrdssf3cyrnorttwdfecyrns4()Agtedtinrgbstoagadmgt5ads6()Sginwhtepsadtectrgted7psinadaetot8()Sginwhtepsadtectrgtocsint9dscnretoc,r,ord0()Rgaddgttinfmalmlh1ttfsadpswhtepsadtec2()PgustotepsadtectasodinRA17adR31aontepnofcyr4()Cgadcgcewhcdp5()Pgayoraedsasadbyted6I.TeFLisedtoalptadptrtrsadinrgt7tedsc.TedtslpeanfrteFLtoona]
+[DELETED: ttoHB4Pe3nymlhhr.IftedtdsntpeteFLwhrtrsoastor,teFLslnytepswomypntectfranorrtepnofshr.AlmsrdbyteFLslbecladetfdeurRA9.TeFLslpeastortrstotepsadtctfrtesepeofatadenofc.Shrsslbekclbytepsadtectadslntbeudfraypeortdnofc,etttinteceofapnddntc,nr,addsprRA1,V,inwhcetersslbeaetotsefrtepeofigagporiya.Inpdb0teFLtotepsadtectrgtedst,oraet,s1bes.Tectmyulshrsorusatisd2V.TeFLmybeodtoarinaypginwhtectdsteF3isn.Inalc,tepsadtectaeedtofemsbdunr4metotmbyteF5V.Frehyrofteptp,teFLslrttotedttenro6csr,tenrofcsinwhcyrnwse,ada7rstoietecyrnsminNwH.T8dtslpttsrttotehhadhnssotc9V.Tedtslntberdtoitteptpmedi0phIIulshdetttepmissyfdtomttersoft1s]
+[DELETED: ttoHB4Pe4DAsbldstecetosyrnofcytostayasonorbeJy1,25adr,oeaefgisr,tedfhhadhnsstoeha2rptpmtocetepnofoeormcl,wowlatincypsofcld]
+
+
+================================================================================
+
+Raw Text:
+Rep.M.Pearson,Rock.34
+January23,2025
+2025-0061h
+09/11
+AmendmenttoHB480
+1 Amend the bill by inserting after section 1 the following and renumbering the original section 2 to
+2 readas4:
+3
+4 2 StatementofFindingsandPurpose. Thegeneralcourtfindsthat:
+5 I. Individualswithseverementalillnessareatincreasedriskofinteractingwiththeprobate
+6 court on civil commitments as well as with the criminal justice system in 2 important areas: trial
+7 competencyandcompetencyrestoration.
+8 II. As is evidenced by the number of individuals ordered for competency evaluations, the
+9 need for these evaluations has increased substantially over the last 5 years, with some state
+10 jurisdictions reporting 70 to 100 percent increases. Accordingly, New Hampshire experienced a 75
+11 percent increase in the number of competency orders since 2015. In 2019, there was an average of
+12 66 court orders for trial competency evaluations each month. With increases of the numbers of
+13 competency evaluations, there are more individuals court ordered for competency restoration. An
+14 individual ordered into competency restoration is expected to improve and return to court to face his
+15 orherchargesuponrestorationofhisorhercompetency. Analysisof56publishedstudiesfrom1975
+16 to 2013 showed that nationwide, 81 percent of individuals ordered to inpatient competency
+17 restorationtreatmentwereabletoreturntocourt.
+18 III. In New Hampshire, there is no formal, existing system to provide treatment for
+19 individuals found incompetent to stand trial. In stark contrast to these national numbers, fewer
+20 than half of the individuals ordered into a competency restoration period are able to return to court
+21 and completetheir criminal cases. Specifically, in2019, only44percent of individuals werefound to
+22 havetheircompetencyrestored.
+23 IV. It is imperativethat thestateimprovetheefficiencyand effectiveness of thecompetency
+24 restorationprocessinNewHampshirebyestablishingaforensicliaisonpilotprograminonejudicial
+25 jurisdiction as recommended by the committee to study restoration of competency as created under
+26 RSA135:49.
+27 3 New Subdivision; Forensic Liaison and Competency Restoration Pilot Program. Amend RSA
+28 135byinsertingaftersection49thefollowingnewsubdivision:
+29 ForensicLiaisonandCompetencyRestorationPilotProgram
+30 135:50 ForensicLiaisonandCompetencyRestorationPilotProgramEstablished.
+31 I. In this section, “parties” means the prosecution, the defense, and the office of the forensic
+32 examiner.
+
+AmendmenttoHB480
+-Page2-
+1 II. The department of health and human services shall establish a 2-year pilot program
+2 creating the position of one or more forensic liaisons (FL) and contracting for all services necessary
+3 for competency restoration not otherwise covered by a third-party payer. The FL shall operate as
+4 neutral entities between the parties and the court in instances when competency is raised as an
+5 issue in a criminal case. The FL shall operate in the superior court in Merrimack or Strafford
+6 county and in the circuit courts district division in the county that is selected. The commissioner of
+7 thedepartmentofhealthandhumanservicesshallberesponsiblefordesignatinganemployeeofthe
+8 departmenttohire,train,andsupervisetheFL,orshallcontractwithanotherentitytoprovidesuch
+9 services and any services necessary for competency restoration not covered by a third-party payer.
+10 The FL shall hold at least a bachelor’s level degree in social work, psychology, criminal justice, or
+11 sociology, or have a minimum of 2 years of work experience in a relevant field, as determined by the
+12 departmentorcontractedentity.
+13 III. The duties of the FL shall include the following, unless provided by an existing case
+14 managerorotherproviderinanefforttoavoidtheduplicationofservices:
+15 (a) Facilitating the defendant’s attendance at the initial competency evaluation with the
+16 officeoftheforensicexaminer.
+17 (b) Assistingthedefendantinobtainingtheproperevaluationstodeterminetheservices
+18 necessaryforcompetencyrestoration.
+19 (c) Providing recommendations to the parties and the court in writing as to the most
+20 appropriate treatment or service to restore a defendant’s competency based on the evaluations in
+21 subparagraph(b)above.
+22 (d) Assisting the defendant in obtaining and receiving any recommended services for
+23 competencyrestorationorthatwouldfacilitatecompetencyrestorationservices.
+24 (e) Assisting the defendant in reducing barriers to accessing and maintaining treatment
+25 andservices.
+26 (f) Sharing information with the parties and the court regarding the defendant’s
+27 progressinandadherencetotreatment.
+28 (g) Sharing information with the parties and the court relating to changes in the
+29 defendant’sconditionrelativetocompetency,restorability,ordangerousness.
+30 (h) Receiving and disseminating treatment information from all mental health
+31 treatmentfacilitiesandproviderswiththepartiesandthecourt.
+32 (i) Providing updates to the parties and the court as outlined in RSA 135:17 and RSA
+33 135:17-aontheprogressionofcompetencyrestoration.
+34 (j) Communicatingandcoordinatingcarewithcourt-orderedproviders.
+35 (k) Performinganyotherappropriatedutiesasassignedbythedepartment.
+36 IV. The FL is entitled to all past and present relevant records and information relating to
+37 the defendant’s competency. The defendant shall provide authorization for the FL to obtain all
+
+AmendmenttoHB480
+-Page3-
+1 necessary mental health records. If the defendant does not provide the FL with relevant records or
+2 access to records, the FL shall notify the parties who may petition the court for an order requiring
+3 theprovisionofsuchrecords. AllmaterialsreceivedbytheFLshallbeconfidentialandexemptfrom
+4 disclosure under RSA 91-A. The FL shall provide access to relevant records to the parties and the
+5 court for the sole purpose of assessment and evaluation of competency. Such records shall be kept
+6 confidential by the parties and the court and shall not be used for any purpose other than
+7 determination of competency, except that in the case of a person deemed not competent, not
+8 restorable, and dangerous per RSA 135:17-a, V, in which case the records shall be available to the
+9 stateforthepurposeof initiatingaguardianshiporinvoluntaryadmission. Informationprovided by
+10 the FL to the parties and the court regarding the defendant’s treatment, or adherence thereto, shall
+11 besealed. Thecourtmayunsealsuchrecordsorupdatesatitsdiscretion.
+12 V. TheFLmaybeorderedtoappearinanyproceedinginwhichthecourtdeterminestheFL
+13 is necessary. In all cases, the parties and the court are entitled to file motions based upon reports
+14 madetothembytheFL.
+15 VI. For each year of the pilot program, the FL shall report to the department the number of
+16 cases received, the number of cases in which competency restoration was effectuated, and any
+17 recommendations to improve the competency restoration system in New Hampshire. The
+18 departmentshallpresentthisreporttothehealthandhumanservicesoversightcommittee.
+19 VII. The department shall not be required to implement the pilot program established in
+20 paragraphIIuntilsuchdatethattheprogramissufficientlyfundedtomeettherequirementsofthis
+21 section.
+
+AmendmenttoHB480
+-Page4-
+2025-0061h
+AMENDEDANALYSIS
+This bill directs the committee to study restoration of competency to submit any additional
+proposals on or before July 1, 2025 and requires, once adequate funding is received, the department
+ofhealthandhumanservicestoestablisha2-yearpilotprogramtocreatethepositionofoneormore
+forensicliaisons,whowillassistincompetencyproceedingsofcriminaldefendants.
+
+[DELETED: .M.P,R.3y2,2ttoHB4Adteblbyigarsn1tefgadrgteolsn2trdas42StofFsadP.TeglctfstI.Iswhsemlisaeatidrkofigwhtepctonclcsaswlaswhtecljesmin2ita:tcyadcyrI.Asisedbytenrofisodfrcye,tndfrteeshsidsyortelt5y,whses0jsrg70to10pti.A,NwHeeda71ptieintenrofcyosse2.In2,tewsanaeo266ctosfrtlcyesehm.Whisoftenso3cye,teaemeisctodfrcyr.A4ilodiocyrnisedtoieadrntocttofeh5orhrcsunrnofhsorhrc.Asof56pdssfm16to23sdttn,81ptofisodtoitc7rnttweaetorntoc8I.InNwH,teisnof,egsmtopettf9isfdittosdt.Inskcttotenln,f0tnhfofteisodioacyrnpdaeaetorntoc1adcetrclc.S,in2,oy44ptofiswefdt2hetrcyr3I.Itisiettteseieteeyadesoftec4rnpsinNwHebyegafclnptpminoej5jnasrdbytecetosyrnofcyascdu6RA173NwS;FcLnadCyRnPtP.AdR815byigarsn49tefgnws9FcLnadCyRnPtP010FcLnadCyRnPtPmE1I.Intss,“”mstep,ted,adteoeoftef2e]
+[DELETED: ttoHB4Pe2I.Tedtofhhadhnsssleha2rptpcgtepnofoeormefcls()adcgfralssnfrcyrnntoecdbyatyp.TeFLsloeanlesbntepsadtectiniswncyisrdasaieinaclc.TeFLsloeintesrctinMkorScyadintectcsdtdnintecyttiss.Tecrotedtofhhadhnssslberefrdganeeoftdttoh,t,adseteF,orslctwhareytopesssadayssnyfrcyrnntcdbyatyp0TeFLslhdatltabslldeinslw,p,clj,o1s,orheammof2ysofwkeeinartf,asddbyt2dtorcde3I.TedsofteFLslietef,uspdbyanegc4mrororprinanettoadtednofs5()Fgtedsaeatteilcyenwht6oeoftefce7()Agtedtinogteprestodetes8nyfrcyr9()Pgrstotepsadtectinwgastotem0aettorsetoreadscybdonteesi1sh()a2()Agtedtinogadrgayrdssf3cyrnorttwdfecyrns4()Agtedtinrgbstoagadmgt5ads6()Sginwhtepsadtectrgted7psinadaetot8()Sginwhtepsadtectrgtocsint9dscnretoc,r,ord0()Rgaddgttinfmalmlh1ttfsadpswhtepsadtec2()PgustotepsadtectasodinRA17adR31aontepnofcyr4()Cgadcgcewhcdp5()Pgayoraedsasadbyted6I.TeFLisedtoalptadptrtrsadinrgt7tedsc.TedtslpeanfrteFLtoona]
+[DELETED: ttoHB4Pe3nymlhhr.IftedtdsntpeteFLwhrtrsoastor,teFLslnytepswomypntectfranorrtepnofshr.AlmsrdbyteFLslbecladetfdeurRA9.TeFLslpeastortrstotepsadtctfrtesepeofatadenofc.Shrsslbekclbytepsadtectadslntbeudfraypeortdnofc,etttinteceofapnddntc,nr,addsprRA1,V,inwhcetersslbeaetotsefrtepeofigagporiya.Inpdb0teFLtotepsadtectrgtedst,oraet,s1bes.Tectmyulshrsorusatisd2V.TeFLmybeodtoarinaypginwhtectdsteF3isn.Inalc,tepsadtectaeedtofemsbdunr4metotmbyteF5V.Frehyrofteptp,teFLslrttotedttenro6csr,tenrofcsinwhcyrnwse,ada7rstoietecyrnsminNwH.T8dtslpttsrttotehhadhnssotc9V.Tedtslntberdtoitteptpmedi0phIIulshdetttepmissyfdtomttersoft1s]
+[DELETED: ttoHB4Pe4DAsbldstecetosyrnofcytostayasonorbeJy1,25adr,oeaefgisr,tedfhhadhnsstoeha2rptpmtocetepnofoeormcl,wowlatincypsofcld]

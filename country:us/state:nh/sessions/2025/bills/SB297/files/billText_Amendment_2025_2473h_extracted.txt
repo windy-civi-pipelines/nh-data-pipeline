@@ -1,0 +1,943 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2473h
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+Rep.Hunt,Ches.14
+May27,2025
+2025-2473h
+08/05
+AmendmenttoSB297-FN
+2
+3 1 New Paragraphs; Pooled Risk Management; Definitions. Amend RSA 5-B:2 by inserting the
+4 followingnewparagraphsafterparagraphIV:
+5 V. “Administration”, as used in RSA 5-B:5, I(c), means reasonable expenses for risk
+6 management, including processing, evaluation, and settlement services incurred in the payment of
+7 claims and other related losses, wellness programs, and for auditor, actuarial, and accounting
+8 services for administration of the pooled risk program. The reasonability of an expense for
+9 administration under this chapter may be determined in an examination or administrative hearing
+10 commencedbythesecretaryofstatepursuanttoRSA5-B:4-a.
+11 VI. “Reserves” means claims reserves (case reserves and incurred but not reported (IBNR
+12 reserves), contribution deficiency reserves, and contingency reserves. “Contingency reserves” means
+13 the amount of surplus to be retained by the pooled risk management program for the upcoming plan
+14 year as may be reasonably established and subsequently required to cover expected and unforeseen
+15 orextraordinaryclaimandadministrativelossesandliabilities.
+16 VII. “Excessinsurance”meansreinsurance.
+17 VIII. “Assessments” means a provision that, if the assets of the pooled risk management
+18 program are at any time actuarially determined to be insufficient to discharge its claim and
+19 administrativelossesandliabilitiesandotherlegalobligationsoftheplan,theprogramshall,within
+20 30 days of such a determination, draw from the restricted fund balance accounts under RSA 5-B:5,
+21 I(g) or, as necessary under RSA 5-B:4-b, II, collect additional contributions from its participating
+22 membersfortheamountneededtomakeupthedeficiency.
+23 IX. "Restricted fund balance" means an amount, as specified in RSA 5-B:5, I(g), that may be
+24 heldbyapooledriskmanagementprogramforhealthcoverage,permittedthattheamountisheldin
+25 a restricted account and that the amount shall be used only for the specific purpose of funding
+26 assessmentsunderRSA5-B:4-b,II.
+27
+28 AmendRSA5-B:5,I(g)asinsertedbysection3ofthebillbyreplacingitwiththefollowing:
+29
+30 (g) A pooled risk management program for health coverage may designate a
+31 maximum of 4 percent of the previous fiscal year's contributions that, if designated, shall
+32 be sourced from that pooled risk management program's annual earnings and surplus as
+AmendmenttoSB297-FN
+-Page2-
+1 defined in RSA 5-B:5, I(c) and shall be kept in a restricted fund balance for the specific
+2 purpose of funding assessments under RSA 5-B:4-b, II. This restricted fund balance shall
+3 not exceed 4 percent of a pooled risk management program's previous fiscal year's
+4 contributions, shall not be considered in the calculation of a contingency reserve, and
+5 shallbeusedpriortoanymemberassessmentsunderRSA5-B:4-b,II.
+6
+7 Amendthebillbyreplacingallaftersection4withthefollowing:
+8
+9 5 Pooled Risk; Title Change. The chapter heading of RSA 5-B is repealed and reenacted to read
+10 asfollows:
+11 ASSESSMENTPOOLEDRISKMANAGEMENTPROGRAMS
+12 6 New Subparagraph; Insurance; Third Party Administrators; Definitions. Amend RSA 402-
+13 H:1,Ibyinsertingaftersubparagraph(m)thefollowingnewsubparagraph:
+14 (n) ApooledriskmanagementprogramlicensedpursuanttoRSA420-R:4.
+15 7 Insurance; Licensure of Medical Utilization Review Entities; Licensure or Registration
+16 Required. AmendRSA420-E:2,Itoreadasfollows:
+17 I. Any person, partnership or corporation, other than an insurer, nonprofit service
+18 organization, health maintenance organization, pooled risk management program, or an
+19 employee of those exempt organizations, that performs medical utilization review services on behalf
+20 of commercial insurers, nonprofit service organizations, health maintenance organizations, pooled
+21 risk management programs, third-party administrators or employers, shall apply for a license to
+22 be issued by the department and shall pay an application fee and an annual license fee. No person,
+23 partnership or corporation, other than an insurer, nonprofit service organization, health
+24 maintenanceorganization,ortheemployeesofexemptorganizationsshallperformutilizationreview
+25 services or medical utilization review services unless the person, partnership, or corporation has
+26 receivedalicenseinaccordancewiththischapter.
+27 8 Insurance; Portability, Availability, and Renewability of Health Coverage; Disclosure. Amend
+28 RSA420-G:11,IVtoreadasfollows:
+29 IV. The data submission requirements of paragraphs II and II-a shall apply with respect to
+30 claims data for all lives covered by a fully-insured health plan in any market in the state, by any
+31 self-funded plan for state or municipal employees, including any plan maintained under RSA 5-B or
+32 RSA420-R, to anyself-funded planmaintained bytheuniversity system of thestate withrespect to
+33 its employees or its students, and to any self-funded student health benefit plan maintained by an
+34 institution of higher education which provides 4-year bachelor's degree programs and graduate or
+35 professionaldegreeprograms.
+36 9 New Chapter; Advanced Premium Pooled Risk Management Program. Amend RSA by
+37 insertingafterchapter420-Qthefollowingnewchapter:
+AmendmenttoSB297-FN
+-Page3-
+1 CHAPTER420-R
+2 ADVANCEPREMIUMPOOLEDRISKMANAGEMENTPROGRAMS
+3 420-R:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+4 management programs and to affirm the status of such programs established for the benefit of
+5 political subdivisions of the state. The legislature finds and determines that insurance and risk
+6 management is essential to the proper functioning of political subdivisions; that risk management
+7 can be achieved through the purchase of traditional insurance or by participation in pooled risk
+8 management programs established for the benefit of political subdivisions; that pooled risk
+9 management is an essential governmental function by providing focused public sector loss
+10 prevention programs, accrual of interest and dividend earnings which may be returned to the public
+11 benefit and establishment of costs predicated solely on the actual experience of political subdivisions
+12 within the state; that the resources of political subdivisions are presently burdened by the securing
+13 of insurance protection through standard carriers; and that pooled risk management programs
+14 which meet the standards established by this chapter should not be subject to taxation by the state
+15 and,exceptasspecificallysetforthinthischapter,shouldnotbesubjecttoinsuranceregulation.
+16 420-R:2 Definitions;ScopeofChapter.
+17 I. Inthischapter:
+18 (a) “Commissioner”meanstheinsurancecommissioner.
+19 (b) “Department”meanstheinsurancedepartment.
+20 (c) “Employee representative” means an employee of a member, who shall not be in a
+21 positiontomakeparticipationdecisionsforamember.
+22 (d) “Excessinsurance”meansstoplossinsurance.
+23 (e) “Member” means any political subdivision that participates or may participate in a
+24 pooledriskmanagementprogramunderthischapter.
+25 (f) “Member representative” means a representative of a member who is in a position to
+26 makeparticipationdecisionsforamemberandservingineitheranelectedorappointedposition.
+27 (g) "Political subdivision" means any city, town, county, school district, chartered public
+28 school, village district, school administrative unit, or any district or entity created for a special
+29 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+30 (h) “Pooledriskmanagementprogram"or“program”meansanassociationformedunder
+31 thelawsofthisstatethatoperatesaprograminwhichtwoormorepoliticalsubdivisionsofthestate
+32 enterintoagreementsto:
+33 (1) Obtain or implement insurance by self-insurance, or to obtain insurance from
+34 any insurer authorized to transact business in this state as an admitted or surplus lines carrier, or
+35 to obtain insurance secured in accordance with any method provided by law, or to obtain insurance
+36 byanycombinationofthesemethods;
+AmendmenttoSB297-FN
+-Page4-
+1 (2) Provide for pooling of self-insurance reserves, risks, claims and losses, and of
+2 administrativeservicesandexpensesassociatedwiththemamongpoliticalsubdivisions;or
+3 (3) Develop and administer a risk management program having as its purposes
+4 reducing the risk of its members; safety engineering; distributing, sharing, and pooling risks;
+5 acquiring insurance, excess loss insurance, or reinsurance; and processing, paying and defending
+6 claimsagainstthemembersofsuchentityorassociation.
+7 (i) “Program covered person” means a person who is covered under pooled risk
+8 managementprogramcoverage.
+9 (j) “Publicrepresentative”meansarepresentativeofthegeneralpublicwhoshallnotbe:
+10 (1) Anemployeeofamember;
+11 (2) Inapositiontomakeparticipationdecisionsforamember;or
+12 (3) Connected with the management or be the holder of a material number of shares
+13 of any insurer, insurance holding company, insurance agency or broker. Family members of
+14 employees, persons in a position to make membership decisions and family members of persons
+15 connected with management or holders of a material number of shares of any insurer, insurance
+16 holdingcompany,insuranceagencyorbrokermaynotserveaspublicmembers.
+17 (k) "Risk management" means the defense of claims and indemnification for losses
+18 arisingoutoftheownership,maintenance,andoperationofrealorpersonalpropertyandtheactsor
+19 omissions of officials, employees, and agents; the provision of loss prevention services including, but
+20 not limited to, inspections of property and the training of personnel; and the investigation,
+21 evaluation,andsettlementofclaimsbyandagainstpoliticalsubdivisions.
+22 420-R:3 PooledRiskManagementProgramsAuthorized;PermissibleCoverages.
+23 I. To accomplish the purposes of this chapter, any two or more political subdivisions of this
+24 state may, by resolution of its governing body, form an association under the laws of this state and
+25 establishandenterintoagreementsconstitutingapooledriskmanagementprogram.
+26 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+27 theparticipationinsuchanassociationbyapoliticalsubdivision.
+28 III. Pooled risk management programs established for the benefit of political subdivisions
+29 mayprovideanyorallofthefollowingcoverages:
+30 (a) Casualty, including general and professional liability; errors and omissions; workers'
+31 compensation and employer's liability; medical payments; or unemployment compensation as
+32 authorizedunderfederallaw.
+33 (b) Property, including marine and inland navigation; transportation; boiler and
+34 machinery;fire;theft;ornaturalhazards.
+35 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+36 vehicles.
+37 (d) Suretyandfidelity.
+AmendmenttoSB297-FN
+-Page5-
+1 (e) Environmentalimpairment.
+2 (f) Hospital, medical, surgical or dental benefits for employees and retirees, and their
+3 dependents.
+4 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+5 impairment,orlegalbenefitsforemployeesandtheirdependents.
+6 (h) Unanticipatedspecialeducationcostrecovery.
+7 420-R:4 LicensureRequired.
+8 I. Any person or legal entity that functions as a pooled risk management program shall
+9 applytothedepartmentforalicenseandshallpayanapplicationfeeandannuallicensefeeof$150.
+10 Noperson,entityorassociationshall,afterJuly1,2025,operateapooledriskmanagementprogram
+11 unless such program has been reviewed for licensure by the department and been determined to be
+12 in compliance with the provisions of this chapter, including organizational, operational, financial,
+13 and reporting requirements. License renewal applications shall be filed annually on or before
+14 September1.
+15 II. Pooled risk management programs that have been established and affirmed prior to July
+16 1, 2025, in accordance with RSA 5-B, shall survive and be in full force and effect, except as modified
+17 by this chapter. The programs existing prior to July 1, 2025, shall file a license application
+18 containingtheinformationassetforthinRSA420-R:4,III,onorbeforeSeptember1,2025.
+19 III. Priortoprovidingcoverage,alicenseapplicationshallbefiledwiththecommissionerfor
+20 approval of the pooled risk management program in a form and manner as established by the
+21 commissioner. Theapplicationmaterialsshallincludeatleastthefollowing:
+22 (a) A copy of the constitution or bylaws of association, trust instrument, or articles of
+23 incorporation.
+24 (b) Thenamesandaddressesofthetrustees,directors,orincorporators.
+25 (c) A copy of the bylaws or trust agreement which governs the operation of the pooled
+26 riskmanagementprogram.
+27 (d) A copy of the policy, contract, certificate, summary plan description, or other
+28 evidenceofthebenefitsandcoveragesprovided.
+29 (e) Acopyofthefidelitybondinanamountequaltonotlessthan10percentofthefunds
+30 handled annually and issued in the name of the pooled risk management program covering its
+31 trustees, directors, employees, administrator, or other individuals managing or handling the funds
+32 or assets of the pooled risk management program. In no case may such bond be less than $1,000 or
+33 more than $500,000, except that the commissioner, after due notice to all interested parties and
+34 opportunity for hearing, and after consideration of the record, may prescribe an amount in excess of
+35 $500,000subjecttothe10percentlimitation.
+36 (f) Acopyofthepooledriskmanagementprogram’sexcessinsuranceagreement,ifany.
+AmendmenttoSB297-FN
+-Page6-
+1 (g) A business plan setting out the lines of coverage the program intends to write, the
+2 projected membership amount, a plan of capitalization, and such other plan information as the
+3 commissionermayrequire.
+4 (h) Evidence satisfactory to the commissioner showing that the arrangement will be
+5 operated in accordance with sound actuarial principles. The commissioner shall not approve the
+6 arrangement unless the commissioner determines that the plan is designed to provide sufficient
+7 revenues, reserves, and surplus to pay current and future liabilities, as determined in accordance
+8 withsoundactuarialprinciplesandriskbasedcapitalstandardsassetoutinRSA404-F.
+9 (i) Suchadditionalinformationasthecommissionermayrequire.
+10 IV. A license renewal applications withsuch form and content as shall be established by the
+11 commissioner and the license renewal fee shall be filed with the commissioner by September 1 of
+12 eachyear.
+13 V. A person, other than a pooled risk management program, shall not sell, solicit, or
+14 negotiate pooled risk management program coverage in this state for any line of coverage permitted
+15 underthischapterunlessthepersonislicensedforthatlineofcoverageinaccordancewiththisRSA
+16 402-J.
+17 420-R:5 ApplicableRegulatoryStandards.
+18 I. Any pooled risk management program meeting the standards required under this chapter
+19 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+20 administration of any activities of the plan shall not constitute doing an insurance business for
+21 purposes of regulation or taxation. Pooled risk management programs shall not be subject to the
+22 premium tax under RSA 400-A:32 and shall not be subject to assessment with respect to the
+23 administrationfundunderRSA400-A:39.
+24 II. Pooledriskmanagement programsshallbegovernedbythischapterandshallbeexempt
+25 from this title, except for the provisions of: RSA 400-A:16, relative to investigations; RSA 400-A:17
+26 through 24, relative to hearings and appeals; RSA 400-A:37, relative to examinations; RSA 401-B,
+27 relative to insurance holding companies; RSA 402:28, relative to the regulation of investments of
+28 insurance companies other than life insurance companies; RSA 402-C, relative to receivership; RSA
+29 402-J, relative to producer licensing, RSA 402-M, relative to administrative supervision; RSA 404-F,
+30 relative to RBC; RSA 420-G:11, II, II-a, and IV, relative to the submission of claims data to the
+31 department;RSA401-B:3,4,and5relativetoinsuranceholdingcompanies;andRSA411-A,relative
+32 totheregulationofinvestmentsoflifeinsurancecompanies.
+33 420-R:6 Governance.
+34 I. Tomeetrequirementsforlicensureandtomaintainapooledriskmanagementprogram,a
+35 programshallbe:
+36 (a) Anonprofit;
+37 (b) EstablishedasalegalentityorganizedunderNewHampshirelaw;and
+AmendmenttoSB297-FN
+-Page7-
+1 (c) Governed by written bylaws which shall detail the terms of eligibility for
+2 participationbypoliticalsubdivisions,thegovernanceoftheprogramandothermattersnecessaryto
+3 theprogram’soperation.
+4 II. Theboardofdirectorswhoshallmanagethebusinessandaffairsoftheprogram,shallbe
+5 comprisedof:
+6 (a) For programs offering employee health and welfare benefits under RSA 420-R:4, III
+7 (f)and(g),6memberrepresentatives,6employeerepresentativesand3publicrepresentatives;and
+8 (b) Forallotherprograms,12memberrepresentativeand3publicrepresentatives.
+9 III. Any bylaw developed by the board of directors shall require approval of 2/3 of the
+10 directors.
+11 IV. Directors shall not receive compensation but may be reimbursed for mileage and other
+12 reasonableexpenses. DirectorsshallcomplywiththeprovisionsofRSA15-A. Directorsshallhavea
+13 fiduciaryresponsibilitytoactinthebestinterestofthepooledriskmanagementprogram.
+14 420-R:7 Approval of Rates. Eachpooled risk management program shall filewiththe insurance
+15 commissioner a full schedule of the rates to be paid by participating members and shall obtain the
+16 commissioner’s approval prior to implementing any rate changes. The commissioner may refuse
+17 suchapprovalifheorshefindstheratesareexcessive,inadequate,orunfairlydiscriminatory.
+18 420-R:8 FinancialReporting.
+19 I. Each pooled risk management program shall file with the commissioner on March 1 a
+20 reportverifiedbyanappropriateofficialoftheprogramwhichshallinclude:
+21 (a) The program’s financial statements, including its balance sheet and statement of
+22 income and expenditures for the preceding year, certified by an independent certified public
+23 accountant;
+24 (b) Such other financial information relating to the program’s performance as the
+25 commissionermayrequire.
+26 II. The commissioner may prescribe a uniform reporting format for the preparation of the
+27 audited financial statements and may also prescribe a uniform accounting system to be used by
+28 pooledriskmanagementprograms.
+29 III. Each pooled risk management program shall, in accordance with RSA 404-F, file with
+30 the commissioner on March 1st, a report verified by an appropriate official of the program, showing
+31 its RBC levels as of the end of the calendar year just ended, in a form and containing such
+32 information as is required by the RBC instructions. The commissioner shall provide written
+33 guidanceonhowtoapplytheRBCinstructionstopooledriskmanagementprograms.
+34 420-R:9 MinimumCapital.
+35 I. Each pooled risk management program shall seek to maintain capital above the RBC
+36 levelsrequiredforinsurersunderRSA404-F.
+AmendmenttoSB297-FN
+-Page8-
+1 II. To protect the interest of participating members, creditors and the public in the event
+2 that a pooled risk management program is financially impaired, the commissioner shall apply the
+3 corrective measures and take such other actions as deemed appropriate under RSA 402-C, RSA 402-
+4 M,andRSA404-Finthesamemannerasmaybetakenagainstinsurersunderthoseprovisions.
+5 420-R:10 Guaranty Funds Authorized. With prior approval from the commissioner, a program
+6 may voluntarily implement the following guaranty measures to protect from financial impairment.
+7 In addition, the commissioner may require any of the following guaranty measures if a program’s
+8 RBC is above company action level but less than the product of its authorized control level RBC and
+9 3.0withanegativetrend.
+10 I. Any pooled risk management program may establish a guaranty fund out of surplus in
+11 any amount not to exceed 1/2 its net surplus by appropriation from its net assets. Such guaranty
+12 fund shall be considered as paid up capital and be available to meet the obligations of the program,
+13 but nottopaydividendsortobeotherwisedistributedexcepttomeettheobligationsoftheprogram
+14 whenallotherassetsoftheprogramshallbecomeexhausted.
+15 II. Any pooled risk management program may create not more than one guaranty fund by
+16 borrowing a sum of money not exceeding $1,000,000 by the issue of certificates of indebtedness upon
+17 such terms as the members shall determine, provided that such certificates shall not be divided into
+18 classes in any way and that the holders of such certificates shall not be entitled to vote in the
+19 direction of the affairs of the program and shall not receive a greater return on their investment
+20 than 10 percent per annum. The commissioner, upon notice to the program and after hearing its
+21 objections, if any, may require any guaranty fund established under this section to be retired when
+22 he or she shall find it is no longer needed for protection of covered persons, creditors, or the general
+23 public.
+24 III. Any pooled risk management program that has created a guaranty fund under either of
+25 the2precedingsectionsmay,withtheapprovaloftheinsurancecommissioner,reduceorretiresuch
+26 fund in whole or in part, but it may not be otherwise distributed except to pay the obligations of the
+27 program.
+28 420-R:11 Excess Insurance. Each pooled risk management program shall seek to maintain
+29 aggregate excess insurance or a deposit with the commissioner of unimpaired surplus which excess
+30 insuranceordepositshallbeusedintheeventthattheprogram’sresourcesareexhaustedinagiven
+31 fiscal period. The excess insurance or deposit, or combination of excess insurance and deposit shall
+32 be, at a minimum, in the amount of $5,000,000 unless the commissioner determines a lesser amount
+33 wouldbeadequate.
+34 420-R:12 ReturnofCapital.
+35 I. If, on the last day of the calendar year, a program’s RBC, as measured under the
+36 provisions of RSA 404-F, is more than the product of its authorized control level and 6.0, then the
+37 board of directors shall vote, by April 1 of the succeeding year, on the question whether to make a
+AmendmenttoSB297-FN
+-Page9-
+1 return of excess surplus to members through the declaration of a dividend, return of capital, or
+2 returnofpremium.
+3 II. Regardless of its RBC level, any dividend, return of capital, or return of premium
+4 proposed by the board of a program shall be reviewed and approved prior to distribution by the
+5 commissioner under such terms of RSA 401-B:5, II, as are applicable to pooled risk management
+6 programsasdeterminedbythecommissioner.
+7 420-R:13 Examination.
+8 I. The commissioner shall make an examination of each pooled risk management program
+9 underthetermsof RSA400-A:37asoftenas heor shedeems necessary,but notless frequentlythan
+10 onceinevery5years. Allexaminationsshallbeconductedattheexpenseoftheprogram.
+11 II. Each program shall submit its books and records relating to its operations to such
+12 examinations and in every way facilitate them. For the purpose of examinations, the commissioner
+13 mayissuesubpoenas,administeroathsto,andexaminetheofficersandagentsoftheprogram.
+14 420-R:14 Investments. The assets of any pooled risk management program shall be invested is
+15 those securities and investments permitted for insurers in this state under RSA 402:28 and RSA
+16 411-Aasapplicable.
+17 420-R:15 AcquisitionofControlorMerger.
+18 I. Apooledriskmanagementprogrammayacquirecontroloformergewithanyotherpooled
+19 risk management program licensed in this state by complying with theprovisions of this section and
+20 with such terms of RSA 401-B:3 as are applicable to pooled risk management programs as
+21 determinedbythecommissioner.Itshallfilewiththecommissioner:
+22 (a) A certified copy of the written contract containing in full the terms and conditions of
+23 theconsolidationormerger;
+24 (b) A sworn statement by the president and secretary or corresponding officers of each
+25 program showing the financial condition thereof on a date fixed by the commissioner but not earlier
+26 thanDecember31,nextprecedingthedateofthecontract;
+27 (c) A certificate of such officers, duly verified by their respective oaths, that the
+28 consolidation or merger has been approved by a 2/3 vote of the board of each program, such vote
+29 beingconducted at aregular or special meetingof each board, or, if the program's laws so permit, by
+30 mail;
+31 (d) Evidence that at least 60 days prior to the action of the board of each program, the
+32 text of the contract has been furnished to all members of each program either by mail or by
+33 publicationinfullinanofficialpublicationofeachprogram;and
+34 (e) Any information that a domestic insurer is required to file with the commissioner
+35 under RSA 401-B:3, I through V, that the commissioner deems to be applicable to pooled risk
+36 managementprograms.
+AmendmenttoSB297-FN
+-Page10-
+1 II. If the commissioner finds that the contract is in conformity with the provisions of this
+2 section, that the financial statements are correct, that the standards set out in RSA 401-B:3, VI(a)
+3 are met, and that the acquisition or merger is just and equitable to the members of each program,
+4 the commissioner shall approve the contract and issue a certificate to such effect. Upon such
+5 approval, the contract shall be in full force and effect. In case such contract is not approved it shall
+6 be inoperative, and the fact of submission and its contents shall not be disclosed by the
+7 commissioner.
+8 III. Upon a merger becoming effective as provided under this section, all the rights,
+9 franchisesandinterestsofthemergedprogramsinandtoeveryspeciesofproperty,real,personalor
+10 mixed, and things in action thereunto belonging shall be vested in the program resulting from or
+11 remaining after the merger without any other instrument, except that conveyances of real property
+12 may be evidenced by proper deeds, and the title to any real estate or interest therein, vested under
+13 the laws of this state in any of the programs merged, shall not revert or be in any way impaired by
+14 reasonofthemerger,butshallvestabsolutelyintheprogramresultingfromorremainingaftersuch
+15 merger.
+16 420-R:16 StandardsandManagementofaProgramWithinaHoldingCompanySystem.
+17 I. A pooled risk management program may be part of a holding company system only if all
+18 affiliatesinthesystemarepooledriskmanagementprogramslicensedunderthischapter.
+19 II. Any pooled risk management program that is a part of a pooled risk management
+20 program holding company system shall register with the commissioner under such terms of RSA
+21 401-B:4asareapplicabletopooledriskmanagementprogramsasdeterminedbythecommissioner.
+22 III. All transactions within a pooled risk management program holding company system
+23 shall be approved by the commissioner under such terms of RSA 401-B:5, I, as are applicable to
+24 pooledriskmanagementprogramsasdeterminedbythecommissioner.
+25 420-R:17 Commissioner’sAdditionalEnforcementAuthority.
+26 I. In addition to the solvency enforcement measures authorized in 420-R:9, II, when the
+27 commissioner, upon investigation, finds that: a pooled risk management program has failed to
+28 comply with any provision of this chapter; or is not fulfilling its contracts in good faith; or is
+29 conducting business fraudulently or in a manner hazardous to its covered persons, members,
+30 creditors, the public, or the business; or is acting outside its authority; or is operating as a pooled
+31 riskmanagementprogramwithoutalicense,thenthecommissionershallnotifytheprogramofsuch
+32 deficiency or deficiencies and state in writing the reasons for his or her dissatisfaction and requiring
+33 thatthedeficiencyordeficiencieswhichexistbecorrected.
+34 II. After such notice, the program shall have a 30-day period in which to comply with the
+35 commissioner's request for correction or the submission of a corrective action plan. If the program
+36 fails to comply, the commissioner shall notify the program of such findings of noncompliance and
+37 require the program to show cause, on a date named, why: its license should not be suspended,
+AmendmenttoSB297-FN
+-Page11-
+1 revoked, or limited to servicing existing business only; or it should not be subject to a cease and
+2 desist order; or it should not be fined in an amount up to $2,500 per violation; or it should not be
+3 orderedtomakerestitutionorrefundtoanaggrievedperson.
+4 III. Upon hearing, the commissioner shall issue such prohibitionary and mandatory orders
+5 as are reasonably necessary to secure compliance with the terms of this chapter and are within his
+6 orherenforcementpowersasspecifiedinRSA420-R:17,II.
+7 420-R:18 Appeals. All orders and decisions of the commissioner concerning matters within his
+8 orher jurisdictionunder this chapter shall besubject tohearingand appeal as provided inRSA400-
+9 A:17 through 24 and RSA 541. RSA 541:18 shall apply to orders and decisions of the commissioner
+10 affectingtheratesoftheprogram.
+11 420-R:19 Rulemaking Authority. The commissioner may adopt rules in accordance with RSA
+12 541-A,whicharereasonableandnecessarytoadministerandenforcetheprovisionsofthischapter.
+13 420-R:20 Powers;Liability.
+14 I. Any program operating under this chapter, whether or not body corporate, may sue or be
+15 sued; make contracts; hold and dispose of real property; and borrow money, contract debts, and
+16 pledgeassetsinitsname.
+17 II. Participationbyapoliticalsubdivisioninapooled risk managementprogram formed and
+18 affirmed under this chapter shall not subject any such political subdivision to any liability to any
+19 third party for the acts or omissions of the pooled risk management program or any other political
+20 subdivisionparticipatingintheprogram.
+21 420-R:21 Confidentiality.
+22 I. Notwithstanding any provision of the law to the contrary, any information of any pooled
+23 risk management program formed or affirmed under this chapter pertaining to claims analysis or
+24 claims management shall be privileged and confidential and not subject to disclosure to any third
+25 party.
+26 II. All reports and schedule of rates, to the extent the information therein is not otherwise
+27 required to be publicly available, which are filed with the commissioner constitute information that
+28 might be damaging to the risk pool management program if made available to competitors, and
+29 therefore shall be kept confidential by the commissioner. This information shall not be made public
+30 or be subject to subpoena, other than by the commissioner and then only for the purpose of
+31 enforcementactions takenbythecommissioner pursuanttothis chapter or theapplicableprovisions
+32 ofTitleXXXVIIasprovidedinRSA420-R:5,II.
+33 420-R:22 Severability. If any provision of this chapter, or the application thereof to any person
+34 or circumstance, is held invalid, such determination shall not affect the provisions or applications of
+35 this chapter which can be given effect without the invalid provision or application, and to that end
+36 theprovisionsofthischapterareseverable.
+AmendmenttoSB297-FN
+-Page12-
+1 10 Repeal. RSA 402-H:11-b, relative to certain exemptions for third party administrators of
+2 pooledriskmanagementprograms,isrepealed.
+3 11 EffectiveDate.
+4 I. RSA5-B:5,I(i)asamendedbysection3ofthisactshalltakeeffectJuly1,2026.
+5 II. Theremainderofthisactshalltakeeffectuponitspassage.
+AmendmenttoSB297-FN
+-Page13-
+2025-2473h
+AMENDEDANALYSIS
+Thisbill:
+I. Transfers authority over pooled risk management programs from the secretary of state to the
+insurancedepartment.
+II. Requirespooledriskmanagementprogramstobelicensedbytheinsurancedepartment.
+III. Allows pooled risk management programs to establish a guaranty fund to protect from
+financialimpairment.
+IV. Requires pooled risk management programs to seek to maintain certain amounts in excess
+or stop loss coverage, unless the insurance commissioner determines that a lesser amount is
+appropriate.
+V. Allowspooledriskmanagementprogramstoissueassessablepolicies.
+VI. Allows the insurance commissioner to examine the financials of pooled risk management
+programsundercertainconditions.
+[DELETED: .H,C.1y2,2ttoSB2Adteblbyrgsn1whtef1NwP;PdRkM;D.AdRA52byigtfgnwpsarphIV.“,asudinRA5,I,msreesfrrm,igp,e,adstssidinteptocsadorrdl,wsp,adfra,a,adassfranoftepdrkp.Teryofaneefanurtscrmybeddinanenoraeh0cdbytesyofsepttoRA51V.“”mscsrs(ersadidbtntrd(2r,cndyr,adcyr.“yr”m3teatofsstoberdbytepdrkmtpmfrteugp4yrasmyberyedadsyrdtocredadu5oreycmadaelsadl6V.“si”msr7V.“”msapnt,ifteasoftepdrkm8pmaeatayteayddtobeittodeiscma9aelsadlsadorllosoftep,tepms,w030dsofshad,dwfmterdfdbeasurRA51I)o,asnyurRA5,I,ctalcsfmisp2msfrteatndtomeupted3I."dfdb"msana,assdinRA5,I,ttmyb4hdbyapdrkmtpmfrhhc,pdttteatishdi5ardatadttteatslbeudoyfrtescpeoff6asurRA5,I8AdRA5,I)asidbysn3ofteblbyrgitwhtef0()Apdrkmtpmfrhhcemyde1mmof4ptoftepsflyscst,ifd,s2besdfmttpdrkmtpsalesadssa]
+[DELETED: ttoSB2Pe2ddinRA5,I)adslbektinardfdbefrtespeoffgasurRA5,I.Tsrdfdbesnted4ptofapdrkmtpspsflyc,slntbecdintecnofacyr,aslbeudprtoaymrasurRA5,IAdteblbyrgalarsn4whtef5PdR;TeC.TecrhgofRA5Bisrdadrdtor0asf1ATPDRKMTP26NwS;I;TdPyA;D.AdRA43H,Ibyigarsh()tefgnws4()ApdrkmtpmldpttoRA457I;LeofMlUnRwE;LeorR6R.AdRA4,Itordasf7I.Ayp,pporc,ortnani,nts8o,hhmeo,pdrkmtp,ora9eeofteeto,ttpsmlunrwssonb0ofcli,ntseo,hhmeo,p1rkmtp,tyasore,slayfralet2beidbytedtadslpyananfeadanallef.Nop3pporc,ortnani,ntseo,h4meo,orteesofetosslpmunr5ssormlunrwssustep,p,orcnh6rdaleinaewhtsc78I;P,A,adRyofHhC;D.A8RA4,IVtordasf9I.TedasnrsofpsIIadIaslaywhrtt0csdafrallscdbyafdhhpninaymtintes,bya1sdpnfrseormle,igaypnmdurRA5Bo2RA4,toaysdpnmdbyteuysmoftesewhrtt3isesoriss,adtoaysdsthhbtpnmdbya4inofhrenwhps4rbsdepsadgeo5pldep69NwC;AdPmPdRkMtP.AdRAb7igarcr4Qtefgnwc]
+[DELETED: ttoSB2Pe3CR4AEPMPDRKMTP41P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtoplssoftes.Telefsaddsttieadrmtiseltoteprfgofpls;ttrkmcnbeadthtepeoftlieorbypninpdrmtpsedfrtebtofpls;ttpdrmtisanelglfnbypgfdpcsrl0pnp,alofitadddeswhmyberdtotep1btadetofcspdsyontealeeofpls2wntes;tttersofplssaepybdbytes3ofiepnthsdc;adttpdrkmtp4whmttessedbytscrsdntbesttotnbytes5a,etassystfhintsc,sdntbesttoier642D;SeofC7I.Intsc8()“”msteiec9()“”msteied0()“er”msaneeofam,woslntbein1pntomepndsfram2()“si”mssplsi3()“”msayplsnttpsormypein4pdrkmtpmurtsc5()“rr”msareofamrwoisinapnt6mepndsframradsgineranedoradp7()"ls"msayc,t,c,sld,cdp8s,ved,slaeu,oraydtoreycdfras9peadorfdbyayofteadglu0()“drkmtp"or“”msananfdu1telsoftssettosapminwhtoormeplssoftes2erioast3()Onoritiebys,ortoonief4ayiradtottbsintsseasanadorsslsc,o5tooniesdinaewhaymdpdbyl,ortooni6byaycnoftem]
+[DELETED: ttoSB2Pe4()Pefrpgofser,r,csadl,adoaessadesadwhtmagpls;o()Dpadararkmtpmhgasisprgterkofism;sye;d,s,adpgragi,eslsi,orr;adp,pgaddcsattemsofsheyora()“mcdp”msapnwoiscdurpdrmtpmc()“cr”msareofteglpcwoslntb0()Aneeofam1()Inapntomepndsfram;o2()Cdwhtemtorbetehrofamlnrofs3ofayi,iehgc,ieayorb.Fymso4e,psinapntomempdsadfymsofp5cdwhmtorhsofamlnrofssofayi,i6hgc,ieayorbrmyntseaspcm7()"km"mstedeofcsadinfrl8agotofteo,m,adonofrlorplpyadteaso9osofo,e,ada;tepnoflspnssi,b0ntldt,isofpyadtetgofp;adtei1e,adstofcsbyadatpls243PdRkMtPsA;PeC3I.Toahtepsoftsc,aytoormeplssoft4sem,byrnofisggb,fmananurtelsoftssea5ehaderioascgapdrkmtp6I.RA5Aslntaytoananfdoradurtsc,nrt7tepninshananbyapls8I.Pdrkmtpsedfrtebtofpls9mypeayoraloftefgc0()C,iggladpll;esado;w1cnadesl;mlp;orutcna2adurfll3()P,igmeadidn;t;bra4m;f;t;ornlh5()V,igaylyorlsagfmteoporono6v7()Syadf]
+[DELETED: ttoSB2Pe5()Eli()H,m,slordlbsfresadr,adtd()L,iem,aldhadd,vnlsoi,orllbsfresadtrd()Udslenctr44LeRI.Aypnorlleyttfsasapdrkmtpmsaytotedtfraleadslpyananfeadallefeof$0Nop,eyorans,arJy1,2,oeapdrkmtp1usshpmhsbnrdfrlebytedtadbnddtob2incewhtepsoftsc,igo,o,f3adrgr.Lerlasslbefdayonorb4Sr15I.PdrkmtpstthebnedadadprtoJ61,2,inaewhRA5,slseadbeinflfeade,etasm7bytsc.TepsegprtoJy1,2,slfealea8cgteinasstfhinRA4,I,onorbeSr1,29I.Prtopgc,aleanslbefdwhtecrf0aloftepdrkmtpminafmadmrasedbyt1c.Teanmsslieatlttef2()Acyoftecnorbsofa,tti,oraso3i4()Tensadasoftet,d,ori5()Acyoftebsorttatwhgsteonoftep6rkmtp7()Acyoftep,c,c,sypnd,oro8eeoftebsadcsp9()Acyoftefybdinanateltontlstn10ptoftef0hdayadidinteneoftepdrkmtpmcgi1t,d,e,a,ororismgorhgtef2orasoftepdrkmtp.Innocemyshbdbelstn$0o3metn$,ettttec,ardenetoalidpsa4oyfrh,adarcnofter,mypeanatineso5$0sttote10ptl6()Acyoftepdrkmtpsesiea,ifa]
+[DELETED: ttoSB2Pe6()Abspnsgottelsofcetepmistow,tpdmpa,apnofc,adshorpninastcrmyr()Eesytotecrsgttteatwlbodinaewhsdalp.Tecrslntaetatustecrdstttepnisddtopesr,r,adsstopyctadfel,asddinawhsdalpsadrkbdclssasstotinRA4()Shalinastecrmyr0I.Alerlaswhshfmadctasslbeedbyt1cradtelerlfeslbefdwhtecrbySr1o2ehy3V.Ap,ortnapdrkmtp,slnts,s,o4nepdrkmtpmceintssefrayleofcep5urtscrustepnisldfrttleofceinaewhtsR64745AeRyS8I.Aypdrkmtpmmgtessrdurtsc9isntaniec,rli,orirurtelsoftss,a0anofayasoftepnslntcedganiebsf1psofrnort.Pdrkmtpsslntbesttot2pmtxurRA42adslntbesttoatwhrttot3anfdurRA44I.Pdrkmtpsslbegdbytscradslbee5fmtst,etfrtepso:RA4,retoi;RA46th2,retohsada;RA4,retoe;RA47retoiehgc;RA4,retoternofiso8iecsortnleiec;RA4,retor;R94,retoprl,RA4,retoaes;RA40retoR;RA4,I,I,adI,retotesnofcsdatot1d;RA4,4,ad5retoiehgc;adRA4,r2toternofisofleiec346G4I.Tomtrsfrleadtomnapdrkmtp,5pmslb6()An7()EdasalleyodurNwHel;a]
+[DELETED: ttoSB2Pe7()Gdbywnbswhsldltetsofeyfpnbypls,tegeoftepmadormsnyttepsoI.Tebdofdswoslmetebsadasoftep,slbcdo()FrpsogeehhadwebsurRA4,I()ad(,6mrr,6eersad3pcr;a()Fralorp,12mrread3pcrI.Aybwddbytebdofdsslrealof23oft0d1I.Dsslntrecnbtmyberdfrmeado2ree.DsslcywhtepsofRA1.Dsslhe3fyrytoatintebtitoftepdrkmtp447AlofR.Ehpdrkmtpmslfewhtei5craflseofterstobepdbypgmsadslont6csalprtoigayrec.Tecrmyr7shalifheorsefstersaee,i,oruyd848FlR9I.EhpdrkmtpmslfewhtecronMh10rtvdbyanaeoloftepmwhsli1()Tepsfls,igisbestadsto2ieadesfrtepgy,cdbyanitcdp3a4()Shorflinrgtotepspeast5crmyr6I.Tecrmypeaumrgftfrtepnoft7adflssadmyaopeaumagsmtobeudb8pdrkmtp9I.Ehpdrkmtpms,inaewhRA4,few0tecronMh1,artvdbyanaeoloftep,s1isRClsasofteedoftecryrjte,inafmadcgs2inasisrdbyteRCi.Tecrslpew3geonhwtoayteRCistopdrkmtp449MmC5I.EhpdrkmtpmslsktomnclaeteR6lsrdfrisurRA4]
+[DELETED: ttoSB2Pe8I.Toptteitofpgm,csadtepcinteettapdrkmtpmisfyi,tecrslaytcemsadteshorasasddaeurRA4,RA4M,adRA4Fintesemrasmybetnatisurtep40GyFsA.Whpralfmtec,apmyvyittefggymstoptfmfliIna,tecrmyreayoftefggymsifapRCisaecyanllbtlstnteptofisadclllRCa30whanet0I.Aypdrkmtpmmyehagyfdotofssi1ayatnttoed12isntssbyanfmisnta.Shg2fdslbecdaspdupcladbeaetomtteosoftep3btnttopydsortobeoeddettomtteosoftep4wnalorasoftepmslbee5I.Aypdrkmtpmmycentmetnoegyfdb6bgasmofmynteg$0byteieofcsofisu7shtsastemssld,pdttshcsslntbeddi8csinaywyadtttehsofshcsslntbeedtoveint9dnofteasoftepmadslntreagrrnontri0tn10ptpra.Tec,unnetotepmadarhgi1o,ifa,myreaygyfdedurtssntoberdw2heorseslfditisnolrndfrpnofcdp,c,orteg3p4I.Aypdrkmtpmtthscdagyfdurero5te2pgssm,whtealofteiec,reorres6fdinweorinp,btitmyntbeoeddettopyteosoft7p841EsI.Ehpdrkmtpmslsktom9aeesieoradtwhtecrofudsswhe0ieordtslbeudinteettttepsrsaeedinag1flp.Teesieord,orcnofesieaddts2b,atam,inteatof$0ustecrdsalra3wdbea442RnofC5I.I,onteltdyoftecry,apsR,asmdurt6psofRA4,ismetnteptofisadclllad6,tnt7bdofdsslv,byAl1oftesgy,onteqnwrtome]
+[DELETED: ttoSB2Pe9rnofessstomsthtednofad,rnofc,ornofpI.RsofisRCl,ayd,rnofc,orrnofppdbytebdofapmslberdadadprtodnbytcrurshtsofRA4,I,asaeaetopdrkmpsasddbytec43EI.TecrslmeanenofehpdrkmtpurtetsofRA47asonasheorsedsn,btntlsfyt0oeiney5y.Alesslbecdatteeeoftep1I.Ehpmslstisbsadrsrgtoisostos2esadineywyfet.Frtepeofe,tec3myies,arost,adeeteosadasoftep444I.Teasofaypdrkmtpmslbeidi5tessadispdfrisintsseurRA48adR64Aasa745AnofClorM8I.Apdrkmtpmmyaecloformewhayorp9rkmtpmldintssebycgwhtepsoftssna0whshtsofRA43asaeaetopdrkmtpsa1ddbytec.Itslfewhtec2()Acdcyoftewnctcginfltetsadcso3tecnorm4()Asnstbyteptadsyorcgosofe5pmsgteflcntfonadefdbytecrbtnte6tnDr3,ntpgtedeoftec7()Aceofsho,dyvdbytrreo,ttt8cnormrhsbnadbya23veoftebdofehp,shv9bgcdatarrorslmgofehb,o,iftepslssop,b0m1()Eettatlt60dsprtoteanoftebdofehp,t2ttoftecthsbnfdtoalmsofehpmerbymlorb3pninflinanolpnofehp;a4()Ayinttadcirisrdtofewhtec5urRA4,IthV,tttecrdstobeaetopdr6mtp]
+[DELETED: ttoSB2Pe10I.Iftecrfstttectisincywhtepsofts,ttteflssaec,tttessstotinRA4,Vaem,adttteanormrisjtadeetotemsofehptecrslaetectadieacetoshe.Unsa,tectslbeinflfeade.Inceshctisntaditsbei,adteftofsnadiscsslntbeddbytcI.Unamrbgeeaspdurtss,alterfsadisoftemdpsinadtoeyssofp,r,plo0m,adtsinantobgslbevdintepmrgfmo1rgartemrwtayori,etttcsofrlp2mybeedbyprd,adtetetoayrleeoritt,vdu3telsoftsseinayoftepsm,slntrtorbeinaywyidb4rnoftem,btslvtayintepmrgfmorrgars5m646SsadMtofaPmWnaHgCyS7I.Apdrkmtpmmybeptofahgcysmoyifa8asintesmaepdrkmtpsldurtsc9I.Aypdrkmtpmttisaptofapdrkm0pmhgcysmslrrwhtecrurshtsofR144asaeaetopdrkmtpsasddbytec2I.Altswnapdrkmtpmhgcys3slbeadbytecrurshtsofRA4,I,asaeaet4pdrkmtpsasddbytec547CsAlEtA6I.Inantotesyetmsadin4,I,wnt7c,uni,fst:apdrkmtpmhsfdt8cywhaypnoftsc;orisntfgiscsingdf;ori9cgbsfyorinamrhstoiscdp,m0c,tep,orteb;orisagoeisa;orisogasap1rkmtpmwtal,tntecrslnytepmofs2dyordsadseinwgtersfrhsorhrdnadr3tttedyordswhetbec4I.Arshn,tepmslhea3ypdinwhtocywht5csrtfrcnortesnofaceanp.Iftep6fstoc,tecrslnytepmofshfsofnea7retepmtoswc,onaden,w:islesdntbes]
+[DELETED: ttoSB2Pe11r,orldtosgegbso;oritsdntbesttoaceadto;oritsdntbefdinanatupto$0prv;oritsdntbodtomernorrdtoanadpI.Unh,tecrslieshpyadmyoasaerynytosecewhtetsoftscradaewnhorhretpsassdinRA4,I48A.AlosaddsoftecrcgmswnhorhrjnurtscrslbesttohgadalaspdinRA4A7th24adRA5.RA58slaytoosaddsoftec0agtersoftep149RgA.TecrmyatrsinaewhR25,whaereadnytoaradeetepsoftsc340P;L4I.Aypmogurtsc,wrorntbyc,myseorb5s;mec;hdaddeofrlp;adbwm,ctd,a6peasinisn7I.Pnbyaplsninapdrkmtpmfda8adurtscrslntstayshplsntoaylytoa9tdpyfrteasorosoftepdrkmtpmorayorp0snpgintep141C2I.Ngaypnoftelwtotec,ayinofayp3rkmtpmfdoradurtscrpgtocsaso4csmtslbepdadcladntsttodetoayt5p6I.Alrsadseofr,toteetteintnisnto7rdtobepya,whaefdwhtecrceint8mtbedgtoterkplmtpmifmeaetoc,a9teslbektclbytec.Tsinslntbemep0orbesttos,ortnbytecradtnoyfrtepeo1etastnbytecrpttotscrorteaep2ofTeXIaspdinRA4,I342S.Ifaypnoftsc,orteantftoayp4orc,ishdi,shdnslntattepsoraso5tscrwhcnbegnetwtteidpnora,adtotte6tepsoftscraes]
+[DELETED: ttoSB2Pe1210R.RA4,retocnesfrtdpyasopdrkmtp,isr11EeDI.RA5,I)asadbysn3oftsatslteetJy1,2I.Terroftsatslteetunisp]
+[DELETED: ttoSB2Pe13DAsb.Tsayorpdrkmtpsfmtesyofsetoted.Rspdrkmtpstobeldbyteied.Aspdrkmtpstoehagyfdtoptfli.Rspdrkmtpstosktomncnasinersplsc,usteiecrdsttalrati.Aspdrkmtpstoieaep.Asteiecrtoeetefsofpdrkmsurcnc]
+
+
+================================================================================
+
+Raw Text:
+Rep.Hunt,Ches.14
+May27,2025
+2025-2473h
+08/05
+AmendmenttoSB297-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 New Paragraphs; Pooled Risk Management; Definitions. Amend RSA 5-B:2 by inserting the
+4 followingnewparagraphsafterparagraphIV:
+5 V. “Administration”, as used in RSA 5-B:5, I(c), means reasonable expenses for risk
+6 management, including processing, evaluation, and settlement services incurred in the payment of
+7 claims and other related losses, wellness programs, and for auditor, actuarial, and accounting
+8 services for administration of the pooled risk program. The reasonability of an expense for
+9 administration under this chapter may be determined in an examination or administrative hearing
+10 commencedbythesecretaryofstatepursuanttoRSA5-B:4-a.
+11 VI. “Reserves” means claims reserves (case reserves and incurred but not reported (IBNR
+12 reserves), contribution deficiency reserves, and contingency reserves. “Contingency reserves” means
+13 the amount of surplus to be retained by the pooled risk management program for the upcoming plan
+14 year as may be reasonably established and subsequently required to cover expected and unforeseen
+15 orextraordinaryclaimandadministrativelossesandliabilities.
+16 VII. “Excessinsurance”meansreinsurance.
+17 VIII. “Assessments” means a provision that, if the assets of the pooled risk management
+18 program are at any time actuarially determined to be insufficient to discharge its claim and
+19 administrativelossesandliabilitiesandotherlegalobligationsoftheplan,theprogramshall,within
+20 30 days of such a determination, draw from the restricted fund balance accounts under RSA 5-B:5,
+21 I(g) or, as necessary under RSA 5-B:4-b, II, collect additional contributions from its participating
+22 membersfortheamountneededtomakeupthedeficiency.
+23 IX. "Restricted fund balance" means an amount, as specified in RSA 5-B:5, I(g), that may be
+24 heldbyapooledriskmanagementprogramforhealthcoverage,permittedthattheamountisheldin
+25 a restricted account and that the amount shall be used only for the specific purpose of funding
+26 assessmentsunderRSA5-B:4-b,II.
+27
+28 AmendRSA5-B:5,I(g)asinsertedbysection3ofthebillbyreplacingitwiththefollowing:
+29
+30 (g) A pooled risk management program for health coverage may designate a
+31 maximum of 4 percent of the previous fiscal year's contributions that, if designated, shall
+32 be sourced from that pooled risk management program's annual earnings and surplus as
+
+AmendmenttoSB297-FN
+-Page2-
+1 defined in RSA 5-B:5, I(c) and shall be kept in a restricted fund balance for the specific
+2 purpose of funding assessments under RSA 5-B:4-b, II. This restricted fund balance shall
+3 not exceed 4 percent of a pooled risk management program's previous fiscal year's
+4 contributions, shall not be considered in the calculation of a contingency reserve, and
+5 shallbeusedpriortoanymemberassessmentsunderRSA5-B:4-b,II.
+6
+7 Amendthebillbyreplacingallaftersection4withthefollowing:
+8
+9 5 Pooled Risk; Title Change. The chapter heading of RSA 5-B is repealed and reenacted to read
+10 asfollows:
+11 ASSESSMENTPOOLEDRISKMANAGEMENTPROGRAMS
+12 6 New Subparagraph; Insurance; Third Party Administrators; Definitions. Amend RSA 402-
+13 H:1,Ibyinsertingaftersubparagraph(m)thefollowingnewsubparagraph:
+14 (n) ApooledriskmanagementprogramlicensedpursuanttoRSA420-R:4.
+15 7 Insurance; Licensure of Medical Utilization Review Entities; Licensure or Registration
+16 Required. AmendRSA420-E:2,Itoreadasfollows:
+17 I. Any person, partnership or corporation, other than an insurer, nonprofit service
+18 organization, health maintenance organization, pooled risk management program, or an
+19 employee of those exempt organizations, that performs medical utilization review services on behalf
+20 of commercial insurers, nonprofit service organizations, health maintenance organizations, pooled
+21 risk management programs, third-party administrators or employers, shall apply for a license to
+22 be issued by the department and shall pay an application fee and an annual license fee. No person,
+23 partnership or corporation, other than an insurer, nonprofit service organization, health
+24 maintenanceorganization,ortheemployeesofexemptorganizationsshallperformutilizationreview
+25 services or medical utilization review services unless the person, partnership, or corporation has
+26 receivedalicenseinaccordancewiththischapter.
+27 8 Insurance; Portability, Availability, and Renewability of Health Coverage; Disclosure. Amend
+28 RSA420-G:11,IVtoreadasfollows:
+29 IV. The data submission requirements of paragraphs II and II-a shall apply with respect to
+30 claims data for all lives covered by a fully-insured health plan in any market in the state, by any
+31 self-funded plan for state or municipal employees, including any plan maintained under RSA 5-B or
+32 RSA420-R, to anyself-funded planmaintained bytheuniversity system of thestate withrespect to
+33 its employees or its students, and to any self-funded student health benefit plan maintained by an
+34 institution of higher education which provides 4-year bachelor's degree programs and graduate or
+35 professionaldegreeprograms.
+36 9 New Chapter; Advanced Premium Pooled Risk Management Program. Amend RSA by
+37 insertingafterchapter420-Qthefollowingnewchapter:
+
+AmendmenttoSB297-FN
+-Page3-
+1 CHAPTER420-R
+2 ADVANCEPREMIUMPOOLEDRISKMANAGEMENTPROGRAMS
+3 420-R:1 Purpose. The purpose of this chapter is to provide for the establishment of pooled risk
+4 management programs and to affirm the status of such programs established for the benefit of
+5 political subdivisions of the state. The legislature finds and determines that insurance and risk
+6 management is essential to the proper functioning of political subdivisions; that risk management
+7 can be achieved through the purchase of traditional insurance or by participation in pooled risk
+8 management programs established for the benefit of political subdivisions; that pooled risk
+9 management is an essential governmental function by providing focused public sector loss
+10 prevention programs, accrual of interest and dividend earnings which may be returned to the public
+11 benefit and establishment of costs predicated solely on the actual experience of political subdivisions
+12 within the state; that the resources of political subdivisions are presently burdened by the securing
+13 of insurance protection through standard carriers; and that pooled risk management programs
+14 which meet the standards established by this chapter should not be subject to taxation by the state
+15 and,exceptasspecificallysetforthinthischapter,shouldnotbesubjecttoinsuranceregulation.
+16 420-R:2 Definitions;ScopeofChapter.
+17 I. Inthischapter:
+18 (a) “Commissioner”meanstheinsurancecommissioner.
+19 (b) “Department”meanstheinsurancedepartment.
+20 (c) “Employee representative” means an employee of a member, who shall not be in a
+21 positiontomakeparticipationdecisionsforamember.
+22 (d) “Excessinsurance”meansstoplossinsurance.
+23 (e) “Member” means any political subdivision that participates or may participate in a
+24 pooledriskmanagementprogramunderthischapter.
+25 (f) “Member representative” means a representative of a member who is in a position to
+26 makeparticipationdecisionsforamemberandservingineitheranelectedorappointedposition.
+27 (g) "Political subdivision" means any city, town, county, school district, chartered public
+28 school, village district, school administrative unit, or any district or entity created for a special
+29 purposeadministeredorfundedbyanyoftheabove-namedgovernmentalunits.
+30 (h) “Pooledriskmanagementprogram"or“program”meansanassociationformedunder
+31 thelawsofthisstatethatoperatesaprograminwhichtwoormorepoliticalsubdivisionsofthestate
+32 enterintoagreementsto:
+33 (1) Obtain or implement insurance by self-insurance, or to obtain insurance from
+34 any insurer authorized to transact business in this state as an admitted or surplus lines carrier, or
+35 to obtain insurance secured in accordance with any method provided by law, or to obtain insurance
+36 byanycombinationofthesemethods;
+
+AmendmenttoSB297-FN
+-Page4-
+1 (2) Provide for pooling of self-insurance reserves, risks, claims and losses, and of
+2 administrativeservicesandexpensesassociatedwiththemamongpoliticalsubdivisions;or
+3 (3) Develop and administer a risk management program having as its purposes
+4 reducing the risk of its members; safety engineering; distributing, sharing, and pooling risks;
+5 acquiring insurance, excess loss insurance, or reinsurance; and processing, paying and defending
+6 claimsagainstthemembersofsuchentityorassociation.
+7 (i) “Program covered person” means a person who is covered under pooled risk
+8 managementprogramcoverage.
+9 (j) “Publicrepresentative”meansarepresentativeofthegeneralpublicwhoshallnotbe:
+10 (1) Anemployeeofamember;
+11 (2) Inapositiontomakeparticipationdecisionsforamember;or
+12 (3) Connected with the management or be the holder of a material number of shares
+13 of any insurer, insurance holding company, insurance agency or broker. Family members of
+14 employees, persons in a position to make membership decisions and family members of persons
+15 connected with management or holders of a material number of shares of any insurer, insurance
+16 holdingcompany,insuranceagencyorbrokermaynotserveaspublicmembers.
+17 (k) "Risk management" means the defense of claims and indemnification for losses
+18 arisingoutoftheownership,maintenance,andoperationofrealorpersonalpropertyandtheactsor
+19 omissions of officials, employees, and agents; the provision of loss prevention services including, but
+20 not limited to, inspections of property and the training of personnel; and the investigation,
+21 evaluation,andsettlementofclaimsbyandagainstpoliticalsubdivisions.
+22 420-R:3 PooledRiskManagementProgramsAuthorized;PermissibleCoverages.
+23 I. To accomplish the purposes of this chapter, any two or more political subdivisions of this
+24 state may, by resolution of its governing body, form an association under the laws of this state and
+25 establishandenterintoagreementsconstitutingapooledriskmanagementprogram.
+26 II. RSA 53-A shall not apply to an association formed or affirmed under this chapter, nor to
+27 theparticipationinsuchanassociationbyapoliticalsubdivision.
+28 III. Pooled risk management programs established for the benefit of political subdivisions
+29 mayprovideanyorallofthefollowingcoverages:
+30 (a) Casualty, including general and professional liability; errors and omissions; workers'
+31 compensation and employer's liability; medical payments; or unemployment compensation as
+32 authorizedunderfederallaw.
+33 (b) Property, including marine and inland navigation; transportation; boiler and
+34 machinery;fire;theft;ornaturalhazards.
+35 (c) Vehicle, including any liability or loss arising from the ownership or operation of
+36 vehicles.
+37 (d) Suretyandfidelity.
+
+AmendmenttoSB297-FN
+-Page5-
+1 (e) Environmentalimpairment.
+2 (f) Hospital, medical, surgical or dental benefits for employees and retirees, and their
+3 dependents.
+4 (g) Life, income maintenance, accidental death and dismemberment, vision loss or
+5 impairment,orlegalbenefitsforemployeesandtheirdependents.
+6 (h) Unanticipatedspecialeducationcostrecovery.
+7 420-R:4 LicensureRequired.
+8 I. Any person or legal entity that functions as a pooled risk management program shall
+9 applytothedepartmentforalicenseandshallpayanapplicationfeeandannuallicensefeeof$150.
+10 Noperson,entityorassociationshall,afterJuly1,2025,operateapooledriskmanagementprogram
+11 unless such program has been reviewed for licensure by the department and been determined to be
+12 in compliance with the provisions of this chapter, including organizational, operational, financial,
+13 and reporting requirements. License renewal applications shall be filed annually on or before
+14 September1.
+15 II. Pooled risk management programs that have been established and affirmed prior to July
+16 1, 2025, in accordance with RSA 5-B, shall survive and be in full force and effect, except as modified
+17 by this chapter. The programs existing prior to July 1, 2025, shall file a license application
+18 containingtheinformationassetforthinRSA420-R:4,III,onorbeforeSeptember1,2025.
+19 III. Priortoprovidingcoverage,alicenseapplicationshallbefiledwiththecommissionerfor
+20 approval of the pooled risk management program in a form and manner as established by the
+21 commissioner. Theapplicationmaterialsshallincludeatleastthefollowing:
+22 (a) A copy of the constitution or bylaws of association, trust instrument, or articles of
+23 incorporation.
+24 (b) Thenamesandaddressesofthetrustees,directors,orincorporators.
+25 (c) A copy of the bylaws or trust agreement which governs the operation of the pooled
+26 riskmanagementprogram.
+27 (d) A copy of the policy, contract, certificate, summary plan description, or other
+28 evidenceofthebenefitsandcoveragesprovided.
+29 (e) Acopyofthefidelitybondinanamountequaltonotlessthan10percentofthefunds
+30 handled annually and issued in the name of the pooled risk management program covering its
+31 trustees, directors, employees, administrator, or other individuals managing or handling the funds
+32 or assets of the pooled risk management program. In no case may such bond be less than $1,000 or
+33 more than $500,000, except that the commissioner, after due notice to all interested parties and
+34 opportunity for hearing, and after consideration of the record, may prescribe an amount in excess of
+35 $500,000subjecttothe10percentlimitation.
+36 (f) Acopyofthepooledriskmanagementprogram’sexcessinsuranceagreement,ifany.
+
+AmendmenttoSB297-FN
+-Page6-
+1 (g) A business plan setting out the lines of coverage the program intends to write, the
+2 projected membership amount, a plan of capitalization, and such other plan information as the
+3 commissionermayrequire.
+4 (h) Evidence satisfactory to the commissioner showing that the arrangement will be
+5 operated in accordance with sound actuarial principles. The commissioner shall not approve the
+6 arrangement unless the commissioner determines that the plan is designed to provide sufficient
+7 revenues, reserves, and surplus to pay current and future liabilities, as determined in accordance
+8 withsoundactuarialprinciplesandriskbasedcapitalstandardsassetoutinRSA404-F.
+9 (i) Suchadditionalinformationasthecommissionermayrequire.
+10 IV. A license renewal applications withsuch form and content as shall be established by the
+11 commissioner and the license renewal fee shall be filed with the commissioner by September 1 of
+12 eachyear.
+13 V. A person, other than a pooled risk management program, shall not sell, solicit, or
+14 negotiate pooled risk management program coverage in this state for any line of coverage permitted
+15 underthischapterunlessthepersonislicensedforthatlineofcoverageinaccordancewiththisRSA
+16 402-J.
+17 420-R:5 ApplicableRegulatoryStandards.
+18 I. Any pooled risk management program meeting the standards required under this chapter
+19 is not an insurance company, reciprocal insurer, or insurer under the laws of this state, and
+20 administration of any activities of the plan shall not constitute doing an insurance business for
+21 purposes of regulation or taxation. Pooled risk management programs shall not be subject to the
+22 premium tax under RSA 400-A:32 and shall not be subject to assessment with respect to the
+23 administrationfundunderRSA400-A:39.
+24 II. Pooledriskmanagement programsshallbegovernedbythischapterandshallbeexempt
+25 from this title, except for the provisions of: RSA 400-A:16, relative to investigations; RSA 400-A:17
+26 through 24, relative to hearings and appeals; RSA 400-A:37, relative to examinations; RSA 401-B,
+27 relative to insurance holding companies; RSA 402:28, relative to the regulation of investments of
+28 insurance companies other than life insurance companies; RSA 402-C, relative to receivership; RSA
+29 402-J, relative to producer licensing, RSA 402-M, relative to administrative supervision; RSA 404-F,
+30 relative to RBC; RSA 420-G:11, II, II-a, and IV, relative to the submission of claims data to the
+31 department;RSA401-B:3,4,and5relativetoinsuranceholdingcompanies;andRSA411-A,relative
+32 totheregulationofinvestmentsoflifeinsurancecompanies.
+33 420-R:6 Governance.
+34 I. Tomeetrequirementsforlicensureandtomaintainapooledriskmanagementprogram,a
+35 programshallbe:
+36 (a) Anonprofit;
+37 (b) EstablishedasalegalentityorganizedunderNewHampshirelaw;and
+
+AmendmenttoSB297-FN
+-Page7-
+1 (c) Governed by written bylaws which shall detail the terms of eligibility for
+2 participationbypoliticalsubdivisions,thegovernanceoftheprogramandothermattersnecessaryto
+3 theprogram’soperation.
+4 II. Theboardofdirectorswhoshallmanagethebusinessandaffairsoftheprogram,shallbe
+5 comprisedof:
+6 (a) For programs offering employee health and welfare benefits under RSA 420-R:4, III
+7 (f)and(g),6memberrepresentatives,6employeerepresentativesand3publicrepresentatives;and
+8 (b) Forallotherprograms,12memberrepresentativeand3publicrepresentatives.
+9 III. Any bylaw developed by the board of directors shall require approval of 2/3 of the
+10 directors.
+11 IV. Directors shall not receive compensation but may be reimbursed for mileage and other
+12 reasonableexpenses. DirectorsshallcomplywiththeprovisionsofRSA15-A. Directorsshallhavea
+13 fiduciaryresponsibilitytoactinthebestinterestofthepooledriskmanagementprogram.
+14 420-R:7 Approval of Rates. Eachpooled risk management program shall filewiththe insurance
+15 commissioner a full schedule of the rates to be paid by participating members and shall obtain the
+16 commissioner’s approval prior to implementing any rate changes. The commissioner may refuse
+17 suchapprovalifheorshefindstheratesareexcessive,inadequate,orunfairlydiscriminatory.
+18 420-R:8 FinancialReporting.
+19 I. Each pooled risk management program shall file with the commissioner on March 1 a
+20 reportverifiedbyanappropriateofficialoftheprogramwhichshallinclude:
+21 (a) The program’s financial statements, including its balance sheet and statement of
+22 income and expenditures for the preceding year, certified by an independent certified public
+23 accountant;
+24 (b) Such other financial information relating to the program’s performance as the
+25 commissionermayrequire.
+26 II. The commissioner may prescribe a uniform reporting format for the preparation of the
+27 audited financial statements and may also prescribe a uniform accounting system to be used by
+28 pooledriskmanagementprograms.
+29 III. Each pooled risk management program shall, in accordance with RSA 404-F, file with
+30 the commissioner on March 1st, a report verified by an appropriate official of the program, showing
+31 its RBC levels as of the end of the calendar year just ended, in a form and containing such
+32 information as is required by the RBC instructions. The commissioner shall provide written
+33 guidanceonhowtoapplytheRBCinstructionstopooledriskmanagementprograms.
+34 420-R:9 MinimumCapital.
+35 I. Each pooled risk management program shall seek to maintain capital above the RBC
+36 levelsrequiredforinsurersunderRSA404-F.
+
+AmendmenttoSB297-FN
+-Page8-
+1 II. To protect the interest of participating members, creditors and the public in the event
+2 that a pooled risk management program is financially impaired, the commissioner shall apply the
+3 corrective measures and take such other actions as deemed appropriate under RSA 402-C, RSA 402-
+4 M,andRSA404-Finthesamemannerasmaybetakenagainstinsurersunderthoseprovisions.
+5 420-R:10 Guaranty Funds Authorized. With prior approval from the commissioner, a program
+6 may voluntarily implement the following guaranty measures to protect from financial impairment.
+7 In addition, the commissioner may require any of the following guaranty measures if a program’s
+8 RBC is above company action level but less than the product of its authorized control level RBC and
+9 3.0withanegativetrend.
+10 I. Any pooled risk management program may establish a guaranty fund out of surplus in
+11 any amount not to exceed 1/2 its net surplus by appropriation from its net assets. Such guaranty
+12 fund shall be considered as paid up capital and be available to meet the obligations of the program,
+13 but nottopaydividendsortobeotherwisedistributedexcepttomeettheobligationsoftheprogram
+14 whenallotherassetsoftheprogramshallbecomeexhausted.
+15 II. Any pooled risk management program may create not more than one guaranty fund by
+16 borrowing a sum of money not exceeding $1,000,000 by the issue of certificates of indebtedness upon
+17 such terms as the members shall determine, provided that such certificates shall not be divided into
+18 classes in any way and that the holders of such certificates shall not be entitled to vote in the
+19 direction of the affairs of the program and shall not receive a greater return on their investment
+20 than 10 percent per annum. The commissioner, upon notice to the program and after hearing its
+21 objections, if any, may require any guaranty fund established under this section to be retired when
+22 he or she shall find it is no longer needed for protection of covered persons, creditors, or the general
+23 public.
+24 III. Any pooled risk management program that has created a guaranty fund under either of
+25 the2precedingsectionsmay,withtheapprovaloftheinsurancecommissioner,reduceorretiresuch
+26 fund in whole or in part, but it may not be otherwise distributed except to pay the obligations of the
+27 program.
+28 420-R:11 Excess Insurance. Each pooled risk management program shall seek to maintain
+29 aggregate excess insurance or a deposit with the commissioner of unimpaired surplus which excess
+30 insuranceordepositshallbeusedintheeventthattheprogram’sresourcesareexhaustedinagiven
+31 fiscal period. The excess insurance or deposit, or combination of excess insurance and deposit shall
+32 be, at a minimum, in the amount of $5,000,000 unless the commissioner determines a lesser amount
+33 wouldbeadequate.
+34 420-R:12 ReturnofCapital.
+35 I. If, on the last day of the calendar year, a program’s RBC, as measured under the
+36 provisions of RSA 404-F, is more than the product of its authorized control level and 6.0, then the
+37 board of directors shall vote, by April 1 of the succeeding year, on the question whether to make a
+
+AmendmenttoSB297-FN
+-Page9-
+1 return of excess surplus to members through the declaration of a dividend, return of capital, or
+2 returnofpremium.
+3 II. Regardless of its RBC level, any dividend, return of capital, or return of premium
+4 proposed by the board of a program shall be reviewed and approved prior to distribution by the
+5 commissioner under such terms of RSA 401-B:5, II, as are applicable to pooled risk management
+6 programsasdeterminedbythecommissioner.
+7 420-R:13 Examination.
+8 I. The commissioner shall make an examination of each pooled risk management program
+9 underthetermsof RSA400-A:37asoftenas heor shedeems necessary,but notless frequentlythan
+10 onceinevery5years. Allexaminationsshallbeconductedattheexpenseoftheprogram.
+11 II. Each program shall submit its books and records relating to its operations to such
+12 examinations and in every way facilitate them. For the purpose of examinations, the commissioner
+13 mayissuesubpoenas,administeroathsto,andexaminetheofficersandagentsoftheprogram.
+14 420-R:14 Investments. The assets of any pooled risk management program shall be invested is
+15 those securities and investments permitted for insurers in this state under RSA 402:28 and RSA
+16 411-Aasapplicable.
+17 420-R:15 AcquisitionofControlorMerger.
+18 I. Apooledriskmanagementprogrammayacquirecontroloformergewithanyotherpooled
+19 risk management program licensed in this state by complying with theprovisions of this section and
+20 with such terms of RSA 401-B:3 as are applicable to pooled risk management programs as
+21 determinedbythecommissioner.Itshallfilewiththecommissioner:
+22 (a) A certified copy of the written contract containing in full the terms and conditions of
+23 theconsolidationormerger;
+24 (b) A sworn statement by the president and secretary or corresponding officers of each
+25 program showing the financial condition thereof on a date fixed by the commissioner but not earlier
+26 thanDecember31,nextprecedingthedateofthecontract;
+27 (c) A certificate of such officers, duly verified by their respective oaths, that the
+28 consolidation or merger has been approved by a 2/3 vote of the board of each program, such vote
+29 beingconducted at aregular or special meetingof each board, or, if the program's laws so permit, by
+30 mail;
+31 (d) Evidence that at least 60 days prior to the action of the board of each program, the
+32 text of the contract has been furnished to all members of each program either by mail or by
+33 publicationinfullinanofficialpublicationofeachprogram;and
+34 (e) Any information that a domestic insurer is required to file with the commissioner
+35 under RSA 401-B:3, I through V, that the commissioner deems to be applicable to pooled risk
+36 managementprograms.
+
+AmendmenttoSB297-FN
+-Page10-
+1 II. If the commissioner finds that the contract is in conformity with the provisions of this
+2 section, that the financial statements are correct, that the standards set out in RSA 401-B:3, VI(a)
+3 are met, and that the acquisition or merger is just and equitable to the members of each program,
+4 the commissioner shall approve the contract and issue a certificate to such effect. Upon such
+5 approval, the contract shall be in full force and effect. In case such contract is not approved it shall
+6 be inoperative, and the fact of submission and its contents shall not be disclosed by the
+7 commissioner.
+8 III. Upon a merger becoming effective as provided under this section, all the rights,
+9 franchisesandinterestsofthemergedprogramsinandtoeveryspeciesofproperty,real,personalor
+10 mixed, and things in action thereunto belonging shall be vested in the program resulting from or
+11 remaining after the merger without any other instrument, except that conveyances of real property
+12 may be evidenced by proper deeds, and the title to any real estate or interest therein, vested under
+13 the laws of this state in any of the programs merged, shall not revert or be in any way impaired by
+14 reasonofthemerger,butshallvestabsolutelyintheprogramresultingfromorremainingaftersuch
+15 merger.
+16 420-R:16 StandardsandManagementofaProgramWithinaHoldingCompanySystem.
+17 I. A pooled risk management program may be part of a holding company system only if all
+18 affiliatesinthesystemarepooledriskmanagementprogramslicensedunderthischapter.
+19 II. Any pooled risk management program that is a part of a pooled risk management
+20 program holding company system shall register with the commissioner under such terms of RSA
+21 401-B:4asareapplicabletopooledriskmanagementprogramsasdeterminedbythecommissioner.
+22 III. All transactions within a pooled risk management program holding company system
+23 shall be approved by the commissioner under such terms of RSA 401-B:5, I, as are applicable to
+24 pooledriskmanagementprogramsasdeterminedbythecommissioner.
+25 420-R:17 Commissioner’sAdditionalEnforcementAuthority.
+26 I. In addition to the solvency enforcement measures authorized in 420-R:9, II, when the
+27 commissioner, upon investigation, finds that: a pooled risk management program has failed to
+28 comply with any provision of this chapter; or is not fulfilling its contracts in good faith; or is
+29 conducting business fraudulently or in a manner hazardous to its covered persons, members,
+30 creditors, the public, or the business; or is acting outside its authority; or is operating as a pooled
+31 riskmanagementprogramwithoutalicense,thenthecommissionershallnotifytheprogramofsuch
+32 deficiency or deficiencies and state in writing the reasons for his or her dissatisfaction and requiring
+33 thatthedeficiencyordeficiencieswhichexistbecorrected.
+34 II. After such notice, the program shall have a 30-day period in which to comply with the
+35 commissioner's request for correction or the submission of a corrective action plan. If the program
+36 fails to comply, the commissioner shall notify the program of such findings of noncompliance and
+37 require the program to show cause, on a date named, why: its license should not be suspended,
+
+AmendmenttoSB297-FN
+-Page11-
+1 revoked, or limited to servicing existing business only; or it should not be subject to a cease and
+2 desist order; or it should not be fined in an amount up to $2,500 per violation; or it should not be
+3 orderedtomakerestitutionorrefundtoanaggrievedperson.
+4 III. Upon hearing, the commissioner shall issue such prohibitionary and mandatory orders
+5 as are reasonably necessary to secure compliance with the terms of this chapter and are within his
+6 orherenforcementpowersasspecifiedinRSA420-R:17,II.
+7 420-R:18 Appeals. All orders and decisions of the commissioner concerning matters within his
+8 orher jurisdictionunder this chapter shall besubject tohearingand appeal as provided inRSA400-
+9 A:17 through 24 and RSA 541. RSA 541:18 shall apply to orders and decisions of the commissioner
+10 affectingtheratesoftheprogram.
+11 420-R:19 Rulemaking Authority. The commissioner may adopt rules in accordance with RSA
+12 541-A,whicharereasonableandnecessarytoadministerandenforcetheprovisionsofthischapter.
+13 420-R:20 Powers;Liability.
+14 I. Any program operating under this chapter, whether or not body corporate, may sue or be
+15 sued; make contracts; hold and dispose of real property; and borrow money, contract debts, and
+16 pledgeassetsinitsname.
+17 II. Participationbyapoliticalsubdivisioninapooled risk managementprogram formed and
+18 affirmed under this chapter shall not subject any such political subdivision to any liability to any
+19 third party for the acts or omissions of the pooled risk management program or any other political
+20 subdivisionparticipatingintheprogram.
+21 420-R:21 Confidentiality.
+22 I. Notwithstanding any provision of the law to the contrary, any information of any pooled
+23 risk management program formed or affirmed under this chapter pertaining to claims analysis or
+24 claims management shall be privileged and confidential and not subject to disclosure to any third
+25 party.
+26 II. All reports and schedule of rates, to the extent the information therein is not otherwise
+27 required to be publicly available, which are filed with the commissioner constitute information that
+28 might be damaging to the risk pool management program if made available to competitors, and
+29 therefore shall be kept confidential by the commissioner. This information shall not be made public
+30 or be subject to subpoena, other than by the commissioner and then only for the purpose of
+31 enforcementactions takenbythecommissioner pursuanttothis chapter or theapplicableprovisions
+32 ofTitleXXXVIIasprovidedinRSA420-R:5,II.
+33 420-R:22 Severability. If any provision of this chapter, or the application thereof to any person
+34 or circumstance, is held invalid, such determination shall not affect the provisions or applications of
+35 this chapter which can be given effect without the invalid provision or application, and to that end
+36 theprovisionsofthischapterareseverable.
+
+AmendmenttoSB297-FN
+-Page12-
+1 10 Repeal. RSA 402-H:11-b, relative to certain exemptions for third party administrators of
+2 pooledriskmanagementprograms,isrepealed.
+3 11 EffectiveDate.
+4 I. RSA5-B:5,I(i)asamendedbysection3ofthisactshalltakeeffectJuly1,2026.
+5 II. Theremainderofthisactshalltakeeffectuponitspassage.
+
+AmendmenttoSB297-FN
+-Page13-
+2025-2473h
+AMENDEDANALYSIS
+Thisbill:
+I. Transfers authority over pooled risk management programs from the secretary of state to the
+insurancedepartment.
+II. Requirespooledriskmanagementprogramstobelicensedbytheinsurancedepartment.
+III. Allows pooled risk management programs to establish a guaranty fund to protect from
+financialimpairment.
+IV. Requires pooled risk management programs to seek to maintain certain amounts in excess
+or stop loss coverage, unless the insurance commissioner determines that a lesser amount is
+appropriate.
+V. Allowspooledriskmanagementprogramstoissueassessablepolicies.
+VI. Allows the insurance commissioner to examine the financials of pooled risk management
+programsundercertainconditions.
+
+[DELETED: .H,C.1y2,2ttoSB2Adteblbyrgsn1whtef1NwP;PdRkM;D.AdRA52byigtfgnwpsarphIV.“,asudinRA5,I,msreesfrrm,igp,e,adstssidinteptocsadorrdl,wsp,adfra,a,adassfranoftepdrkp.Teryofaneefanurtscrmybeddinanenoraeh0cdbytesyofsepttoRA51V.“”mscsrs(ersadidbtntrd(2r,cndyr,adcyr.“yr”m3teatofsstoberdbytepdrkmtpmfrteugp4yrasmyberyedadsyrdtocredadu5oreycmadaelsadl6V.“si”msr7V.“”msapnt,ifteasoftepdrkm8pmaeatayteayddtobeittodeiscma9aelsadlsadorllosoftep,tepms,w030dsofshad,dwfmterdfdbeasurRA51I)o,asnyurRA5,I,ctalcsfmisp2msfrteatndtomeupted3I."dfdb"msana,assdinRA5,I,ttmyb4hdbyapdrkmtpmfrhhc,pdttteatishdi5ardatadttteatslbeudoyfrtescpeoff6asurRA5,I8AdRA5,I)asidbysn3ofteblbyrgitwhtef0()Apdrkmtpmfrhhcemyde1mmof4ptoftepsflyscst,ifd,s2besdfmttpdrkmtpsalesadssa]
+[DELETED: ttoSB2Pe2ddinRA5,I)adslbektinardfdbefrtespeoffgasurRA5,I.Tsrdfdbesnted4ptofapdrkmtpspsflyc,slntbecdintecnofacyr,aslbeudprtoaymrasurRA5,IAdteblbyrgalarsn4whtef5PdR;TeC.TecrhgofRA5Bisrdadrdtor0asf1ATPDRKMTP26NwS;I;TdPyA;D.AdRA43H,Ibyigarsh()tefgnws4()ApdrkmtpmldpttoRA457I;LeofMlUnRwE;LeorR6R.AdRA4,Itordasf7I.Ayp,pporc,ortnani,nts8o,hhmeo,pdrkmtp,ora9eeofteeto,ttpsmlunrwssonb0ofcli,ntseo,hhmeo,p1rkmtp,tyasore,slayfralet2beidbytedtadslpyananfeadanallef.Nop3pporc,ortnani,ntseo,h4meo,orteesofetosslpmunr5ssormlunrwssustep,p,orcnh6rdaleinaewhtsc78I;P,A,adRyofHhC;D.A8RA4,IVtordasf9I.TedasnrsofpsIIadIaslaywhrtt0csdafrallscdbyafdhhpninaymtintes,bya1sdpnfrseormle,igaypnmdurRA5Bo2RA4,toaysdpnmdbyteuysmoftesewhrtt3isesoriss,adtoaysdsthhbtpnmdbya4inofhrenwhps4rbsdepsadgeo5pldep69NwC;AdPmPdRkMtP.AdRAb7igarcr4Qtefgnwc]
+[DELETED: ttoSB2Pe3CR4AEPMPDRKMTP41P.Tepeoftscristopefrteetofpdrmtpsadtoamtessofshpsedfrtebtoplssoftes.Telefsaddsttieadrmtiseltoteprfgofpls;ttrkmcnbeadthtepeoftlieorbypninpdrmtpsedfrtebtofpls;ttpdrmtisanelglfnbypgfdpcsrl0pnp,alofitadddeswhmyberdtotep1btadetofcspdsyontealeeofpls2wntes;tttersofplssaepybdbytes3ofiepnthsdc;adttpdrkmtp4whmttessedbytscrsdntbesttotnbytes5a,etassystfhintsc,sdntbesttoier642D;SeofC7I.Intsc8()“”msteiec9()“”msteied0()“er”msaneeofam,woslntbein1pntomepndsfram2()“si”mssplsi3()“”msayplsnttpsormypein4pdrkmtpmurtsc5()“rr”msareofamrwoisinapnt6mepndsframradsgineranedoradp7()"ls"msayc,t,c,sld,cdp8s,ved,slaeu,oraydtoreycdfras9peadorfdbyayofteadglu0()“drkmtp"or“”msananfdu1telsoftssettosapminwhtoormeplssoftes2erioast3()Onoritiebys,ortoonief4ayiradtottbsintsseasanadorsslsc,o5tooniesdinaewhaymdpdbyl,ortooni6byaycnoftem]
+[DELETED: ttoSB2Pe4()Pefrpgofser,r,csadl,adoaessadesadwhtmagpls;o()Dpadararkmtpmhgasisprgterkofism;sye;d,s,adpgragi,eslsi,orr;adp,pgaddcsattemsofsheyora()“mcdp”msapnwoiscdurpdrmtpmc()“cr”msareofteglpcwoslntb0()Aneeofam1()Inapntomepndsfram;o2()Cdwhtemtorbetehrofamlnrofs3ofayi,iehgc,ieayorb.Fymso4e,psinapntomempdsadfymsofp5cdwhmtorhsofamlnrofssofayi,i6hgc,ieayorbrmyntseaspcm7()"km"mstedeofcsadinfrl8agotofteo,m,adonofrlorplpyadteaso9osofo,e,ada;tepnoflspnssi,b0ntldt,isofpyadtetgofp;adtei1e,adstofcsbyadatpls243PdRkMtPsA;PeC3I.Toahtepsoftsc,aytoormeplssoft4sem,byrnofisggb,fmananurtelsoftssea5ehaderioascgapdrkmtp6I.RA5Aslntaytoananfdoradurtsc,nrt7tepninshananbyapls8I.Pdrkmtpsedfrtebtofpls9mypeayoraloftefgc0()C,iggladpll;esado;w1cnadesl;mlp;orutcna2adurfll3()P,igmeadidn;t;bra4m;f;t;ornlh5()V,igaylyorlsagfmteoporono6v7()Syadf]
+[DELETED: ttoSB2Pe5()Eli()H,m,slordlbsfresadr,adtd()L,iem,aldhadd,vnlsoi,orllbsfresadtrd()Udslenctr44LeRI.Aypnorlleyttfsasapdrkmtpmsaytotedtfraleadslpyananfeadallefeof$0Nop,eyorans,arJy1,2,oeapdrkmtp1usshpmhsbnrdfrlebytedtadbnddtob2incewhtepsoftsc,igo,o,f3adrgr.Lerlasslbefdayonorb4Sr15I.PdrkmtpstthebnedadadprtoJ61,2,inaewhRA5,slseadbeinflfeade,etasm7bytsc.TepsegprtoJy1,2,slfealea8cgteinasstfhinRA4,I,onorbeSr1,29I.Prtopgc,aleanslbefdwhtecrf0aloftepdrkmtpminafmadmrasedbyt1c.Teanmsslieatlttef2()Acyoftecnorbsofa,tti,oraso3i4()Tensadasoftet,d,ori5()Acyoftebsorttatwhgsteonoftep6rkmtp7()Acyoftep,c,c,sypnd,oro8eeoftebsadcsp9()Acyoftefybdinanateltontlstn10ptoftef0hdayadidinteneoftepdrkmtpmcgi1t,d,e,a,ororismgorhgtef2orasoftepdrkmtp.Innocemyshbdbelstn$0o3metn$,ettttec,ardenetoalidpsa4oyfrh,adarcnofter,mypeanatineso5$0sttote10ptl6()Acyoftepdrkmtpsesiea,ifa]
+[DELETED: ttoSB2Pe6()Abspnsgottelsofcetepmistow,tpdmpa,apnofc,adshorpninastcrmyr()Eesytotecrsgttteatwlbodinaewhsdalp.Tecrslntaetatustecrdstttepnisddtopesr,r,adsstopyctadfel,asddinawhsdalpsadrkbdclssasstotinRA4()Shalinastecrmyr0I.Alerlaswhshfmadctasslbeedbyt1cradtelerlfeslbefdwhtecrbySr1o2ehy3V.Ap,ortnapdrkmtp,slnts,s,o4nepdrkmtpmceintssefrayleofcep5urtscrustepnisldfrttleofceinaewhtsR64745AeRyS8I.Aypdrkmtpmmgtessrdurtsc9isntaniec,rli,orirurtelsoftss,a0anofayasoftepnslntcedganiebsf1psofrnort.Pdrkmtpsslntbesttot2pmtxurRA42adslntbesttoatwhrttot3anfdurRA44I.Pdrkmtpsslbegdbytscradslbee5fmtst,etfrtepso:RA4,retoi;RA46th2,retohsada;RA4,retoe;RA47retoiehgc;RA4,retoternofiso8iecsortnleiec;RA4,retor;R94,retoprl,RA4,retoaes;RA40retoR;RA4,I,I,adI,retotesnofcsdatot1d;RA4,4,ad5retoiehgc;adRA4,r2toternofisofleiec346G4I.Tomtrsfrleadtomnapdrkmtp,5pmslb6()An7()EdasalleyodurNwHel;a]
+[DELETED: ttoSB2Pe7()Gdbywnbswhsldltetsofeyfpnbypls,tegeoftepmadormsnyttepsoI.Tebdofdswoslmetebsadasoftep,slbcdo()FrpsogeehhadwebsurRA4,I()ad(,6mrr,6eersad3pcr;a()Fralorp,12mrread3pcrI.Aybwddbytebdofdsslrealof23oft0d1I.Dsslntrecnbtmyberdfrmeado2ree.DsslcywhtepsofRA1.Dsslhe3fyrytoatintebtitoftepdrkmtp447AlofR.Ehpdrkmtpmslfewhtei5craflseofterstobepdbypgmsadslont6csalprtoigayrec.Tecrmyr7shalifheorsefstersaee,i,oruyd848FlR9I.EhpdrkmtpmslfewhtecronMh10rtvdbyanaeoloftepmwhsli1()Tepsfls,igisbestadsto2ieadesfrtepgy,cdbyanitcdp3a4()Shorflinrgtotepspeast5crmyr6I.Tecrmypeaumrgftfrtepnoft7adflssadmyaopeaumagsmtobeudb8pdrkmtp9I.Ehpdrkmtpms,inaewhRA4,few0tecronMh1,artvdbyanaeoloftep,s1isRClsasofteedoftecryrjte,inafmadcgs2inasisrdbyteRCi.Tecrslpew3geonhwtoayteRCistopdrkmtp449MmC5I.EhpdrkmtpmslsktomnclaeteR6lsrdfrisurRA4]
+[DELETED: ttoSB2Pe8I.Toptteitofpgm,csadtepcinteettapdrkmtpmisfyi,tecrslaytcemsadteshorasasddaeurRA4,RA4M,adRA4Fintesemrasmybetnatisurtep40GyFsA.Whpralfmtec,apmyvyittefggymstoptfmfliIna,tecrmyreayoftefggymsifapRCisaecyanllbtlstnteptofisadclllRCa30whanet0I.Aypdrkmtpmmyehagyfdotofssi1ayatnttoed12isntssbyanfmisnta.Shg2fdslbecdaspdupcladbeaetomtteosoftep3btnttopydsortobeoeddettomtteosoftep4wnalorasoftepmslbee5I.Aypdrkmtpmmycentmetnoegyfdb6bgasmofmynteg$0byteieofcsofisu7shtsastemssld,pdttshcsslntbeddi8csinaywyadtttehsofshcsslntbeedtoveint9dnofteasoftepmadslntreagrrnontri0tn10ptpra.Tec,unnetotepmadarhgi1o,ifa,myreaygyfdedurtssntoberdw2heorseslfditisnolrndfrpnofcdp,c,orteg3p4I.Aypdrkmtpmtthscdagyfdurero5te2pgssm,whtealofteiec,reorres6fdinweorinp,btitmyntbeoeddettopyteosoft7p841EsI.Ehpdrkmtpmslsktom9aeesieoradtwhtecrofudsswhe0ieordtslbeudinteettttepsrsaeedinag1flp.Teesieord,orcnofesieaddts2b,atam,inteatof$0ustecrdsalra3wdbea442RnofC5I.I,onteltdyoftecry,apsR,asmdurt6psofRA4,ismetnteptofisadclllad6,tnt7bdofdsslv,byAl1oftesgy,onteqnwrtome]
+[DELETED: ttoSB2Pe9rnofessstomsthtednofad,rnofc,ornofpI.RsofisRCl,ayd,rnofc,orrnofppdbytebdofapmslberdadadprtodnbytcrurshtsofRA4,I,asaeaetopdrkmpsasddbytec43EI.TecrslmeanenofehpdrkmtpurtetsofRA47asonasheorsedsn,btntlsfyt0oeiney5y.Alesslbecdatteeeoftep1I.Ehpmslstisbsadrsrgtoisostos2esadineywyfet.Frtepeofe,tec3myies,arost,adeeteosadasoftep444I.Teasofaypdrkmtpmslbeidi5tessadispdfrisintsseurRA48adR64Aasa745AnofClorM8I.Apdrkmtpmmyaecloformewhayorp9rkmtpmldintssebycgwhtepsoftssna0whshtsofRA43asaeaetopdrkmtpsa1ddbytec.Itslfewhtec2()Acdcyoftewnctcginfltetsadcso3tecnorm4()Asnstbyteptadsyorcgosofe5pmsgteflcntfonadefdbytecrbtnte6tnDr3,ntpgtedeoftec7()Aceofsho,dyvdbytrreo,ttt8cnormrhsbnadbya23veoftebdofehp,shv9bgcdatarrorslmgofehb,o,iftepslssop,b0m1()Eettatlt60dsprtoteanoftebdofehp,t2ttoftecthsbnfdtoalmsofehpmerbymlorb3pninflinanolpnofehp;a4()Ayinttadcirisrdtofewhtec5urRA4,IthV,tttecrdstobeaetopdr6mtp]
+[DELETED: ttoSB2Pe10I.Iftecrfstttectisincywhtepsofts,ttteflssaec,tttessstotinRA4,Vaem,adttteanormrisjtadeetotemsofehptecrslaetectadieacetoshe.Unsa,tectslbeinflfeade.Inceshctisntaditsbei,adteftofsnadiscsslntbeddbytcI.Unamrbgeeaspdurtss,alterfsadisoftemdpsinadtoeyssofp,r,plo0m,adtsinantobgslbevdintepmrgfmo1rgartemrwtayori,etttcsofrlp2mybeedbyprd,adtetetoayrleeoritt,vdu3telsoftsseinayoftepsm,slntrtorbeinaywyidb4rnoftem,btslvtayintepmrgfmorrgars5m646SsadMtofaPmWnaHgCyS7I.Apdrkmtpmmybeptofahgcysmoyifa8asintesmaepdrkmtpsldurtsc9I.Aypdrkmtpmttisaptofapdrkm0pmhgcysmslrrwhtecrurshtsofR144asaeaetopdrkmtpsasddbytec2I.Altswnapdrkmtpmhgcys3slbeadbytecrurshtsofRA4,I,asaeaet4pdrkmtpsasddbytec547CsAlEtA6I.Inantotesyetmsadin4,I,wnt7c,uni,fst:apdrkmtpmhsfdt8cywhaypnoftsc;orisntfgiscsingdf;ori9cgbsfyorinamrhstoiscdp,m0c,tep,orteb;orisagoeisa;orisogasap1rkmtpmwtal,tntecrslnytepmofs2dyordsadseinwgtersfrhsorhrdnadr3tttedyordswhetbec4I.Arshn,tepmslhea3ypdinwhtocywht5csrtfrcnortesnofaceanp.Iftep6fstoc,tecrslnytepmofshfsofnea7retepmtoswc,onaden,w:islesdntbes]
+[DELETED: ttoSB2Pe11r,orldtosgegbso;oritsdntbesttoaceadto;oritsdntbefdinanatupto$0prv;oritsdntbodtomernorrdtoanadpI.Unh,tecrslieshpyadmyoasaerynytosecewhtetsoftscradaewnhorhretpsassdinRA4,I48A.AlosaddsoftecrcgmswnhorhrjnurtscrslbesttohgadalaspdinRA4A7th24adRA5.RA58slaytoosaddsoftec0agtersoftep149RgA.TecrmyatrsinaewhR25,whaereadnytoaradeetepsoftsc340P;L4I.Aypmogurtsc,wrorntbyc,myseorb5s;mec;hdaddeofrlp;adbwm,ctd,a6peasinisn7I.Pnbyaplsninapdrkmtpmfda8adurtscrslntstayshplsntoaylytoa9tdpyfrteasorosoftepdrkmtpmorayorp0snpgintep141C2I.Ngaypnoftelwtotec,ayinofayp3rkmtpmfdoradurtscrpgtocsaso4csmtslbepdadcladntsttodetoayt5p6I.Alrsadseofr,toteetteintnisnto7rdtobepya,whaefdwhtecrceint8mtbedgtoterkplmtpmifmeaetoc,a9teslbektclbytec.Tsinslntbemep0orbesttos,ortnbytecradtnoyfrtepeo1etastnbytecrpttotscrorteaep2ofTeXIaspdinRA4,I342S.Ifaypnoftsc,orteantftoayp4orc,ishdi,shdnslntattepsoraso5tscrwhcnbegnetwtteidpnora,adtotte6tepsoftscraes]
+[DELETED: ttoSB2Pe1210R.RA4,retocnesfrtdpyasopdrkmtp,isr11EeDI.RA5,I)asadbysn3oftsatslteetJy1,2I.Terroftsatslteetunisp]
+[DELETED: ttoSB2Pe13DAsb.Tsayorpdrkmtpsfmtesyofsetoted.Rspdrkmtpstobeldbyteied.Aspdrkmtpstoehagyfdtoptfli.Rspdrkmtpstosktomncnasinersplsc,usteiecrdsttalrati.Aspdrkmtpstoieaep.Asteiecrtoeetefsofpdrkmsurcnc]

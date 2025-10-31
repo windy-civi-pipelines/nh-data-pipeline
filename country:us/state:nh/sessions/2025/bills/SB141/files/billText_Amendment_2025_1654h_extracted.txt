@@ -1,0 +1,345 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1654h
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Rep.Lynn,Rock.17
+April17,2025
+2025-1654h
+09/05
+AmendmenttoSB141-FN
+2
+3 ANACT relativetothetimetopetitionforanewtrial.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 NewTrialsinCivilCases. AmendthechapterheadingofRSA526toreadasfollows:
+8 NEWTRIALSINCIVILCASES
+9 2 NewTrials;WhenGrantedinCivilCases. AmendRSA526:1toreadasfollows:
+10 526:1 When Granted In Civil Cases. The provisions of this chapter shall apply to
+11 requests for a new trial in civil cases only. A new trial may be granted in any case when
+12 through accident, mistake or misfortune justice has not been done and a further hearing would be
+13 equitable.
+14 3 New Chapter; New Trials in Criminal Cases. Amend RSA by inserting after chapter 534 the
+15 followingnewchapter:
+16 CHAPTER534-A
+17 NEWTRIALSINCRIMINALCASES
+18 534-A:1 Petition to Set Aside Conviction; New Trial; Time Limit. A petition to set aside a
+19 conviction or for a new trial on any grounds that constitute a proper legal basis for granting such
+20 relief may be made no later than 3 years after the date the conviction was entered; provided,
+21 however, that if thepetitionis based onaclaim that physical evidenceshould besubjected tonew or
+22 additional forensic testing or is subject to new scientific understanding, or a claim of newly
+23 discovered or newly admissible evidence, the petition must satisfy the requirements of RSA 534-A:2,
+24 II and RSA 534-A:2, III, and the provisions of RSA 534-A:5 through RSA 534-A:11 shall apply to
+25 suchpetition.
+26 534-A:2 Exception to Time Limit. The time limit specified in RSA 534-A:1 shall not apply to
+27 petitionstosetasideaconvictionorforanewtrialthatsatisfyallofthefollowingconditions:
+28 I. Thepetitionerseeksanewtrialinacriminalcasethatresultedinaconvictionofafelony;
+29 II. The petitioner is either incarcerated, subject to other terms of a sentence, or subject to
+30 collateral consequences of the sentence that impair the petitioner’s ability to exercise a
+31 constitutional, statutory, or common law right or privilege available to other United States citizens;
+32 and
+AmendmenttoSB141-FN
+-Page2-
+1 III. ThepetitionmeetstherequirementsofeitherRSA534-A:3orRSA534-A:4.
+2 534-A:3 Additional Forensic Testing or New Scientific Understanding. To satisfy this section
+3 thepetitionershall,underpenaltyofperjury:
+4 I. Assertthatthepetitionerisinnocentofthecrimeofwhichthepetitionerwasconvicted.
+5 II. Explain how physical evidence that was introduced against the petitioner at trial or that
+6 would have been presented at trial had the petitioner not pleaded guilty can be subjected to new or
+7 additional forensic testing that was not reasonably available, despite due diligence, at the time the
+8 conviction was entered, or is subject to new scientific understanding that did not exist at the time
+9 theconvictionwasentered.
+10 III. Explain the grounds for a reasonable belief that the new forensic testing or the new
+11 scientific understanding of the evidence, as described in paragraph II, in light of all the
+12 circumstances, will demonstrate that the petitioner did not commit the crime for which he or she
+13 wasconvicted.
+14 534-A:4 Newly Discovered Evidence. To satisfy this section the petitioner shall, under penalty
+15 ofperjury:
+16 I. Assertthatthepetitionerisinnocentofthecrimeofwhichthepetitionerwasconvicted.
+17 II. Specify relevant and material evidence that either was not reasonably known to or
+18 available to the petitioner, despite due diligence, at the time the conviction was entered, or was not
+19 admissible in evidence at the time the conviction was entered, but is now both available and
+20 admissibleinevidence.
+21 III. Explain the grounds for a reasonable belief that the evidence described in paragraph II,
+22 in light of all the circumstances, will demonstrate that the petitioner did not commit the crime for
+23 whichheorshewasconvicted.
+24 534-A:5 Notice to Prosecuting Authority; Discovery. The court shall notify the office of the
+25 attorney general, or the county attorney who prosecuted the case, of a petition made under this
+26 chapter, and shall afford an opportunity to respond. Upon receiving notice of a petition made
+27 pursuant to RSA 534-A:2, the attorney general, or county attorney who prosecuted the case, shall
+28 take such steps as are necessary to ensure that any evidence described in the petition or obtained in
+29 connection with the case or investigation is preserved pending the completion of proceedings under
+30 this chapter and shall inform the petitioner regarding the location and condition of evidence in their
+31 possession that was obtained in relation to the underlying case, regardless of whether it was
+32 introduced at trial. Items discoverable at trial under the New Hampshire rules of criminal
+33 procedureshallbemadeavailabletothepetitioner.
+34 534-A:6 Request for Additional Testing. With respect to a petition that seeks new or additional
+35 forensic testing of physical evidence, the court, after a hearing, shall order such testing upon finding
+36 thatthepetitionerhasestablishedeachofthefollowingfactorsbyapreponderanceoftheevidence:
+AmendmenttoSB141-FN
+-Page3-
+1 I. The evidence to be tested was secured in relation to the investigation or prosecution that
+2 resulted in the petitioner's conviction or sentence, and is available and in a condition that would
+3 permitthetestingthatisrequestedinthepetition.
+4 II. The evidence to be tested has been subject to a chain of custody sufficient to establish
+5 thatithasnotbeensubstituted,tamperedwith,replaced,oralteredinanymaterialaspect.
+6 III. The evidence sought to be tested is relevant and material to the issue of the petitioner's
+7 guiltorinnocenceofthecrimeofwhichheorshewasconvicted.
+8 IV. If the requested testing produces exculpatory results, the testing will constitute new,
+9 noncumulative material evidence that the petitioner did not commit the crime for which he or she
+10 wasconvicted.
+11 V. The evidence sought to be tested was not previously tested using similar testing methods
+12 orthetypeoftestingsoughtiscapableofproducingnewormoreinformativeresults.
+13 VI. If other forensic testing previously was done in connection with the case, the requested
+14 testing would provide results that are new or more informative and probative on a material issue
+15 andwouldhaveareasonableprobabilityofcontradictingpriortestresults.
+16 VII. The testing requested employs a method generally accepted within the relevant
+17 scientificcommunity.
+18 534-A:7 Procedurefor Additional Testing. If thecourt grants thepetitionfor testing, thecourt's
+19 ordershall:
+20 I. Identifythespecificevidencetobetestedandthetestingmethodstobeused.
+21 II. If the court ordered different testing than requested by the petitioner, the court shall
+22 explainwhythedifferenttestwasordered.
+23 III. Designate the New Hampshire state police forensic laboratory to conduct the test.
+24 However, the court, upon a showing of good cause, may order testing by another qualified laboratory
+25 or agency that conforms to quality assurance standards required by the Federal Bureau of
+26 Investigation or another nationally or internationally recognized accrediting organization. The
+27 laboratory shall give equal access to its personnel, opinions, conclusions, reports, and other
+28 documentation to the prosecuting attorney and the petitioner. Consumptive testing shall not occur
+29 except upon written permission by both the prosecutor and petitioner or by a specific order of the
+30 court.
+31 534-A:8 CostsofAdditionalTesting. Thecostoftestingorderedunderthischaptershallbepaid
+32 by the petitioner unless the court has appointed counsel to represent a petitioner who is indigent
+33 and the court determines that, in the interests of justice, such costs should be paid by the state from
+34 fundsappropriatedforindigentdefensepursuanttoRSA604-A.
+35 534-A:9 ProcedureUponResultsofTesting.
+36 I. Iftheresultsoftestingconductedunderthischapterareunfavorabletothepetitioner,the
+37 courtshalldismissthepetition.
+AmendmenttoSB141-FN
+-Page4-
+1 II. In addition to any other substantive or procedural remedies provided by law, if the
+2 resultsoftestingconductedunderthischapterarefavorabletothepetitioner,thecourtshallordera
+3 hearing and thereafter, if the court finds by a preponderance of the evidence that, based upon the
+4 newtestresults,thereisareasonableprobabilitythepetitionerwouldnothavebeenconvicted,shall
+5 enter any order that serves theinterests of justice, including anorder vacating and setting aside the
+6 judgment, discharging the petitioner if the petitioner is in custody, resentencing the petitioner, or
+7 grantinganewtrial.
+8 534-A:10 Procedure Upon Petition Asserting New Scientific Understanding. In the case of a
+9 petitionthat does not seek testing of physical evidence, but asserts that suchevidence is subject to a
+10 newscientificunderstanding,thecourt,afterhearing,shallenteranordergrantinganewtrialifthe
+11 courtfindsbyapreponderanceoftheevidence:
+12 I. That the new scientific understanding proffered represents a bona fide scientific theory
+13 that is accepted as valid in the relevant scientific community, as established through the testimony
+14 ofoneormoreexpertsqualifiedtotestifypursuanttoNewHampshirerulesofevidence702and703;
+15 II. Thatthenewscientificunderstandingconstitutesrelevant,material,andnon-cumulative
+16 evidencethatwouldbeadmissibleatanewtrial;
+17 III. That the scientific understanding was not known or reasonably available to the
+18 petitioneratthetimetheconvictionwasentered;and
+19 IV. That evidence of the new scientific understanding is of such character that, had it been
+20 presentedintheproceedingspriortotheentryoftheconviction,thereisareasonableprobabilitythe
+21 petitionerwouldnothavebeenconvicted.
+22 534-A:11 Procedure Upon Petition Asserting Newly Discovered Evidence. In the case of a
+23 petition that does not seek testing of physical evidence or claim the existence of a new scientific
+24 understanding of such evidence, but asserts that there exists evidence that was not available or not
+25 admissibleat the timetheconviction was entered, the court, after hearing, shall enter an order for a
+26 newtrialifthecourtfindsbyapreponderanceoftheevidence:
+27 I. Thatthepetitionerwasnotatfaultforfailingtodiscovertheevidencepriortotheentryof
+28 theconviction;
+29 II. Thattheevidenceisadmissible,materialtothemerits,andnon-cumulative;and
+30 III. That the evidence is of such a character that, had it been presented in the proceedings
+31 prior to the entry of the conviction, there is a reasonable probability the petitioner would not have
+32 beenconvicted.
+33 534-A:12 Construction. Nothing in this chapter shall be construed to prevent the court from
+34 dismissingwithouthearingapetitionthatfailstosatisfytherequirementsforobtainingreliefunder
+35 thischapterorthatraisesclaimswhicharerepetitiveofonesthathavepreviouslybeadjudicated.
+36 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+AmendmenttoSB141-FN
+-Page5-
+2025-1654h
+AMENDEDANALYSIS
+This bill creates a new chapter governing a petition to set aside a criminal verdict or for a new
+criminaltrial.
+[DELETED: .L,R.1l1,2ttoSB1AdteteofteblbyrgitwhtefANATretotetetopnfranwtAdteblbyrgalarteegcewhtef1NwTsinClC.AdtecrhgofRA56tordasfNWTSINCLC2NwT;WnGdinClC.AdRA51tordasf051WnGdInClC.Tepsoftscrslayt1rsfranwtlinclcso.Anwtlmybegdinaycew2tha,meormejehsntbndeadafrhgwdb3e43NwC;NwTsinClC.AdRAbyigarcr54t5fgnwc6CR57NWTSINCLC851PntoStAeC;NwT;TeL.Apntostae9cnorfranwtlonaygsttceaprllbsfrggs0rfmybemenolrtn3ysartedetecnwse;p1h,ttiftepnisbdonacmttpleesdbesdtonwo2alfctgorissttonwscu,oracmofn3ddornyaee,tepnmtsytersofRA54IIadRA5,I,adtepsofRA55thRA51slayt5shp652EntoTeL.TeteltsdinRA51slntayt7pstostaeacnorfranwtlttsyaloftefgc8I.Teprssanwtlinaclcettrdinacnofaf9I.Tepriseri,sttoortsofas,orstt0clcsoftesettirtepsaytoee1c,s,orcnlwrtorpeaetoorUdSsc2a]
+[DELETED: ttoSB1Pe2I.TepnmstersoferRA53orRA553AlFcTgorNwScU.Tosytssteprs,urpyofpI.AtttteprisitofteceofwhteprwscI.Enhwpleettwsidatteprattlortwdhebnpdattlhdteprntpdgycnbesdtonwoalfctgttwsntrya,deded,attetetcnwse,orissttonwscugttddntetattettecnwse0I.Entegsfrarebftttenwfctgorten1scugoftee,asddinphI,inltofalt2c,wldettteprddntcttecefrwhheors3wsc454NyDdE.Tosytssnteprs,urp5ofp6I.Atttteprisitofteceofwhteprwsc7I.Syrtadmleetterwsntrykntoo8aetotep,deded,attetetecnwse,orwsn9aeineeattetetecnwse,btisnwbhaea0aeine1I.EntegsfrarebfttteeeddinphI2inltofaltec,wldettteprddntcttecef3whheorsewsc455NetoPgA;D.Tectslnyteoeoft5ayg,ortecyaywopdtec,ofapnmeurt6c,adsladanoytor.Unrgneofapnm7pttoRA5,teayg,orcyaywopdtec,s8teshssasaenytoeettayeeddintepnorodi9cnwhteceorinispdpgtecnofpsu0tscradslimteprrgtelnadcnofeeint1pnttwsodinrntoteugc,rsofwritw2idatt.IsdeattlurteNwHersofc3peslbemeaetotep456RtfrAlT.Whrttoapnttssnwora5fctgofple,tec,arah,slorshtgunf6ttteprhsedehoftefgfsbyapeoftee]
+[DELETED: ttoSB1Pe3I.Teeetobetdwssdinrntoteinorpntrdintepscnors,adisaeadinacnttwpttetgttisrdintepI.Teeetobetdhsbnsttoacnofcysttoettithsntbns,tdw,r,oradinaymlaI.TeeesttobetdisrtadmltoteieoftepgtorieofteceofwhheorsewscI.Ifterdtgpseyr,tetgwlcennemleettteprddntcttecefrwhheors0wsc1V.Teeesttobetdwsntpytdugsrtgm2orteteoftgstisceofpgnwormeier3V.Iforfctgpywsdeincnwhtec,ter4tgwdpersttaenwormeieadpeonamli5adwdhearepyofcgprttr6V.Tetgrdesamdgyadwnter7scc857PefrAlT.Iftectgstepnfrt,tec9ors0I.Iytesceetobetdadtetgmstobeu1I.Iftectoddttgtnrdbytep,tects2enwytedtttwso3I.DeteNwHesepefclytocttet4H,tec,unasgofgdc,myortgbyarqdl5orayttcstoqyaessrdbyteFlBuo6Inorarnyoriyrdago.T7lyslgeelastoisp,o,c,r,ado8dntotepgayadtep.Cetgslnto9etunwnpnbybhtepradprorbyascoroft0c158CsofAlT.Tectoftgodurtscrslbep2byteprustecthsadcltortaprwoisi3adtectdst,inteisofj,shcssdbepdbytesef4fsadfritdepttoRA6559PeUnRsofT6I.Iftersoftgcdurtscraeuetotep,t7ctsldstep]
+[DELETED: ttoSB1Pe4I.Inantoayorseorplrspdbyl,iftrsoftgcdurtscraefetotep,tectslorhgadt,iftectfsbyapeofteeet,bduntnwttr,teisarepyteprwdnthebnc,serayorttssteisofj,iganorvgadsgaetj,dgteprifteprisinc,rgtep,ogganwt50PeUnPnAgNwScU.Inteceofpnttdsntsktgofple,btasttsheeisstto0nwscu,tec,arh,sleranorgganwtlift1ctfsbyapeoftee2I.Tttenwscugpdrsabafesct3ttisadasvdintertscc,asedthtet4ofoeormeesqdtotypttoNwHersofee72ad75I.Tttenwscugcsr,m,adn6eettwdbeaeatanwt7I.Tttescugwsntknorryaetot8prattetetecnwse;a9I.Tteeoftenwscugisofshcrt,hditb0pdintepsprtoteeyoftec,teisarepyt1prwdnthebnc251PeUnPnAgNyDdE.Inteceof3pnttdsntsktgofpleeorcmteeeofanws4ugofshe,btasttteeseettwsntaeorn5aeattetetecnwse,tec,arh,sleranorfr6nwtliftectfsbyapeoftee7I.Ttteprwsntatftfrfgtodrteeeprtoteeyo8tec9I.Ttteeeisa,mltotem,adn;a0I.Ttteeeisofshacrt,hditbnpdintep1prtoteeyoftec,teisarepyteprwdnth2bnc352C.Ngintscrslbecdtopttectf4dgwthgapnttfstosytersfrogrfu5tscrorttrscswhaereofostthepybea64EeD.TsatslteetJy1,2]
+[DELETED: ttoSB1Pe5DAsblcsanwcrggapntostaeaclvtorfranlt]
+
+
+================================================================================
+
+Raw Text:
+Rep.Lynn,Rock.17
+April17,2025
+2025-1654h
+09/05
+AmendmenttoSB141-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetothetimetopetitionforanewtrial.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 NewTrialsinCivilCases. AmendthechapterheadingofRSA526toreadasfollows:
+8 NEWTRIALSINCIVILCASES
+9 2 NewTrials;WhenGrantedinCivilCases. AmendRSA526:1toreadasfollows:
+10 526:1 When Granted In Civil Cases. The provisions of this chapter shall apply to
+11 requests for a new trial in civil cases only. A new trial may be granted in any case when
+12 through accident, mistake or misfortune justice has not been done and a further hearing would be
+13 equitable.
+14 3 New Chapter; New Trials in Criminal Cases. Amend RSA by inserting after chapter 534 the
+15 followingnewchapter:
+16 CHAPTER534-A
+17 NEWTRIALSINCRIMINALCASES
+18 534-A:1 Petition to Set Aside Conviction; New Trial; Time Limit. A petition to set aside a
+19 conviction or for a new trial on any grounds that constitute a proper legal basis for granting such
+20 relief may be made no later than 3 years after the date the conviction was entered; provided,
+21 however, that if thepetitionis based onaclaim that physical evidenceshould besubjected tonew or
+22 additional forensic testing or is subject to new scientific understanding, or a claim of newly
+23 discovered or newly admissible evidence, the petition must satisfy the requirements of RSA 534-A:2,
+24 II and RSA 534-A:2, III, and the provisions of RSA 534-A:5 through RSA 534-A:11 shall apply to
+25 suchpetition.
+26 534-A:2 Exception to Time Limit. The time limit specified in RSA 534-A:1 shall not apply to
+27 petitionstosetasideaconvictionorforanewtrialthatsatisfyallofthefollowingconditions:
+28 I. Thepetitionerseeksanewtrialinacriminalcasethatresultedinaconvictionofafelony;
+29 II. The petitioner is either incarcerated, subject to other terms of a sentence, or subject to
+30 collateral consequences of the sentence that impair the petitioner’s ability to exercise a
+31 constitutional, statutory, or common law right or privilege available to other United States citizens;
+32 and
+
+AmendmenttoSB141-FN
+-Page2-
+1 III. ThepetitionmeetstherequirementsofeitherRSA534-A:3orRSA534-A:4.
+2 534-A:3 Additional Forensic Testing or New Scientific Understanding. To satisfy this section
+3 thepetitionershall,underpenaltyofperjury:
+4 I. Assertthatthepetitionerisinnocentofthecrimeofwhichthepetitionerwasconvicted.
+5 II. Explain how physical evidence that was introduced against the petitioner at trial or that
+6 would have been presented at trial had the petitioner not pleaded guilty can be subjected to new or
+7 additional forensic testing that was not reasonably available, despite due diligence, at the time the
+8 conviction was entered, or is subject to new scientific understanding that did not exist at the time
+9 theconvictionwasentered.
+10 III. Explain the grounds for a reasonable belief that the new forensic testing or the new
+11 scientific understanding of the evidence, as described in paragraph II, in light of all the
+12 circumstances, will demonstrate that the petitioner did not commit the crime for which he or she
+13 wasconvicted.
+14 534-A:4 Newly Discovered Evidence. To satisfy this section the petitioner shall, under penalty
+15 ofperjury:
+16 I. Assertthatthepetitionerisinnocentofthecrimeofwhichthepetitionerwasconvicted.
+17 II. Specify relevant and material evidence that either was not reasonably known to or
+18 available to the petitioner, despite due diligence, at the time the conviction was entered, or was not
+19 admissible in evidence at the time the conviction was entered, but is now both available and
+20 admissibleinevidence.
+21 III. Explain the grounds for a reasonable belief that the evidence described in paragraph II,
+22 in light of all the circumstances, will demonstrate that the petitioner did not commit the crime for
+23 whichheorshewasconvicted.
+24 534-A:5 Notice to Prosecuting Authority; Discovery. The court shall notify the office of the
+25 attorney general, or the county attorney who prosecuted the case, of a petition made under this
+26 chapter, and shall afford an opportunity to respond. Upon receiving notice of a petition made
+27 pursuant to RSA 534-A:2, the attorney general, or county attorney who prosecuted the case, shall
+28 take such steps as are necessary to ensure that any evidence described in the petition or obtained in
+29 connection with the case or investigation is preserved pending the completion of proceedings under
+30 this chapter and shall inform the petitioner regarding the location and condition of evidence in their
+31 possession that was obtained in relation to the underlying case, regardless of whether it was
+32 introduced at trial. Items discoverable at trial under the New Hampshire rules of criminal
+33 procedureshallbemadeavailabletothepetitioner.
+34 534-A:6 Request for Additional Testing. With respect to a petition that seeks new or additional
+35 forensic testing of physical evidence, the court, after a hearing, shall order such testing upon finding
+36 thatthepetitionerhasestablishedeachofthefollowingfactorsbyapreponderanceoftheevidence:
+
+AmendmenttoSB141-FN
+-Page3-
+1 I. The evidence to be tested was secured in relation to the investigation or prosecution that
+2 resulted in the petitioner's conviction or sentence, and is available and in a condition that would
+3 permitthetestingthatisrequestedinthepetition.
+4 II. The evidence to be tested has been subject to a chain of custody sufficient to establish
+5 thatithasnotbeensubstituted,tamperedwith,replaced,oralteredinanymaterialaspect.
+6 III. The evidence sought to be tested is relevant and material to the issue of the petitioner's
+7 guiltorinnocenceofthecrimeofwhichheorshewasconvicted.
+8 IV. If the requested testing produces exculpatory results, the testing will constitute new,
+9 noncumulative material evidence that the petitioner did not commit the crime for which he or she
+10 wasconvicted.
+11 V. The evidence sought to be tested was not previously tested using similar testing methods
+12 orthetypeoftestingsoughtiscapableofproducingnewormoreinformativeresults.
+13 VI. If other forensic testing previously was done in connection with the case, the requested
+14 testing would provide results that are new or more informative and probative on a material issue
+15 andwouldhaveareasonableprobabilityofcontradictingpriortestresults.
+16 VII. The testing requested employs a method generally accepted within the relevant
+17 scientificcommunity.
+18 534-A:7 Procedurefor Additional Testing. If thecourt grants thepetitionfor testing, thecourt's
+19 ordershall:
+20 I. Identifythespecificevidencetobetestedandthetestingmethodstobeused.
+21 II. If the court ordered different testing than requested by the petitioner, the court shall
+22 explainwhythedifferenttestwasordered.
+23 III. Designate the New Hampshire state police forensic laboratory to conduct the test.
+24 However, the court, upon a showing of good cause, may order testing by another qualified laboratory
+25 or agency that conforms to quality assurance standards required by the Federal Bureau of
+26 Investigation or another nationally or internationally recognized accrediting organization. The
+27 laboratory shall give equal access to its personnel, opinions, conclusions, reports, and other
+28 documentation to the prosecuting attorney and the petitioner. Consumptive testing shall not occur
+29 except upon written permission by both the prosecutor and petitioner or by a specific order of the
+30 court.
+31 534-A:8 CostsofAdditionalTesting. Thecostoftestingorderedunderthischaptershallbepaid
+32 by the petitioner unless the court has appointed counsel to represent a petitioner who is indigent
+33 and the court determines that, in the interests of justice, such costs should be paid by the state from
+34 fundsappropriatedforindigentdefensepursuanttoRSA604-A.
+35 534-A:9 ProcedureUponResultsofTesting.
+36 I. Iftheresultsoftestingconductedunderthischapterareunfavorabletothepetitioner,the
+37 courtshalldismissthepetition.
+
+AmendmenttoSB141-FN
+-Page4-
+1 II. In addition to any other substantive or procedural remedies provided by law, if the
+2 resultsoftestingconductedunderthischapterarefavorabletothepetitioner,thecourtshallordera
+3 hearing and thereafter, if the court finds by a preponderance of the evidence that, based upon the
+4 newtestresults,thereisareasonableprobabilitythepetitionerwouldnothavebeenconvicted,shall
+5 enter any order that serves theinterests of justice, including anorder vacating and setting aside the
+6 judgment, discharging the petitioner if the petitioner is in custody, resentencing the petitioner, or
+7 grantinganewtrial.
+8 534-A:10 Procedure Upon Petition Asserting New Scientific Understanding. In the case of a
+9 petitionthat does not seek testing of physical evidence, but asserts that suchevidence is subject to a
+10 newscientificunderstanding,thecourt,afterhearing,shallenteranordergrantinganewtrialifthe
+11 courtfindsbyapreponderanceoftheevidence:
+12 I. That the new scientific understanding proffered represents a bona fide scientific theory
+13 that is accepted as valid in the relevant scientific community, as established through the testimony
+14 ofoneormoreexpertsqualifiedtotestifypursuanttoNewHampshirerulesofevidence702and703;
+15 II. Thatthenewscientificunderstandingconstitutesrelevant,material,andnon-cumulative
+16 evidencethatwouldbeadmissibleatanewtrial;
+17 III. That the scientific understanding was not known or reasonably available to the
+18 petitioneratthetimetheconvictionwasentered;and
+19 IV. That evidence of the new scientific understanding is of such character that, had it been
+20 presentedintheproceedingspriortotheentryoftheconviction,thereisareasonableprobabilitythe
+21 petitionerwouldnothavebeenconvicted.
+22 534-A:11 Procedure Upon Petition Asserting Newly Discovered Evidence. In the case of a
+23 petition that does not seek testing of physical evidence or claim the existence of a new scientific
+24 understanding of such evidence, but asserts that there exists evidence that was not available or not
+25 admissibleat the timetheconviction was entered, the court, after hearing, shall enter an order for a
+26 newtrialifthecourtfindsbyapreponderanceoftheevidence:
+27 I. Thatthepetitionerwasnotatfaultforfailingtodiscovertheevidencepriortotheentryof
+28 theconviction;
+29 II. Thattheevidenceisadmissible,materialtothemerits,andnon-cumulative;and
+30 III. That the evidence is of such a character that, had it been presented in the proceedings
+31 prior to the entry of the conviction, there is a reasonable probability the petitioner would not have
+32 beenconvicted.
+33 534-A:12 Construction. Nothing in this chapter shall be construed to prevent the court from
+34 dismissingwithouthearingapetitionthatfailstosatisfytherequirementsforobtainingreliefunder
+35 thischapterorthatraisesclaimswhicharerepetitiveofonesthathavepreviouslybeadjudicated.
+36 4 EffectiveDate. ThisactshalltakeeffectJanuary1,2026.
+
+AmendmenttoSB141-FN
+-Page5-
+2025-1654h
+AMENDEDANALYSIS
+This bill creates a new chapter governing a petition to set aside a criminal verdict or for a new
+criminaltrial.
+
+[DELETED: .L,R.1l1,2ttoSB1AdteteofteblbyrgitwhtefANATretotetetopnfranwtAdteblbyrgalarteegcewhtef1NwTsinClC.AdtecrhgofRA56tordasfNWTSINCLC2NwT;WnGdinClC.AdRA51tordasf051WnGdInClC.Tepsoftscrslayt1rsfranwtlinclcso.Anwtlmybegdinaycew2tha,meormejehsntbndeadafrhgwdb3e43NwC;NwTsinClC.AdRAbyigarcr54t5fgnwc6CR57NWTSINCLC851PntoStAeC;NwT;TeL.Apntostae9cnorfranwtlonaygsttceaprllbsfrggs0rfmybemenolrtn3ysartedetecnwse;p1h,ttiftepnisbdonacmttpleesdbesdtonwo2alfctgorissttonwscu,oracmofn3ddornyaee,tepnmtsytersofRA54IIadRA5,I,adtepsofRA55thRA51slayt5shp652EntoTeL.TeteltsdinRA51slntayt7pstostaeacnorfranwtlttsyaloftefgc8I.Teprssanwtlinaclcettrdinacnofaf9I.Tepriseri,sttoortsofas,orstt0clcsoftesettirtepsaytoee1c,s,orcnlwrtorpeaetoorUdSsc2a]
+[DELETED: ttoSB1Pe2I.TepnmstersoferRA53orRA553AlFcTgorNwScU.Tosytssteprs,urpyofpI.AtttteprisitofteceofwhteprwscI.Enhwpleettwsidatteprattlortwdhebnpdattlhdteprntpdgycnbesdtonwoalfctgttwsntrya,deded,attetetcnwse,orissttonwscugttddntetattettecnwse0I.Entegsfrarebftttenwfctgorten1scugoftee,asddinphI,inltofalt2c,wldettteprddntcttecefrwhheors3wsc454NyDdE.Tosytssnteprs,urp5ofp6I.Atttteprisitofteceofwhteprwsc7I.Syrtadmleetterwsntrykntoo8aetotep,deded,attetetecnwse,orwsn9aeineeattetetecnwse,btisnwbhaea0aeine1I.EntegsfrarebfttteeeddinphI2inltofaltec,wldettteprddntcttecef3whheorsewsc455NetoPgA;D.Tectslnyteoeoft5ayg,ortecyaywopdtec,ofapnmeurt6c,adsladanoytor.Unrgneofapnm7pttoRA5,teayg,orcyaywopdtec,s8teshssasaenytoeettayeeddintepnorodi9cnwhteceorinispdpgtecnofpsu0tscradslimteprrgtelnadcnofeeint1pnttwsodinrntoteugc,rsofwritw2idatt.IsdeattlurteNwHersofc3peslbemeaetotep456RtfrAlT.Whrttoapnttssnwora5fctgofple,tec,arah,slorshtgunf6ttteprhsedehoftefgfsbyapeoftee]
+[DELETED: ttoSB1Pe3I.Teeetobetdwssdinrntoteinorpntrdintepscnors,adisaeadinacnttwpttetgttisrdintepI.Teeetobetdhsbnsttoacnofcysttoettithsntbns,tdw,r,oradinaymlaI.TeeesttobetdisrtadmltoteieoftepgtorieofteceofwhheorsewscI.Ifterdtgpseyr,tetgwlcennemleettteprddntcttecefrwhheors0wsc1V.Teeesttobetdwsntpytdugsrtgm2orteteoftgstisceofpgnwormeier3V.Iforfctgpywsdeincnwhtec,ter4tgwdpersttaenwormeieadpeonamli5adwdhearepyofcgprttr6V.Tetgrdesamdgyadwnter7scc857PefrAlT.Iftectgstepnfrt,tec9ors0I.Iytesceetobetdadtetgmstobeu1I.Iftectoddttgtnrdbytep,tects2enwytedtttwso3I.DeteNwHesepefclytocttet4H,tec,unasgofgdc,myortgbyarqdl5orayttcstoqyaessrdbyteFlBuo6Inorarnyoriyrdago.T7lyslgeelastoisp,o,c,r,ado8dntotepgayadtep.Cetgslnto9etunwnpnbybhtepradprorbyascoroft0c158CsofAlT.Tectoftgodurtscrslbep2byteprustecthsadcltortaprwoisi3adtectdst,inteisofj,shcssdbepdbytesef4fsadfritdepttoRA6559PeUnRsofT6I.Iftersoftgcdurtscraeuetotep,t7ctsldstep]
+[DELETED: ttoSB1Pe4I.Inantoayorseorplrspdbyl,iftrsoftgcdurtscraefetotep,tectslorhgadt,iftectfsbyapeofteeet,bduntnwttr,teisarepyteprwdnthebnc,serayorttssteisofj,iganorvgadsgaetj,dgteprifteprisinc,rgtep,ogganwt50PeUnPnAgNwScU.Inteceofpnttdsntsktgofple,btasttsheeisstto0nwscu,tec,arh,sleranorgganwtlift1ctfsbyapeoftee2I.Tttenwscugpdrsabafesct3ttisadasvdintertscc,asedthtet4ofoeormeesqdtotypttoNwHersofee72ad75I.Tttenwscugcsr,m,adn6eettwdbeaeatanwt7I.Tttescugwsntknorryaetot8prattetetecnwse;a9I.Tteeoftenwscugisofshcrt,hditb0pdintepsprtoteeyoftec,teisarepyt1prwdnthebnc251PeUnPnAgNyDdE.Inteceof3pnttdsntsktgofpleeorcmteeeofanws4ugofshe,btasttteeseettwsntaeorn5aeattetetecnwse,tec,arh,sleranorfr6nwtliftectfsbyapeoftee7I.Ttteprwsntatftfrfgtodrteeeprtoteeyo8tec9I.Ttteeeisa,mltotem,adn;a0I.Ttteeeisofshacrt,hditbnpdintep1prtoteeyoftec,teisarepyteprwdnth2bnc352C.Ngintscrslbecdtopttectf4dgwthgapnttfstosytersfrogrfu5tscrorttrscswhaereofostthepybea64EeD.TsatslteetJy1,2]
+[DELETED: ttoSB1Pe5DAsblcsanwcrggapntostaeaclvtorfranlt]

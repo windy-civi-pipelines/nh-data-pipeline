@@ -1,0 +1,47 @@
+Title: 1 AmendRSA674:31asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA674:31asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2005s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Sen.Lang,Dist2
+May8,2025
+2025-2005s
+07/06
+FloorAmendmenttoHB685
+2
+3 674:31 Definition. As used in this subdivision, "manufactured housing" means any structure,
+4 transportable in one or more sections, which, in the traveling mode, is 8 body feet or more in width
+5 and 40 body feet or more in length, or when erected on site, is 320 square feet or more, and which is
+6 built on a permanent chassis and designed to be used as a dwelling with or without a permanent
+7 foundation when connected to required utilities, which include plumbing, heating, and electrical
+8 heating systems contained therein. Manufactured housing as defined in this section shall not
+9 include campers or recreation vehicles as defined in RSA 216-I:1 or RSA 259:84-a; pre-site built
+10 housingasdefinedinRSA674:31-a.
+[DELETED: .L,Dty8,2rAttoHB6AdRA61asidbysn1ofteblbyrgitwhtef61D.Asudintss,"dh"msaysteinoeormes,w,intetgm,is8byftormeinwad40byftormeinl,orwnedons,is30seftorm,adwhibtonaptcsadddtobeudasadgwhorwtapfnwncdtordu,whiep,h,adehgsscdt.MdhgasddintssnslniecsorrnvsasddinRA21orRA2;peb0hgasddinRA6]
+
+
+================================================================================
+
+Raw Text:
+Sen.Lang,Dist2
+May8,2025
+2025-2005s
+07/06
+FloorAmendmenttoHB685
+1 AmendRSA674:31asinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+2
+3 674:31 Definition. As used in this subdivision, "manufactured housing" means any structure,
+4 transportable in one or more sections, which, in the traveling mode, is 8 body feet or more in width
+5 and 40 body feet or more in length, or when erected on site, is 320 square feet or more, and which is
+6 built on a permanent chassis and designed to be used as a dwelling with or without a permanent
+7 foundation when connected to required utilities, which include plumbing, heating, and electrical
+8 heating systems contained therein. Manufactured housing as defined in this section shall not
+9 include campers or recreation vehicles as defined in RSA 216-I:1 or RSA 259:84-a; pre-site built
+10 housingasdefinedinRSA674:31-a.
+
+[DELETED: .L,Dty8,2rAttoHB6AdRA61asidbysn1ofteblbyrgitwhtef61D.Asudintss,"dh"msaysteinoeormes,w,intetgm,is8byftormeinwad40byftormeinl,orwnedons,is30seftorm,adwhibtonaptcsadddtobeudasadgwhorwtapfnwncdtordu,whiep,h,adehgsscdt.MdhgasddintssnslniecsorrnvsasddinRA21orRA2;peb0hgasddinRA6]

@@ -1,0 +1,51 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2302s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateJudiciary
+May20,2025
+2025-2302s
+06/09
+AmendmenttoHB485
+2
+3 1 New Section; Anonymity of Lottery Prize Winner. Amend RSA 91-A by inserting after section
+4 5-athefollowingnewsection:
+5 91-A:5-b AnonymityofLotteryPrizeWinner.
+6 Notwithstanding any other provision of law to the contrary, the name, town or residence, date of
+7 prize, and the gross and net amounts of the annual prize payment of a winner which may be
+8 released by the lottery commission pursuant to RSA 287-F:10, I-i shall not be released if the winner
+9 makes a written request to the lottery commission that they wish to remain anonymous and
+10 providedthatthewinnersatisfiesatleastoneofthefollowingconditions:
+11 I. ThewinnerisavictimofdomesticviolencepursuanttoRSA173-B:1,I;or
+12 II. Thewinnerhasanactiverestrainingorderagainstanotherperson.
+[DELETED: eJy2,2ttoHB4Adteblbyrgsn1whtef1NwS;AyofLyPeW.AdRA9Abyigars5atefgnws9bAyofLyPeWNgayorpnoflwtotec,ten,tnorr,deop,adtegsadntasoftealpeptofawrwhmybrdbytelycnpttoRA2,Iislntberdiftewmsawnrttotelycntttywhtornasa0pdtttewrssatltoeoftefgc1I.TewrisavmofdcvepttoRA1,I;o2I.Tewrhsanaergoratarp]
+
+
+================================================================================
+
+Raw Text:
+SenateJudiciary
+May20,2025
+2025-2302s
+06/09
+AmendmenttoHB485
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 New Section; Anonymity of Lottery Prize Winner. Amend RSA 91-A by inserting after section
+4 5-athefollowingnewsection:
+5 91-A:5-b AnonymityofLotteryPrizeWinner.
+6 Notwithstanding any other provision of law to the contrary, the name, town or residence, date of
+7 prize, and the gross and net amounts of the annual prize payment of a winner which may be
+8 released by the lottery commission pursuant to RSA 287-F:10, I-i shall not be released if the winner
+9 makes a written request to the lottery commission that they wish to remain anonymous and
+10 providedthatthewinnersatisfiesatleastoneofthefollowingconditions:
+11 I. ThewinnerisavictimofdomesticviolencepursuanttoRSA173-B:1,I;or
+12 II. Thewinnerhasanactiverestrainingorderagainstanotherperson.
+
+[DELETED: eJy2,2ttoHB4Adteblbyrgsn1whtef1NwS;AyofLyPeW.AdRA9Abyigars5atefgnws9bAyofLyPeWNgayorpnoflwtotec,ten,tnorr,deop,adtegsadntasoftealpeptofawrwhmybrdbytelycnpttoRA2,Iislntberdiftewmsawnrttotelycntttywhtornasa0pdtttewrssatltoeoftefgc1I.TewrisavmofdcvepttoRA1,I;o2I.Tewrhsanaergoratarp]

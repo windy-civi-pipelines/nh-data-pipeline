@@ -1,0 +1,112 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1859s
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Sen.Prentiss,Dist5
+May1,2025
+2025-1859s
+02/06
+FloorAmendmenttoHB76-FN
+2
+3 1 New Section; Special Education State Complaints and Findings; Complaint Tracking. Amend
+4 RSA186-Cbyinsertingaftersection5thefollowingnewsection:
+5 186-C:5-a SpecialEducationStateComplaintsandFindings;ComplaintTracking.
+6 I. The department shall establish and maintain an internal tracking system for all state
+7 complaints related to special education services. The tracking system shall include, but not be
+8 limitedto,thefollowinginformation:
+9 (a) Thedatethecomplaintwasfiled.
+10 (b) Thecomplainant’scontactinformation.
+11 (c) The respondent’s information, includingthe name of the public school involved in the
+12 complaint.
+13 (d) Thenameofanylawfirmrepresentingtheschooldistrictinthecomplaint.
+14 (e) Asummaryoftheallegations.
+15 (f) Key dates relevant to the complaint process, including acknowledgment, response,
+16 investigation,andresolution.
+17 (g) Statusupdatesthroughouttheinvestigationprocess.
+18 (h) The outcome of the complaint, including findings of fact and any corrective actions
+19 required.
+20 II. The department shall make available summaries of all state complaints and their
+21 outcomes on the department’s website within 30 days of the issuance of the final decision on the
+22 complaint to the complainant. The department shall redact all personally identifiable information
+23 (PII)relatedtostudentsand complainantstoensurecompliancewiththeFamilyEducational Rights
+24 and Privacy Act (FERPA) and other state or federal privacy laws. The information shall be limited
+25 to:
+26 (a) Thedatesthecomplaintwasfiled.
+27 (b) Asummaryofthecomplaint.
+28 (c) Thedeterminationsoffactandconclusionsreachedbythedepartment.
+29 (d) Anycorrectiveactionsrequiredortakenbytherespondent.
+30 III. The department shall publishan annual report by July1st each year beginning in 2026.
+31 The annual report shall be made publicly available on the department’s website and provided to the
+32 office of special education advocate, state advisory council on the education of children with
+AmendmenttoHB76-FN
+-Page2-
+1 disabilities, and the chair of the house and senate education committees. The annual report shall
+2 summarizethestatecomplaintdata,including:
+3 (a) Thetotalnumberofstatecomplaintsfiledinthepreviouscalendaryear.
+4 (b) The number of complaints resolved, with details on the nature of the resolutions as
+5 limitedbyparagraphII.
+6 (c) Ananalysisofpatternsorsystemicissuesidentifiedthroughthecomplaints.
+7 (d) Theactionstakenbythedepartmenttoaddressanyidentifiedsystemicissues.
+[DELETED: .P,Dty1,2rAttoHB7Adteblbyrgsn1whtef1NwS;SlEnSeCsadF;CtT.ARA1Cbyigarsn5tefgnws1aSlEnSeCsadF;CtTI.Tedtslehadmnaniltgsmfralscsrdtoslens.Tetgsmsli,btntbldt,tefgi()Tedetectwsf0()Tecscti1()Tersi,igteneoftepcslidint2c3()Teneofaylwfmrgtesldtintec4()Asyoftea5()Kydsrttotectp,iga,r6i,adr7()Ssusttteinp8()Teoeoftec,igfsofftadaycea9r0I.Tedtslmeaessofalsecsadt1osontedswewn30dsofteieoftefldnont2cttotec.Tedtslrtalpyiei3()rdtossadcstoeecewhteFyElR4adPyAt()adorseorflpyl.Teinslbel5t6()Tedstectwsf7()Asyoftec8()Tedsofftadcsrdbyted9()Ayceasrdortnbyter0I.TedtslphanalrtbyJy1tehyrbgin21Tealrtslbemepyaeontedsweadpdtot2oeofslena,seayclonteenofcnw]
+[DELETED: ttoHB7Pe2d,adtecrofteheadseenc.Tealrtssetesectd,i()Tetlnrofsecsfdintepscry()Tenrofcsr,whdsonteneoftersaldbyphI()Anasofpsorscisidthtec()Teastnbytedttoasayidsci]
+
+
+================================================================================
+
+Raw Text:
+Sen.Prentiss,Dist5
+May1,2025
+2025-1859s
+02/06
+FloorAmendmenttoHB76-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 New Section; Special Education State Complaints and Findings; Complaint Tracking. Amend
+4 RSA186-Cbyinsertingaftersection5thefollowingnewsection:
+5 186-C:5-a SpecialEducationStateComplaintsandFindings;ComplaintTracking.
+6 I. The department shall establish and maintain an internal tracking system for all state
+7 complaints related to special education services. The tracking system shall include, but not be
+8 limitedto,thefollowinginformation:
+9 (a) Thedatethecomplaintwasfiled.
+10 (b) Thecomplainant’scontactinformation.
+11 (c) The respondent’s information, includingthe name of the public school involved in the
+12 complaint.
+13 (d) Thenameofanylawfirmrepresentingtheschooldistrictinthecomplaint.
+14 (e) Asummaryoftheallegations.
+15 (f) Key dates relevant to the complaint process, including acknowledgment, response,
+16 investigation,andresolution.
+17 (g) Statusupdatesthroughouttheinvestigationprocess.
+18 (h) The outcome of the complaint, including findings of fact and any corrective actions
+19 required.
+20 II. The department shall make available summaries of all state complaints and their
+21 outcomes on the department’s website within 30 days of the issuance of the final decision on the
+22 complaint to the complainant. The department shall redact all personally identifiable information
+23 (PII)relatedtostudentsand complainantstoensurecompliancewiththeFamilyEducational Rights
+24 and Privacy Act (FERPA) and other state or federal privacy laws. The information shall be limited
+25 to:
+26 (a) Thedatesthecomplaintwasfiled.
+27 (b) Asummaryofthecomplaint.
+28 (c) Thedeterminationsoffactandconclusionsreachedbythedepartment.
+29 (d) Anycorrectiveactionsrequiredortakenbytherespondent.
+30 III. The department shall publishan annual report by July1st each year beginning in 2026.
+31 The annual report shall be made publicly available on the department’s website and provided to the
+32 office of special education advocate, state advisory council on the education of children with
+
+AmendmenttoHB76-FN
+-Page2-
+1 disabilities, and the chair of the house and senate education committees. The annual report shall
+2 summarizethestatecomplaintdata,including:
+3 (a) Thetotalnumberofstatecomplaintsfiledinthepreviouscalendaryear.
+4 (b) The number of complaints resolved, with details on the nature of the resolutions as
+5 limitedbyparagraphII.
+6 (c) Ananalysisofpatternsorsystemicissuesidentifiedthroughthecomplaints.
+7 (d) Theactionstakenbythedepartmenttoaddressanyidentifiedsystemicissues.
+
+[DELETED: .P,Dty1,2rAttoHB7Adteblbyrgsn1whtef1NwS;SlEnSeCsadF;CtT.ARA1Cbyigarsn5tefgnws1aSlEnSeCsadF;CtTI.Tedtslehadmnaniltgsmfralscsrdtoslens.Tetgsmsli,btntbldt,tefgi()Tedetectwsf0()Tecscti1()Tersi,igteneoftepcslidint2c3()Teneofaylwfmrgtesldtintec4()Asyoftea5()Kydsrttotectp,iga,r6i,adr7()Ssusttteinp8()Teoeoftec,igfsofftadaycea9r0I.Tedtslmeaessofalsecsadt1osontedswewn30dsofteieoftefldnont2cttotec.Tedtslrtalpyiei3()rdtossadcstoeecewhteFyElR4adPyAt()adorseorflpyl.Teinslbel5t6()Tedstectwsf7()Asyoftec8()Tedsofftadcsrdbyted9()Ayceasrdortnbyter0I.TedtslphanalrtbyJy1tehyrbgin21Tealrtslbemepyaeontedsweadpdtot2oeofslena,seayclonteenofcnw]
+[DELETED: ttoHB7Pe2d,adtecrofteheadseenc.Tealrtssetesectd,i()Tetlnrofsecsfdintepscry()Tenrofcsr,whdsonteneoftersaldbyphI()Anasofpsorscisidthtec()Teastnbytedttoasayidsci]

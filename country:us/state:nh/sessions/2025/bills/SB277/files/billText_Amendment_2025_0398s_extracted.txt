@@ -1,0 +1,83 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0398s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SenateWaysandMeans
+February12,2025
+2025-0398s
+05/02
+AmendmenttoSB277-FN
+2
+3 1 New Paragraph; Taxation; Payment in Lieu of Taxes for Renewable Generation Facilities;
+4 Transition to Payment of State Education Property Tax. Amend RSA 72:74 by inserting after
+5 paragraphVIIthefollowingnewparagraph:
+6 VIII. Inthecaseofanelectricgeneratingfacilitythatisexemptfromtheutilitypropertytax
+7 pursuant to RSA 83-F:1, V(g) and making payments in lieu of taxes to a municipality pursuant to
+8 RSA 72:74, if the payment in lieu of tax agreement was in effect as of July 1, 2027, then the facility
+9 shall not be liable for payment of the state education tax under RSA 76:3 until that payment in lieu
+10 of taxes agreement expires or until July 1, 2032, whichever occurs first. Once payment of the state
+11 education tax under RSA 76:3 is required, it may be included in a payment in lieu of taxes
+12 agreement pursuant to a new agreement reached under RSA 72:74, or be paid in addition to a
+13 payment in lieu of taxes agreement if the underlying agreement has not expired or been reopened
+14 andrenegotiated. If,underRSA76:3,thestateeducationtaxispaidseparatelyfromthepaymentin
+15 lieu of taxes, then the amount of the state education tax owed by the facility shall be determined by
+16 using the imputed value of the facility that is calculated and used by the department of revenue
+17 administrationforpurposesofequalizationunderRSA21-J:3,XIII.
+18
+19 Amendthebillbyreplacingallaftersection3withthefollowing:
+20
+21 4 UtilityPropertyTax;ExemptionfromEducationTax;ReferenceAdded. AmendRSA83-F:9to
+22 readasfollows:
+23 83-F:9 Exemption From Education Tax. Persons and property subject to taxation under this
+24 chapter shall not be subject to tax under RSA 76:3; provided, however, that nothing in this chapter
+25 shall be construed to exempt such persons or property from local school, municipal, district, or
+26 countytaxationunderRSA76,exceptasprovidedinRSA72:74,VIII.
+27 5 Applicability. ThisactshallapplytotaxperiodsbeginningonorafterApril1,2028.
+28 6 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+[DELETED: eWsadMy1,2ttoSB2Adteblbyrgsn1whtef1NwP;T;PtinLuofTsfrReGnFTntoPtofSeEnPyT.AdRA74byigaphVItefgnwpV.InteceofanecggfyttisetfmteuypytpttoRA8,V)admgpsinluoftstoamypttRA7,ifteptinluoftxatwsinetasofJy1,2,tntefslntbelefrptofteseentxurRA73ulttptinl0oftsatesorulJy1,2,wrosf.Oeptoftes1entxurRA73isr,itmybeidinaptinluoft2atpttoanwatrdurRA7,orbepdinanto3ptinluoftsatifteugathsntedorbnr4adr.I,urRA7,teseentxispdsyfmtepti5luoft,tnteatofteseentxodbytefyslbeddb6ugteidveoftefyttiscdadudbytedtofr7anfrpsofenurRA2,X9Adteblbyrgalarsn3whtef14UyPyT;EnfmEnT;ReA.AdRA89t2rdasf389EnFmEnT.Psadpysttotnurt4crslntbesttotxurRA7;p,h,ttngintsc5slbecdtoetshpsorpyfmlls,m,d,o6cytnurRA7,etaspdinRA7,V75A.TsatslaytotxpsbgonorarAl1,286EeD.TsatslteetJy1,2]
+
+
+================================================================================
+
+Raw Text:
+SenateWaysandMeans
+February12,2025
+2025-0398s
+05/02
+AmendmenttoSB277-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 New Paragraph; Taxation; Payment in Lieu of Taxes for Renewable Generation Facilities;
+4 Transition to Payment of State Education Property Tax. Amend RSA 72:74 by inserting after
+5 paragraphVIIthefollowingnewparagraph:
+6 VIII. Inthecaseofanelectricgeneratingfacilitythatisexemptfromtheutilitypropertytax
+7 pursuant to RSA 83-F:1, V(g) and making payments in lieu of taxes to a municipality pursuant to
+8 RSA 72:74, if the payment in lieu of tax agreement was in effect as of July 1, 2027, then the facility
+9 shall not be liable for payment of the state education tax under RSA 76:3 until that payment in lieu
+10 of taxes agreement expires or until July 1, 2032, whichever occurs first. Once payment of the state
+11 education tax under RSA 76:3 is required, it may be included in a payment in lieu of taxes
+12 agreement pursuant to a new agreement reached under RSA 72:74, or be paid in addition to a
+13 payment in lieu of taxes agreement if the underlying agreement has not expired or been reopened
+14 andrenegotiated. If,underRSA76:3,thestateeducationtaxispaidseparatelyfromthepaymentin
+15 lieu of taxes, then the amount of the state education tax owed by the facility shall be determined by
+16 using the imputed value of the facility that is calculated and used by the department of revenue
+17 administrationforpurposesofequalizationunderRSA21-J:3,XIII.
+18
+19 Amendthebillbyreplacingallaftersection3withthefollowing:
+20
+21 4 UtilityPropertyTax;ExemptionfromEducationTax;ReferenceAdded. AmendRSA83-F:9to
+22 readasfollows:
+23 83-F:9 Exemption From Education Tax. Persons and property subject to taxation under this
+24 chapter shall not be subject to tax under RSA 76:3; provided, however, that nothing in this chapter
+25 shall be construed to exempt such persons or property from local school, municipal, district, or
+26 countytaxationunderRSA76,exceptasprovidedinRSA72:74,VIII.
+27 5 Applicability. ThisactshallapplytotaxperiodsbeginningonorafterApril1,2028.
+28 6 EffectiveDate. ThisactshalltakeeffectJuly1,2027.
+
+[DELETED: eWsadMy1,2ttoSB2Adteblbyrgsn1whtef1NwP;T;PtinLuofTsfrReGnFTntoPtofSeEnPyT.AdRA74byigaphVItefgnwpV.InteceofanecggfyttisetfmteuypytpttoRA8,V)admgpsinluoftstoamypttRA7,ifteptinluoftxatwsinetasofJy1,2,tntefslntbelefrptofteseentxurRA73ulttptinl0oftsatesorulJy1,2,wrosf.Oeptoftes1entxurRA73isr,itmybeidinaptinluoft2atpttoanwatrdurRA7,orbepdinanto3ptinluoftsatifteugathsntedorbnr4adr.I,urRA7,teseentxispdsyfmtepti5luoft,tnteatofteseentxodbytefyslbeddb6ugteidveoftefyttiscdadudbytedtofr7anfrpsofenurRA2,X9Adteblbyrgalarsn3whtef14UyPyT;EnfmEnT;ReA.AdRA89t2rdasf389EnFmEnT.Psadpysttotnurt4crslntbesttotxurRA7;p,h,ttngintsc5slbecdtoetshpsorpyfmlls,m,d,o6cytnurRA7,etaspdinRA7,V75A.TsatslaytotxpsbgonorarAl1,286EeD.TsatslteetJy1,2]

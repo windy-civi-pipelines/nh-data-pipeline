@@ -1,0 +1,53 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1860s
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Sen.Prentiss,Dist5
+April9,2025
+2025-1860s
+06/08
+FloorAmendmenttoHB440
+2
+3 1 Rules; Scores Required for Education License Eligibility. Amend RSA 186:11, X(a) to read as
+4 follows:
+5 (a) Certification of teachers, supervisors, and administrators in the public schools. The
+6 state board shall also examine the qualifications of candidates for those positions and issue
+7 certificates to those who meet the requirements of said rules. Such rules shall require all
+8 candidates seeking an initial New Hampshire license for administrator, teacher,
+9 instructional specialist or educational specialist to obtain passing scores on professional
+10 education assessments as determined by the state board of education. This requirement
+11 shall also apply to the teaching staff of a chartered public school pursuant to RSA 194-
+12 B:14, IV. Career and technical education teachers may be exempt from this requirement if
+13 theypassthebasicacademicskillstestingoranindustryrecognizedcredential.
+[DELETED: .P,Dtl9,2rAttoHB4Adteblbyrgsn1whtef1R;SsRdfrEnLeE.AdRA1,X)tordaf()Cnoft,s,adasintepcs.Tsebdslaoeeteqsofcsfrtepsadicstotewomttersofsdr.ShrsslreacssganilNwHelefra,tilstorelsttoonpgssonp0enasasddbytesebdofe.Tsr1slaoaytotetgsfofacdpcslpttoRA12B,I.Cradtlentsmybeetfmtsrti3typstebcacsstgoraniyrdc]
+
+
+================================================================================
+
+Raw Text:
+Sen.Prentiss,Dist5
+April9,2025
+2025-1860s
+06/08
+FloorAmendmenttoHB440
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Rules; Scores Required for Education License Eligibility. Amend RSA 186:11, X(a) to read as
+4 follows:
+5 (a) Certification of teachers, supervisors, and administrators in the public schools. The
+6 state board shall also examine the qualifications of candidates for those positions and issue
+7 certificates to those who meet the requirements of said rules. Such rules shall require all
+8 candidates seeking an initial New Hampshire license for administrator, teacher,
+9 instructional specialist or educational specialist to obtain passing scores on professional
+10 education assessments as determined by the state board of education. This requirement
+11 shall also apply to the teaching staff of a chartered public school pursuant to RSA 194-
+12 B:14, IV. Career and technical education teachers may be exempt from this requirement if
+13 theypassthebasicacademicskillstestingoranindustryrecognizedcredential.
+
+[DELETED: .P,Dtl9,2rAttoHB4Adteblbyrgsn1whtef1R;SsRdfrEnLeE.AdRA1,X)tordaf()Cnoft,s,adasintepcs.Tsebdslaoeeteqsofcsfrtepsadicstotewomttersofsdr.ShrsslreacssganilNwHelefra,tilstorelsttoonpgssonp0enasasddbytesebdofe.Tsr1slaoaytotetgsfofacdpcslpttoRA12B,I.Cradtlentsmybeetfmtsrti3typstebcacsstgoraniyrdc]

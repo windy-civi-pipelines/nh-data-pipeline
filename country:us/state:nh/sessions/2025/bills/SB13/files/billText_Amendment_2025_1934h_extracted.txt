@@ -1,0 +1,86 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1934h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.T.Walsh,Merr.10
+May5,2025
+2025-1934h
+/9
+AmendmenttoSB13-FN
+2
+3 ANACT invalidating out-of-state driver's licenses issued to undocumented immigrants and
+4 prohibiting driver's license issuance and renewal to individuals with pending asylum
+5 claims,regardlessofagrantoftemporaryworkauthorization.
+6
+7 Amendthebillbyreplacingallaftersection2withthefollowing:
+8
+9 3 New Paragraph; Driver's License Renewal:Pending Asylum Cases; Amend RSA 263:10 by
+10 insertingafterparagraphIIthefollowingnewparagraph:
+11 III. The department shall not renew a driver's license for a person with a pending asylum
+12 claim,regardlessofapreviousorcurrentgrantofworkauthorization.
+13 4 New Section; Driver's License Issuance to Nonresident Aliens: Asylees. Amend RSA 263 by
+14 insertingaftersection263:39-bthefollowingnewsection:
+15 263:39-c Driver's License Issuance to Nonresident Alien Asylees. Notwithstanding RSA 263:39-
+16 a, the commissioner shall not issue a driver's license to a person granted asylee status by United
+17 States Customs and Immigration Service (USCIS) until that person's application for adjustment of
+18 status to be a lawful permanent resident of the United States has been granted, regardless of any
+19 prioremploymentauthorization.
+20 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+AmendmenttoSB13-FN
+-Page2-
+2025-1934h
+AMENDEDANALYSIS
+This bill invalidates out-of-state driver's licenses issued specifically to undocumented
+immigrants, and prohibits the director of the department of motor vehicles from issuing or renewing
+a driver's license for a person with a pending asylum claim, notwithstanding employment
+authorization.
+[DELETED: .T.W,M.1y5,2ttoSB1AdteteofteblbyrgitwhtefANATigoedslsidtoudisapgdsleieadrltoiswhpgac,rsofagtoftywkaAdteblbyrgalarsn2whtef3NwP;DsLeRgAmC;AdRA20b0igarphIItefgnwp1I.Tedtslntrwadslefrapnwhapga2c,rsofapsorctgtofwka34NwS;DsLeIetoNtA:A.AdRA23b4igarsn2btefgnws52cDsLeIetoNtAnA.NgRA26a,tecrslntieadsletoapngdaessbyU7SsCsadInSe()ulttpsanfrato8sstobeallptrtofteUdSshsbng,rsofa9preta05EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB1Pe2DAsblisoedslsidsytou,adpstedroftedtofmrvsfmigorrdslefrapnwhapgamc,nge]
+
+
+================================================================================
+
+Raw Text:
+Rep.T.Walsh,Merr.10
+May5,2025
+2025-1934h
+/9
+AmendmenttoSB13-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT invalidating out-of-state driver's licenses issued to undocumented immigrants and
+4 prohibiting driver's license issuance and renewal to individuals with pending asylum
+5 claims,regardlessofagrantoftemporaryworkauthorization.
+6
+7 Amendthebillbyreplacingallaftersection2withthefollowing:
+8
+9 3 New Paragraph; Driver's License Renewal:Pending Asylum Cases; Amend RSA 263:10 by
+10 insertingafterparagraphIIthefollowingnewparagraph:
+11 III. The department shall not renew a driver's license for a person with a pending asylum
+12 claim,regardlessofapreviousorcurrentgrantofworkauthorization.
+13 4 New Section; Driver's License Issuance to Nonresident Aliens: Asylees. Amend RSA 263 by
+14 insertingaftersection263:39-bthefollowingnewsection:
+15 263:39-c Driver's License Issuance to Nonresident Alien Asylees. Notwithstanding RSA 263:39-
+16 a, the commissioner shall not issue a driver's license to a person granted asylee status by United
+17 States Customs and Immigration Service (USCIS) until that person's application for adjustment of
+18 status to be a lawful permanent resident of the United States has been granted, regardless of any
+19 prioremploymentauthorization.
+20 5 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+AmendmenttoSB13-FN
+-Page2-
+2025-1934h
+AMENDEDANALYSIS
+This bill invalidates out-of-state driver's licenses issued specifically to undocumented
+immigrants, and prohibits the director of the department of motor vehicles from issuing or renewing
+a driver's license for a person with a pending asylum claim, notwithstanding employment
+authorization.
+
+[DELETED: .T.W,M.1y5,2ttoSB1AdteteofteblbyrgitwhtefANATigoedslsidtoudisapgdsleieadrltoiswhpgac,rsofagtoftywkaAdteblbyrgalarsn2whtef3NwP;DsLeRgAmC;AdRA20b0igarphIItefgnwp1I.Tedtslntrwadslefrapnwhapga2c,rsofapsorctgtofwka34NwS;DsLeIetoNtA:A.AdRA23b4igarsn2btefgnws52cDsLeIetoNtAnA.NgRA26a,tecrslntieadsletoapngdaessbyU7SsCsadInSe()ulttpsanfrato8sstobeallptrtofteUdSshsbng,rsofa9preta05EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB1Pe2DAsblisoedslsidsytou,adpstedroftedtofmrvsfmigorrdslefrapnwhapgamc,nge]

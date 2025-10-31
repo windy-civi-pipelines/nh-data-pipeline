@@ -1,0 +1,262 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0890h
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Rep.Lynn,Rock.17
+March11,2025
+2025-0890h
+07/08
+AmendmenttoHB195-FN
+2
+3 1 New Chapter; Protections from Disclosure of Personal Information. Amend RSA by inserting
+4 afterchapter507-Hthefollowingnewchapter:
+5 CHAPTER507-I
+6 PROTECTIONSFROMDISCLOSUREOFPERSONALINFORMATION
+7 507-I:1 Definitions. Inthischapter:
+8 I. “Available to the public” means personal information about an individual which is widely
+9 known or readily accessible to the public and in which an individual could not have a reasonable
+10 expectationofprivacy.
+11 II. “Government entity” means municipal, county state or federal department, agency,
+12 board, commission, or employee, elected official, or contractor. “Government entity” shall not apply
+13 to a federal government agency to the extent that federal statute or the United States Constitution
+14 preemptssuchapplication.
+15 III. “Personal information” means an individual’s name, date or place of birth; social
+16 security number; address; employment history; credit history; financial and other account numbers;
+17 cellular telephone numbers; voice over Internet protocol or landline telephone numbers; location
+18 information; biometric identifiers including fingerprints, facial photographs or images, retinal scans,
+19 geneticprofiles,andDNA/RNAdata;orotheridentifyingdatauniquetothatindividual.
+20 IV. “Third party providers of information and services” means individuals or organizations
+21 that collect personal information about an individual in connection with providing the following
+22 kinds of services to that individual: cellular and land-line telephone, electric, water, or other
+23 utilities; Internet service providers; cable television; streaming services; social media services; email
+24 serviceproviders;banksandfinancialinstitutions;insurancecompanies;andcreditcardcompanies.
+25 507-I:2 ProtectionfromDisclosureofPersonalInformation;Consent.
+26 I. An individual shall have a reasonable expectation of privacy in personal information,
+27 including content and usage, given to or held by third party providers of information and services,
+28 and not available to the public. Unless specifically authorized by law, third party providers of
+29 information and services shall not disclose to anyone personal information of an individual that is
+30 notavailabletothepublicunless:
+31 (a) Such individual has given explicit consent for the disclosure of such information to
+32 oneormoreothers;
+AmendmenttoHB195-FN
+-Page2-
+1 (b) The third-party provider of information and services has reason to believe that such
+2 disclosure is necessary to prevent, detect, protect against, or respond to past, present, or expected
+3 criminalorfraudulentconduct,identitytheft,harassment,ordeceptiveormaliciousactivity;
+4 (c) Anemergencyexistswherethereisanimmediatedangerofdeathorseriousphysical
+5 injury to an individual or substantial loss or destruction of property if the information is not
+6 disclosed;
+7 (d) TheinformationisdisclosedinaccordancewithRSA507-I:3;or
+8 (e) The information is disclosed in order to provide the service that the individual has
+9 requested.
+10 II. If a third-party provider of information and services seeks to obtain consent from an
+11 individual to disclose to others personal information givento or held by such provider, the procedure
+12 bywhichitdoessoshallmeetthefollowingrequirements:
+13 (a) The communication to the individual by which consent is sought shall be simple,
+14 clear, and unambiguous; and shall state the purpose or purposes for which the information is to be
+15 disclosed;
+16 (b) The communication shall be separate from any other communication sent to the
+17 individualbythethird-partyproviderofinformationandservices;and
+18 (c) The communication shall be structured so that the individual is required to respond
+19 byperforminganaffirmativeactto“optin”inordertograntconsent.
+20 507-I:3 DisclosureofPersonalInformationtoGovernmentEntities.
+21 I. A third-party provider of information and services may disclose to a government entity
+22 personal information of an individual without the consent of the individual in the following
+23 circumstances:
+24 (a) Whenrequestedtodosobyagovernmentinvestigative,lawenforcement, regulatory,
+25 administrative,oradjudicativebodyoragencyactingwithinthescopeofitsauthority.
+26 (b) Whenrequiredtodosobyasubpoenadulyissuedbyagovernmentinvestigative,law
+27 enforcement,regulatory,administrative,oradjudicativebodyoragencyactingwithinthescopeofits
+28 authority,byadulyempaneledgrandjury,orbyacourt.
+29 (c) When compelled to do so pursuant to a duly issued search warrant or pursuant to a
+30 judiciallyrecognizedexceptiontotherequirementforasearchwarrant.
+31 (d) When requested by the division of emergency services and communications for
+32 purposesofrespondingorassistingwithemergency911telecommunications.
+33 (e) In an emergency, where the immediate danger of death or serious physical injury to
+34 an individual or substantial loss or destruction of property requires the disclosure, without delay, of
+35 personal information concerning a specific individual, telephone number, username, or other unique
+36 identifier,andwherejudicialprocesscannotbeobtainedintimetopreventtheidentifieddanger.
+37 (f) Whenspecificallyauthorizedbyotherlaw.
+AmendmenttoHB195-FN
+-Page3-
+1 II. Unless the government entity can show good cause for requiring compliance more
+2 promptly, when a government entity seeks the disclosure of personal information from a third-party
+3 provider of information and services pursuant to RSA 507-I:3, I(a) or I(b), the request or demand for
+4 such information shall not require production of the information sooner than 10 days from the date
+5 the request or demand is made. Within 5 days of receiving such request or demand, the third-party
+6 provider shall notify the individual to whom the information pertains that the request or demand
+7 has been made so that such individual has an opportunity to pursue judicial remedies to prevent
+8 compliance with the request or demand if there are valid grounds to do so; provided, however, that
+9 no such notice shall be given if (a) thegovernment entity seeking the information requests that such
+10 noticenotbeprovidedanddemonstratesgoodcausefor makingsuchrequest;or(b)acourthas
+11 issuedanorderthatsuchnoticenotbegiven.
+12 III. When a third-party provider of information and services discloses personal information
+13 ofanindividualinanemergencysituationcoveredbyRSA507-I:2,I(c),orwhenagovernmententity
+14 seeks disclosure of personal information from a third-party provider of information and services
+15 pursuant to RSA 507-I:3, I(c), I(d), or I(e), the provider shall promptly after such disclosure provide
+16 notice that it has made the disclosure to the individual to whom the information pertains; provided,
+17 however, that no such notice shall be given if (a) the government entity seeking the information
+18 demands that such notice not be provided and demonstrates good cause for making such request; or
+19 (b)acourthasissuedanorderthatsuchnoticenotbegiven.
+20 507-I:4 Waivers. Nothird-partyproviderofinformationandservicesmayrequireawaiverfrom
+21 theprovisionsofthischapterasaconditionforanyindividualtodobusinesswithit.
+22 507-I:5 Remedies.
+23 I. Any person who knowingly violates the provisions of this chapter shall be guilty of a
+24 violationifanaturalperson,orguiltyofamisdemeanorifanyotherperson.
+25 II. The attorney general shall have exclusive authority to bring a civil action against any
+26 third party provider of information and services who violates this chapter to obtain declaratory or
+27 injunctive relief and to recover monetary damages on behalf of the public or any individual or entity
+28 aggrieved by such violation. In any such action, the attorney general shall be entitled to recover the
+29 greaterofactualdamagesor$1,000foreachviolationofthischapter.
+30 III. Nothing in this chapter shall be construed as providing the basis for, or be subject to, a
+31 privaterightofactionforviolationsunderthischapter.
+32 507-I:6 Federal Preemption. If federal law preempts any provision of this chapter, that
+33 provisionshallnotapply.
+34 2 Regulation of Biometric Information; Collection of Biometric Data Prohibited. Amend RSA
+35 359-N:2,I(c)toreadasfollows:
+36 (c) Obtain, retain, or provide any individual's biometric data except as set forth in this
+37 chapterorinRSA507-I.
+AmendmenttoHB195-FN
+-Page4-
+1 3 EffectiveDate. ThisactshalltakeeffectonJanuary1,2026.
+[DELETED: .L,R.1h1,2ttoHB1Adteblbyrgalarteegcewhtef1NwC;PsfmDeofPlI.AdRAbyiarcr5HtefgnwcCR5PSFMDEOFPLI51D.IntscI.“etotep”msplinatanilwhiswknorryaetotepcadinwhanilcdnthear0enofp1I.“te”msm,cyseorfld,a2b,c,ore,edo,orc.“te”slnta3toaflgtaytoteetttflseorteUdSsC4pssha5I.“li”msanisn,deorpeofb;s6syn;a;eth;cth;fladoratn7crten;veorItplorleten;l8i;bcisigf,flpsori,rls9gcp,adDAd;ororigdauetotti0I.“dpypsofinads”msisoro1ttctplinatanilincnwhpgtef2ksofsstotti:cradlet,e,w,oro3u;Itsep;cet;sgs;slmas;e4sep;bsadfli;iec;adctcdc552PnfmDeofPlI;C6I.Anilslheareenofpyinpli7igctadu,gntoorhdbytdpypsofinads8adntaetotep.Ussyadbyl,tdpypso9inadssslntdetoaeplinofaniltti0ntaetotepcu1()Shilhsgnetctfrtedeofshint2oeormeo]
+[DELETED: ttoHB1Pe2()Tetyprofinadsshsrntobettsdeisnytop,d,pta,orrdtop,p,oreclorftc,iyt,h,ordeormsa()Aneyesweteisaniedrofdhorsspiytoanilorsllsordnofpyifteinisnd()TeinisddinaewhRA5;o()Teinisddinortopetesettteilhr0I.Ifatyprofinadsssstoonctfma1iltodetoosplingntoorhdbyshp,tep2bywhitdssoslmttefgr3()Tecntoteilbywhctisstslbes4c,adu;adslsetepeorpsfrwhteinistob5d6()Tecnslbesefmayorcnsttot7ilbytetyprofinads;a8()Tecnslbesdsottteilisrdtor9bypganaeatto“ti”inortogtc053DeofPlIntoGtE1I.Atyprofinadssmydetoagte2plinofanilwttectofteilintef3c4()Wnrdtodosobyagti,lwe,r5a,oraebyorayagwnteseofisa6()Wnrdtodosobyasadyidbyagti,l7e,r,a,oraebyorayagwnteseofi8a,byadyedgdj,orbyac9()Wncdtodosopttoadyidshwtorptto0jyrdentotertfrashw1()Wnrdbytednofeyssadcsf2psofrgoragwhey91t3()Inane,weteiedrofdhorsspliyt4anilorsllsordnofpyrsted,wtd,o5plincgasci,ten,u,ororu6i,adwejlpsctbeodintetoptteidd7()Wnsyadbyorl]
+[DELETED: ttoHB1Pe3I.Ustegteycnswgdcefrrgcemp,wnagteysstedeofplinfmatprofinadsspttoRA5,I)orI,tertorddfshinslntrepnofteinsrtn10dsfmtedtertorddism.Wn5dsofrgshrtord,tetprslnyteiltowmteinpstttertordhsbnmesottshilhsanoytopejlrstopcewhtertorddifteaevdgstodos;p,h,tnoshneslbegnif()tegteysgteinrstts0nentbepdaddsgdcefrmgshr;or()acth1idanorttshnentbeg2I.Wnatyprofinadssdspli3ofanilinaneysncdbyRA5,I,orwnagte4ssdeofplinfmatyprofinads5pttoRA5,I,I,orI,teprslpyarshdep6nettithsmetedetoteiltowmteinp;p7h,ttnoshneslbegnif()tegteysgtei8dsttshnentbepdaddsgdcefrmgshr;o9()acthsidanorttshnentbeg054W.Notyprofinadssmyreawrf1tepsoftscrasacnfrayiltodobswhi255R3I.Aypnwokyvstepsoftscrslbegyof4vnifanlp,orgyofamrifayorp5I.Teayglslheeeaytobgaclanata6tdpyprofinadsswovstscrtoondyo7ierfadtorrmydsonbfoftepcorayilore8adbyshv.Inaysha,teayglslbeedtorrt9grofaldsor$0frehvnoftsc0I.Ngintscrslbecdaspgtebsf,orbestt,1pertofanfrvsurtsc256FlP.Iffllwpsaypnoftsc,t3pnslnta42RnofBcI;CnofBcDaP.AdR53,I)tordasf6()O,r,orpeayisbcdaetasstfhint7crorinRA5]
+[DELETED: ttoHB1Pe43EeD.TsatslteetonJy1,2]
+
+
+================================================================================
+
+Raw Text:
+Rep.Lynn,Rock.17
+March11,2025
+2025-0890h
+07/08
+AmendmenttoHB195-FN
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 New Chapter; Protections from Disclosure of Personal Information. Amend RSA by inserting
+4 afterchapter507-Hthefollowingnewchapter:
+5 CHAPTER507-I
+6 PROTECTIONSFROMDISCLOSUREOFPERSONALINFORMATION
+7 507-I:1 Definitions. Inthischapter:
+8 I. “Available to the public” means personal information about an individual which is widely
+9 known or readily accessible to the public and in which an individual could not have a reasonable
+10 expectationofprivacy.
+11 II. “Government entity” means municipal, county state or federal department, agency,
+12 board, commission, or employee, elected official, or contractor. “Government entity” shall not apply
+13 to a federal government agency to the extent that federal statute or the United States Constitution
+14 preemptssuchapplication.
+15 III. “Personal information” means an individual’s name, date or place of birth; social
+16 security number; address; employment history; credit history; financial and other account numbers;
+17 cellular telephone numbers; voice over Internet protocol or landline telephone numbers; location
+18 information; biometric identifiers including fingerprints, facial photographs or images, retinal scans,
+19 geneticprofiles,andDNA/RNAdata;orotheridentifyingdatauniquetothatindividual.
+20 IV. “Third party providers of information and services” means individuals or organizations
+21 that collect personal information about an individual in connection with providing the following
+22 kinds of services to that individual: cellular and land-line telephone, electric, water, or other
+23 utilities; Internet service providers; cable television; streaming services; social media services; email
+24 serviceproviders;banksandfinancialinstitutions;insurancecompanies;andcreditcardcompanies.
+25 507-I:2 ProtectionfromDisclosureofPersonalInformation;Consent.
+26 I. An individual shall have a reasonable expectation of privacy in personal information,
+27 including content and usage, given to or held by third party providers of information and services,
+28 and not available to the public. Unless specifically authorized by law, third party providers of
+29 information and services shall not disclose to anyone personal information of an individual that is
+30 notavailabletothepublicunless:
+31 (a) Such individual has given explicit consent for the disclosure of such information to
+32 oneormoreothers;
+
+AmendmenttoHB195-FN
+-Page2-
+1 (b) The third-party provider of information and services has reason to believe that such
+2 disclosure is necessary to prevent, detect, protect against, or respond to past, present, or expected
+3 criminalorfraudulentconduct,identitytheft,harassment,ordeceptiveormaliciousactivity;
+4 (c) Anemergencyexistswherethereisanimmediatedangerofdeathorseriousphysical
+5 injury to an individual or substantial loss or destruction of property if the information is not
+6 disclosed;
+7 (d) TheinformationisdisclosedinaccordancewithRSA507-I:3;or
+8 (e) The information is disclosed in order to provide the service that the individual has
+9 requested.
+10 II. If a third-party provider of information and services seeks to obtain consent from an
+11 individual to disclose to others personal information givento or held by such provider, the procedure
+12 bywhichitdoessoshallmeetthefollowingrequirements:
+13 (a) The communication to the individual by which consent is sought shall be simple,
+14 clear, and unambiguous; and shall state the purpose or purposes for which the information is to be
+15 disclosed;
+16 (b) The communication shall be separate from any other communication sent to the
+17 individualbythethird-partyproviderofinformationandservices;and
+18 (c) The communication shall be structured so that the individual is required to respond
+19 byperforminganaffirmativeactto“optin”inordertograntconsent.
+20 507-I:3 DisclosureofPersonalInformationtoGovernmentEntities.
+21 I. A third-party provider of information and services may disclose to a government entity
+22 personal information of an individual without the consent of the individual in the following
+23 circumstances:
+24 (a) Whenrequestedtodosobyagovernmentinvestigative,lawenforcement, regulatory,
+25 administrative,oradjudicativebodyoragencyactingwithinthescopeofitsauthority.
+26 (b) Whenrequiredtodosobyasubpoenadulyissuedbyagovernmentinvestigative,law
+27 enforcement,regulatory,administrative,oradjudicativebodyoragencyactingwithinthescopeofits
+28 authority,byadulyempaneledgrandjury,orbyacourt.
+29 (c) When compelled to do so pursuant to a duly issued search warrant or pursuant to a
+30 judiciallyrecognizedexceptiontotherequirementforasearchwarrant.
+31 (d) When requested by the division of emergency services and communications for
+32 purposesofrespondingorassistingwithemergency911telecommunications.
+33 (e) In an emergency, where the immediate danger of death or serious physical injury to
+34 an individual or substantial loss or destruction of property requires the disclosure, without delay, of
+35 personal information concerning a specific individual, telephone number, username, or other unique
+36 identifier,andwherejudicialprocesscannotbeobtainedintimetopreventtheidentifieddanger.
+37 (f) Whenspecificallyauthorizedbyotherlaw.
+
+AmendmenttoHB195-FN
+-Page3-
+1 II. Unless the government entity can show good cause for requiring compliance more
+2 promptly, when a government entity seeks the disclosure of personal information from a third-party
+3 provider of information and services pursuant to RSA 507-I:3, I(a) or I(b), the request or demand for
+4 such information shall not require production of the information sooner than 10 days from the date
+5 the request or demand is made. Within 5 days of receiving such request or demand, the third-party
+6 provider shall notify the individual to whom the information pertains that the request or demand
+7 has been made so that such individual has an opportunity to pursue judicial remedies to prevent
+8 compliance with the request or demand if there are valid grounds to do so; provided, however, that
+9 no such notice shall be given if (a) thegovernment entity seeking the information requests that such
+10 noticenotbeprovidedanddemonstratesgoodcausefor makingsuchrequest;or(b)acourthas
+11 issuedanorderthatsuchnoticenotbegiven.
+12 III. When a third-party provider of information and services discloses personal information
+13 ofanindividualinanemergencysituationcoveredbyRSA507-I:2,I(c),orwhenagovernmententity
+14 seeks disclosure of personal information from a third-party provider of information and services
+15 pursuant to RSA 507-I:3, I(c), I(d), or I(e), the provider shall promptly after such disclosure provide
+16 notice that it has made the disclosure to the individual to whom the information pertains; provided,
+17 however, that no such notice shall be given if (a) the government entity seeking the information
+18 demands that such notice not be provided and demonstrates good cause for making such request; or
+19 (b)acourthasissuedanorderthatsuchnoticenotbegiven.
+20 507-I:4 Waivers. Nothird-partyproviderofinformationandservicesmayrequireawaiverfrom
+21 theprovisionsofthischapterasaconditionforanyindividualtodobusinesswithit.
+22 507-I:5 Remedies.
+23 I. Any person who knowingly violates the provisions of this chapter shall be guilty of a
+24 violationifanaturalperson,orguiltyofamisdemeanorifanyotherperson.
+25 II. The attorney general shall have exclusive authority to bring a civil action against any
+26 third party provider of information and services who violates this chapter to obtain declaratory or
+27 injunctive relief and to recover monetary damages on behalf of the public or any individual or entity
+28 aggrieved by such violation. In any such action, the attorney general shall be entitled to recover the
+29 greaterofactualdamagesor$1,000foreachviolationofthischapter.
+30 III. Nothing in this chapter shall be construed as providing the basis for, or be subject to, a
+31 privaterightofactionforviolationsunderthischapter.
+32 507-I:6 Federal Preemption. If federal law preempts any provision of this chapter, that
+33 provisionshallnotapply.
+34 2 Regulation of Biometric Information; Collection of Biometric Data Prohibited. Amend RSA
+35 359-N:2,I(c)toreadasfollows:
+36 (c) Obtain, retain, or provide any individual's biometric data except as set forth in this
+37 chapterorinRSA507-I.
+
+AmendmenttoHB195-FN
+-Page4-
+1 3 EffectiveDate. ThisactshalltakeeffectonJanuary1,2026.
+
+[DELETED: .L,R.1h1,2ttoHB1Adteblbyrgalarteegcewhtef1NwC;PsfmDeofPlI.AdRAbyiarcr5HtefgnwcCR5PSFMDEOFPLI51D.IntscI.“etotep”msplinatanilwhiswknorryaetotepcadinwhanilcdnthear0enofp1I.“te”msm,cyseorfld,a2b,c,ore,edo,orc.“te”slnta3toaflgtaytoteetttflseorteUdSsC4pssha5I.“li”msanisn,deorpeofb;s6syn;a;eth;cth;fladoratn7crten;veorItplorleten;l8i;bcisigf,flpsori,rls9gcp,adDAd;ororigdauetotti0I.“dpypsofinads”msisoro1ttctplinatanilincnwhpgtef2ksofsstotti:cradlet,e,w,oro3u;Itsep;cet;sgs;slmas;e4sep;bsadfli;iec;adctcdc552PnfmDeofPlI;C6I.Anilslheareenofpyinpli7igctadu,gntoorhdbytdpypsofinads8adntaetotep.Ussyadbyl,tdpypso9inadssslntdetoaeplinofaniltti0ntaetotepcu1()Shilhsgnetctfrtedeofshint2oeormeo]
+[DELETED: ttoHB1Pe2()Tetyprofinadsshsrntobettsdeisnytop,d,pta,orrdtop,p,oreclorftc,iyt,h,ordeormsa()Aneyesweteisaniedrofdhorsspiytoanilorsllsordnofpyifteinisnd()TeinisddinaewhRA5;o()Teinisddinortopetesettteilhr0I.Ifatyprofinadsssstoonctfma1iltodetoosplingntoorhdbyshp,tep2bywhitdssoslmttefgr3()Tecntoteilbywhctisstslbes4c,adu;adslsetepeorpsfrwhteinistob5d6()Tecnslbesefmayorcnsttot7ilbytetyprofinads;a8()Tecnslbesdsottteilisrdtor9bypganaeatto“ti”inortogtc053DeofPlIntoGtE1I.Atyprofinadssmydetoagte2plinofanilwttectofteilintef3c4()Wnrdtodosobyagti,lwe,r5a,oraebyorayagwnteseofisa6()Wnrdtodosobyasadyidbyagti,l7e,r,a,oraebyorayagwnteseofi8a,byadyedgdj,orbyac9()Wncdtodosopttoadyidshwtorptto0jyrdentotertfrashw1()Wnrdbytednofeyssadcsf2psofrgoragwhey91t3()Inane,weteiedrofdhorsspliyt4anilorsllsordnofpyrsted,wtd,o5plincgasci,ten,u,ororu6i,adwejlpsctbeodintetoptteidd7()Wnsyadbyorl]
+[DELETED: ttoHB1Pe3I.Ustegteycnswgdcefrrgcemp,wnagteysstedeofplinfmatprofinadsspttoRA5,I)orI,tertorddfshinslntrepnofteinsrtn10dsfmtedtertorddism.Wn5dsofrgshrtord,tetprslnyteiltowmteinpstttertordhsbnmesottshilhsanoytopejlrstopcewhtertorddifteaevdgstodos;p,h,tnoshneslbegnif()tegteysgteinrstts0nentbepdaddsgdcefrmgshr;or()acth1idanorttshnentbeg2I.Wnatyprofinadssdspli3ofanilinaneysncdbyRA5,I,orwnagte4ssdeofplinfmatyprofinads5pttoRA5,I,I,orI,teprslpyarshdep6nettithsmetedetoteiltowmteinp;p7h,ttnoshneslbegnif()tegteysgtei8dsttshnentbepdaddsgdcefrmgshr;o9()acthsidanorttshnentbeg054W.Notyprofinadssmyreawrf1tepsoftscrasacnfrayiltodobswhi255R3I.Aypnwokyvstepsoftscrslbegyof4vnifanlp,orgyofamrifayorp5I.Teayglslheeeaytobgaclanata6tdpyprofinadsswovstscrtoondyo7ierfadtorrmydsonbfoftepcorayilore8adbyshv.Inaysha,teayglslbeedtorrt9grofaldsor$0frehvnoftsc0I.Ngintscrslbecdaspgtebsf,orbestt,1pertofanfrvsurtsc256FlP.Iffllwpsaypnoftsc,t3pnslnta42RnofBcI;CnofBcDaP.AdR53,I)tordasf6()O,r,orpeayisbcdaetasstfhint7crorinRA5]
+[DELETED: ttoHB1Pe43EeD.TsatslteetonJy1,2]

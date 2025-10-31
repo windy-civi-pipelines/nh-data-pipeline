@@ -1,0 +1,51 @@
+Title: 1 AmendRSA402:84,IIandIIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA402:84,IIandIIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1945h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Hunt,Ches.14
+May6,2025
+2025-1945h
+05/09
+AmendmenttoSB121-FN
+2
+3 II. Unless otherwise required, any licensed insurance company authorized to
+4 transact business in this state shall provide 90 days' written notice to the insurance
+5 departmentoftheinsurancecompany'sdecisiontoceasewritinganentirelineofbusiness.
+6 III. Any licensed insurance company offering Medicare Advantage Plans under
+7 Medicare Part C in this state shall provide 90 days' written notice to the insurance
+8 department of the insurance company's decision to modify or terminate its contract with
+9 the Centers for Medicare and Medicaid Services, to cease offering Medicare Advantage
+10 Plans in a particular county, or to significantly modify the offerings of its Medicare
+11 Advantage Plans. The insurance company shall notify the insurance department in
+12 writing,usingtheformatprescribedbythecommissioner.
+[DELETED: .H,C.1y6,2ttoSB1AdRA4,IIadIIasidbysn1ofteblbyrgitwhtefI.Usoer,ayldiecyadtttbsintsseslpe90d'wnnetoteidtofteiecsdntocewganeeleofbI.AyldiecyogMeAePsuMePtCintsseslpe90d'wnnetoteidtofteiecsdntomyorteisctwteCsfrMeadMdS,toceogMeA0Psinaprc,ortosymyteosofisM1AeP.Teiecyslnyteiedti2w,ugteftpdbytec]
+
+
+================================================================================
+
+Raw Text:
+Rep.Hunt,Ches.14
+May6,2025
+2025-1945h
+05/09
+AmendmenttoSB121-FN
+1 AmendRSA402:84,IIandIIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+2
+3 II. Unless otherwise required, any licensed insurance company authorized to
+4 transact business in this state shall provide 90 days' written notice to the insurance
+5 departmentoftheinsurancecompany'sdecisiontoceasewritinganentirelineofbusiness.
+6 III. Any licensed insurance company offering Medicare Advantage Plans under
+7 Medicare Part C in this state shall provide 90 days' written notice to the insurance
+8 department of the insurance company's decision to modify or terminate its contract with
+9 the Centers for Medicare and Medicaid Services, to cease offering Medicare Advantage
+10 Plans in a particular county, or to significantly modify the offerings of its Medicare
+11 Advantage Plans. The insurance company shall notify the insurance department in
+12 writing,usingtheformatprescribedbythecommissioner.
+
+[DELETED: .H,C.1y6,2ttoSB1AdRA4,IIadIIasidbysn1ofteblbyrgitwhtefI.Usoer,ayldiecyadtttbsintsseslpe90d'wnnetoteidtofteiecsdntocewganeeleofbI.AyldiecyogMeAePsuMePtCintsseslpe90d'wnnetoteidtofteiecsdntomyorteisctwteCsfrMeadMdS,toceogMeA0Psinaprc,ortosymyteosofisM1AeP.Teiecyslnyteiedti2w,ugteftpdbytec]

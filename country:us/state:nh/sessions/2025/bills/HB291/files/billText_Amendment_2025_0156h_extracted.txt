@@ -1,0 +1,74 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0156h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.N.Murphy,Hills.12
+Rep.Layon,Rock.13
+January29,2025
+2025-0156h
+05/08
+AmendmenttoHB291-FN
+2
+3 ANACT relativetothepenaltyforincorrectapplicationoffertilizers.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 New Paragraph; Application of Fertilizer to Urban Turf and Lawn; Penalty. Amend RSA
+8 431:4-ebyinsertingafterparagraphVIIthefollowingnewparagraph:
+9 VIII. Notwithstanding RSA 431:18, any person and the corporate agent of such person, who
+10 violatesthissection:
+11 (a) Shallreceiveawrittenwarningforafirstoffense;
+12 (b) Shall be guilty of a violation and shall be subject to a $250 fine per acre for a second
+13 offense;and
+14 (c) Shallbeguiltyofamisdemeanorforathirdorsubsequentoffense.
+15 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+AmendmenttoHB291-FN
+-Page2-
+2025-0156h
+AMENDEDANALYSIS
+This bill establishes graduated penalties for the incorrect application of fertilizer depending on
+whetheritisafirst,second,orthirdoffense.
+[DELETED: .N.M,H.1.L,R.1y2,2ttoHB2AdteteofteblbyrgitwhtefANATretotepyfritanoffAdteblbyrgalarteegcewhtef1NwP;AnofFrtoUnTfadL;P.AdR4ebyigarphVItefgnwpV.NgRA4,aypnadteceatofshp,w0vstss1()Slreawnwgfrafto2()Slbegyofavnadslbesttoa$0fepraefras3o;a4()Slbegyofamrfratdorsto52EeD.Tsatslteetunisp]
+[DELETED: ttoHB2Pe2DAsblesgdpsfrteitanoffrdgoritisaf,s,ortdo]
+
+
+================================================================================
+
+Raw Text:
+Rep.N.Murphy,Hills.12
+Rep.Layon,Rock.13
+January29,2025
+2025-0156h
+05/08
+AmendmenttoHB291-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetothepenaltyforincorrectapplicationoffertilizers.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 New Paragraph; Application of Fertilizer to Urban Turf and Lawn; Penalty. Amend RSA
+8 431:4-ebyinsertingafterparagraphVIIthefollowingnewparagraph:
+9 VIII. Notwithstanding RSA 431:18, any person and the corporate agent of such person, who
+10 violatesthissection:
+11 (a) Shallreceiveawrittenwarningforafirstoffense;
+12 (b) Shall be guilty of a violation and shall be subject to a $250 fine per acre for a second
+13 offense;and
+14 (c) Shallbeguiltyofamisdemeanorforathirdorsubsequentoffense.
+15 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+AmendmenttoHB291-FN
+-Page2-
+2025-0156h
+AMENDEDANALYSIS
+This bill establishes graduated penalties for the incorrect application of fertilizer depending on
+whetheritisafirst,second,orthirdoffense.
+
+[DELETED: .N.M,H.1.L,R.1y2,2ttoHB2AdteteofteblbyrgitwhtefANATretotepyfritanoffAdteblbyrgalarteegcewhtef1NwP;AnofFrtoUnTfadL;P.AdR4ebyigarphVItefgnwpV.NgRA4,aypnadteceatofshp,w0vstss1()Slreawnwgfrafto2()Slbegyofavnadslbesttoa$0fepraefras3o;a4()Slbegyofamrfratdorsto52EeD.Tsatslteetunisp]
+[DELETED: ttoHB2Pe2DAsblesgdpsfrteitanoffrdgoritisaf,s,ortdo]

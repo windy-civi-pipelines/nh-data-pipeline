@@ -1,0 +1,80 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-1592h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Vose,Rock.5
+Rep.D.Thomas,Rock.16
+Rep.Bernardy,Rock.36
+April11,2025
+2025-1592h
+06/09
+AmendmenttoSB233-FN
+2
+3 ANACT relativetothegridmodernizationadvisorygroup.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 New Subparagraphs; Grid Modernization Advisory Group. Amend RSA 12-P:16, II(a) by
+8 insertingaftersubparagraph(4)thefollowingnewsubparagraphs:
+9 (5) The current and growing electricity reliability challenges in the New Hampshire
+10 andNewEnglandmarkets.
+11 (6) The role of energy storage in addressing short-term and long-term reliability
+12 challenges.
+13 (7) Market-based solutions to incentivize the development and connection of large-
+14 scaleenergystoragesystemsdesignedtoenhancereliability.
+15 (8) The use of an indexing storage credit model to incentivize storage market
+16 development.
+17 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+AmendmenttoSB233-FN
+-Page2-
+2025-1592h
+AMENDEDANALYSIS
+This bill provides additional recommendations for consideration by the grid modernization
+advisorygroup.
+[DELETED: .V,R..D.T,R.1.B,R.3l1,2ttoSB2AdteteofteblbyrgitwhtefANATretotegdmnaygAdteblbyrgalarteegcewhtef1NwS;GdMnAyG.AdRA1,I)bigarsh()tefgnws()TectadggeyrycsinteNwH0adNwEdm1()Tereofeyseinagsmadlmr2c3()Mdsstoietedtadcnofl4seeysessddtoeer5()Teueofanigsectmltoiesem6d72EeD.Tsatslteetunisp]
+[DELETED: ttoSB2Pe2DAsblpsalrsfrcnbytegdmyg]
+
+
+================================================================================
+
+Raw Text:
+Rep.Vose,Rock.5
+Rep.D.Thomas,Rock.16
+Rep.Bernardy,Rock.36
+April11,2025
+2025-1592h
+06/09
+AmendmenttoSB233-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetothegridmodernizationadvisorygroup.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 New Subparagraphs; Grid Modernization Advisory Group. Amend RSA 12-P:16, II(a) by
+8 insertingaftersubparagraph(4)thefollowingnewsubparagraphs:
+9 (5) The current and growing electricity reliability challenges in the New Hampshire
+10 andNewEnglandmarkets.
+11 (6) The role of energy storage in addressing short-term and long-term reliability
+12 challenges.
+13 (7) Market-based solutions to incentivize the development and connection of large-
+14 scaleenergystoragesystemsdesignedtoenhancereliability.
+15 (8) The use of an indexing storage credit model to incentivize storage market
+16 development.
+17 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+AmendmenttoSB233-FN
+-Page2-
+2025-1592h
+AMENDEDANALYSIS
+This bill provides additional recommendations for consideration by the grid modernization
+advisorygroup.
+
+[DELETED: .V,R..D.T,R.1.B,R.3l1,2ttoSB2AdteteofteblbyrgitwhtefANATretotegdmnaygAdteblbyrgalarteegcewhtef1NwS;GdMnAyG.AdRA1,I)bigarsh()tefgnws()TectadggeyrycsinteNwH0adNwEdm1()Tereofeyseinagsmadlmr2c3()Mdsstoietedtadcnofl4seeysessddtoeer5()Teueofanigsectmltoiesem6d72EeD.Tsatslteetunisp]
+[DELETED: ttoSB2Pe2DAsblpsalrsfrcnbytegdmyg]

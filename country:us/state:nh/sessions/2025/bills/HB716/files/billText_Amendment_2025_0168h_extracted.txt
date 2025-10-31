@@ -1,0 +1,45 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-0168h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Erf,Hills.28
+January29,2025
+2025-0168h
+05/02
+AmendmenttoHB716-FN
+2
+3 1 Dual and Concurrent Enrollment Program; Appropriation. The sums of $2,500,000 for the
+4 fiscalyear endingJune 30, 2026,and $2,500,000for thefiscal yearendingJune 30, 2027, arehereby
+5 appropriated to the community college system of New Hampshire for the purpose of providing
+6 scholarships and program support for the dual and concurrent enrollment program under RSA 188-
+7 E:26. These appropriations shall be in addition to any other funds appropriated to the community
+8 college system of New Hampshire. The governor is authorized to draw a warrant for said sums out
+9 ofanymoneyinthetreasurynototherwiseappropriated. Thisappropriationshallnotlapse.
+[DELETED: .E,H.2y2,2ttoHB7Adteblbyrgsn1whtef1DladCtEtP;A.Tessof$0frtflyregJe3,2,ad$0frteflyregJe3,2,aehadtotecycesmofNwHefrtepeofpssadpmstfrtedladctetpmurRA1E.TeasslbeinantoayorfsadtoteccesmofNwH.Tegrisadtodwawtfrsdssoofaymyintetyntoea.Tsanslntl]
+
+
+================================================================================
+
+Raw Text:
+Rep.Erf,Hills.28
+January29,2025
+2025-0168h
+05/02
+AmendmenttoHB716-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Dual and Concurrent Enrollment Program; Appropriation. The sums of $2,500,000 for the
+4 fiscalyear endingJune 30, 2026,and $2,500,000for thefiscal yearendingJune 30, 2027, arehereby
+5 appropriated to the community college system of New Hampshire for the purpose of providing
+6 scholarships and program support for the dual and concurrent enrollment program under RSA 188-
+7 E:26. These appropriations shall be in addition to any other funds appropriated to the community
+8 college system of New Hampshire. The governor is authorized to draw a warrant for said sums out
+9 ofanymoneyinthetreasurynototherwiseappropriated. Thisappropriationshallnotlapse.
+
+[DELETED: .E,H.2y2,2ttoHB7Adteblbyrgsn1whtef1DladCtEtP;A.Tessof$0frtflyregJe3,2,ad$0frteflyregJe3,2,aehadtotecycesmofNwHefrtepeofpssadpmstfrtedladctetpmurRA1E.TeasslbeinantoayorfsadtoteccesmofNwH.Tegrisadtodwawtfrsdssoofaymyintetyntoea.Tsanslntl]
