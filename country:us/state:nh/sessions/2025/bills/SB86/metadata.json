@@ -133,6 +133,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Inexpedient to Legislate, Senate Rule 3-23, 10/31/2025;  SJ 1",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:18:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -308,7 +320,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-05T03:18:02Z",
     "text_extraction_latest_update": "2025-10-31T08:26:51.938357Z"
   }
 }

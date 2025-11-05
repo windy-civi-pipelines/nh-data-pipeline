@@ -238,6 +238,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
       }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-3010h (NT)  11/04/2025 (Vote 17-0; CC)",
+      "date": "2025-11-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:18:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -341,7 +353,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-05T03:18:03Z",
     "text_extraction_latest_update": "2025-10-31T08:22:54.705169Z"
   }
 }

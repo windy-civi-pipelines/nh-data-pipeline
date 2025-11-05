@@ -151,6 +151,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
       }
+    },
+    {
+      "description": "Committee Report: No Recommendation, 01/07/2026, Vote 3-3;",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:18:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,7 +237,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-05T03:18:02Z",
     "text_extraction_latest_update": "2025-11-04T08:22:29.351462Z"
   }
 }

@@ -155,6 +155,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-3027s, 01/07/2026, Vote 3-2;",
+      "date": "2025-11-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:18:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,14 +227,6 @@
       "organization_id": null
     },
     {
-      "name": "Sheila C Seidel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
-      "organization_id": null
-    },
-    {
       "name": "Susan G DeRoy",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -234,10 +238,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Amendment #2025-0756h",
+      "note": "Amendment #2025-3027s",
       "links": [
         {
-          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0756h&txtFormat=amend",
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-3027s&txtFormat=amend",
           "media_type": "application/pdf"
         }
       ],
@@ -267,7 +271,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-05T03:18:03Z",
     "text_extraction_latest_update": "2025-10-31T08:22:36.408967Z"
   }
 }

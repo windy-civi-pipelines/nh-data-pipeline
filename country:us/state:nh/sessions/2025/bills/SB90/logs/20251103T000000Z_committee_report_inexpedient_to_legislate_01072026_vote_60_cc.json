@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate, 01/07/2026, Vote 6-0, CC;",
+    "date": "2025-11-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB90"
+}
