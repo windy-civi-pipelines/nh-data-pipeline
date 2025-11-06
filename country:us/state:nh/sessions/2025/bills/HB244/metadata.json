@@ -73,6 +73,18 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:21:29Z"
       }
+    },
+    {
+      "description": "Committee Report: Ought to Pass with Amendment # 2025-2952h   11/05/2025 (Vote 16-0; CC)",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:20:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,7 +122,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-2952h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2952h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -133,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:21:29Z",
+    "logs_latest_update": "2025-11-06T03:20:08Z",
     "text_extraction_latest_update": "2025-11-05T08:24:02.511627Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Report: Inexpedient to Legislate  10/30/2025 (Vote 25-0; CC)",
+    "date": "2025-11-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB671"
+}

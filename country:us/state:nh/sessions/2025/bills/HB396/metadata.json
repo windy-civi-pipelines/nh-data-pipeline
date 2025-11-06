@@ -93,6 +93,16 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:21:29Z"
       }
+    },
+    {
+      "description": "Full Committee Work Session: 11/12/2025 11:00 am GP 153",
+      "date": "2025-11-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:20:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,7 +187,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:21:29Z",
+    "logs_latest_update": "2025-11-06T03:20:08Z",
     "text_extraction_latest_update": "2025-11-05T08:24:27.568213Z"
   }
 }
