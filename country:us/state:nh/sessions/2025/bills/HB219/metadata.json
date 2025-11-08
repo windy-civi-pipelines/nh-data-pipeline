@@ -160,6 +160,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
       }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-2988h   10/30/2025 (Vote 14-11; RC)",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,10 +229,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Amendment #2025-0678h",
+      "note": "Amendment #2025-2988h",
       "links": [
         {
-          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-0678h&txtFormat=amend",
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-2988h&txtFormat=amend",
           "media_type": "application/pdf"
         }
       ],
@@ -240,7 +262,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-08T03:09:24Z",
     "text_extraction_latest_update": "2025-10-31T08:34:12.532960Z"
   }
 }

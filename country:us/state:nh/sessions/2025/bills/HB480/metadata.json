@@ -123,6 +123,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Committee Report: Ought to Pass, 01/07/2026; Vote 5-0; CC;",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-08T03:09:24Z",
     "text_extraction_latest_update": "2025-10-31T08:35:39.338614Z"
   }
 }

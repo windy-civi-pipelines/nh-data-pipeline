@@ -55,6 +55,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Committee Report: Referred to Interim Study, 01/07/2026; Vote 5-0; CC;",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,14 +90,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bob J. Lynn\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sheila C Seidel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
       "organization_id": null
     },
     {
@@ -131,7 +133,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-08T03:09:24Z",
     "text_extraction_latest_update": "2025-11-07T08:21:56.744809Z"
   }
 }

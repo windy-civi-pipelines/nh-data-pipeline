@@ -53,6 +53,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Executive Session: 10/01/2025 10:00 am GP 231",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate  10/01/2025 (Vote 14-0; CC)",
+      "date": "2025-11-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:09:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,7 +119,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-08T03:09:24Z",
     "text_extraction_latest_update": "2025-11-07T08:21:56.932746Z"
   }
 }
