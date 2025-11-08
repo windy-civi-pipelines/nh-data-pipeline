@@ -1,0 +1,80 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2972h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Layon,Rock.13
+October1,2025
+2025-2972h
+07/08
+AmendmenttoSB94
+2
+3 ANACT repealingmunicipalamendmentstotechnicalrequirementsofthestatebuildingcode
+4 incertaincircumstances.
+5
+6 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+7
+8 1 Public Safety and Welfare; New Hampshire Building Code; Enforcement Mechanism. Amend
+9 RSA155-A:3,IItoreadasfollows:
+10 II. Amendments to the state building code implementing the issuance of permits and the
+11 collection of fees pursuant to RSA 155-A:2, III, and the issuance of permits and certificates of
+12 occupancy pursuant to RSA 155-A:2, IV, or other administrative functions shall be reserved for the
+13 municipalities, provided they are not less stringent than the state building code and confirmed
+14 pursuant to RSA 155-A:3, IV. No amendments to the technical requirements of the state building
+15 code are permitted. [Municipal amendments to technical requirements of the state building code are
+16 permitted if the state building code is more than 2 editions behind the published model codes
+17 included in the state building code, provided they are not more or less stringent than the state
+18 buildingcodeandconfirmedpursuanttoRSA155-A:3,IV.]
+19 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026,at12:01AM.
+AmendmenttoSB94
+-Page2-
+2025-2972h
+AMENDEDANALYSIS
+This bill repeals municipal amendments to technical requirements of the state building code in
+certaincircumstances.
+[DELETED: .L,R.1r1,2ttoSB9AdteteofteblbyrgitwhtefANATrgmlastotlrsoftesebgcincncAdteblbyrgalarteegcewhtef1PcSyadW;NwHeBgC;EtM.ARA1,IItordasf0I.Astotesebgceigteieofpsadt1cnoffspttoRA1,I,adteieofpsadcso2oypttoRA1,I,ororaefsslberdfrt3m,pdtyaentlssttntesebgceadc4pttoRA1,I.Noastotetlrsofteseb5ceaep.[lastotlrsoftesebgcea6pdiftesebgceismetn2esbdtepdmlc7idintesebgc,pdtyaentmeorlssttntes8bgceadcdpttoRA1,I92EeD.TsatslteetJy1,2,at11A]
+[DELETED: ttoSB9Pe2DAsblrsmlastotlrsoftesebgceinc]
+
+
+================================================================================
+
+Raw Text:
+Rep.Layon,Rock.13
+October1,2025
+2025-2972h
+07/08
+AmendmenttoSB94
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT repealingmunicipalamendmentstotechnicalrequirementsofthestatebuildingcode
+4 incertaincircumstances.
+5
+6 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+7
+8 1 Public Safety and Welfare; New Hampshire Building Code; Enforcement Mechanism. Amend
+9 RSA155-A:3,IItoreadasfollows:
+10 II. Amendments to the state building code implementing the issuance of permits and the
+11 collection of fees pursuant to RSA 155-A:2, III, and the issuance of permits and certificates of
+12 occupancy pursuant to RSA 155-A:2, IV, or other administrative functions shall be reserved for the
+13 municipalities, provided they are not less stringent than the state building code and confirmed
+14 pursuant to RSA 155-A:3, IV. No amendments to the technical requirements of the state building
+15 code are permitted. [Municipal amendments to technical requirements of the state building code are
+16 permitted if the state building code is more than 2 editions behind the published model codes
+17 included in the state building code, provided they are not more or less stringent than the state
+18 buildingcodeandconfirmedpursuanttoRSA155-A:3,IV.]
+19 2 EffectiveDate. ThisactshalltakeeffectJuly1,2026,at12:01AM.
+
+AmendmenttoSB94
+-Page2-
+2025-2972h
+AMENDEDANALYSIS
+This bill repeals municipal amendments to technical requirements of the state building code in
+certaincircumstances.
+
+[DELETED: .L,R.1r1,2ttoSB9AdteteofteblbyrgitwhtefANATrgmlastotlrsoftesebgcincncAdteblbyrgalarteegcewhtef1PcSyadW;NwHeBgC;EtM.ARA1,IItordasf0I.Astotesebgceigteieofpsadt1cnoffspttoRA1,I,adteieofpsadcso2oypttoRA1,I,ororaefsslberdfrt3m,pdtyaentlssttntesebgceadc4pttoRA1,I.Noastotetlrsofteseb5ceaep.[lastotlrsoftesebgcea6pdiftesebgceismetn2esbdtepdmlc7idintesebgc,pdtyaentmeorlssttntes8bgceadcdpttoRA1,I92EeD.TsatslteetJy1,2,at11A]
+[DELETED: ttoSB9Pe2DAsblrsmlastotlrsoftesebgceinc]
