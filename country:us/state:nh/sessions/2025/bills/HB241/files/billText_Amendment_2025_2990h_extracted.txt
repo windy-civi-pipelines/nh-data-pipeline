@@ -1,0 +1,108 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2990h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Hunt,Ches.14
+October7,2025
+2025-2990h
+05/08
+AmendmenttoHB241-FN
+2
+3 ANACT relative to health insurance coverage of pain management services for the
+4 managementofchronicpain.
+5
+6 Amendthebillbyreplacingallaftersection1withthefollowing:
+7
+8 2 New Section; Managed Care Law; Development of a Comprehensive Program of Pain
+9 Management Services for the Management of Chronic Pain. Amend RSA 420-J by inserting after
+10 section7-ethefollowingnewsection:
+11 420-J:7-f Development of a Comprehensive Program of Pain Management Services for the
+12 ManagementofChronicPain.
+13 I. Health carriers shall develop, in accordance with guidelines established by the insurance
+14 department, a program to provide access to a broad spectrum of covered pain management services,
+15 including, but not limited to, non-medication, nonsurgical treatment modalities, and non-opioid
+16 medication treatment options that serve as alternatives to opioid prescribing. This plan shall be
+17 approvedbythedepartmentasacomponentoftheformfilingandapprovalprocess.
+18 II. Health carriers shall provide to covered persons who suffer from a chronic pain condition
+19 information regarding the pain management program and how to access services included in the
+20 program. Suchinformationshallalsobepubliclyavailableonthehealthcarrier’swebsite.
+21 III. Health carriers shall annually distribute educational materials about the program to
+22 providerswithintheirnetworks.
+23 IV. Health carriers shall not require a covered person accessing services as part of the
+24 program to obtain prior authorization for covered, non-medication, nonsurgical treatment modalities
+25 that include restorative therapies, behavioral health approaches or integrative health therapies,
+26 includingacupuncture,chiropractictreatments,massageandmovementtherapies.
+27 V. No program under this section may establish utilization controls, including prior
+28 authorization or step therapy requirements, for clinically appropriate non-opioid drugs approved by
+29 the United States Food and Drug Administration for the treatment or management of pain, that are
+30 more restrictive or extensive than the least restrictive or extensive utilization controls applicable to
+31 anyclinicallyappropriateopioiddrug.
+32 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+AmendmenttoHB241-FN
+-Page2-
+2025-2990h
+AMENDEDANALYSIS
+This bill requires health carriers to develop, in accordance with guidelines established by the
+insurancedepartment,aprogramtoprovideaccesstoabroadspectrumofcoveredpainmanagement
+servicesforthemanagementofchronicpain.
+[DELETED: .H,C.1r7,2ttoHB2AdteteofteblbyrgitwhtefANATretohhieceofpnmtssfrtmtofccpAdteblbyrgalarsn1whtef2NwS;MdCeL;DtofaCePmofPMtSsfrteMtofCcP.AdRA4Jbyiga0sn7etefgnws14fDtofaCePmofPnMtSsfrt2MtofCcP3I.Hhcssld,inaewhgsedbytei4d,apmtopeastoabdsmofcdpnmts5i,btntldt,n,nlttm,adn6mnttosttseasastoodp.Tspnslb7adbytedtasactoftefmfgadalp8I.Hhcsslpetocdpswosrfmaccpnc9inrgtepnmtpmadhwtoasssidint0p.Shinslaobepyaeontehhcsw1I.Hhcsslaydeelmsattepmt2pswntrn3I.Hhcsslntreacdpnagssasptoft4pmtoonpranfrc,n,nlttm5ttieret,blhhasoriehht6iga,cct,meadmtt7V.Nopmurtssnmyehunc,igp8anorsptyr,frcyaenddsadb9teUdSsFdadDgAnfrtettormtofp,tta0mereoreetnteltreoreeuncsaet1aycyaeodd23EeD.TsatslteetJy1,2]
+[DELETED: ttoHB2Pe2DAsblrshhcstod,inaewhgsedbyted,apmtopeastoabdsmofcdpnmsfrtemtofccp]
+
+
+================================================================================
+
+Raw Text:
+Rep.Hunt,Ches.14
+October7,2025
+2025-2990h
+05/08
+AmendmenttoHB241-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relative to health insurance coverage of pain management services for the
+4 managementofchronicpain.
+5
+6 Amendthebillbyreplacingallaftersection1withthefollowing:
+7
+8 2 New Section; Managed Care Law; Development of a Comprehensive Program of Pain
+9 Management Services for the Management of Chronic Pain. Amend RSA 420-J by inserting after
+10 section7-ethefollowingnewsection:
+11 420-J:7-f Development of a Comprehensive Program of Pain Management Services for the
+12 ManagementofChronicPain.
+13 I. Health carriers shall develop, in accordance with guidelines established by the insurance
+14 department, a program to provide access to a broad spectrum of covered pain management services,
+15 including, but not limited to, non-medication, nonsurgical treatment modalities, and non-opioid
+16 medication treatment options that serve as alternatives to opioid prescribing. This plan shall be
+17 approvedbythedepartmentasacomponentoftheformfilingandapprovalprocess.
+18 II. Health carriers shall provide to covered persons who suffer from a chronic pain condition
+19 information regarding the pain management program and how to access services included in the
+20 program. Suchinformationshallalsobepubliclyavailableonthehealthcarrier’swebsite.
+21 III. Health carriers shall annually distribute educational materials about the program to
+22 providerswithintheirnetworks.
+23 IV. Health carriers shall not require a covered person accessing services as part of the
+24 program to obtain prior authorization for covered, non-medication, nonsurgical treatment modalities
+25 that include restorative therapies, behavioral health approaches or integrative health therapies,
+26 includingacupuncture,chiropractictreatments,massageandmovementtherapies.
+27 V. No program under this section may establish utilization controls, including prior
+28 authorization or step therapy requirements, for clinically appropriate non-opioid drugs approved by
+29 the United States Food and Drug Administration for the treatment or management of pain, that are
+30 more restrictive or extensive than the least restrictive or extensive utilization controls applicable to
+31 anyclinicallyappropriateopioiddrug.
+32 3 EffectiveDate. ThisactshalltakeeffectJanuary1,2027.
+
+AmendmenttoHB241-FN
+-Page2-
+2025-2990h
+AMENDEDANALYSIS
+This bill requires health carriers to develop, in accordance with guidelines established by the
+insurancedepartment,aprogramtoprovideaccesstoabroadspectrumofcoveredpainmanagement
+servicesforthemanagementofchronicpain.
+
+[DELETED: .H,C.1r7,2ttoHB2AdteteofteblbyrgitwhtefANATretohhieceofpnmtssfrtmtofccpAdteblbyrgalarsn1whtef2NwS;MdCeL;DtofaCePmofPMtSsfrteMtofCcP.AdRA4Jbyiga0sn7etefgnws14fDtofaCePmofPnMtSsfrt2MtofCcP3I.Hhcssld,inaewhgsedbytei4d,apmtopeastoabdsmofcdpnmts5i,btntldt,n,nlttm,adn6mnttosttseasastoodp.Tspnslb7adbytedtasactoftefmfgadalp8I.Hhcsslpetocdpswosrfmaccpnc9inrgtepnmtpmadhwtoasssidint0p.Shinslaobepyaeontehhcsw1I.Hhcsslaydeelmsattepmt2pswntrn3I.Hhcsslntreacdpnagssasptoft4pmtoonpranfrc,n,nlttm5ttieret,blhhasoriehht6iga,cct,meadmtt7V.Nopmurtssnmyehunc,igp8anorsptyr,frcyaenddsadb9teUdSsFdadDgAnfrtettormtofp,tta0mereoreetnteltreoreeuncsaet1aycyaeodd23EeD.TsatslteetJy1,2]
+[DELETED: ttoHB2Pe2DAsblrshhcstod,inaewhgsedbyted,apmtopeastoabdsmofcdpnmsfrtemtofccp]

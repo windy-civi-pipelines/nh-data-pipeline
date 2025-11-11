@@ -1,0 +1,47 @@
+Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Official Title: 1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2996h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Rung,Hills.12
+Rep.Ebel,Merr.7
+October9,2025
+2025-2996h
+08/05
+AmendmenttoHB97-FN
+2
+3 1 DepartmentofEnvironmentalServices;EligibleWastewaterProjects;Appropriation.
+4 There is hereby appropriated to the department of environmental services the sum of $5,000,000 for
+5 the biennium ending June 30, 2027, which shall be nonlapsing, for the purpose of funding
+6 wastewater projects approved pursuant to RSA 486 on or before June 30, 2027. The governor is
+7 authorized to draw a warrant for said sum out of any money in the treasury not otherwise
+8 appropriated.
+9 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+[DELETED: .R,H.1.E,M.r9,2ttoHB9Adteblbyrgalarteegcewhtef1DtofElS;EeWrP;ATeishyadtotedtofelsstesmof$0ftebmegJe3,2,whslben,frtepeoffwrpsadpttoRA46onorbeJe3,2.Tegriadtodwawtfrsdsmotofaymyintetyntoa2EeD.Tsatslteetunisp]
+
+
+================================================================================
+
+Raw Text:
+Rep.Rung,Hills.12
+Rep.Ebel,Merr.7
+October9,2025
+2025-2996h
+08/05
+AmendmenttoHB97-FN
+1 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+2
+3 1 DepartmentofEnvironmentalServices;EligibleWastewaterProjects;Appropriation.
+4 There is hereby appropriated to the department of environmental services the sum of $5,000,000 for
+5 the biennium ending June 30, 2027, which shall be nonlapsing, for the purpose of funding
+6 wastewater projects approved pursuant to RSA 486 on or before June 30, 2027. The governor is
+7 authorized to draw a warrant for said sum out of any money in the treasury not otherwise
+8 appropriated.
+9 2 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+[DELETED: .R,H.1.E,M.r9,2ttoHB9Adteblbyrgalarteegcewhtef1DtofElS;EeWrP;ATeishyadtotedtofelsstesmof$0ftebmegJe3,2,whslben,frtepeoffwrpsadpttoRA46onorbeJe3,2.Tegriadtodwawtfrsdsmotofaymyintetyntoa2EeD.Tsatslteetunisp]

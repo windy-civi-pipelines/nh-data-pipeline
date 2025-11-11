@@ -1,0 +1,98 @@
+Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Official Title: 1 Amendthebillbyreplacingsection1withthefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2987h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Hunt,Ches.14
+October7,2025
+2025-2987h
+05/06
+AmendmenttoHB297-FN
+2
+3 1 Portability,Availability,andRenewabilityofHealthCoverage;DisclosureofClaimsDatafrom
+4 Self-FundedEmployer-SponsoredPlans. AmendRSA420-G:11,Vtoreadasfollows:
+5 V. In addition to those lives listed in paragraph IV, the data submission requirements of
+6 paragraphs II and II-a shall also apply to all health carriers, licensed third party administrators,
+7 and any entity required to be registered with the commissioner pursuant to RSA 402-H with respect
+8 to claims data for all lives covered by any other self-funded employer-sponsored plan, when the
+9 employer has opted in writing to the submission of the data. The carrier or administrator shall
+10 notify the employer of the employer's option to authorize submission of the data. The carrier or
+11 administrator shall also notify the employer that, if such authorization is provided, the
+12 commissionershall provide the employer access,onanannual basis,to autilizationreport
+13 based on the de-identified and aggregated claims data associated with that employer-
+14 sponsored plan. The commissioner shall adopt rules under RSA 541-A specifying the form of such
+15 optin,whichshallinclude,but notbelimitedto,noticetotheemployerregardingwhyitis receiving
+16 the notification form, the privacy protections for the data submitted should the employer choose to
+17 opt in, the access to its own claims data that will be afforded to the employer, and the
+18 transparency benefits, including benefits to employers, of broad inclusion of as many lives as
+19 possible in the database created under RSA 420-G:11-a. Health carriers and third party
+20 administrators administering self-funded employer-sponsored plans shall provide this
+21 notice to such employers annually upon renewal. Nothing in this paragraph shall be construed
+22 to impose any reporting obligation on any self-funded employer or plan sponsor, or to impose any
+23 requirement with respect to the manner in which any such self-funded plan is administered.
+24 Nothing in this paragraph shall prevent a health carrier or third party administrator from
+25 communicating its views to an employer about the employer's decision whether to opt in to the
+26 submissionofclaimsdata.
+AmendmenttoHB297-FN
+-Page2-
+2025-2987h
+AMENDEDANALYSIS
+This bill provides that, if an employer sponsoring a self-funded health benefit plan authorizes
+submission of its claims data to the state's comprehensive health care information system, the
+insurance commissioner shall provide that employer access to a utilization report based on de-
+identifiedclaimsdatafortheemployer-sponsoredplan.
+[DELETED: .H,C.1r7,2ttoHB2Adteblbyrgsn1whtef1P,A,adRyofHhC;DeofCsDafSdEdP.AdRA4,VtordasfV.InantotelsldinphI,tedasnrsopsIIadIaslaoaytoalhhc,ldtdpyaadayeyrdtoberdwhtecrpttoRA4Hwhrtocsdafrallscdbyayorsdedp,wnterhsodinwgtotesnofted.Tecrorars0nyteerofteesontoaesnofted.Tecro1arslaonyteert,ifshanisp,t2crslpeteera,onanalb,toaunr3bdonteddadadcsdaadwhtte4sdp.TecrslatrsurRA5Asgtefmofs5oti,whsli,btntbeldt,netoteerrgwyitisr6tennf,tepypsfrtedasdsdteercet7oti,teastoisoncsdattwlbeadtotee,adt8tyb,igbstoe,ofbdinofasmylsa9peintedecdurRA4.Hhcsadtdp0asagsdedpsslpet1netoshesayunr.Ngintsphslbec2toieayrgononaysderorpns,ortoiea3rtwhrttotemrinwhayshsdpnisa4Ngintsphslptahhcrortdpyarf5cgisvstoaneratteesdnwrtootintot6snofcsd]
+[DELETED: ttoHB2Pe2DAsblpst,ifanersgasdhhbtpnanofiscsdatotesscehhceins,tecrslpetterastoaunrtbdonddcsdafrteedp]
+
+
+================================================================================
+
+Raw Text:
+Rep.Hunt,Ches.14
+October7,2025
+2025-2987h
+05/06
+AmendmenttoHB297-FN
+1 Amendthebillbyreplacingsection1withthefollowing:
+2
+3 1 Portability,Availability,andRenewabilityofHealthCoverage;DisclosureofClaimsDatafrom
+4 Self-FundedEmployer-SponsoredPlans. AmendRSA420-G:11,Vtoreadasfollows:
+5 V. In addition to those lives listed in paragraph IV, the data submission requirements of
+6 paragraphs II and II-a shall also apply to all health carriers, licensed third party administrators,
+7 and any entity required to be registered with the commissioner pursuant to RSA 402-H with respect
+8 to claims data for all lives covered by any other self-funded employer-sponsored plan, when the
+9 employer has opted in writing to the submission of the data. The carrier or administrator shall
+10 notify the employer of the employer's option to authorize submission of the data. The carrier or
+11 administrator shall also notify the employer that, if such authorization is provided, the
+12 commissionershall provide the employer access,onanannual basis,to autilizationreport
+13 based on the de-identified and aggregated claims data associated with that employer-
+14 sponsored plan. The commissioner shall adopt rules under RSA 541-A specifying the form of such
+15 optin,whichshallinclude,but notbelimitedto,noticetotheemployerregardingwhyitis receiving
+16 the notification form, the privacy protections for the data submitted should the employer choose to
+17 opt in, the access to its own claims data that will be afforded to the employer, and the
+18 transparency benefits, including benefits to employers, of broad inclusion of as many lives as
+19 possible in the database created under RSA 420-G:11-a. Health carriers and third party
+20 administrators administering self-funded employer-sponsored plans shall provide this
+21 notice to such employers annually upon renewal. Nothing in this paragraph shall be construed
+22 to impose any reporting obligation on any self-funded employer or plan sponsor, or to impose any
+23 requirement with respect to the manner in which any such self-funded plan is administered.
+24 Nothing in this paragraph shall prevent a health carrier or third party administrator from
+25 communicating its views to an employer about the employer's decision whether to opt in to the
+26 submissionofclaimsdata.
+
+AmendmenttoHB297-FN
+-Page2-
+2025-2987h
+AMENDEDANALYSIS
+This bill provides that, if an employer sponsoring a self-funded health benefit plan authorizes
+submission of its claims data to the state's comprehensive health care information system, the
+insurance commissioner shall provide that employer access to a utilization report based on de-
+identifiedclaimsdatafortheemployer-sponsoredplan.
+
+[DELETED: .H,C.1r7,2ttoHB2Adteblbyrgsn1whtef1P,A,adRyofHhC;DeofCsDafSdEdP.AdRA4,VtordasfV.InantotelsldinphI,tedasnrsopsIIadIaslaoaytoalhhc,ldtdpyaadayeyrdtoberdwhtecrpttoRA4Hwhrtocsdafrallscdbyayorsdedp,wnterhsodinwgtotesnofted.Tecrorars0nyteerofteesontoaesnofted.Tecro1arslaonyteert,ifshanisp,t2crslpeteera,onanalb,toaunr3bdonteddadadcsdaadwhtte4sdp.TecrslatrsurRA5Asgtefmofs5oti,whsli,btntbeldt,netoteerrgwyitisr6tennf,tepypsfrtedasdsdteercet7oti,teastoisoncsdattwlbeadtotee,adt8tyb,igbstoe,ofbdinofasmylsa9peintedecdurRA4.Hhcsadtdp0asagsdedpsslpet1netoshesayunr.Ngintsphslbec2toieayrgononaysderorpns,ortoiea3rtwhrttotemrinwhayshsdpnisa4Ngintsphslptahhcrortdpyarf5cgisvstoaneratteesdnwrtootintot6snofcsd]
+[DELETED: ttoHB2Pe2DAsblpst,ifanersgasdhhbtpnanofiscsdatotesscehhceins,tecrslpetterastoaunrtbdonddcsdafrteedp]
