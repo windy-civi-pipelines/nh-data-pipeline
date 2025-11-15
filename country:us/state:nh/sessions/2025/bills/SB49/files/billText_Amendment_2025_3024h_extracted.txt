@@ -1,0 +1,78 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3024h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.C.McGuire,Merr.27
+Rep.Rhodes,Ches.17
+October21,2025
+2025-3024h
+09/06
+AmendmenttoSB49-FN
+2
+3 ANACT relativetotheunlawfuloperationoruseofunmannedaircraftsystems.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 Unlawful Operation or Use of Small Unmanned Aircraft System. Amend RSA 644:23, II to
+8 readasfollows:
+9 II. A person is guilty of a violation for a first offense, and a misdemeanor for a second or
+10 subsequent offense, if such person operates a small unmanned aircraft system in violation of laws
+11 and regulations of the Federal Aviation Administration (FAA), [including but not limited to]
+12 specifically14C.F.R.part107,asofJuly24,2025.
+13 2 UnlawfulOperationorUseofSmallUnmannedAircraftSystem. AmendRSA644:23,III(a)to
+14 readasfollows:
+15 (a) Comply withFAASmall Unmanned Aircraft Systems Rule, 14 C.F.R. part 107, as of
+16 July24,2025;
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+AmendmenttoSB49-FN
+-Page2-
+2025-3024h
+AMENDEDANALYSIS
+This bill clarifies the version of the federal regulation with which operators of small unmanned
+aircraftsystemsmustcomply.
+[DELETED: .C.M,M.2.R,C.1r2,2ttoSB4AdteteofteblbyrgitwhtefANATretoteulonorueofudatsAdteblbyrgalarteegcewhtef1UlOnorUeofSlUdAtS.AdRA6,IItrdasfI.Apnisgyofavnfrafto,adamrfrasdo0sto,ifshpnosasludatsminvnofl1adrsofteFlAnAn(,[gbtntldt2sy14C.pt1,asofJy2,232UlOnorUeofSlUdAtS.AdRA6,I)t4rdasf5()CywhFASlUdAtSsR,14C.pt1,aso6Jy2,273EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB4Pe2DAsblcstevnofteflrnwhwhosofslutssmtc]
+
+
+================================================================================
+
+Raw Text:
+Rep.C.McGuire,Merr.27
+Rep.Rhodes,Ches.17
+October21,2025
+2025-3024h
+09/06
+AmendmenttoSB49-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetotheunlawfuloperationoruseofunmannedaircraftsystems.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 Unlawful Operation or Use of Small Unmanned Aircraft System. Amend RSA 644:23, II to
+8 readasfollows:
+9 II. A person is guilty of a violation for a first offense, and a misdemeanor for a second or
+10 subsequent offense, if such person operates a small unmanned aircraft system in violation of laws
+11 and regulations of the Federal Aviation Administration (FAA), [including but not limited to]
+12 specifically14C.F.R.part107,asofJuly24,2025.
+13 2 UnlawfulOperationorUseofSmallUnmannedAircraftSystem. AmendRSA644:23,III(a)to
+14 readasfollows:
+15 (a) Comply withFAASmall Unmanned Aircraft Systems Rule, 14 C.F.R. part 107, as of
+16 July24,2025;
+17 3 EffectiveDate. Thisactshalltakeeffect60daysafteritspassage.
+
+AmendmenttoSB49-FN
+-Page2-
+2025-3024h
+AMENDEDANALYSIS
+This bill clarifies the version of the federal regulation with which operators of small unmanned
+aircraftsystemsmustcomply.
+
+[DELETED: .C.M,M.2.R,C.1r2,2ttoSB4AdteteofteblbyrgitwhtefANATretoteulonorueofudatsAdteblbyrgalarteegcewhtef1UlOnorUeofSlUdAtS.AdRA6,IItrdasfI.Apnisgyofavnfrafto,adamrfrasdo0sto,ifshpnosasludatsminvnofl1adrsofteFlAnAn(,[gbtntldt2sy14C.pt1,asofJy2,232UlOnorUeofSlUdAtS.AdRA6,I)t4rdasf5()CywhFASlUdAtSsR,14C.pt1,aso6Jy2,273EeD.Tsatslteet60dsarisp]
+[DELETED: ttoSB4Pe2DAsblcstevnofteflrnwhwhosofslutssmtc]
