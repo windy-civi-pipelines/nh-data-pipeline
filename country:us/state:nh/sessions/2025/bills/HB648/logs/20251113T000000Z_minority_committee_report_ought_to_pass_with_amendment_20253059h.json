@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Minority Committee Report: Ought to Pass with Amendment # 2025-3059h",
+    "date": "2025-11-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB648"
+}
