@@ -1,0 +1,57 @@
+Title: 1 AmendRSA595-A:11,Iasinsertedbysection2ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA595-A:11,Iasinsertedbysection2ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3098h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Roy,Rock.31
+November13,2025
+2025-3098h
+09/08
+AmendmenttoHB206-FN
+2
+3 I. Forpurposesofthissection:
+4 (a) “Government agent” means any state or local law enforcement agent, or any other
+5 personworkingwithoractingatthebehestoflawenforcement.
+6 (b) “Probable cause” means the presence of facts and circumstances within the
+7 government agent’s knowledge that would warrant a person of reasonable caution to believe that an
+8 offensehasbeenorisbeingcommitted.
+9 (c) "Secured premises” means privately-owned land which is posted in a manner
+10 prescribed by RSA 207:22-a and 635:4; which is otherwise posted in a manner reasonably likely to
+11 come to the attention of intruders; or which is fenced or otherwise enclosed in whole or in part in a
+12 manner which a reasonable person would understand evidences an ongoing intent to exclude
+13 intruders.
+14 (d) “Warrant” means a court order authorizing a search or seizure that is supported by
+15 individualizedprobablecauseandexecutedbyamagistrateorjudge.
+[DELETED: .R,R.3r1,2ttoHB2AdRA5,Iasidbysn2ofteblbyrgitwhtefI.Frpsoftss()“ta”msayseorlllweta,orayopnwgwhoragattebtoflwe()“ec”mstepeoffsadcswntgtaskettwdwtapnofrecntobettaoehsbnorisbgc()"dp”mspdldwhispdinam0pdbyRA2aad6;whisoepdinamrrylyt1cetoteanofi;orwhisfdoroeedinweorinptin2mrwharepnwdudesanogittoe3i4()“”msactoragashorsettissdb5idpeceadedbyameorj]
+
+
+================================================================================
+
+Raw Text:
+Rep.Roy,Rock.31
+November13,2025
+2025-3098h
+09/08
+AmendmenttoHB206-FN
+1 AmendRSA595-A:11,Iasinsertedbysection2ofthebillbyreplacingitwiththefollowing:
+2
+3 I. Forpurposesofthissection:
+4 (a) “Government agent” means any state or local law enforcement agent, or any other
+5 personworkingwithoractingatthebehestoflawenforcement.
+6 (b) “Probable cause” means the presence of facts and circumstances within the
+7 government agent’s knowledge that would warrant a person of reasonable caution to believe that an
+8 offensehasbeenorisbeingcommitted.
+9 (c) "Secured premises” means privately-owned land which is posted in a manner
+10 prescribed by RSA 207:22-a and 635:4; which is otherwise posted in a manner reasonably likely to
+11 come to the attention of intruders; or which is fenced or otherwise enclosed in whole or in part in a
+12 manner which a reasonable person would understand evidences an ongoing intent to exclude
+13 intruders.
+14 (d) “Warrant” means a court order authorizing a search or seizure that is supported by
+15 individualizedprobablecauseandexecutedbyamagistrateorjudge.
+
+[DELETED: .R,R.3r1,2ttoHB2AdRA5,Iasidbysn2ofteblbyrgitwhtefI.Frpsoftss()“ta”msayseorlllweta,orayopnwgwhoragattebtoflwe()“ec”mstepeoffsadcswntgtaskettwdwtapnofrecntobettaoehsbnorisbgc()"dp”mspdldwhispdinam0pdbyRA2aad6;whisoepdinamrrylyt1cetoteanofi;orwhisfdoroeedinweorinptin2mrwharepnwdudesanogittoe3i4()“”msactoragashorsettissdb5idpeceadedbyameorj]
