@@ -55,13 +55,13 @@
       }
     },
     {
-      "description": "==RESCHEDULED== Executive Session: 10/22/2025 01:00 pm GP 230",
+      "description": "Executive Session: 10/22/2025 01:00 pm GP 230",
       "date": "2025-10-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:10:37Z"
+        "log_file_created": "2025-11-18T03:18:35Z"
       }
     },
     {
@@ -72,6 +72,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-3019h   10/22/2025 (Vote 9-7; RC)",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:18:35Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:18:35Z"
       }
     }
   ],
@@ -133,14 +155,6 @@
       "organization_id": null
     },
     {
-      "name": "Sheila C Seidel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
-      "organization_id": null
-    },
-    {
       "name": "Kristine Perez",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -174,7 +188,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Amendment #2025-3019h",
+      "links": [
+        {
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-3019h&txtFormat=amend",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -197,7 +223,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-18T03:18:35Z",
     "text_extraction_latest_update": "2025-11-17T08:23:41.519239Z"
   }
 }
