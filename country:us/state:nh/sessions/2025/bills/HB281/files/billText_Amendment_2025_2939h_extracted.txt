@@ -1,0 +1,65 @@
+Title: 1 AmendRSA657:15,II-IIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Official Title: 1 AmendRSA657:15,II-IIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-2939h
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Rep.Wherry,Hills.13
+September15,2025
+2025-2939h
+08/05
+AmendmenttoHB281
+2
+3 II. Candidates whose names appear on the ballot and persons bearing notarized requests or
+4 copies of notarized requests from candidates whose names appear on the ballot may obtain a list of
+5 absentee voter applicants from the clerk, excluding voters who have presented to the supervisors of
+6 the checklist valid protective orders pursuant to RSA 173-B. If requested this list shall be supplied
+7 electronically in a sortable spreadsheet or comma-separated values (CSV) format from the
+8 information in the statewide centralized voter registration database. If an electronic copy exists, it
+9 shallbeprovidedwithoutchargeinaccordancewithRSA91-A.
+10 III. Candidates whose names appear on the ballot for statewide office and persons bearing a
+11 notarized request from candidates whose names appear on the ballot for statewide office may obtain
+12 a statewide list of absentee voter applicants, excluding voters who have presented to the supervisors
+13 of the checklist valid protective orders pursuant to RSA 173-B from the secretary of state.
+14 Information on the statewide absentee voter list shall be limited to voter name and address where
+15 registered, voter ID number, voter's party, the type of election the absentee ballot was requested in,
+16 the date the absentee ballot was requested, the date the absentee ballot was sent or handed to the
+17 voter, and the date that the absentee ballot envelope was returned. If the absentee ballot was
+18 sent to an address different from the voter's address where he or she registered, then the
+19 addresswheretheabsenteeballotwassentshallalsobeincluded.
+[DELETED: .W,H.1r1,2ttoHB2AdRA6,II-IIasidbysn1ofteblbyrgitwhtefI.Cswensarontebtadpsbgndrsocsofndrsfmcswensarontebtmyonaltoaevrasfmtec,egvswohepdtotessotectvdpeospttoRA1.Ifrdtsltslbeseyinasestorcdvs()ftfmtinintesecdvrrnd.Ifaneccye,islbepdwtceinaewhRA90I.Cswensarontebtfrseoeadpsbg1ndrtfmcswensarontebtfrseoemyo2aseltofaevra,egvswohepdtotes3oftectvdpeospttoRA1Bfmtesyofs4Inonteseaevrltslbeldtovrneadasw5r,vrIDn,vsp,teteofenteaebtwsrdi6tedeteaebtwsr,tedeteaebtwsstorhdtot7v,adtedettteaebteewsr.Ifteaebtw8sttoanasdtfmtevsasweheorser,tnt9asweteaebtwsstslaobei]
+
+
+================================================================================
+
+Raw Text:
+Rep.Wherry,Hills.13
+September15,2025
+2025-2939h
+08/05
+AmendmenttoHB281
+1 AmendRSA657:15,II-IIIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+2
+3 II. Candidates whose names appear on the ballot and persons bearing notarized requests or
+4 copies of notarized requests from candidates whose names appear on the ballot may obtain a list of
+5 absentee voter applicants from the clerk, excluding voters who have presented to the supervisors of
+6 the checklist valid protective orders pursuant to RSA 173-B. If requested this list shall be supplied
+7 electronically in a sortable spreadsheet or comma-separated values (CSV) format from the
+8 information in the statewide centralized voter registration database. If an electronic copy exists, it
+9 shallbeprovidedwithoutchargeinaccordancewithRSA91-A.
+10 III. Candidates whose names appear on the ballot for statewide office and persons bearing a
+11 notarized request from candidates whose names appear on the ballot for statewide office may obtain
+12 a statewide list of absentee voter applicants, excluding voters who have presented to the supervisors
+13 of the checklist valid protective orders pursuant to RSA 173-B from the secretary of state.
+14 Information on the statewide absentee voter list shall be limited to voter name and address where
+15 registered, voter ID number, voter's party, the type of election the absentee ballot was requested in,
+16 the date the absentee ballot was requested, the date the absentee ballot was sent or handed to the
+17 voter, and the date that the absentee ballot envelope was returned. If the absentee ballot was
+18 sent to an address different from the voter's address where he or she registered, then the
+19 addresswheretheabsenteeballotwassentshallalsobeincluded.
+
+[DELETED: .W,H.1r1,2ttoHB2AdRA6,II-IIasidbysn1ofteblbyrgitwhtefI.Cswensarontebtadpsbgndrsocsofndrsfmcswensarontebtmyonaltoaevrasfmtec,egvswohepdtotessotectvdpeospttoRA1.Ifrdtsltslbeseyinasestorcdvs()ftfmtinintesecdvrrnd.Ifaneccye,islbepdwtceinaewhRA90I.Cswensarontebtfrseoeadpsbg1ndrtfmcswensarontebtfrseoemyo2aseltofaevra,egvswohepdtotes3oftectvdpeospttoRA1Bfmtesyofs4Inonteseaevrltslbeldtovrneadasw5r,vrIDn,vsp,teteofenteaebtwsrdi6tedeteaebtwsr,tedeteaebtwsstorhdtot7v,adtedettteaebteewsr.Ifteaebtw8sttoanasdtfmtevsasweheorser,tnt9asweteaebtwsstslaobei]
