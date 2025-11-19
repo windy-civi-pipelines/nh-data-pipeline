@@ -131,6 +131,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
       }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate  09/16/2025 (Vote 17-0; CC)",
+      "date": "2025-11-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:18:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,7 +203,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-19T03:18:07Z",
     "text_extraction_latest_update": "2025-10-31T08:31:29.994698Z"
   }
 }
