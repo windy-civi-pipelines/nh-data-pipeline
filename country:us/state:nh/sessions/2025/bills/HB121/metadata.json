@@ -83,6 +83,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
       }
+    },
+    {
+      "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-3086h (NT)  11/05/2025 (Vote 10-7; RC)",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Inexpedient to Legislate",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -100,14 +122,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Glenn Cordelli",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Glenn Cordelli\"}",
       "organization_id": null
     },
     {
@@ -154,10 +168,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Amendment #2025-3025h",
+      "note": "Amendment #2025-3086h",
       "links": [
         {
-          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-3025h&txtFormat=amend",
+          "url": "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=2025-3086h&txtFormat=amend",
           "media_type": "application/pdf"
         }
       ],
@@ -187,7 +201,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-10-31T08:37:08.546671Z"
   }
 }

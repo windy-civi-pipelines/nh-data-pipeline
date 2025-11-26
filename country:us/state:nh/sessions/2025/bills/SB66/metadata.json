@@ -12,19 +12,6 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced 01/09/2025 and Referred to Commerce;  SJ 3",
-      "date": "2025-01-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-10-25T03:10:37Z"
-      }
-    },
-    {
       "description": "Hearing: 01/23/2025, Room 100, SH, 10:30 am;  SC 7",
       "date": "2025-01-15",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -54,6 +41,29 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-25T03:10:37Z"
+      }
+    },
+    {
+      "description": "Introduced 01/09/2025 and Referred to Commerce;  SJ 3",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
+    },
+    {
+      "description": "Committee Report: Referred to Interim Study, 01/07/2026; Vote 5-1; CC;",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
       }
     }
   ],
@@ -147,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:37Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-11-25T08:23:24.247636Z"
   }
 }

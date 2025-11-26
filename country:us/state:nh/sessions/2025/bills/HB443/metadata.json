@@ -125,6 +125,18 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:21:29Z"
       }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate  11/13/2025 (Vote CC; )",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,14 +146,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David H. Watters\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Glenn Cordelli",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Glenn Cordelli\"}",
       "organization_id": null
     }
   ],
@@ -160,7 +164,7 @@
     }
   ],
   "extras": {
-    "_code": "2015"
+    "_code": ""
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:nh/government",
@@ -169,7 +173,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:21:29Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-11-25T08:23:24.499947Z"
   }
 }

@@ -103,6 +103,30 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:21:29Z"
       }
+    },
+    {
+      "description": "Majority Committee Report: Inexpedient to Legislate  11/13/2025 (Vote 10-8; RC)",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Ought to Pass",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,7 +163,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:21:29Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-11-25T08:23:24.504600Z"
   }
 }

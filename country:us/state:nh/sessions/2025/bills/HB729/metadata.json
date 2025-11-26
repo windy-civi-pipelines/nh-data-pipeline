@@ -103,6 +103,16 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:21:29Z"
       }
+    },
+    {
+      "description": "Committee Report: Refer for Interim Study  11/18/2025 (Vote 18-0; CC)",
+      "date": "2025-11-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:21:29Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-11-25T08:23:24.336436Z"
   }
 }

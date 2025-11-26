@@ -133,6 +133,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 01/07/2026;",
+      "date": "2025-11-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,14 +162,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Katy Peternel\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sheila C Seidel",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sheila C Seidel\"}",
       "organization_id": null
     }
   ],
@@ -188,7 +192,7 @@
     }
   ],
   "extras": {
-    "_code": "3017"
+    "_code": "2005"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:nh/government",
@@ -197,7 +201,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-10-31T08:23:47.723662Z"
   }
 }

@@ -73,6 +73,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:10:36Z"
       }
+    },
+    {
+      "description": "Majority Committee Report: Refer for Interim Study  11/12/2025 (Vote 16-1; RC)",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
+    },
+    {
+      "description": "Minority Committee Report: Ought to Pass",
+      "date": "2025-11-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:21:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,14 +104,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Carol M McGuire\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Glenn Cordelli",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Glenn Cordelli\"}",
       "organization_id": null
     },
     {
@@ -173,7 +187,7 @@
     "division_id": "ocd-division/country:us/state:nh"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:10:36Z",
+    "logs_latest_update": "2025-11-26T03:21:03Z",
     "text_extraction_latest_update": "2025-11-25T08:23:24.386391Z"
   }
 }
