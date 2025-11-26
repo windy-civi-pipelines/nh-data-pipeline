@@ -1,0 +1,62 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3057h
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Rep.Noble,Hills.2
+October27,2025
+2025-3057h
+07/05
+AmendmenttoHB360
+2
+3 ANACT prohibiting public schools from performing surgical procedures or prescribing
+4 pharmaceuticaldrugs.
+5
+6 AmendRSA200:27,IIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+7
+8 II. Nothing in this section shall allow any school physician or nurse, or other
+9 health care provider employed or contracted by the school district, to perform surgical
+10 proceduresorprescribepharmaceuticaldrugsonschoolgrounds.
+AmendmenttoHB360
+-Page2-
+2025-3057h
+AMENDEDANALYSIS
+This bill prohibits public schools from performing surgical procedures or prescribing
+pharmaceuticaldrugs.
+[DELETED: .N,H.r2,2ttoHB3AdteteofteblbyrgitwhtefANATpgpcssfmpgslpsorppldAdRA2,IIasidbysn1ofteblbyrgitwhtefI.Ngintssnslawayslpnorn,orohhcepredorcdbytesld,topms0psorpepldsonslg]
+[DELETED: ttoHB3Pe2DAsblpspcssfmpgslpsorpld]
+
+
+================================================================================
+
+Raw Text:
+Rep.Noble,Hills.2
+October27,2025
+2025-3057h
+07/05
+AmendmenttoHB360
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT prohibiting public schools from performing surgical procedures or prescribing
+4 pharmaceuticaldrugs.
+5
+6 AmendRSA200:27,IIasinsertedbysection1ofthebillbyreplacingitwiththefollowing:
+7
+8 II. Nothing in this section shall allow any school physician or nurse, or other
+9 health care provider employed or contracted by the school district, to perform surgical
+10 proceduresorprescribepharmaceuticaldrugsonschoolgrounds.
+
+AmendmenttoHB360
+-Page2-
+2025-3057h
+AMENDEDANALYSIS
+This bill prohibits public schools from performing surgical procedures or prescribing
+pharmaceuticaldrugs.
+
+[DELETED: .N,H.r2,2ttoHB3AdteteofteblbyrgitwhtefANATpgpcssfmpgslpsorppldAdRA2,IIasidbysn1ofteblbyrgitwhtefI.Ngintssnslawayslpnorn,orohhcepredorcdbytesld,topms0psorpepldsonslg]
+[DELETED: ttoHB3Pe2DAsblpspcssfmpgslpsorpld]

@@ -1,0 +1,402 @@
+Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Official Title: 1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+Number of Sections: 1
+Source: versions - Amendment #2025-3086h
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Rep.Cordelli,Carr.7
+November5,2025
+2025-3086h
+09/08
+AmendmenttoHB121-FN
+2
+3 ANACT relativetoschooldistrictfinancialrequirementsanddistrictprobationprocesses.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 DepartmentofRevenueAdministration;MunicipalandPropertyDivision;Audit. AmendRSA
+8 21-J:19toreadasfollows:
+9 21-J:19 Audit.
+10 I. Any town, or school district, or village district or precinct, at the annual meeting or at a
+11 special meeting, or the selectmen of any town, or the governing body of any city, or the school board
+12 of any school district, or the commissioners of any village district or precinct, may hire a certified
+13 public accountant or a public accountant licensed by the state under RSA 309-A:8 to conduct [such
+14 an audit within] and complete such audit no later than one year after the close of the
+15 municipality's or school district's fiscal year in accordance with audit guidelines and applicable
+16 statutes.
+17 II. Everyaudit madebyindependent publicaccountantslicensed underRSA309-A:8, except
+18 examinations for special limited purposes, shall cover the accounts and records of all officials
+19 responsible for the receipt, custody, and disbursement of public funds. The audit reports shall
+20 includeasummaryoffindingsandrecommendationsregardingcompliancewithapplicablestatutory
+21 provisions of law, and the adequacy of accounting and business procedures pursued by the unit of
+22 government examined. Management letters, so-called, shall be included as part of the official audit
+23 findings and recommendations. Contracts executed between local units of government and counties
+24 and independent public accountants shall stipulate that all accounts and funds of the governmental
+25 unit are to be audited and a report of audit prepared in accordance with this section. A written or
+26 printed report of every completed audit shall be made to the proper local officials including a
+27 summary of the findings and recommendations of the auditors and a copy of such summary shall be
+28 published in the next annual report following the fiscal year in which the audit was completed. A
+29 copy of the completed audit shall be posted on the governing body's website and the
+30 findingsandrecommendationsreviewedatthenextpublicmeetingofthegoverningbody.
+31 2 Department of Revenue Administration; Municipal and Property Division; Audit on Motion of
+32 Commissioner. AmendRSA21-J:20toreadasfollows:
+AmendmenttoHB121-FN
+-Page2-
+1 21-J:20 Audit on Motion of Commissioner. The commissioner may cause [an] a financial or
+2 forensic audit to be made of the accounts of any city, town, school district, or village district or
+3 precinct, [as often as once in 2 years, or] whenever conditions appear [to him] to warrant such audit.
+4 The commissioner shall consult with the commissioner of the department of education if
+5 the conditions are related to a school district. The accounts of all county officers shall be
+6 audited annually by a certified public accountant, and a complete report of such audit shall be made
+7 availabletothepublic.
+8 3 Department of Revenue Administration; Municipal and Property Division; Failure to
+9 CompleteAudit. RSA21-J:20-aisrepealedandreenactedtoreadasfollows:
+10 21-J:20-a NotificationRequired;FailuretoCompleteAudit.
+11 I. Upon completion of an audit made pursuant to RSA 21-J:19 or RSA 21-J:20, each city,
+12 town, school district, village district, county, or precinct shall provide notification to the department
+13 of the completed audit and a copy of such audit shall be sent to the department. If a required audit
+14 isnotcompletedbytheduedateofsuchaudit,thecommissioner:
+15 (a) Maylevyafineofupto$500perdayforeverydayofnoncompliance,commencing60
+16 days after the department has provided written notice to the municipality, political subdivision,
+17 schooldistrict,orcountyoftheintenttolevysuchfine;or
+18 (b) Shall not consider the unreserved fund balance of the municipality, political
+19 subdivision, school district, or countywhensettingtaxrates if thedepartment questions the validity
+20 ofthefinancialdataduetothelackofanaudit.
+21 II. The municipality, political subdivision, or county may petition the commissioner for
+22 waiver of the fine in instances where the failure to complete a statutorily required audit by the due
+23 date of such audit was due to reasonable cause. If a waiver is granted, the municipality, political
+24 subdivision, or county shall within 90 days of receiving the waiver from the department provide the
+25 department an executed contract binding the municipality, political subdivision, or county, to
+26 conduct the required audit with an entity licensed and certified to do so, and within a time frame
+27 approved by the commissioner. Fines collected by the department pursuant to this section shall be
+28 deposited in the general fund. The department shall notify the commissioner of the department of
+29 education of the completion or failure to complete the audit by the due date of such audit by each
+30 school district or waiver granted by the commissioner. School districts failing to complete the audit
+31 shall be listed on the department of education website and the chair of the state board of education
+32 shallbenotified.
+33 III. The department shall adopt rules for the criteria to be used in the determination of
+34 grantingawaiveroffines,forissuingfines,andtheamountofthefines.
+35 4 Department of Revenue Administration; Municipal and Property Division; Publication of
+36 ReportofAudit. AmendRSA21-J:21toreadasfollows:
+AmendmenttoHB121-FN
+-Page3-
+1 1-J:21 Publicationof Report of Audit. Awrittenor printed report of everycompleted audit shall
+2 be made to the proper local officials including [a summary of] the findings and recommendations of
+3 theauditors and a copyof such [summary] shall be published in thenext annual report, a complete
+4 copy of the audit shall be posted on the governing body's website, and reviewed at the next
+5 public meeting of the governing body following the fiscal year in which the audit was completed.
+6 If, in the opinion of the governing board of a city or the selectmen, school board, county or village
+7 district commissioners, the whole report of audit should be published, the report may be published.
+8 If such [summary of] findings and recommendations [is] are not so published, the commissioner, at
+9 the expense of the county, city, town, or district affected thereby, may cause such [summary] to be
+10 separately published and, if available, distributed or published in a newspaper having a general
+11 circulationinsaidcounty,city,town,ordistrict.
+12 5 SchoolMoney;PenaltyforFailuretoFileaReport. AmendRSA198:4-f,Itoreadasfollows:
+13 I. A school district, city, chartered public school, or public academy shall file the reports due
+14 underRSA198:4-d[,III]nolaterthanSeptember1ofeachyear.
+15 6 New Paragraph; School Money; Penalty for Failure to File Report. Amend RSA 198:4-f by
+16 insertingafterparagraphIIIthefollowingnewparagraph:
+17 IV. A school district, city, chartered public school that is greater than 6 months late in
+18 complying with the audit requirements pursuant to RSA 21-J:19 and RSA 194-B:10 may have state
+19 aid withheld by the commissioner of the department of education for just cause. In determining just
+20 cause, the commissioner of the department education, or designee, shall reach out to the auditor
+21 performing the work and the auditee to determine if the auditee has caused unreasonable delays.
+22 The commissioner of the department of education shall notify the governing body 30 days prior to
+23 withholdingstateaid.
+24 7 New Section; The State School Organization; State Probation. Amend RSA 186 by inserting
+25 aftersection5thefollowingnewsection:
+26 186:5-a PublicSchoolDistrictProbation.
+27 I. Afterreasonablenoticehasbeenprovidedtoallaffectedparties,thestateboardmayplace
+28 apublicschooldistrictonprobationarystatusforupto6monthsunderthefollowingcircumstances:
+29 (a) The school commits a material violation of any of the conditions, standards, or
+30 administrativerules.
+31 (b) Theschoolfailstomeetgenerallyacceptedstandardsforfiscalmanagement.
+32 (c) Theschoolsignificantlyviolatesstateorfederallaw.
+33 (d) Theschoolbecomesinsolventorfinanciallyunstable.
+34 (e) The school fails to comply with the reporting requirements in accordance with RSA
+35 198:4-f.
+36 (f) Theschoolfailstocomplywithstateorfederalreportingrequirements.
+37 (g) Theschoolfailstoremedythecausesofitsprobation.
+AmendmenttoHB121-FN
+-Page4-
+1 II. Notice of the placement on probation shall be provided in writing to the district’s school
+2 board members, superintendent or staff authorized to perform superintendent services, posted on
+3 the district and department’s website, the governor, commissioner of the department revenue
+4 administration, senate president, speaker of the house, and the chairs of the senate and house
+5 educationfundingandpolicycommittees.
+6 III. The department and state board shall consult with the district school board on the
+7 developmentandimplementationofaremedialplantoaddressspecificareasofconcern.
+8 IV. The state board may place a public school district on probationary status for up to 6
+9 monthstoallowtheimplementationofaremedialplan.
+10 V. After the probationary period, if the remedial plan is unsuccessful in addressing the
+11 concerns, the department shall appoint or hire an administrator to oversee the corrections identified
+12 pursuant to RSA 186:5-a, I. The department may draw a warrant for payment of the administrator.
+13 Thestateboardmayauthorizetheadministrator,foraperiodofuptooneyear,to:
+14 (1) Override any decisions of the school district's board or the school district
+15 superintendent, or both, concerning the management and operation of the school district, and
+16 initiateandmakedecisionsconcerningthemanagementandoperationoftheschooldistrict.
+17 (2) Attend any and all meetings of the school district's board and administrative
+18 staffandprovideupdatesoncorrectiveactionsbeingtaken.
+19 (3) Establish and implement a strategy designed to promote family and community
+20 involvement.
+21 (4) Supervise the day-to-day activities of the school district's staff, including
+22 reassigningthedutiesandresponsibilitiesofpersonnelinamannerthat,inthedeterminationofthe
+23 administrator,bestsuitstheneedsoftheschooldistrict.
+24 (5) Place on extended leave, suspend, or terminate for cause the school district's
+25 superintendent or business manager, or both. The administrator is not authorized to provide a
+26 severanceorbuyoutpackagetotheschooldistrict'ssuperintendentorbusinessmanageriftheschool
+27 district is placed into probation by the state board of education. A person terminated pursuant to
+28 this paragraph may appeal the administrator's decision to the state board of education if an appeal
+29 isfiledwiththestateboardwithin30daysofreceivingnoticeofthetermination.
+30 (6) Authorize pupils to transfer from schools operated by the school district to
+31 schoolsoperatedbyanotherschooldistrictthatisnotcurrentlyonprobation,pursuanttoRSA193:3,
+32 I(g).
+33 (7) Appoint a staff person to perform superintendent services pursuant to RSA 194-
+34 C:5,II(a).
+35 (8) Appointachieffiscalofficerwhoshallpossessthepowersanddutiesoftheschool
+36 district's business manager and any other duties regarding budgeting, accounting, and other
+37 financialmattersthatareassignedtotheschooldistrictbylaw.
+AmendmenttoHB121-FN
+-Page5-
+1 (9) Appoint a competent independent public accountant to audit the accounts of the
+2 schooldistrictifnotpreviouslydonebythedepartmentofrevenueadministration.
+3 (10) Reorganize the school district's financial accounts, management, and budgetary
+4 systemstoimprovefinancialresponsibilityandreducefinancialinefficiencywithinthedistrict.
+5 (11) Establish school district fiscal guidelines and a system of internal controls,
+6 including internal administrative controls and internal accounting controls, with provisions for
+7 internalaudits.
+8 (12) Providemonthlyupdatestothedepartmentandstateboard.
+9 (13) Once the administrator's corrective actions have been completed, they shall
+10 provide a verbal and written report to the department and state board outlining the actions taken,
+11 neededstepsforward,andmonitoringrecommendations.
+12 8 RegularSchoolDistricts;Auditors. RSA671:5isrepealedandreenactedtoreadasfollows:
+13 671:5 Auditors. SchooldistrictsshallhireindependentauditorspursuanttoRSA21-J:19.
+14 9 Repeal. Thefollowingarerepealed:
+15 I. RSA 193-H:5, relative to power of the department of education to take control of daily
+16 operationsoflocalschools.
+17 II. RSA198:4-d,VI,relativetoschoolmoney;reportsrequired.
+18 10 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+AmendmenttoHB121-FN
+-Page6-
+2025-3086h
+AMENDEDANALYSIS
+Thisbill:
+I. Revisestheauditprocessfortowns,schooldistricts,orvillagedistricts,includingpenaltiesfor
+failurestocomply.
+II. Repealstheelectionofschooldistrictauditors.
+III. Allows the state board of education to place a public school district on probationary status
+andtoinstitutearemedialplan.
+IV. Requires the department of education to hire an administrator to oversee a public school
+districtthatremainsonprobationarystatusandprovidesdutiesandpowerstothatrole.
+[DELETED: .C,C.r5,2ttoHB1AdteteofteblbyrgitwhtefANATretosldtflrsaddtpnpAdteblbyrgalarteegcewhtef1DtofReA;MladPyD;A.AdR29tordasf29A0I.Ayt,orsld,orvedtorp,attealmgorat1slm,ortesnofayt,orteggbyofayc,orteslb2ofaysld,ortecsofayvedtorp,myheac3pcatorapcatldbyteseurRA38toct[4anatw]adceshatnolrtnoeyrarteceoft5msorsldsflyrinaewhatgsada6s7I.EyatmebyitpcasldurRA3,e8esfrslldp,slcrteasadrsofalo9refrter,c,addtofpcf.Teatrss0ieasyoffsadrsrgcewhaes1psofl,adteayofagadbspspdbyteuto2gte.Mtl,s,slbeidasptofteola3fsadr.Csedbnllusofgtadc4aditpcasslsettalasadfsofteg5utaetobeadadartofatpdinaewhtss.Awno6pdrtofeycdatslbemetoteprllosig7syoftefsadrsofteasadacyofshsyslb8pdintentalrtfgteflyrinwhteatwsc.9cyoftecdatslbepdonteggbsweadt0fsadrsrdattentpcmgofteggb12DtofReA;MladPyD;AtonMno2C.AdRA20tordasf]
+[DELETED: ttoHB1Pe220AtonMnofC.Tecrmyce[]aflofcattobemeofteasofayc,t,sld,orvedtop,[sonasoein2y,o]wrcsar[oh]towtshaTecrslctwhtecroftedtofenitecsaerdtoasld.Teasofalcyosslbadaybyacdpca,adacertofshatslbemaetotep3DtofReA;MladPyD;FetCeA.RA2aisrdadrdtordasf02aNnR;FetoCeA1I.UncnofanatmepttoRA29orRA2,ehc2t,sld,ved,c,orptslpenntoted3oftecdatadacyofshatslbesttoted.Ifarda4isntcdbytededeofsha,tec5()Mylyafeofupto$0prdyfreydyofn,cg66dsartedthspdwnnetotem,pls7sld,orcyofteittolyshf;o8()Slntcrteudfdbeoftem,p9s,sld,orcywnsgtxrsiftedtqstev0oftefldadetotelkofana1I.Tem,pls,orcymypntecrf2wroftefeiniswetefetoceasyrdatbyted3deofshatwsdetorec.Ifawrisg,tem,p4s,orcyslwn90dsofrgtewrfmtedtpet5dtanedctbgtem,pls,orc,t6ctterdatwhaneyldadcdtodos,adwnatef7adbytec.Fscdbytedtpttotssnslb8ddinteglf.Tedtslnytecroftedto9enoftecnorfetoceteatbytededeofshatbye0sldtorwrgdbytec.Sldsfgtocetea1slbeldontedtofenweadtecroftesebdofe2slben3I.Tedtslatrsfrtecatobeudintedno4ggawroff,frigf,adteatoftef54DtofReA;MladPyD;Pno6RtofA.AdRA21tordasf]
+[DELETED: ttoHB1Pe311PnofRtofA.Awnorpdrtofeycdatsbemetoteprllosig[asyo]tefsadrsoteasadacyofsh[]slbepdintentalr,accyofteatslbepdonteggbsw,adrdattenpcmgofteggbyfgteflyrinwhteatwscI,inteonofteggbdofacyortes,slb,cyorvdtc,tewertofatsdbep,tertmybepIfsh[yo]fsadrs[]aentsop,tec,ateeeoftec,c,t,ordtadt,mycesh[]tob0sypda,ifa,ddorpdinanrhgag1cninsdc,c,t,ord25SlM;PyfrFetoFeaR.AdRA1,Itordasf3I.Asld,c,cdpcs,orpcayslfetersd4urRA1,I]nolrtnSr1ofehy56NwP;SlM;PyfrFetoFeR.AdRA1fb6igarphIItefgnwp7I.Asld,c,cdpcslttisgrtn6mslei8cgwhteatrspttoRA29adRA10myhes9adwdbytecroftedtofenfrjtc.Indgj0c,tecroftedte,ord,slrhottotea1pgtewkadteaetodeifteaehscdued2Tecroftedtofenslnyteggby30dsprt3wgsea47NwS;TeSeSlO;SeP.AdRA16byi5arsn5tefgnws61aPcSlDtP7I.Arrenehsbnpdtoaladp,tesebdmyp8apcsldtonpyssfrupto6msurtefgc9()Teslcsamlvnofayoftec,s,o0aer1()Teslfstomtgyadssfrflm2()Teslsyvsseorfll3()Teslbsitorfyu4()TeslfstocywhtergrsinaewhR516()Teslfstocywhseorflrgr7()Teslfstorytecsofisp]
+[DELETED: ttoHB1Pe4I.Neofteptonpnslbepdinwgtotedssbdm,storsfadtopmsts,pdotedtaddsw,teg,croftedtra,sep,srofteh,adtecsofteseadhenfgadpycI.TedtadsebdslctwhtedtslbdontdtadinofarlpntoasscasofcI.Tesebdmypeapcsldtonpyssfruptomstoawteinofarlp0V.Artepyp,ifterlpnisulinagt1c,tedtslatorheanartooetecsi2pttoRA1,I.Tedtmydwawtfrptoftea3Tesebdmyaetea,frapdofuptooey,t4()Oeaydsoftesldsbdortesld5s,orb,cgtemtadonoftesld,a6ieadmedscgtemtadonoftesld7()Adayadalmsoftesldsbdada8sfadpeusonceasbgt9()Ehaditasyddtopefyadc0i1()Setedyasoftesldss,i2rgtedsadrsofplinamrt,intednoft3a,btsstensoftesld4()Peonedl,s,ortefrcetesld5storbsm,orb.Tearisntadtope6seorbtpetotesldsstorbsmriftes7dtispdiopnbytesebdofe.Apntdptt8tsphmyalteasdntotesebdofenifana9isfdwhtesebdwn30dsofrgneoftet0()Aepstotrfmssodbytesldtt1ssodbyarsldtttisntcyonp,pttoRA12I3()AtasfpntopmstsspttoRA14C,I5()Atacfflorwoslpstepsaddsoftes6dsbsmradayordsrgb,a,ado7flmsttaeadtotesldtbyl]
+[DELETED: ttoHB1Pe5()Atactitpcattoatteasoftsldtifntpydebytedtofrea()Retesldsfla,m,adbsstoieflryadrefliywnted()Ehsldtflgsadasmofilcigilaecsadilagc,whpsfila()Pemyustotedtadseb()Oeteasceashebnc,tys0peavladwnrttotedtadsebdogteast1ndssf,admgr28RrSlD;A.RA65isrdadrdtordasf365A.SldsslheitaspttoRA249R.Tefgaer5I.RA1,retoproftedtofentoteclofd6osoflls7I.RA1,V,retoslm;rsr810EeD.Tsatslteetunisp]
+[DELETED: ttoHB1Pe6DAsb.Rsteatpsfrt,sld,orved,igpsfstoc.Rsteenofsldta.Astesebdofentopeapcsldtonpysdtoiearlp.Rstedtofentoheanartooeapcstttrsonpyssadpsdsadpstottr]
+
+
+================================================================================
+
+Raw Text:
+Rep.Cordelli,Carr.7
+November5,2025
+2025-3086h
+09/08
+AmendmenttoHB121-FN
+1 Amendthetitleofthebillbyreplacingitwiththefollowing:
+2
+3 ANACT relativetoschooldistrictfinancialrequirementsanddistrictprobationprocesses.
+4
+5 Amendthebillbyreplacingallaftertheenactingclausewiththefollowing:
+6
+7 1 DepartmentofRevenueAdministration;MunicipalandPropertyDivision;Audit. AmendRSA
+8 21-J:19toreadasfollows:
+9 21-J:19 Audit.
+10 I. Any town, or school district, or village district or precinct, at the annual meeting or at a
+11 special meeting, or the selectmen of any town, or the governing body of any city, or the school board
+12 of any school district, or the commissioners of any village district or precinct, may hire a certified
+13 public accountant or a public accountant licensed by the state under RSA 309-A:8 to conduct [such
+14 an audit within] and complete such audit no later than one year after the close of the
+15 municipality's or school district's fiscal year in accordance with audit guidelines and applicable
+16 statutes.
+17 II. Everyaudit madebyindependent publicaccountantslicensed underRSA309-A:8, except
+18 examinations for special limited purposes, shall cover the accounts and records of all officials
+19 responsible for the receipt, custody, and disbursement of public funds. The audit reports shall
+20 includeasummaryoffindingsandrecommendationsregardingcompliancewithapplicablestatutory
+21 provisions of law, and the adequacy of accounting and business procedures pursued by the unit of
+22 government examined. Management letters, so-called, shall be included as part of the official audit
+23 findings and recommendations. Contracts executed between local units of government and counties
+24 and independent public accountants shall stipulate that all accounts and funds of the governmental
+25 unit are to be audited and a report of audit prepared in accordance with this section. A written or
+26 printed report of every completed audit shall be made to the proper local officials including a
+27 summary of the findings and recommendations of the auditors and a copy of such summary shall be
+28 published in the next annual report following the fiscal year in which the audit was completed. A
+29 copy of the completed audit shall be posted on the governing body's website and the
+30 findingsandrecommendationsreviewedatthenextpublicmeetingofthegoverningbody.
+31 2 Department of Revenue Administration; Municipal and Property Division; Audit on Motion of
+32 Commissioner. AmendRSA21-J:20toreadasfollows:
+
+AmendmenttoHB121-FN
+-Page2-
+1 21-J:20 Audit on Motion of Commissioner. The commissioner may cause [an] a financial or
+2 forensic audit to be made of the accounts of any city, town, school district, or village district or
+3 precinct, [as often as once in 2 years, or] whenever conditions appear [to him] to warrant such audit.
+4 The commissioner shall consult with the commissioner of the department of education if
+5 the conditions are related to a school district. The accounts of all county officers shall be
+6 audited annually by a certified public accountant, and a complete report of such audit shall be made
+7 availabletothepublic.
+8 3 Department of Revenue Administration; Municipal and Property Division; Failure to
+9 CompleteAudit. RSA21-J:20-aisrepealedandreenactedtoreadasfollows:
+10 21-J:20-a NotificationRequired;FailuretoCompleteAudit.
+11 I. Upon completion of an audit made pursuant to RSA 21-J:19 or RSA 21-J:20, each city,
+12 town, school district, village district, county, or precinct shall provide notification to the department
+13 of the completed audit and a copy of such audit shall be sent to the department. If a required audit
+14 isnotcompletedbytheduedateofsuchaudit,thecommissioner:
+15 (a) Maylevyafineofupto$500perdayforeverydayofnoncompliance,commencing60
+16 days after the department has provided written notice to the municipality, political subdivision,
+17 schooldistrict,orcountyoftheintenttolevysuchfine;or
+18 (b) Shall not consider the unreserved fund balance of the municipality, political
+19 subdivision, school district, or countywhensettingtaxrates if thedepartment questions the validity
+20 ofthefinancialdataduetothelackofanaudit.
+21 II. The municipality, political subdivision, or county may petition the commissioner for
+22 waiver of the fine in instances where the failure to complete a statutorily required audit by the due
+23 date of such audit was due to reasonable cause. If a waiver is granted, the municipality, political
+24 subdivision, or county shall within 90 days of receiving the waiver from the department provide the
+25 department an executed contract binding the municipality, political subdivision, or county, to
+26 conduct the required audit with an entity licensed and certified to do so, and within a time frame
+27 approved by the commissioner. Fines collected by the department pursuant to this section shall be
+28 deposited in the general fund. The department shall notify the commissioner of the department of
+29 education of the completion or failure to complete the audit by the due date of such audit by each
+30 school district or waiver granted by the commissioner. School districts failing to complete the audit
+31 shall be listed on the department of education website and the chair of the state board of education
+32 shallbenotified.
+33 III. The department shall adopt rules for the criteria to be used in the determination of
+34 grantingawaiveroffines,forissuingfines,andtheamountofthefines.
+35 4 Department of Revenue Administration; Municipal and Property Division; Publication of
+36 ReportofAudit. AmendRSA21-J:21toreadasfollows:
+
+AmendmenttoHB121-FN
+-Page3-
+1 1-J:21 Publicationof Report of Audit. Awrittenor printed report of everycompleted audit shall
+2 be made to the proper local officials including [a summary of] the findings and recommendations of
+3 theauditors and a copyof such [summary] shall be published in thenext annual report, a complete
+4 copy of the audit shall be posted on the governing body's website, and reviewed at the next
+5 public meeting of the governing body following the fiscal year in which the audit was completed.
+6 If, in the opinion of the governing board of a city or the selectmen, school board, county or village
+7 district commissioners, the whole report of audit should be published, the report may be published.
+8 If such [summary of] findings and recommendations [is] are not so published, the commissioner, at
+9 the expense of the county, city, town, or district affected thereby, may cause such [summary] to be
+10 separately published and, if available, distributed or published in a newspaper having a general
+11 circulationinsaidcounty,city,town,ordistrict.
+12 5 SchoolMoney;PenaltyforFailuretoFileaReport. AmendRSA198:4-f,Itoreadasfollows:
+13 I. A school district, city, chartered public school, or public academy shall file the reports due
+14 underRSA198:4-d[,III]nolaterthanSeptember1ofeachyear.
+15 6 New Paragraph; School Money; Penalty for Failure to File Report. Amend RSA 198:4-f by
+16 insertingafterparagraphIIIthefollowingnewparagraph:
+17 IV. A school district, city, chartered public school that is greater than 6 months late in
+18 complying with the audit requirements pursuant to RSA 21-J:19 and RSA 194-B:10 may have state
+19 aid withheld by the commissioner of the department of education for just cause. In determining just
+20 cause, the commissioner of the department education, or designee, shall reach out to the auditor
+21 performing the work and the auditee to determine if the auditee has caused unreasonable delays.
+22 The commissioner of the department of education shall notify the governing body 30 days prior to
+23 withholdingstateaid.
+24 7 New Section; The State School Organization; State Probation. Amend RSA 186 by inserting
+25 aftersection5thefollowingnewsection:
+26 186:5-a PublicSchoolDistrictProbation.
+27 I. Afterreasonablenoticehasbeenprovidedtoallaffectedparties,thestateboardmayplace
+28 apublicschooldistrictonprobationarystatusforupto6monthsunderthefollowingcircumstances:
+29 (a) The school commits a material violation of any of the conditions, standards, or
+30 administrativerules.
+31 (b) Theschoolfailstomeetgenerallyacceptedstandardsforfiscalmanagement.
+32 (c) Theschoolsignificantlyviolatesstateorfederallaw.
+33 (d) Theschoolbecomesinsolventorfinanciallyunstable.
+34 (e) The school fails to comply with the reporting requirements in accordance with RSA
+35 198:4-f.
+36 (f) Theschoolfailstocomplywithstateorfederalreportingrequirements.
+37 (g) Theschoolfailstoremedythecausesofitsprobation.
+
+AmendmenttoHB121-FN
+-Page4-
+1 II. Notice of the placement on probation shall be provided in writing to the district’s school
+2 board members, superintendent or staff authorized to perform superintendent services, posted on
+3 the district and department’s website, the governor, commissioner of the department revenue
+4 administration, senate president, speaker of the house, and the chairs of the senate and house
+5 educationfundingandpolicycommittees.
+6 III. The department and state board shall consult with the district school board on the
+7 developmentandimplementationofaremedialplantoaddressspecificareasofconcern.
+8 IV. The state board may place a public school district on probationary status for up to 6
+9 monthstoallowtheimplementationofaremedialplan.
+10 V. After the probationary period, if the remedial plan is unsuccessful in addressing the
+11 concerns, the department shall appoint or hire an administrator to oversee the corrections identified
+12 pursuant to RSA 186:5-a, I. The department may draw a warrant for payment of the administrator.
+13 Thestateboardmayauthorizetheadministrator,foraperiodofuptooneyear,to:
+14 (1) Override any decisions of the school district's board or the school district
+15 superintendent, or both, concerning the management and operation of the school district, and
+16 initiateandmakedecisionsconcerningthemanagementandoperationoftheschooldistrict.
+17 (2) Attend any and all meetings of the school district's board and administrative
+18 staffandprovideupdatesoncorrectiveactionsbeingtaken.
+19 (3) Establish and implement a strategy designed to promote family and community
+20 involvement.
+21 (4) Supervise the day-to-day activities of the school district's staff, including
+22 reassigningthedutiesandresponsibilitiesofpersonnelinamannerthat,inthedeterminationofthe
+23 administrator,bestsuitstheneedsoftheschooldistrict.
+24 (5) Place on extended leave, suspend, or terminate for cause the school district's
+25 superintendent or business manager, or both. The administrator is not authorized to provide a
+26 severanceorbuyoutpackagetotheschooldistrict'ssuperintendentorbusinessmanageriftheschool
+27 district is placed into probation by the state board of education. A person terminated pursuant to
+28 this paragraph may appeal the administrator's decision to the state board of education if an appeal
+29 isfiledwiththestateboardwithin30daysofreceivingnoticeofthetermination.
+30 (6) Authorize pupils to transfer from schools operated by the school district to
+31 schoolsoperatedbyanotherschooldistrictthatisnotcurrentlyonprobation,pursuanttoRSA193:3,
+32 I(g).
+33 (7) Appoint a staff person to perform superintendent services pursuant to RSA 194-
+34 C:5,II(a).
+35 (8) Appointachieffiscalofficerwhoshallpossessthepowersanddutiesoftheschool
+36 district's business manager and any other duties regarding budgeting, accounting, and other
+37 financialmattersthatareassignedtotheschooldistrictbylaw.
+
+AmendmenttoHB121-FN
+-Page5-
+1 (9) Appoint a competent independent public accountant to audit the accounts of the
+2 schooldistrictifnotpreviouslydonebythedepartmentofrevenueadministration.
+3 (10) Reorganize the school district's financial accounts, management, and budgetary
+4 systemstoimprovefinancialresponsibilityandreducefinancialinefficiencywithinthedistrict.
+5 (11) Establish school district fiscal guidelines and a system of internal controls,
+6 including internal administrative controls and internal accounting controls, with provisions for
+7 internalaudits.
+8 (12) Providemonthlyupdatestothedepartmentandstateboard.
+9 (13) Once the administrator's corrective actions have been completed, they shall
+10 provide a verbal and written report to the department and state board outlining the actions taken,
+11 neededstepsforward,andmonitoringrecommendations.
+12 8 RegularSchoolDistricts;Auditors. RSA671:5isrepealedandreenactedtoreadasfollows:
+13 671:5 Auditors. SchooldistrictsshallhireindependentauditorspursuanttoRSA21-J:19.
+14 9 Repeal. Thefollowingarerepealed:
+15 I. RSA 193-H:5, relative to power of the department of education to take control of daily
+16 operationsoflocalschools.
+17 II. RSA198:4-d,VI,relativetoschoolmoney;reportsrequired.
+18 10 EffectiveDate. Thisactshalltakeeffectuponitspassage.
+
+AmendmenttoHB121-FN
+-Page6-
+2025-3086h
+AMENDEDANALYSIS
+Thisbill:
+I. Revisestheauditprocessfortowns,schooldistricts,orvillagedistricts,includingpenaltiesfor
+failurestocomply.
+II. Repealstheelectionofschooldistrictauditors.
+III. Allows the state board of education to place a public school district on probationary status
+andtoinstitutearemedialplan.
+IV. Requires the department of education to hire an administrator to oversee a public school
+districtthatremainsonprobationarystatusandprovidesdutiesandpowerstothatrole.
+
+[DELETED: .C,C.r5,2ttoHB1AdteteofteblbyrgitwhtefANATretosldtflrsaddtpnpAdteblbyrgalarteegcewhtef1DtofReA;MladPyD;A.AdR29tordasf29A0I.Ayt,orsld,orvedtorp,attealmgorat1slm,ortesnofayt,orteggbyofayc,orteslb2ofaysld,ortecsofayvedtorp,myheac3pcatorapcatldbyteseurRA38toct[4anatw]adceshatnolrtnoeyrarteceoft5msorsldsflyrinaewhatgsada6s7I.EyatmebyitpcasldurRA3,e8esfrslldp,slcrteasadrsofalo9refrter,c,addtofpcf.Teatrss0ieasyoffsadrsrgcewhaes1psofl,adteayofagadbspspdbyteuto2gte.Mtl,s,slbeidasptofteola3fsadr.Csedbnllusofgtadc4aditpcasslsettalasadfsofteg5utaetobeadadartofatpdinaewhtss.Awno6pdrtofeycdatslbemetoteprllosig7syoftefsadrsofteasadacyofshsyslb8pdintentalrtfgteflyrinwhteatwsc.9cyoftecdatslbepdonteggbsweadt0fsadrsrdattentpcmgofteggb12DtofReA;MladPyD;AtonMno2C.AdRA20tordasf]
+[DELETED: ttoHB1Pe220AtonMnofC.Tecrmyce[]aflofcattobemeofteasofayc,t,sld,orvedtop,[sonasoein2y,o]wrcsar[oh]towtshaTecrslctwhtecroftedtofenitecsaerdtoasld.Teasofalcyosslbadaybyacdpca,adacertofshatslbemaetotep3DtofReA;MladPyD;FetCeA.RA2aisrdadrdtordasf02aNnR;FetoCeA1I.UncnofanatmepttoRA29orRA2,ehc2t,sld,ved,c,orptslpenntoted3oftecdatadacyofshatslbesttoted.Ifarda4isntcdbytededeofsha,tec5()Mylyafeofupto$0prdyfreydyofn,cg66dsartedthspdwnnetotem,pls7sld,orcyofteittolyshf;o8()Slntcrteudfdbeoftem,p9s,sld,orcywnsgtxrsiftedtqstev0oftefldadetotelkofana1I.Tem,pls,orcymypntecrf2wroftefeiniswetefetoceasyrdatbyted3deofshatwsdetorec.Ifawrisg,tem,p4s,orcyslwn90dsofrgtewrfmtedtpet5dtanedctbgtem,pls,orc,t6ctterdatwhaneyldadcdtodos,adwnatef7adbytec.Fscdbytedtpttotssnslb8ddinteglf.Tedtslnytecroftedto9enoftecnorfetoceteatbytededeofshatbye0sldtorwrgdbytec.Sldsfgtocetea1slbeldontedtofenweadtecroftesebdofe2slben3I.Tedtslatrsfrtecatobeudintedno4ggawroff,frigf,adteatoftef54DtofReA;MladPyD;Pno6RtofA.AdRA21tordasf]
+[DELETED: ttoHB1Pe311PnofRtofA.Awnorpdrtofeycdatsbemetoteprllosig[asyo]tefsadrsoteasadacyofsh[]slbepdintentalr,accyofteatslbepdonteggbsw,adrdattenpcmgofteggbyfgteflyrinwhteatwscI,inteonofteggbdofacyortes,slb,cyorvdtc,tewertofatsdbep,tertmybepIfsh[yo]fsadrs[]aentsop,tec,ateeeoftec,c,t,ordtadt,mycesh[]tob0sypda,ifa,ddorpdinanrhgag1cninsdc,c,t,ord25SlM;PyfrFetoFeaR.AdRA1,Itordasf3I.Asld,c,cdpcs,orpcayslfetersd4urRA1,I]nolrtnSr1ofehy56NwP;SlM;PyfrFetoFeR.AdRA1fb6igarphIItefgnwp7I.Asld,c,cdpcslttisgrtn6mslei8cgwhteatrspttoRA29adRA10myhes9adwdbytecroftedtofenfrjtc.Indgj0c,tecroftedte,ord,slrhottotea1pgtewkadteaetodeifteaehscdued2Tecroftedtofenslnyteggby30dsprt3wgsea47NwS;TeSeSlO;SeP.AdRA16byi5arsn5tefgnws61aPcSlDtP7I.Arrenehsbnpdtoaladp,tesebdmyp8apcsldtonpyssfrupto6msurtefgc9()Teslcsamlvnofayoftec,s,o0aer1()Teslfstomtgyadssfrflm2()Teslsyvsseorfll3()Teslbsitorfyu4()TeslfstocywhtergrsinaewhR516()Teslfstocywhseorflrgr7()Teslfstorytecsofisp]
+[DELETED: ttoHB1Pe4I.Neofteptonpnslbepdinwgtotedssbdm,storsfadtopmsts,pdotedtaddsw,teg,croftedtra,sep,srofteh,adtecsofteseadhenfgadpycI.TedtadsebdslctwhtedtslbdontdtadinofarlpntoasscasofcI.Tesebdmypeapcsldtonpyssfruptomstoawteinofarlp0V.Artepyp,ifterlpnisulinagt1c,tedtslatorheanartooetecsi2pttoRA1,I.Tedtmydwawtfrptoftea3Tesebdmyaetea,frapdofuptooey,t4()Oeaydsoftesldsbdortesld5s,orb,cgtemtadonoftesld,a6ieadmedscgtemtadonoftesld7()Adayadalmsoftesldsbdada8sfadpeusonceasbgt9()Ehaditasyddtopefyadc0i1()Setedyasoftesldss,i2rgtedsadrsofplinamrt,intednoft3a,btsstensoftesld4()Peonedl,s,ortefrcetesld5storbsm,orb.Tearisntadtope6seorbtpetotesldsstorbsmriftes7dtispdiopnbytesebdofe.Apntdptt8tsphmyalteasdntotesebdofenifana9isfdwhtesebdwn30dsofrgneoftet0()Aepstotrfmssodbytesldtt1ssodbyarsldtttisntcyonp,pttoRA12I3()AtasfpntopmstsspttoRA14C,I5()Atacfflorwoslpstepsaddsoftes6dsbsmradayordsrgb,a,ado7flmsttaeadtotesldtbyl]
+[DELETED: ttoHB1Pe5()Atactitpcattoatteasoftsldtifntpydebytedtofrea()Retesldsfla,m,adbsstoieflryadrefliywnted()Ehsldtflgsadasmofilcigilaecsadilagc,whpsfila()Pemyustotedtadseb()Oeteasceashebnc,tys0peavladwnrttotedtadsebdogteast1ndssf,admgr28RrSlD;A.RA65isrdadrdtordasf365A.SldsslheitaspttoRA249R.Tefgaer5I.RA1,retoproftedtofentoteclofd6osoflls7I.RA1,V,retoslm;rsr810EeD.Tsatslteetunisp]
+[DELETED: ttoHB1Pe6DAsb.Rsteatpsfrt,sld,orved,igpsfstoc.Rsteenofsldta.Astesebdofentopeapcsldtonpysdtoiearlp.Rstedtofentoheanartooeapcstttrsonpyssadpsdsadpstottr]
